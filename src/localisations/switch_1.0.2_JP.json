@@ -1,0 +1,2493 @@
+{
+  "Author_#Title_EN": {
+    "strings": [
+      "Author ja_JP"
+    ]
+  },
+  "Author_#Title_ja_JP": {
+    "strings": [
+      "Author ja_JP"
+    ]
+  },
+  "Author_100\u4e07\u56de\u751f\u304d\u305f\u306d\u3053": {
+    "strings": [
+      "\u4f50\u91ce\u6d0b\u5b50"
+    ]
+  },
+  "Author_14\u6b73\u304b\u3089\u306e\u54f2\u5b66": {
+    "strings": [
+      "\u6c60\u7530\u6676\u5b50"
+    ]
+  },
+  "Author_AI\u306e\u30b5\u30d0\u30a4\u30d0\u30eb_(1)": {
+    "strings": [
+      "\u30b4\u30e0\u30c9\u30ea\uff43\uff4f\uff0e\u97d3\u8ce2\u6771"
+    ]
+  },
+  "Author_A_Clash_of_Kings": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fbR\u30fbR\u30fb\u30de\u30fc\u30c6\u30a3\u30f3"
+    ]
+  },
+  "Author_A_Collection_of_Poems": {
+    "strings": [
+      "\u8056\u30d6\u30c3\u30af\u30b9\u30c8\u30f3"
+    ]
+  },
+  "Author_A_Dance_With_Dragons": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fbR\u30fbR\u30fb\u30de\u30fc\u30c6\u30a3\u30f3"
+    ]
+  },
+  "Author_A_Feast_for_Crows": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fbR\u30fbR\u30fb\u30de\u30fc\u30c6\u30a3\u30f3"
+    ]
+  },
+  "Author_A_Game_of_Thrones": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fbR\u30fbR\u30fb\u30de\u30fc\u30c6\u30a3\u30f3"
+    ]
+  },
+  "Author_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_A_Senseless_Power": {
+    "strings": [
+      "St. Bookston\u8056\u30d6\u30c3\u30af\u30b9\u30c8\u30f3"
+    ]
+  },
+  "Author_A_Storm_of_Swords": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fbR\u30fbR\u30fb\u30de\u30fc\u30c6\u30a3\u30f3"
+    ]
+  },
+  "Author_A_Study_in_Scarlet": {
+    "strings": [
+      "\u30a2\u30fc\u30b5\u30fc\u30fb\u30b3\u30ca\u30f3\u30fb\u30c9\u30a4\u30eb"
+    ]
+  },
+  "Author_After_the_Funeral": {
+    "strings": [
+      "\u30a2\u30ac\u30b5\u30fb\u30af\u30ea\u30b9\u30c6\u30a3"
+    ]
+  },
+  "Author_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "\u30eb\u30a4\u30b9\u30fb\u30ad\u30e3\u30ed\u30eb"
+    ]
+  },
+  "Author_American_Psycho": {
+    "strings": [
+      "\u30d6\u30ec\u30c3\u30c8\u30fb\u30a4\u30fc\u30b9\u30c8\u30f3\u30fb\u30a8\u30ea\u30b9"
+    ]
+  },
+  "Author_Angels_&_Demons": {
+    "strings": [
+      "\u30c0\u30f3\u30fb\u30d6\u30e9\u30a6\u30f3"
+    ]
+  },
+  "Author_Animal_Farm": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fb\u30aa\u30fc\u30a6\u30a7\u30eb"
+    ]
+  },
+  "Author_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "\u30b8\u30e5\u30fc\u30eb\u30fb\u30f4\u30a7\u30eb\u30cc"
+    ]
+  },
+  "Author_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "\u8aeb\u5c71\u5275"
+    ]
+  },
+  "Author_A\u5b50\u3055\u3093\u306e\u604b\u4eba_\u7b2c1\u5dfb": {
+    "strings": [
+      "\u8fd1\u85e4\u8061\u4e43"
+    ]
+  },
+  "Author_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "\u5ddd\u53e3\u4fca\u548c"
+    ]
+  },
+  "Author_Beloved": {
+    "strings": [
+      "\u30c8\u30cb\u30fb\u30e2\u30ea\u30b9\u30f3"
+    ]
+  },
+  "Author_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "\u30a2\u30f3\u30c9\u30ec\u30a4\u30fb\u30b5\u30d7\u30b3\u30d5\u30b9\u30ad"
+    ]
+  },
+  "Author_By_Train_Through_Spain": {
+    "strings": [
+      "\u30a2\u30e1\u30ea\u30b4\u30fb\u30de\u30eb\u30b1\u30fc\u30b8"
+    ]
+  },
+  "Author_Call_Me_by_Your_Name": {
+    "strings": [
+      "\u30a2\u30f3\u30c9\u30ec\u30fb\u30a2\u30b7\u30de\u30f3"
+    ]
+  },
+  "Author_Carrie": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "\u30ed\u30a2\u30eb\u30c9\u30fb\u30c0\u30fc\u30eb"
+    ]
+  },
+  "Author_Crime_and_Punishment": {
+    "strings": [
+      "\u30d5\u30e7\u30fc\u30c9\u30eb\u30fb\u30c9\u30b9\u30c8\u30a8\u30d5\u30b9\u30ad\u30fc"
+    ]
+  },
+  "Author_Death_Note;Volume_1": {
+    "strings": [
+      "\u5927\u5834\u3064\u3050\u307f"
+    ]
+  },
+  "Author_Death_on_the_Nile": {
+    "strings": [
+      "\u30a2\u30ac\u30b5\u30fb\u30af\u30ea\u30b9\u30c6\u30a3"
+    ]
+  },
+  "Author_Dinosaurs_and_other_Prehistoric_Life": {
+    "strings": [
+      "\u30a2\u30cc\u30b9\u30e4\u30fb\u30c1\u30f3\u30b5\u30df\u30fc\u30fb\u30c8\u30a5\u30e9\u30f3"
+    ]
+  },
+  "Author_Don_Quixote": {
+    "strings": [
+      "\u30df\u30b2\u30eb\u30fb\u30c7\u30fb\u30bb\u30eb\u30d0\u30f3\u30c6\u30b9"
+    ]
+  },
+  "Author_Dracula": {
+    "strings": [
+      "\u30d6\u30e9\u30e0\u30fb\u30b9\u30c8\u30fc\u30ab\u30fc"
+    ]
+  },
+  "Author_Dune": {
+    "strings": [
+      "\u30d5\u30e9\u30f3\u30af\u30fb\u30cf\u30fc\u30d0\u30fc\u30c8"
+    ]
+  },
+  "Author_Emma": {
+    "strings": [
+      "\u30b8\u30a7\u30a4\u30f3\u30fb\u30aa\u30fc\u30b9\u30c6\u30a3\u30f3"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "\u30a2\u30c3\u30b7\u30e5\u30fb\u30a2\u30c3\u30af\u30b9\u30d6\u30ea\u30c3\u30b8"
+    ]
+  },
+  "Author_FAKE;Volume_1": {
+    "strings": [
+      "\u771f\u6771\u7802\u6ce2"
+    ]
+  },
+  "Author_Fern": {
+    "strings": [
+      "\u30d5\u30a1\u30fc\u30f3\u30fb\u30a8\u30b9\u30c8\u30e9\u30fc\u30c0"
+    ]
+  },
+  "Author_Fire_&_Blood": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fbR\u30fbR\u30fb\u30de\u30fc\u30c6\u30a3\u30f3"
+    ]
+  },
+  "Author_Frankenstein": {
+    "strings": [
+      "\u30e1\u30a2\u30ea\u30fc\u30fb\u30b7\u30a7\u30ea\u30fc"
+    ]
+  },
+  "Author_Full_Dark,_No_Stars": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_Gone_Girl": {
+    "strings": [
+      "\u30ae\u30ea\u30a2\u30f3\u30fb\u30d5\u30ea\u30f3"
+    ]
+  },
+  "Author_Great_Expectations": {
+    "strings": [
+      "\u30c1\u30e3\u30fc\u30eb\u30ba\u30fb\u30c7\u30a3\u30b1\u30f3\u30ba"
+    ]
+  },
+  "Author_Gulliver's_Travels": {
+    "strings": [
+      "\u30b8\u30e7\u30ca\u30b5\u30f3\u30fb\u30b9\u30a6\u30a3\u30d5\u30c8"
+    ]
+  },
+  "Author_HTML_1998;An_Introdcution": {
+    "strings": [
+      "Hello Worldly"
+    ]
+  },
+  "Author_Hamlet": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Henry_V": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Henry_VI,_Part_1": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Henry_VI,_Part_3": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "\u30f4\u30a1\u30eb\u30fb\u30dc\u30df\u30a8"
+    ]
+  },
+  "Author_Homage_to_Catalonia": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fb\u30aa\u30fc\u30a6\u30a7\u30eb"
+    ]
+  },
+  "Author_How_Many_Castles_in_7_Days?": {
+    "strings": [
+      "\u30b9\u30c6\u30d5\u30a1\u30f3\u30fb\u30b8\u30a7\u30bc\u30af"
+    ]
+  },
+  "Author_Howl's_Moving_Castle": {
+    "strings": [
+      "\u30c0\u30a4\u30a2\u30ca\u30fb\u30a6\u30a3\u30f3\u30fb\u30b8\u30e7\u30fc\u30f3\u30ba"
+    ]
+  },
+  "Author_Howl,_and_Other_Poems": {
+    "strings": [
+      "\u30a2\u30ec\u30f3\u30fb\u30ae\u30f3\u30ba\u30d0\u30fc\u30b0"
+    ]
+  },
+  "Author_H\u00e9l\u00e8ne": {
+    "strings": [
+      "\u8056\u30d6\u30c3\u30af\u30b9\u30c8\u30f3"
+    ]
+  },
+  "Author_In_Cold_Blood": {
+    "strings": [
+      "\u30c8\u30eb\u30fc\u30de\u30f3\u30fb\u30ab\u30dd\u30fc\u30c6\u30a3"
+    ]
+  },
+  "Author_Inferno": {
+    "strings": [
+      "\u30c0\u30f3\u30c6\u30fb\u30a2\u30ea\u30ae\u30a8\u30ea\u8457\u3001A\u30fb\u30a8\u30bd\u30ec\u30f3\u8a33"
+    ]
+  },
+  "Author_Into_the_Sunset:_The_Magical_West": {
+    "strings": [
+      "\u30b8\u30e3\u30de\u30eb\u30fbM\u30fb\u30d5\u30a1\u30fc\u30df\u30fc"
+    ]
+  },
+  "Author_It": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_Jane_Eyre": {
+    "strings": [
+      "\u30a8\u30df\u30ea\u30fc\u30fb\u30d6\u30ed\u30f3\u30c6"
+    ]
+  },
+  "Author_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "\u30b8\u30e5\u30fc\u30eb\u30fb\u30f4\u30a7\u30eb\u30cc"
+    ]
+  },
+  "Author_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "\u5449\u627f\u6069"
+    ]
+  },
+  "Author_Julius_Caesar": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Kiki's_Delivery_Service": {
+    "strings": [
+      "\u89d2\u91ce\u6804\u5b50"
+    ]
+  },
+  "Author_Kitchen_Rules_For_Your_Family_and_You": {
+    "strings": [
+      "\u30e0\u30d0\u30ca\u30fb\u30b8\u30e7\u30fc\u30f3\u30ba"
+    ]
+  },
+  "Author_Les_Miserables": {
+    "strings": [
+      "\u30f4\u30a3\u30af\u30c8\u30eb\u30fb\u30e6\u30fc\u30b4\u30fc"
+    ]
+  },
+  "Author_Living_In_Alaska": {
+    "strings": [
+      "\u30b7\u30e7\u30cd\u30c3\u30c9\u30fb\u30b8\u30e7\u30fc\u30f3\u30ba"
+    ]
+  },
+  "Author_Lord_of_the_Flies": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b4\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0"
+    ]
+  },
+  "Author_Macbeth": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Middlemarch": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fb\u30a8\u30ea\u30aa\u30c3\u30c8"
+    ]
+  },
+  "Author_Misery": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_Moby-Dick": {
+    "strings": [
+      "\u30cf\u30fc\u30de\u30f3\u30fb\u30e1\u30eb\u30f4\u30a3\u30eb"
+    ]
+  },
+  "Author_Moominland_Midwinter": {
+    "strings": [
+      "\u30c8\u30fc\u30d9\u30fb\u30e4\u30f3\u30bd\u30f3"
+    ]
+  },
+  "Author_Much_Ado_About_Nothing": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Murder_on_the_Orient_Express": {
+    "strings": [
+      "\u30a2\u30ac\u30b5\u30fb\u30af\u30ea\u30b9\u30c6\u30a3"
+    ]
+  },
+  "Author_My_Travels_In_East_Africa": {
+    "strings": [
+      "\u30bf\u30aa\u30fb\u30ea\u30e7\u30a6\u30bf"
+    ]
+  },
+  "Author_Newtonian_Physics_for_Babies": {
+    "strings": [
+      "\u30af\u30ea\u30b9\u30fb\u30d5\u30a7\u30ea\u30fc"
+    ]
+  },
+  "Author_Night_Shift": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_Nineteen_Eighty-Four": {
+    "strings": [
+      "\u30b8\u30e7\u30fc\u30b8\u30fb\u30aa\u30fc\u30a6\u30a7\u30eb"
+    ]
+  },
+  "Author_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "\u8056\u30d6\u30c3\u30af\u30b9\u30c8\u30f3"
+    ]
+  },
+  "Author_Othello": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Pet_Sematary": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_Physics_1908": {
+    "strings": [
+      "\u30b1\u30f3\u30c9\u30e9\u30fb\u30b3\u30cd\u30ea"
+    ]
+  },
+  "Author_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "C\u30fbS\u30fb\u30eb\u30a4\u30b9"
+    ]
+  },
+  "Author_Richard_II": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Romeo_and_Juliet": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_Salom\u00e9": {
+    "strings": [
+      "\u30aa\u30b9\u30ab\u30fc\u30fb\u30ef\u30a4\u30eb\u30c9"
+    ]
+  },
+  "Author_St._Bookston:_The_Myth,_the_Legend,_the_Truth": {
+    "strings": [
+      "H\u30fbA\u30fb\u307a\u30cb\u30f3\u30c8\u30f3"
+    ]
+  },
+  "Author_The_Adventures_of_Pippi_Longstocking": {
+    "strings": [
+      "\u30a2\u30b9\u30c8\u30ea\u30c3\u30c9\u30fb\u30ea\u30f3\u30c9\u30b0\u30ec\u30fc\u30f3"
+    ]
+  },
+  "Author_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "\u30a2\u30fc\u30b5\u30fc\u30fb\u30b3\u30ca\u30f3\u30fb\u30c9\u30a4\u30eb"
+    ]
+  },
+  "Author_The_Big_Sleep": {
+    "strings": [
+      "\u30ec\u30a4\u30e2\u30f3\u30c9\u30fb\u30c1\u30e3\u30f3\u30c9\u30e9\u30fc"
+    ]
+  },
+  "Author_The_Book_of_Tea": {
+    "strings": [
+      "\u5ca1\u5009\u5929\u5fc3"
+    ]
+  },
+  "Author_The_Canterbury_Tales": {
+    "strings": [
+      "\u30b8\u30a7\u30d5\u30ea\u30fc\u30fb\u30c1\u30e7\u30fc\u30b5\u30fc"
+    ]
+  },
+  "Author_The_Debvoir_Family;A_Success_Story": {
+    "strings": [
+      "\u30b1\u30cd\u30c7\u30a3\u30fb\u30cd\u30a4\u30dc\u30f3"
+    ]
+  },
+  "Author_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "\u30a8\u30c9\u30ac\u30fc\u30fb\u30a2\u30e9\u30f3\u30fb\u30dd\u30fc"
+    ]
+  },
+  "Author_The_Fault_in_Our_Stars": {
+    "strings": [
+      "\u30b8\u30e7\u30f3\u30fb\u30b0\u30ea\u30fc\u30f3"
+    ]
+  },
+  "Author_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "J\u30fbR\u30fbR\u30fb\u30c8\u30fc\u30eb\u30ad\u30f3"
+    ]
+  },
+  "Author_The_Great_Gatsby": {
+    "strings": [
+      "F\u30fb\u30b9\u30b3\u30c3\u30c8\u30fb\u30d5\u30a3\u30c3\u30c4\u30b8\u30a7\u30e9\u30eb\u30c9"
+    ]
+  },
+  "Author_The_Green_Mile": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_The_Gunslinger": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_The_Hunger_Games": {
+    "strings": [
+      "\u30b9\u30fc\u30b6\u30f3\u30fb\u30b3\u30ea\u30f3\u30ba"
+    ]
+  },
+  "Author_The_Invisible_Man": {
+    "strings": [
+      "H\u30fbG\u30fb\u30a6\u30a7\u30eb\u30ba"
+    ]
+  },
+  "Author_The_Last_Wish;(The_Witcher)": {
+    "strings": [
+      "\u30a2\u30f3\u30c9\u30ec\u30a4\u30fb\u30b5\u30d7\u30b3\u30d5\u30b9\u30ad"
+    ]
+  },
+  "Author_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "C\u30fbS\u30fb\u30eb\u30a4\u30b9"
+    ]
+  },
+  "Author_The_Little_Prince": {
+    "strings": [
+      "\u30a2\u30f3\u30c8\u30ef\u30fc\u30cc\u30fb\u30c9\u30fb\u30b5\u30f3\uff1d\u30c6\u30b0\u30b8\u30e5\u30da\u30ea"
+    ]
+  },
+  "Author_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "\u30a2\u30ac\u30b5\u30fb\u30af\u30ea\u30b9\u30c6\u30a3"
+    ]
+  },
+  "Author_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "\u30a2\u30ac\u30b5\u30fb\u30af\u30ea\u30b9\u30c6\u30a3"
+    ]
+  },
+  "Author_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "\u30a2\u30ac\u30b5\u30fb\u30af\u30ea\u30b9\u30c6\u30a3"
+    ]
+  },
+  "Author_The_Odyssey": {
+    "strings": [
+      "\u30db\u30fc\u30de\u30fc\u8457\u3001\u30ce\u30c3\u30af\u30b9 & \u30d5\u30a7\u30a4\u30b0\u30eb\u30b9\u8a33"
+    ]
+  },
+  "Author_The_Outsider": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "\u30aa\u30b9\u30ab\u30fc\u30fb\u30ef\u30a4\u30eb\u30c9"
+    ]
+  },
+  "Author_The_Return_of_the_King": {
+    "strings": [
+      "J\u30fbR\u30fbR\u30fb\u30c8\u30fc\u30eb\u30ad\u30f3"
+    ]
+  },
+  "Author_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "H\u30fbA\u30fb\u307a\u30cb\u30f3\u30c8\u30f3"
+    ]
+  },
+  "Author_The_Shining": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_The_Stand": {
+    "strings": [
+      "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30ad\u30f3\u30b0"
+    ]
+  },
+  "Author_The_Tempest": {
+    "strings": [
+      "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b7\u30a7\u30a4\u30af\u30b9\u30d4\u30a2"
+    ]
+  },
+  "Author_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "\u30de\u30eb\u30b3\u30fb\u30dd\u30fc\u30ed"
+    ]
+  },
+  "Author_The_Two_Towers": {
+    "strings": [
+      "J\u30fbR\u30fbR\u30fb\u30c8\u30fc\u30eb\u30ad\u30f3"
+    ]
+  },
+  "Author_To_Kill_a_Mockingbird": {
+    "strings": [
+      "\u30cf\u30fc\u30d1\u30fc\u30fb\u30ea\u30fc"
+    ]
+  },
+  "Author_To_the_Lighthouse": {
+    "strings": [
+      "\u30f4\u30a1\u30fc\u30b8\u30cb\u30a2\u30fb\u30a6\u30eb\u30d5"
+    ]
+  },
+  "Author_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "\u30bf\u30df\u30fc\u30eb\u30fb\u30ac\u30b9\u30c6\u30a3"
+    ]
+  },
+  "Author_Troglobites_Don't_Bite": {
+    "strings": [
+      "\u30de\u30e4\u30e9\u30fb\u30d5\u30a7\u30ec\u30a4\u30e9"
+    ]
+  },
+  "Author_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "\u30b8\u30e5\u30fc\u30eb\u30fb\u30f4\u30a7\u30eb\u30cc"
+    ]
+  },
+  "Author_Wuthering_Heights": {
+    "strings": [
+      "\u30a8\u30df\u30ea\u30fc\u30fb\u30d6\u30ed\u30f3\u30c6"
+    ]
+  },
+  "Author_\u3042\u3089\u3057\u306e\u3088\u308b\u306b": {
+    "strings": [
+      "\u304d\u3080\u3089 \u3086\u3046\u3044\u3061\u3001\u3042\u3079 \u5f18\u58eb"
+    ]
+  },
+  "Author_\u3044\u306a\u3044\u3044\u306a\u3044\u3070\u3042\u3042\u305d\u3073": {
+    "strings": [
+      "\u304d\u3080\u3089\u3086\u3046\u3044\u3061"
+    ]
+  },
+  "Author_\u3044\u307e\u3001\u4f1a\u3044\u306b\u3086\u304d\u307e\u3059": {
+    "strings": [
+      "\u5e02\u5ddd \u62d3\u53f8"
+    ]
+  },
+  "Author_\u3046\u3093\u3053\u30c9\u30ea\u30eb_\u6f22\u5b57_\u5c0f\u5b663\u5e74\u751f": {
+    "strings": [
+      "\u53e4\u5c4b\u96c4\u4f5c"
+    ]
+  },
+  "Author_\u304a\u8336\u3065\u3051\u6d77\u82d4\u3067\u304a\u3082\u3066\u306a\u3057": {
+    "strings": [
+      "\u53e4\u5bfa \u306a\u306a\u3048"
+    ]
+  },
+  "Author_\u304a\u91d1\u306e\u5927\u5b66": {
+    "strings": [
+      "\u4e21\uff20\u30ea\u30d9\u5927\u5b66\u9577"
+    ]
+  },
+  "Author_\u304b\u304c\u307f\u306e\u5f27\u57ce": {
+    "strings": [
+      "\u8fbb\u6751\u6df1\u6708"
+    ]
+  },
+  "Author_\u304d\u307f\u306e\u3053\u3068\u304b\u3099_\u305f\u3099\u3044\u3059\u304d": {
+    "strings": [
+      "\u3044\u306c\u3044 \u3055\u3048\u3053"
+    ]
+  },
+  "Author_\u3053\u3053\u308d": {
+    "strings": [
+      "\u590f\u76ee\u6f31\u77f3"
+    ]
+  },
+  "Author_\u3053\u308d\u3061\u3083\u3093\u306f\u3060\u3093\u3054\u3080\u3057": {
+    "strings": [
+      "\u9ad8\u5bb6 \u535a\u6210\u3001\u4ef2\u5ddd \u9053\u5b50"
+    ]
+  },
+  "Author_\u3056\u3064\u65c5-1": {
+    "strings": [
+      "\u77f3\u5742 \u30b1\u30f3\u30bf"
+    ]
+  },
+  "Author_\u3056\u3093\u306d\u3093?_\u3073\u3063\u304f\u308a!_\u6587\u623f\u5177\u306e\u3072\u307f\u3064\u4e8b\u5178": {
+    "strings": [
+      "\u30e8\u30b7\u30e0\u30e9\u30de\u30ea"
+    ]
+  },
+  "Author_\u305d\u3057\u3066\u8ab0\u3082\u3044\u306a\u304f\u306a\u3063\u305f": {
+    "strings": [
+      "\u30a2\u30ac\u30b5\u30fb\u30af\u30ea\u30b9\u30c6\u30a3\u30fc"
+    ]
+  },
+  "Author_\u305f\u306e\u3057\u3044\u4e16\u754c\u306e\u56fd": {
+    "strings": [
+      "\u4e95\u7530 \u4ec1\u5eb7"
+    ]
+  },
+  "Author_\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b": {
+    "strings": [
+      "\u7adc\u9a0e\u58eb07,\u9234\u7f85\u6728\u304b\u308a\u3093"
+    ]
+  },
+  "Author_\u3075\u305f\u308a\u306f\u3044\u3064\u3082": {
+    "strings": [
+      "\u30a2\u30fc\u30ce\u30eb\u30c9\u30fb\u30ed\u30fc\u30d9\u30eb"
+    ]
+  },
+  "Author_\u307e\u3061\u304b\u3069\u30ac\u30fc\u30c9\u30d1\u30a4\u30d7\u56f3\u9451": {
+    "strings": [
+      "\u5ca1\u5143 \u5927"
+    ]
+  },
+  "Author_\u307e\u3093\u304c\u4eba\u7269\u4f1d_\u5742\u672c\u9f8d\u99ac": {
+    "strings": [
+      "\u5c71\u672c \u535a\u6587"
+    ]
+  },
+  "Author_\u307e\u3093\u304c\u65e5\u672c\u6614\u3070\u306a\u3057101": {
+    "strings": [
+      "\u5ddd\u5185 \u5f69\u53cb\u7f8e"
+    ]
+  },
+  "Author_\u3088\u308a\u5c11\u306a\u3044\u751f\u304d\u65b9_\u3082\u306e\u3092\u624b\u653e\u3057\u3066\u8c4a\u304b\u306b\u306a\u308b": {
+    "strings": [
+      "\u30b8\u30e7\u30b7\u30e5\u30a2\u30fb\u30d9\u30c3\u30ab\u30fc"
+    ]
+  },
+  "Author_\u30a2\u30f3\u306e\u9752\u6625": {
+    "strings": [
+      "\u30eb\u30fc\u30b7\u30fc\u30fb\u30e2\u30fc\u30c9\u30fb\u30e2\u30f3\u30b4\u30e1\u30ea"
+    ]
+  },
+  "Author_\u30a8\u30eb\u30de\u30fc\u306e\u307c\u3046\u3051\u3093": {
+    "strings": [
+      "\u30eb\u30fc\u30b9\u30fb\u30b9\u30bf\u30a4\u30eb\u30b9\u30fb\u30ac\u30cd\u30c3\u30c8"
+    ]
+  },
+  "Author_\u30aa\u30c8\u30ca\u306e\u3054\u307b\u3046\u3073\u30d3\u30b8\u30db\u65c5": {
+    "strings": [
+      "\u3074\u3084\u5b50"
+    ]
+  },
+  "Author_\u30ab\u30c8\u30de\u30f3\u30ba\u306b\u98db\u3070\u3055\u308c\u3066": {
+    "strings": [
+      "\u53e4\u8218 \u4f51\u592a\u90ce"
+    ]
+  },
+  "Author_\u30ab\u30c8\u30ea\u3068\u7720\u308c\u308b\u77f3\u306e\u8857": {
+    "strings": [
+      "\u6771 \u66dc\u592a\u90ce"
+    ]
+  },
+  "Author_\u30b5\u30e8\u30ca\u30e9\u30a4\u30c4\u30ab": {
+    "strings": [
+      "\u8fbb \u4ec1\u6210"
+    ]
+  },
+  "Author_\u30b5\u65c5\uff5e\u30ea\u30c8\u30a2\u30cb\u30a2\u30fb\u30e9\u30c8\u30d3\u30a2\u7de8": {
+    "strings": [
+      "\u30bf\u30ca\u30ab\u30ab\u30c4\u30ad"
+    ]
+  },
+  "Author_\u30b9\u30af\u30ef\u30c3\u30c8\u3084\u3063\u3068\u3051": {
+    "strings": [
+      "\u91ce\u7530\u30af\u30ea\u30b9\u30bf\u30eb"
+    ]
+  },
+  "Author_\u30bb\u30ed\u5f3e\u304d\u306e\u30b4\u30fc\u30b7\u30e5": {
+    "strings": [
+      "\u5bae\u6ca2\u8ce2\u6cbb"
+    ]
+  },
+  "Author_\u30bf\u30c6\u306e\u56fd_reboot_1": {
+    "strings": [
+      "\u7530\u4e2d\u7a7a"
+    ]
+  },
+  "Author_\u30c4\u30df\u30c7\u30df\u30c3\u30af": {
+    "strings": [
+      "\u4e00\u7a42\u30df\u30c1"
+    ]
+  },
+  "Author_\u30c8\u30e0\u306f\u771f\u591c\u4e2d\u306e\u5ead\u3067": {
+    "strings": [
+      "\u30c1\u30e3\u30fc\u30eb\u30ba\u30fb\u30c7\u30a3\u30b1\u30f3\u30ba"
+    ]
+  },
+  "Author_\u30c9\u30a4\u30c4\u753a\u304b\u3089\u753a\u3078": {
+    "strings": [
+      "\u6c60\u5185 \u7d00"
+    ]
+  },
+  "Author_\u30d1\u30ea\u3067\u30e1\u30b7\u3092\u98df\u3046\u3002": {
+    "strings": [
+      "\u5ddd\u5185\u6709\u7dd2"
+    ]
+  },
+  "Author_\u30d3\u30c3\u30b0\u30d0\u30f3\u5b87\u5b99\u8ad6_(\u4e0a)": {
+    "strings": [
+      "\u30b5\u30a4\u30e2\u30f3\u30fb\u30b7\u30f3"
+    ]
+  },
+  "Author_\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u6700\u7d42\u5b9a\u7406": {
+    "strings": [
+      "\u30b5\u30a4\u30e2\u30f3\u30fb\u30b7\u30f3"
+    ]
+  },
+  "Author_\u30d5\u30a9\u30ed\u30ef\u30fc\u3055\u3093\u306e\u672c\u5f53\u306b\u3042\u3063\u305f\u6016\u3044\u8a71(1)": {
+    "strings": [
+      "\u3057\u308d\u3084\u304e \u79cb\u543e"
+    ]
+  },
+  "Author_\u30dd\u30c4\u30f3\u3068\u79d8\u5883\u99c5": {
+    "strings": [
+      "\u300c\u65c5\u3068\u9244\u9053\u300d\u7de8\u96c6\u90e8"
+    ]
+  },
+  "Author_\u30de\u30b9\u30ab\u30ec\u30fc\u30c9\u30fb\u30b2\u30fc\u30e0": {
+    "strings": [
+      "\u6771\u91ce \u572d\u543e"
+    ]
+  },
+  "Author_\u30de\u30ea\u30a2\u30fb\u30b8\u30d3\u30fc\u30e9\u30fb\u30e1\u30fc\u30ea\u30a2\u30f3_\u87f2\u611b\u305a\u308b\u5973": {
+    "strings": [
+      "\u30b8\u30a7\u30e4\u30e9\u30cb\u30fc\u30fb\u30ab\u30c1\u30ea\u30b6\u30f3\u30d3\u30fc / \u30b5\u30e9\u30fbB\u30fb\u30dd\u30e1\u30ed\u30a4"
+    ]
+  },
+  "Author_\u30e2\u30e2": {
+    "strings": [
+      "\u30df\u30d2\u30e3\u30a8\u30eb\u30fb\u30a8\u30f3\u30c7"
+    ]
+  },
+  "Author_\u30ed\u30fc\u30c9\u30fb\u30a8\u30eb\u30e1\u30ed\u30a4\uff29\uff29\u4e16\u306e\u4e8b\u4ef6\u7c3f\u3000\uff08\uff11\uff09": {
+    "strings": [
+      "\u6771 \u51ac\u3001TENGEN\u4ed6"
+    ]
+  },
+  "Author_\u4e16\u754c\u306e\u304b\u308f\u3044\u3044\u6563\u6b69\u9053": {
+    "strings": [
+      "MdN\u7de8\u96c6\u90e8"
+    ]
+  },
+  "Author_\u4e16\u754c\u306e\u4e2d\u5fc3\u3067\uff64\u611b\u3092\u3055\u3051\u3076": {
+    "strings": [
+      "\u7247\u5c71 \u606d\u4e00"
+    ]
+  },
+  "Author_\u4e16\u754c\u306e\u56fd\u5927\u767e\u79d1": {
+    "strings": [
+      "JTB\u30d1\u30d6\u30ea\u30c3\u30b7\u30f3\u30b0"
+    ]
+  },
+  "Author_\u4eba\u9b5a\u304c\u9003\u3052\u305f": {
+    "strings": [
+      "\u9752\u5c71 \u7f8e\u667a\u5b50"
+    ]
+  },
+  "Author_\u50d5\u3068\u541b\u306e\u5927\u5207\u306a\u8a71(1)": {
+    "strings": [
+      "\u308d\u3073\u3053"
+    ]
+  },
+  "Author_\u50d5\u306b\u306f\u9ce5\u306e\u8a00\u8449\u304c\u308f\u304b\u308b": {
+    "strings": [
+      "\u9234\u6728 \u4fca\u8cb4"
+    ]
+  },
+  "Author_\u5149\u304c\u6b7b\u3093\u3060\u590f\u30001": {
+    "strings": [
+      "\u30e2\u30af\u30e2\u30af\u3000\u308c\u3093"
+    ]
+  },
+  "Author_\u5165\u9580_\u72af\u7f6a\u5fc3\u7406\u5b66": {
+    "strings": [
+      "\u539f\u7530 \u9686\u4e4b"
+    ]
+  },
+  "Author_\u53e4\u5178\u843d\u8a9e100\u5e2d": {
+    "strings": [
+      "\u7acb\u5ddd \u5fd7\u306e\u8f14"
+    ]
+  },
+  "Author_\u540d\u63a2\u5075\u30b3\u30ca\u30f3\uff08\uff11\uff09": {
+    "strings": [
+      "\u9752\u5c71\u525b\u660c"
+    ]
+  },
+  "Author_\u541b\u306e\u81b5\u81d3\u3092\u305f\u3079\u305f\u3044": {
+    "strings": [
+      "\u4f4f\u91ce\u3088\u308b"
+    ]
+  },
+  "Author_\u571f\u4ff5\u306e\u9b45\u529b\u3068\u79d8\u8a71": {
+    "strings": [
+      "\u85e4\u4e95 \u5eb7\u751f"
+    ]
+  },
+  "Author_\u5927\u304d\u306a\u68ee\u306e\u5c0f\u3055\u306a\u5bb6": {
+    "strings": [
+      "\u30ed\u30fc\u30e9\u30fb\u30a4\u30f3\u30ac\u30eb\u30b9\u30fb\u30ef\u30a4\u30eb\u30c0\u30fc"
+    ]
+  },
+  "Author_\u5927\u4eba\u306e\u3072\u3068\u308a\u65c5\u306e\u59cb\u3081\u65b9": {
+    "strings": [
+      "\u5b64\u72ec\u306e\u307e\u3061\u3053"
+    ]
+  },
+  "Author_\u5927\u5668\u6669\u6210\u5217\u4f1d": {
+    "strings": [
+      "\u771f\u5c71\u77e5\u5e78"
+    ]
+  },
+  "Author_\u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6": {
+    "strings": [
+      "\u30ed\u30fc\u30e9\u30fb\u30a4\u30f3\u30ac\u30eb\u30b9\u30fb\u30ef\u30a4\u30eb\u30c0\u30fc"
+    ]
+  },
+  "Author_\u5927\u8feb\u529b!_\u65e5\u672c\u306e\u5996\u602a\u5927\u767e\u79d1": {
+    "strings": [
+      "\u5c71\u53e3 \u654f\u592a\u90ce"
+    ]
+  },
+  "Author_\u5927\u962a\uff65\u95a2\u897f\u4e07\u535a\u3074\u3042_\u5b8c\u5168\u653b\u7565\u7de8": {
+    "strings": [
+      "\u3074\u3042"
+    ]
+  },
+  "Author_\u5929\u4f7f\u306e\u907a\u8a00": {
+    "strings": [
+      "\u7adc\u6a39 \u8ad2"
+    ]
+  },
+  "Author_\u5bb6\u8cc3\u306e\u5b89\u3044\u90e8\u5c4b": {
+    "strings": [
+      "\u30ef\u30cb\u30d6\u30c3\u30af\u30b9"
+    ]
+  },
+  "Author_\u5c0f\u8aac_\u541b\u306e\u540d\u306f\u3002": {
+    "strings": [
+      "\u65b0\u6d77 \u8aa0"
+    ]
+  },
+  "Author_\u6016\u3044\u7d75": {
+    "strings": [
+      "\u4e2d\u91ce\u4eac\u5b50"
+    ]
+  },
+  "Author_\u604b\u611b\u306e\u5927\u5b66": {
+    "strings": [
+      "\u604b\u611b\u5c4b\u30b8\u30e5\u30f3"
+    ]
+  },
+  "Author_\u6226\u56fd\u6642\u4ee3\u3092\u5909\u3048\u305f\u5408\u6226\u3068\u57ce": {
+    "strings": [
+      "\u5343\u7530 \u5609\u535a\u3001\u5e73\u5c71 \u512a"
+    ]
+  },
+  "Author_\u624b\u306e\u3072\u3089\u306e\u4eac": {
+    "strings": [
+      "\u7dbf\u77e2\u308a\u3055"
+    ]
+  },
+  "Author_\u6368\u3066\u3089\u308c\u305f\u50d5\u3068\u6bcd\u732b\u3068\u5947\u8de1": {
+    "strings": [
+      "\u8239\u30f6\u5c71\u54f2"
+    ]
+  },
+  "Author_\u65ac\u9996\u306e\u68ee": {
+    "strings": [
+      "\u6fa4\u6751 \u4f0a\u667a"
+    ]
+  },
+  "Author_\u65c5\u3092\u3059\u308b\u6728": {
+    "strings": [
+      "\u661f\u91ce \u9053\u592b"
+    ]
+  },
+  "Author_\u65c5\u597d\u304d\u306e\u305f\u3081\u306e\u9244\u9053\u7d00\u884c": {
+    "strings": [
+      "\u30ab\u30b3\u9244"
+    ]
+  },
+  "Author_\u65e5\u672c100\u540d\u57ce\u306b\u884c\u3053\u3046": {
+    "strings": [
+      "\u65e5\u672c\u57ce\u90ed\u5354\u4f1a"
+    ]
+  },
+  "Author_\u65e5\u672c\u306e\u7d76\u666f_\u8d85\u5b8c\u5168\u7248": {
+    "strings": [
+      "JTB\u30d1\u30d6\u30ea\u30c3\u30b7\u30f3\u30b0"
+    ]
+  },
+  "Author_\u65e5\u672c\u30a2\u30a4\u30b9\u30af\u30ed\u30cb\u30af\u30eb": {
+    "strings": [
+      "\u30a2\u30a4\u30b9\u30de\u30f3\u798f\u7559"
+    ]
+  },
+  "Author_\u65e5\u672c\u767e\u3072\u306a\u6cc9": {
+    "strings": [
+      "\u5ca9\u672c\u85ab,\u00a0\u3072\u306a\u3073\u305f\u6e29\u6cc9\u7814\u7a76\u54e1"
+    ]
+  },
+  "Author_\u65e5\u672c\u9152\u30de\u30cb\u30a2\u30c3\u30af\uff22\uff2f\uff2f\uff2b": {
+    "strings": [
+      "\u8449\u77f3\u304b\u304a\u308a"
+    ]
+  },
+  "Author_\u660e\u65e5\u3001\u79c1\u306f\u8ab0\u304b\u306e\u30ab\u30ce\u30b8\u30e7_(1)": {
+    "strings": [
+      "\u3092\u306e \u3072\u306a\u304a"
+    ]
+  },
+  "Author_\u661f\u3068\u5929\u4f53\u89b3\u6e2c\u3068\u65c5<nobr>\u306e\u672c</nobr>": {
+    "strings": [
+      "\u662d\u6587\u793e \u65c5\u884c\u30ac\u30a4\u30c9\u30d6\u30c3\u30af \u7de8\u96c6\u90e8"
+    ]
+  },
+  "Author_\u6708\u306e\u5f71_\u5f71\u306e\u6d77_(\u4e0a)_\u5341\u4e8c\u56fd\u8a18_1": {
+    "strings": [
+      "\u5c0f\u91ce \u4e0d\u7531\u7f8e"
+    ]
+  },
+  "Author_\u6bba\u4eba\u72af\u306f\u305d\u3053\u306b\u3044\u308b": {
+    "strings": [
+      "\u6e05\u6c34\u6f54"
+    ]
+  },
+  "Author_\u6c5f\u6238\u306e\u7528\u8a9e\u8f9e\u5178": {
+    "strings": [
+      "\u6c5f\u6238\u306e\u6642\u4ee3\u7814\u7a76\u4f1a"
+    ]
+  },
+  "Author_\u6ce8\u6587\u306e\u591a\u3044\u6599\u7406\u5e97": {
+    "strings": [
+      "\u5bae\u6ca2\u8ce2\u6cbb"
+    ]
+  },
+  "Author_\u6d44\u5316\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u5de1\u308a": {
+    "strings": [
+      "\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u4e00\u4eba\u65c5"
+    ]
+  },
+  "Author_\u798d": {
+    "strings": [
+      "\u5c0f\u7530\u96c5\u4e45\u4ec1"
+    ]
+  },
+  "Author_\u7d30\u96ea": {
+    "strings": [
+      "\u8c37\u5d0e\u6f64\u4e00\u90ce"
+    ]
+  },
+  "Author_\u7d42\u308a\u306a\u304d\u591c\u306b\u751f\u308c\u3064\u304f": {
+    "strings": [
+      "\u30a2\u30ac\u30b5\u30fb\u30af\u30ea\u30b9\u30c6\u30a3\u30fc"
+    ]
+  },
+  "Author_\u7d76\u666fCAMP_GUIDE": {
+    "strings": [
+      "JTB\u30d1\u30d6\u30ea\u30c3\u30b7\u30f3\u30b0"
+    ]
+  },
+  "Author_\u85ac\u81b3\u3067\u3082\u8a66\u3057\u3066\u307f\u3088\u304b": {
+    "strings": [
+      "\u674f\u4ec1\u7f8e\u53cb"
+    ]
+  },
+  "Author_\u8d64\u6bdb\u306e\u30a2\u30f3": {
+    "strings": [
+      "\u30eb\u30fc\u30b7\u30fc\u30fb\u30e2\u30fc\u30c9\u30fb\u30e2\u30f3\u30b4\u30e1\u30ea"
+    ]
+  },
+  "Author_\u9060\u3044\u592a\u9f13": {
+    "strings": [
+      "\u6751\u4e0a\u6625\u6a39"
+    ]
+  },
+  "Author_\u97d3\u56fd\u30c9\u30e9\u30de\u6cbc\u306b\u30cf\u30de\u3063\u3066\u307f\u305f\u3089": {
+    "strings": [
+      "\u89d2\u7530\u3000\u5149\u4ee3"
+    ]
+  },
+  "Author_\u9ad8\u6162\u3068\u504f\u898b": {
+    "strings": [
+      "\u30b8\u30a7\u30fc\u30f3\u30fb\u30aa\u30fc\u30b9\u30c6\u30a3\u30f3"
+    ]
+  },
+  "Author_\u9b3c\u5e73\u72af\u79d1\u5e33\uff08\u4e00\uff09": {
+    "strings": [
+      "\u6c60\u6ce2 \u6b63\u592a\u90ce"
+    ]
+  },
+  "Author_\u9b54\u5973\u3068\u50ad\u5175": {
+    "strings": [
+      "\u8d85\u6cd5\u898f\u7684\u304b\u3048\u308b"
+    ]
+  },
+  "Book_Attribute_Academic": {
+    "strings": [
+      "^\u5b66\u8853"
+    ]
+  },
+  "Book_Attribute_Age-Rating-Mature": {
+    "strings": [
+      "^\u5927\u4eba\u5411\u3051"
+    ]
+  },
+  "Book_Attribute_Animals": {
+    "strings": [
+      "^\u52d5\u7269"
+    ]
+  },
+  "Book_Attribute_Biography": {
+    "strings": [
+      "^\u4f1d\u8a18"
+    ]
+  },
+  "Book_Attribute_Classic": {
+    "strings": [
+      "^\u6587\u5b66\u4f5c\u54c1"
+    ]
+  },
+  "Book_Attribute_Combiner": {
+    "strings": [
+      "<b></b>\u3001<b></b>"
+    ]
+  },
+  "Book_Attribute_Coming-of-Age": {
+    "strings": [
+      "^\u6210\u9577\u7269\u8a9e"
+    ]
+  },
+  "Book_Attribute_Contemporary": {
+    "strings": [
+      "^\u73fe\u4ee3\u5c0f\u8aac"
+    ]
+  },
+  "Book_Attribute_Cooking": {
+    "strings": [
+      "^\u6599\u7406\u672c"
+    ]
+  },
+  "Book_Attribute_Crime": {
+    "strings": [
+      "^\u72af\u7f6a"
+    ]
+  },
+  "Book_Attribute_Detective": {
+    "strings": [
+      "^\u63a8\u7406\u5c0f\u8aac"
+    ]
+  },
+  "Book_Attribute_Drama": {
+    "strings": [
+      "^\u30c9\u30e9\u30de"
+    ]
+  },
+  "Book_Attribute_Dry": {
+    "strings": [
+      "^\u3064\u307e\u3089\u306a\u3044\u672c"
+    ]
+  },
+  "Book_Attribute_Dystopia": {
+    "strings": [
+      "^\u30c7\u30a3\u30b9\u30c8\u30d4\u30a2\u5c0f\u8aac"
+    ]
+  },
+  "Book_Attribute_Encyclopedic": {
+    "strings": [
+      "^\u767e\u79d1\u4e8b\u5178"
+    ]
+  },
+  "Book_Attribute_Epic": {
+    "strings": [
+      "^\u58ee\u5927\u306a\u5192\u967a\u7269\u8a9e"
+    ]
+  },
+  "Book_Attribute_Fact": {
+    "strings": [
+      "^\u5b9f\u7528\u66f8"
+    ]
+  },
+  "Book_Attribute_Fantasy": {
+    "strings": [
+      "^\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc"
+    ]
+  },
+  "Book_Attribute_Female-Author": {
+    "strings": [
+      "^\u5973\u6027\u4f5c\u5bb6"
+    ]
+  },
+  "Book_Attribute_Fiction": {
+    "strings": [
+      "^\u30d5\u30a3\u30af\u30b7\u30e7\u30f3"
+    ]
+  },
+  "Book_Attribute_Folklore": {
+    "strings": [
+      "^\u6c11\u9593\u4f1d\u627f"
+    ]
+  },
+  "Book_Attribute_Gore": {
+    "strings": [
+      "^\u30b0\u30ed"
+    ]
+  },
+  "Book_Attribute_Graphic-Novel": {
+    "strings": [
+      "^\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30ce\u30d9\u30eb"
+    ]
+  },
+  "Book_Attribute_Happy-Ending": {
+    "strings": [
+      "^\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9"
+    ]
+  },
+  "Book_Attribute_Historic": {
+    "strings": [
+      "^\u6b74\u53f2"
+    ]
+  },
+  "Book_Attribute_Horror": {
+    "strings": [
+      "^\u30db\u30e9\u30fc"
+    ]
+  },
+  "Book_Attribute_Humour": {
+    "strings": [
+      "^\u30e6\u30fc\u30e2\u30a2"
+    ]
+  },
+  "Book_Attribute_Kids": {
+    "strings": [
+      "^\u5150\u7ae5\u66f8"
+    ]
+  },
+  "Book_Attribute_Lifestyle": {
+    "strings": [
+      "^\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb"
+    ]
+  },
+  "Book_Attribute_Light-Reading": {
+    "strings": [
+      "^\u8efd\u3081\u306e\u8aad\u307f\u7269"
+    ]
+  },
+  "Book_Attribute_Long": {
+    "strings": [
+      "^\u9577\u7de8"
+    ]
+  },
+  "Book_Attribute_Magic": {
+    "strings": [
+      "^\u9b54\u6cd5"
+    ]
+  },
+  "Book_Attribute_Manga": {
+    "strings": [
+      "^\u6f2b\u753b"
+    ]
+  },
+  "Book_Attribute_Mystery": {
+    "strings": [
+      "^\u30df\u30b9\u30c6\u30ea\u30fc"
+    ]
+  },
+  "Book_Attribute_Nature": {
+    "strings": [
+      "^\u81ea\u7136"
+    ]
+  },
+  "Book_Attribute_Niche": {
+    "strings": [
+      "^\u30de\u30a4\u30ca\u30fc"
+    ]
+  },
+  "Book_Attribute_Non-Fiction": {
+    "strings": [
+      "^\u30ce\u30f3\u30d5\u30a3\u30af\u30b7\u30e7\u30f3"
+    ]
+  },
+  "Book_Attribute_Novel": {
+    "strings": [
+      "^\u5c0f\u8aac"
+    ]
+  },
+  "Book_Attribute_Outdated": {
+    "strings": [
+      "^\u6642\u4ee3\u9045\u308c"
+    ]
+  },
+  "Book_Attribute_Philosophical": {
+    "strings": [
+      "^\u54f2\u5b66\u7684"
+    ]
+  },
+  "Book_Attribute_Play": {
+    "strings": [
+      "^\u622f\u66f2"
+    ]
+  },
+  "Book_Attribute_Plot-Twist": {
+    "strings": [
+      "^\u3069\u3093\u3067\u3093\u8fd4\u3057"
+    ]
+  },
+  "Book_Attribute_Poetry": {
+    "strings": [
+      "^\u8a69"
+    ]
+  },
+  "Book_Attribute_Political": {
+    "strings": [
+      "^\u653f\u6cbb\u7684"
+    ]
+  },
+  "Book_Attribute_Pop-Science": {
+    "strings": [
+      "^\u901a\u4fd7\u79d1\u5b66"
+    ]
+  },
+  "Book_Attribute_Queer": {
+    "strings": [
+      "^\u30af\u30a3\u30a2\u30fb\u6027\u7684\u30de\u30a4\u30ce\u30ea\u30c6\u30a3"
+    ]
+  },
+  "Book_Attribute_Romance": {
+    "strings": [
+      "^\u30ed\u30de\u30f3\u30b9"
+    ]
+  },
+  "Book_Attribute_Science-Fiction": {
+    "strings": [
+      "^SF"
+    ]
+  },
+  "Book_Attribute_Self-Help": {
+    "strings": [
+      "^\u81ea\u5df1\u5553\u767a"
+    ]
+  },
+  "Book_Attribute_Self-Printed": {
+    "strings": [
+      "\u81ea\u4e3b\u51fa\u7248"
+    ]
+  },
+  "Book_Attribute_Series": {
+    "strings": [
+      "^\u30b7\u30ea\u30fc\u30ba\u672c"
+    ]
+  },
+  "Book_Attribute_Short": {
+    "strings": [
+      "^\u77ed\u7de8"
+    ]
+  },
+  "Book_Attribute_Space": {
+    "strings": [
+      "^\u5b87\u5b99"
+    ]
+  },
+  "Book_Attribute_Thriller": {
+    "strings": [
+      "^\u30b9\u30ea\u30e9\u30fc"
+    ]
+  },
+  "Book_Attribute_Tragic": {
+    "strings": [
+      "^\u60b2\u5287"
+    ]
+  },
+  "Book_Attribute_Travel": {
+    "strings": [
+      "^\u65c5\u884c"
+    ]
+  },
+  "Book_Attribute_Travel-Guide": {
+    "strings": [
+      "^\u30c8\u30e9\u30d9\u30eb\u30ac\u30a4\u30c9"
+    ]
+  },
+  "Book_Attribute_Very-Long": {
+    "strings": [
+      "^\u5927\u9577\u7de8"
+    ]
+  },
+  "Book_Attribute_Whodunnit": {
+    "strings": [
+      "^\u30d5\u30fc\u30c0\u30cb\u30c3\u30c8"
+    ]
+  },
+  "Book_Attribute_YA": {
+    "strings": [
+      "^\u30e4\u30f3\u30b0\u30a2\u30c0\u30eb\u30c8\u5c0f\u8aac"
+    ]
+  },
+  "Title_#Title_EN": {
+    "strings": [
+      "Title ja_JP"
+    ]
+  },
+  "Title_100\u4e07\u56de\u751f\u304d\u305f\u306d\u3053": {
+    "strings": [
+      "100\u4e07\u56de\u751f\u304d\u305f\u306d\u3053"
+    ]
+  },
+  "Title_14\u6b73\u304b\u3089\u306e\u54f2\u5b66": {
+    "strings": [
+      "14\u6b73\u304b\u3089\u306e\u54f2\u5b66"
+    ]
+  },
+  "Title_AI\u306e\u30b5\u30d0\u30a4\u30d0\u30eb_(1)": {
+    "strings": [
+      "AI\u306e\u30b5\u30d0\u30a4\u30d0\u30eb (1)"
+    ]
+  },
+  "Title_A_Clash_of_Kings": {
+    "strings": [
+      "\u738b\u72fc\u305f\u3061\u306e\u6226\u65d7"
+    ]
+  },
+  "Title_A_Collection_of_Poems": {
+    "strings": [
+      "\u8a69\u96c6"
+    ]
+  },
+  "Title_A_Dance_With_Dragons": {
+    "strings": [
+      "\u7adc\u3068\u306e\u821e\u8e0f"
+    ]
+  },
+  "Title_A_Feast_for_Crows": {
+    "strings": [
+      "\u4e71\u9d09\u306e\u9957\u5bb4"
+    ]
+  },
+  "Title_A_Game_of_Thrones": {
+    "strings": [
+      "\u4e03\u738b\u56fd\u306e\u7389\u5ea7"
+    ]
+  },
+  "Title_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "\u590f\u306e\u591c\u306e\u5922"
+    ]
+  },
+  "Title_A_Senseless_Power": {
+    "strings": [
+      "\u7121\u610f\u8b58\u306e\u529b"
+    ]
+  },
+  "Title_A_Storm_of_Swords": {
+    "strings": [
+      "\u5263\u5d50\u306e\u5927\u5730"
+    ]
+  },
+  "Title_A_Study_in_Scarlet": {
+    "strings": [
+      "\u7dcb\u8272\u306e\u7814\u7a76"
+    ]
+  },
+  "Title_After_the_Funeral": {
+    "strings": [
+      "\u846c\u5100\u3092\u7d42\u3048\u3066"
+    ]
+  },
+  "Title_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "\u4e0d\u601d\u8b70\u306e\u56fd\u306e\u30a2\u30ea\u30b9"
+    ]
+  },
+  "Title_American_Psycho": {
+    "strings": [
+      "\u30a2\u30e1\u30ea\u30ab\u30f3\u30fb\u30b5\u30a4\u30b3"
+    ]
+  },
+  "Title_Angels_&_Demons": {
+    "strings": [
+      "\u5929\u4f7f\u3068\u60aa\u9b54"
+    ]
+  },
+  "Title_Animal_Farm": {
+    "strings": [
+      "\u52d5\u7269\u8fb2\u5834"
+    ]
+  },
+  "Title_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "\u516b\u5341\u65e5\u9593\u4e16\u754c\u4e00\u5468"
+    ]
+  },
+  "Title_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "\u9032\u6483\u306e\u5de8\u4eba\uff08\u7b2c\uff11\u5dfb\uff09"
+    ]
+  },
+  "Title_A\u5b50\u3055\u3093\u306e\u604b\u4eba_\u7b2c1\u5dfb": {
+    "strings": [
+      "A\u5b50\u3055\u3093\u306e\u604b\u4eba \u7b2c1\u5dfb"
+    ]
+  },
+  "Title_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "\u30b3\u30fc\u30d2\u30fc\u304c\u51b7\u3081\u306a\u3044\u3046\u3061\u306b"
+    ]
+  },
+  "Title_Beloved": {
+    "strings": [
+      "\u30d3\u30e9\u30f4\u30c9"
+    ]
+  },
+  "Title_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "\u30a6\u30a3\u30c3\u30c1\u30e3\u30fcI \u30a8\u30eb\u30d5\u306e\u8840\u8108"
+    ]
+  },
+  "Title_By_Train_Through_Spain": {
+    "strings": [
+      "\u30b9\u30da\u30a4\u30f3\u5217\u8eca\u65c5"
+    ]
+  },
+  "Title_Call_Me_by_Your_Name": {
+    "strings": [
+      "\u541b\u306e\u540d\u524d\u3067\u50d5\u3092\u547c\u3093\u3067"
+    ]
+  },
+  "Title_Carrie": {
+    "strings": [
+      "\u30ad\u30e3\u30ea\u30fc"
+    ]
+  },
+  "Title_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "\u30c1\u30e3\u30fc\u30ea\u30fc\u3068\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u5de5\u5834"
+    ]
+  },
+  "Title_Crime_and_Punishment": {
+    "strings": [
+      "\u7f6a\u3068\u7f70"
+    ]
+  },
+  "Title_Death_Note;Volume_1": {
+    "strings": [
+      "DEATH NOTE\uff08\u7b2c\uff11\u5dfb\uff09"
+    ]
+  },
+  "Title_Death_on_the_Nile": {
+    "strings": [
+      "\u30ca\u30a4\u30eb\u306b\u6b7b\u3059"
+    ]
+  },
+  "Title_Dinosaurs_and_other_Prehistoric_Life": {
+    "strings": [
+      "\u6050\u7adc\u3068\u5148\u53f2\u6642\u4ee3\u306e\u751f\u304d\u7269\u305f\u3061"
+    ]
+  },
+  "Title_Don_Quixote": {
+    "strings": [
+      "\u30c9\u30f3\u30fb\u30ad\u30db\u30fc\u30c6"
+    ]
+  },
+  "Title_Dracula": {
+    "strings": [
+      "\u5438\u8840\u9b3c\u30c9\u30e9\u30ad\u30e5\u30e9"
+    ]
+  },
+  "Title_Dune": {
+    "strings": [
+      "\u30c7\u30e5\u30fc\u30f3"
+    ]
+  },
+  "Title_Emma": {
+    "strings": [
+      "\u30a8\u30de"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "\u767e\u79d1\u4e8b\u5178\u30d6\u30c3\u30af\u30b9\u30c8\u30cb\u30a2 Vol. 1"
+    ]
+  },
+  "Title_FAKE;Volume_1": {
+    "strings": [
+      "FAKE",
+      "\u7b2c1\u5dfb"
+    ]
+  },
+  "Title_Fire_&_Blood": {
+    "strings": [
+      "\u708e\u3068\u8840"
+    ]
+  },
+  "Title_Frankenstein": {
+    "strings": [
+      "\u30d5\u30e9\u30f3\u30b1\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3"
+    ]
+  },
+  "Title_Full_Dark,_No_Stars": {
+    "strings": [
+      "\uff11\uff19\uff12\uff12/\u30d3\u30c3\u30b0\u30fb\u30c9\u30e9\u30a4\u30d0\u30fc"
+    ]
+  },
+  "Title_Gone_Girl": {
+    "strings": [
+      "\u30b4\u30fc\u30f3\u30fb\u30ac\u30fc\u30eb"
+    ]
+  },
+  "Title_Great_Expectations": {
+    "strings": [
+      "\u5927\u3044\u306a\u308b\u907a\u7523"
+    ]
+  },
+  "Title_Gulliver's_Travels": {
+    "strings": [
+      "\u30ac\u30ea\u30f4\u30a1\u30fc\u65c5\u884c\u8a18"
+    ]
+  },
+  "Title_HTML_1998;An_Introdcution": {
+    "strings": [
+      "\u521d\u3081\u3066\u306eHTML 1998"
+    ]
+  },
+  "Title_Hamlet": {
+    "strings": [
+      "\u30cf\u30e0\u30ec\u30c3\u30c8"
+    ]
+  },
+  "Title_Henry_V": {
+    "strings": [
+      "\u30d8\u30f3\u30ea\u30fc\u4e94\u4e16"
+    ]
+  },
+  "Title_Henry_VI,_Part_1": {
+    "strings": [
+      "\u30d8\u30f3\u30ea\u30fc\u516d\u4e16 \u7b2c1\u90e8"
+    ]
+  },
+  "Title_Henry_VI,_Part_3": {
+    "strings": [
+      "\u30d8\u30f3\u30ea\u30fc\u516d\u4e16 \u7b2c3\u90e8"
+    ]
+  },
+  "Title_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "\u30d6\u30c3\u30af\u30b9\u30c8\u30f3\u6e7e \u30cf\u30a4\u30ad\u30f3\u30b0\u30b3\u30fc\u30b9"
+    ]
+  },
+  "Title_Homage_to_Catalonia": {
+    "strings": [
+      "\u30ab\u30bf\u30ed\u30cb\u30a2\u8b83\u6b4c"
+    ]
+  },
+  "Title_How_Many_Castles_in_7_Days?": {
+    "strings": [
+      "1\u9031\u9593\u306e\u304a\u57ce\u63a2\u8a2a\u8a18"
+    ]
+  },
+  "Title_Howl's_Moving_Castle": {
+    "strings": [
+      "\u9b54\u6cd5\u4f7f\u3044\u30cf\u30a6\u30eb\u3068\u706b\u306e\u60aa\u9b54"
+    ]
+  },
+  "Title_Howl,_and_Other_Poems": {
+    "strings": [
+      "\u5420\u3048\u308b \u305d\u306e\u4ed6\u306e\u8a69"
+    ]
+  },
+  "Title_H\u00e9l\u00e8ne": {
+    "strings": [
+      "\u30a8\u30ec\u30fc\u30cc"
+    ]
+  },
+  "Title_In_Cold_Blood": {
+    "strings": [
+      "\u51b7\u8840"
+    ]
+  },
+  "Title_Inferno": {
+    "strings": [
+      "\u795e\u66f2 \u5730\u7344\u7bc7"
+    ]
+  },
+  "Title_Into_the_Sunset:_The_Magical_West": {
+    "strings": [
+      "\u5915\u967d\u306e\u5f7c\u65b9\u3078\uff1a\u9b54\u6cd5\u306e\u897f\u90e8"
+    ]
+  },
+  "Title_It": {
+    "strings": [
+      "IT"
+    ]
+  },
+  "Title_Jane_Eyre": {
+    "strings": [
+      "\u30b8\u30a7\u30fc\u30f3\u30fb\u30a8\u30a2"
+    ]
+  },
+  "Title_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "\u5730\u5e95\u65c5\u884c"
+    ]
+  },
+  "Title_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "\u897f\u904a\u8a18"
+    ]
+  },
+  "Title_Julius_Caesar": {
+    "strings": [
+      "\u30b8\u30e5\u30ea\u30a2\u30b9\u30fb\u30b7\u30fc\u30b6\u30fc"
+    ]
+  },
+  "Title_Kiki's_Delivery_Service": {
+    "strings": [
+      "\u9b54\u5973\u306e\u5b85\u6025\u4fbf"
+    ]
+  },
+  "Title_Kitchen_Rules_For_Your_Family_and_You": {
+    "strings": [
+      "\u5bb6\u65cf\u3068\u3042\u306a\u305f\u306e\u305f\u3081\u306e\u30ad\u30c3\u30c1\u30f3\u30eb\u30fc\u30eb"
+    ]
+  },
+  "Title_Les_Miserables": {
+    "strings": [
+      "\u30ec\u30fb\u30df\u30bc\u30e9\u30d6\u30eb"
+    ]
+  },
+  "Title_Living_In_Alaska": {
+    "strings": [
+      "\u30a2\u30e9\u30b9\u30ab\u306e\u66ae\u3089\u3057"
+    ]
+  },
+  "Title_Lord_of_the_Flies": {
+    "strings": [
+      "\u8805\u306e\u738b"
+    ]
+  },
+  "Title_Macbeth": {
+    "strings": [
+      "\u30de\u30af\u30d9\u30b9"
+    ]
+  },
+  "Title_Middlemarch": {
+    "strings": [
+      "\u30df\u30c9\u30eb\u30de\u30fc\u30c1"
+    ]
+  },
+  "Title_Misery": {
+    "strings": [
+      "\u30df\u30b6\u30ea\u30fc"
+    ]
+  },
+  "Title_Moby-Dick": {
+    "strings": [
+      "\u767d\u9be8"
+    ]
+  },
+  "Title_Moominland_Midwinter": {
+    "strings": [
+      "\u30e0\u30fc\u30df\u30f3\u8c37\u306e\u51ac"
+    ]
+  },
+  "Title_Much_Ado_About_Nothing": {
+    "strings": [
+      "\u7a7a\u9a12\u304e"
+    ]
+  },
+  "Title_Murder_on_the_Orient_Express": {
+    "strings": [
+      "\u30aa\u30ea\u30a8\u30f3\u30c8\u6025\u884c\u306e\u6bba\u4eba"
+    ]
+  },
+  "Title_My_Travels_In_East_Africa": {
+    "strings": [
+      "\u6771\u30a2\u30d5\u30ea\u30ab\u7d00\u884c"
+    ]
+  },
+  "Title_Newtonian_Physics_for_Babies": {
+    "strings": [
+      "\u30bc\u30ed\u6b73\u304b\u3089\u306e\u30cb\u30e5\u30fc\u30c8\u30f3\u529b\u5b66"
+    ]
+  },
+  "Title_Night_Shift": {
+    "strings": [
+      "\u6df1\u591c\u52e4\u52d9"
+    ]
+  },
+  "Title_Nineteen_Eighty-Four": {
+    "strings": [
+      "1984\u5e74"
+    ]
+  },
+  "Title_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "\u30d6\u30c3\u30af\u30b9\u30c8\u30f3\u30d9\u30ea\u30fc\u306e\u690d\u7269\u306b\u3064\u3044\u3066"
+    ]
+  },
+  "Title_Othello": {
+    "strings": [
+      "\u30aa\u30bb\u30ed\u30fc"
+    ]
+  },
+  "Title_Pet_Sematary": {
+    "strings": [
+      "\u30da\u30c3\u30c8\u30fb\u30bb\u30de\u30bf\u30ea\u30fc"
+    ]
+  },
+  "Title_Physics_1908": {
+    "strings": [
+      "\u7269\u7406\u5b66 1908"
+    ]
+  },
+  "Title_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "\u30ab\u30b9\u30d4\u30a2\u30f3\u738b\u5b50\u306e\u3064\u306e\u3076\u3048"
+    ]
+  },
+  "Title_Richard_II": {
+    "strings": [
+      "\u30ea\u30c1\u30e3\u30fc\u30c9\u4e8c\u4e16"
+    ]
+  },
+  "Title_Romeo_and_Juliet": {
+    "strings": [
+      "\u30ed\u30df\u30aa\u3068\u30b8\u30e5\u30ea\u30a8\u30c3\u30c8"
+    ]
+  },
+  "Title_Salom\u00e9": {
+    "strings": [
+      "\u30b5\u30ed\u30e1"
+    ]
+  },
+  "Title_St._Bookston:_The_Myth,_the_Legend,_the_Truth": {
+    "strings": [
+      "\u8056\u30d6\u30c3\u30af\u30b9\u30c8\u30f3\uff1a\u795e\u8a71\u30fb\u4f1d\u8aac\u30fb\u305d\u3057\u3066\u771f\u5b9f"
+    ]
+  },
+  "Title_The_Adventures_of_Pippi_Longstocking": {
+    "strings": [
+      "\u9577\u304f\u3064\u4e0b\u30d4\u30c3\u30d4\u306e\u5192\u967a\u7269\u8a9e"
+    ]
+  },
+  "Title_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "\u30b7\u30e3\u30fc\u30ed\u30c3\u30af\u30fb\u30db\u30fc\u30e0\u30ba\u306e\u5192\u967a"
+    ]
+  },
+  "Title_The_Big_Sleep": {
+    "strings": [
+      "\u5927\u3044\u306a\u308b\u7720\u308a"
+    ]
+  },
+  "Title_The_Book_of_Tea": {
+    "strings": [
+      "\u8336\u306e\u672c"
+    ]
+  },
+  "Title_The_Canterbury_Tales": {
+    "strings": [
+      "\u30ab\u30f3\u30bf\u30d9\u30ea\u30fc\u7269\u8a9e"
+    ]
+  },
+  "Title_The_Debvoir_Family;A_Success_Story": {
+    "strings": [
+      "\u30c7\u30dc\u30ef\u30fc\u30eb\u5bb6\u306e\u6210\u529f\u7269\u8a9e"
+    ]
+  },
+  "Title_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "\u30a2\u30c3\u30b7\u30e3\u30fc\u5bb6\u306e\u5d29\u58ca"
+    ]
+  },
+  "Title_The_Fault_in_Our_Stars": {
+    "strings": [
+      "\u3055\u3088\u306a\u3089\u3092\u5f85\u3064\u3075\u305f\u308a\u306e\u305f\u3081\u306b"
+    ]
+  },
+  "Title_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "\u6307\u8f2a\u306e\u4ef2\u9593"
+    ]
+  },
+  "Title_The_Great_Gatsby": {
+    "strings": [
+      "\u30b0\u30ec\u30fc\u30c8\u30fb\u30ae\u30e3\u30c4\u30d3\u30fc"
+    ]
+  },
+  "Title_The_Green_Mile": {
+    "strings": [
+      "\u30b0\u30ea\u30fc\u30f3\u30de\u30a4\u30eb"
+    ]
+  },
+  "Title_The_Gunslinger": {
+    "strings": [
+      "\u30c0\u30fc\u30af\u30bf\u30ef\u30fcI \u30ac\u30f3\u30b9\u30ea\u30f3\u30ac\u30fc"
+    ]
+  },
+  "Title_The_Hunger_Games": {
+    "strings": [
+      "\u30cf\u30f3\u30ac\u30fc\u30fb\u30b2\u30fc\u30e0"
+    ]
+  },
+  "Title_The_Invisible_Man": {
+    "strings": [
+      "\u900f\u660e\u4eba\u9593"
+    ]
+  },
+  "Title_The_Last_Wish;(The_Witcher)": {
+    "strings": [
+      "\u30a6\u30a3\u30c3\u30c1\u30e3\u30fc\u77ed\u7bc7\u96c61 \u6700\u5f8c\u306e\u9858\u3044"
+    ]
+  },
+  "Title_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "\u30e9\u30a4\u30aa\u30f3\u3068\u9b54\u5973"
+    ]
+  },
+  "Title_The_Little_Prince": {
+    "strings": [
+      "\u661f\u306e\u738b\u5b50\u3055\u307e"
+    ]
+  },
+  "Title_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "\u7267\u5e2b\u9928\u306e\u6bba\u4eba"
+    ]
+  },
+  "Title_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "\u30a2\u30af\u30ed\u30a4\u30c9\u6bba\u3057"
+    ]
+  },
+  "Title_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "\u30b9\u30bf\u30a4\u30eb\u30ba\u8358\u306e\u602a\u4e8b\u4ef6"
+    ]
+  },
+  "Title_The_Odyssey": {
+    "strings": [
+      "\u30aa\u30c7\u30c3\u30bb\u30a4"
+    ]
+  },
+  "Title_The_Outsider": {
+    "strings": [
+      "\u30a2\u30a6\u30c8\u30b5\u30a4\u30c0\u30fc"
+    ]
+  },
+  "Title_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "\u30c9\u30ea\u30a2\u30f3\u30fb\u30b0\u30ec\u30a4\u306e\u8096\u50cf"
+    ]
+  },
+  "Title_The_Return_of_the_King": {
+    "strings": [
+      "\u738b\u306e\u5e30\u9084"
+    ]
+  },
+  "Title_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "\u30d6\u30c3\u30af\u30b9\u30c8\u30f3\u30d9\u30ea\u30fc\uff1a\u305d\u306e\u79d8\u4e2d\u306e\u6b74\u53f2"
+    ]
+  },
+  "Title_The_Shining": {
+    "strings": [
+      "\u30b7\u30e3\u30a4\u30cb\u30f3\u30b0"
+    ]
+  },
+  "Title_The_Stand": {
+    "strings": [
+      "\u30b6\u30fb\u30b9\u30bf\u30f3\u30c9"
+    ]
+  },
+  "Title_The_Tempest": {
+    "strings": [
+      "\u30c6\u30f3\u30da\u30b9\u30c8"
+    ]
+  },
+  "Title_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "\u6771\u65b9\u898b\u805e\u9332"
+    ]
+  },
+  "Title_The_Two_Towers": {
+    "strings": [
+      "\u4e8c\u3064\u306e\u5854"
+    ]
+  },
+  "Title_To_Kill_a_Mockingbird": {
+    "strings": [
+      "\u30a2\u30e9\u30d0\u30de\u7269\u8a9e"
+    ]
+  },
+  "Title_To_the_Lighthouse": {
+    "strings": [
+      "\u706f\u53f0\u3078"
+    ]
+  },
+  "Title_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30fc\u3067\u884c\u304f\u76ee\u7684\u5730 TOP50"
+    ]
+  },
+  "Title_Troglobites_Don't_Bite": {
+    "strings": [
+      "\u3053\u308f\u304f\u306a\u3044\u771f\u6d1e\u7a9f\u6027\u52d5\u7269\u305f\u3061"
+    ]
+  },
+  "Title_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "\u6d77\u5e95\u4e8c\u4e07\u91cc"
+    ]
+  },
+  "Title_Wuthering_Heights": {
+    "strings": [
+      "\u5d50\u304c\u4e18"
+    ]
+  },
+  "Title_\u3042\u3089\u3057\u306e\u3088\u308b\u306b": {
+    "strings": [
+      "\u3042\u3089\u3057\u306e\u3088\u308b\u306b"
+    ]
+  },
+  "Title_\u3044\u306a\u3044\u3044\u306a\u3044\u3070\u3042\u3042\u305d\u3073": {
+    "strings": [
+      "\u3044\u306a\u3044\u3044\u306a\u3044\u3070\u3042\u3042\u305d\u3073"
+    ]
+  },
+  "Title_\u3044\u307e\u3001\u4f1a\u3044\u306b\u3086\u304d\u307e\u3059": {
+    "strings": [
+      "\u3044\u307e\u3001\u4f1a\u3044\u306b\u3086\u304d\u307e\u3059"
+    ]
+  },
+  "Title_\u3046\u3093\u3053\u30c9\u30ea\u30eb_\u6f22\u5b57_\u5c0f\u5b663\u5e74\u751f": {
+    "strings": [
+      "\u3046\u3093\u3053\u30c9\u30ea\u30eb \u6f22\u5b57 \u5c0f\u5b663\u5e74\u751f"
+    ]
+  },
+  "Title_\u304a\u8336\u3065\u3051\u6d77\u82d4\u3067\u304a\u3082\u3066\u306a\u3057": {
+    "strings": [
+      "\u304a\u8336\u3065\u3051\u6d77\u82d4\u3067\u304a\u3082\u3066\u306a\u3057"
+    ]
+  },
+  "Title_\u304a\u91d1\u306e\u5927\u5b66": {
+    "strings": [
+      "\u304a\u91d1\u306e\u5927\u5b66"
+    ]
+  },
+  "Title_\u304b\u304c\u307f\u306e\u5f27\u57ce": {
+    "strings": [
+      "\u304b\u304c\u307f\u306e\u5f27\u57ce"
+    ]
+  },
+  "Title_\u304d\u307f\u306e\u3053\u3068\u304b\u3099_\u305f\u3099\u3044\u3059\u304d": {
+    "strings": [
+      "\u304d\u307f\u306e\u3053\u3068\u304b\u3099 \u305f\u3099\u3044\u3059\u304d"
+    ]
+  },
+  "Title_\u3053\u3053\u308d": {
+    "strings": [
+      "\u3053\u3053\u308d"
+    ]
+  },
+  "Title_\u3053\u308d\u3061\u3083\u3093\u306f\u3060\u3093\u3054\u3080\u3057": {
+    "strings": [
+      "\u3053\u308d\u3061\u3083\u3093\u306f\u3060\u3093\u3054\u3080\u3057"
+    ]
+  },
+  "Title_\u3056\u3064\u65c5-1": {
+    "strings": [
+      "\u3056\u3064\u65c5-1"
+    ]
+  },
+  "Title_\u3056\u3093\u306d\u3093?_\u3073\u3063\u304f\u308a!_\u6587\u623f\u5177\u306e\u3072\u307f\u3064\u4e8b\u5178": {
+    "strings": [
+      "\u3056\u3093\u306d\u3093? \u3073\u3063\u304f\u308a! \u6587\u623f\u5177\u306e\u3072\u307f\u3064\u4e8b\u5178"
+    ]
+  },
+  "Title_\u305d\u3057\u3066\u8ab0\u3082\u3044\u306a\u304f\u306a\u3063\u305f": {
+    "strings": [
+      "\u305d\u3057\u3066\u8ab0\u3082\u3044\u306a\u304f\u306a\u3063\u305f"
+    ]
+  },
+  "Title_\u305f\u306e\u3057\u3044\u4e16\u754c\u306e\u56fd": {
+    "strings": [
+      "\u305f\u306e\u3057\u3044\u4e16\u754c\u306e\u56fd"
+    ]
+  },
+  "Title_\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b": {
+    "strings": [
+      "\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b"
+    ]
+  },
+  "Title_\u3075\u305f\u308a\u306f\u3044\u3064\u3082": {
+    "strings": [
+      "\u3075\u305f\u308a\u306f\u3044\u3064\u3082"
+    ]
+  },
+  "Title_\u307e\u3061\u304b\u3069\u30ac\u30fc\u30c9\u30d1\u30a4\u30d7\u56f3\u9451": {
+    "strings": [
+      "\u307e\u3061\u304b\u3069\u30ac\u30fc\u30c9\u30d1\u30a4\u30d7\u56f3\u9451"
+    ]
+  },
+  "Title_\u307e\u3093\u304c\u4eba\u7269\u4f1d_\u5742\u672c\u9f8d\u99ac": {
+    "strings": [
+      "\u307e\u3093\u304c\u4eba\u7269\u4f1d \u5742\u672c\u9f8d\u99ac"
+    ]
+  },
+  "Title_\u307e\u3093\u304c\u65e5\u672c\u6614\u3070\u306a\u3057101": {
+    "strings": [
+      "\u307e\u3093\u304c\u65e5\u672c\u6614\u3070\u306a\u3057101"
+    ]
+  },
+  "Title_\u3088\u308a\u5c11\u306a\u3044\u751f\u304d\u65b9_\u3082\u306e\u3092\u624b\u653e\u3057\u3066\u8c4a\u304b\u306b\u306a\u308b": {
+    "strings": [
+      "\u3088\u308a\u5c11\u306a\u3044\u751f\u304d\u65b9 \u3082\u306e\u3092\u624b\u653e\u3057\u3066\u8c4a\u304b\u306b\u306a\u308b"
+    ]
+  },
+  "Title_\u30a2\u30f3\u306e\u9752\u6625": {
+    "strings": [
+      "\u30a2\u30f3\u306e\u9752\u6625"
+    ]
+  },
+  "Title_\u30a8\u30eb\u30de\u30fc\u306e\u307c\u3046\u3051\u3093": {
+    "strings": [
+      "\u30a8\u30eb\u30de\u30fc\u306e\u307c\u3046\u3051\u3093"
+    ]
+  },
+  "Title_\u30aa\u30c8\u30ca\u306e\u3054\u307b\u3046\u3073\u30d3\u30b8\u30db\u65c5": {
+    "strings": [
+      "\u30aa\u30c8\u30ca\u306e\u3054\u307b\u3046\u3073\u30d3\u30b8\u30db\u65c5"
+    ]
+  },
+  "Title_\u30ab\u30c8\u30de\u30f3\u30ba\u306b\u98db\u3070\u3055\u308c\u3066": {
+    "strings": [
+      "\u30ab\u30c8\u30de\u30f3\u30ba\u306b\u98db\u3070\u3055\u308c\u3066"
+    ]
+  },
+  "Title_\u30ab\u30c8\u30ea\u3068\u7720\u308c\u308b\u77f3\u306e\u8857": {
+    "strings": [
+      "\u30ab\u30c8\u30ea\u3068\u7720\u308c\u308b\u77f3\u306e\u8857"
+    ]
+  },
+  "Title_\u30b5\u30e8\u30ca\u30e9\u30a4\u30c4\u30ab": {
+    "strings": [
+      "\u30b5\u30e8\u30ca\u30e9\u30a4\u30c4\u30ab"
+    ]
+  },
+  "Title_\u30b5\u65c5\uff5e\u30ea\u30c8\u30a2\u30cb\u30a2\u30fb\u30e9\u30c8\u30d3\u30a2\u7de8": {
+    "strings": [
+      "\u30b5\u65c5\uff5e\u30ea\u30c8\u30a2\u30cb\u30a2\u30fb\u30e9\u30c8\u30d3\u30a2\u7de8"
+    ]
+  },
+  "Title_\u30b9\u30af\u30ef\u30c3\u30c8\u3084\u3063\u3068\u3051": {
+    "strings": [
+      "\u30b9\u30af\u30ef\u30c3\u30c8\u3084\u3063\u3068\u3051"
+    ]
+  },
+  "Title_\u30bb\u30ed\u5f3e\u304d\u306e\u30b4\u30fc\u30b7\u30e5": {
+    "strings": [
+      "\u30bb\u30ed\u5f3e\u304d\u306e\u30b4\u30fc\u30b7\u30e5"
+    ]
+  },
+  "Title_\u30bf\u30c6\u306e\u56fd_reboot_1": {
+    "strings": [
+      "\u30bf\u30c6\u306e\u56fd reboot 1"
+    ]
+  },
+  "Title_\u30c4\u30df\u30c7\u30df\u30c3\u30af": {
+    "strings": [
+      "\u30c4\u30df\u30c7\u30df\u30c3\u30af"
+    ]
+  },
+  "Title_\u30c8\u30e0\u306f\u771f\u591c\u4e2d\u306e\u5ead\u3067": {
+    "strings": [
+      "\u30c8\u30e0\u306f\u771f\u591c\u4e2d\u306e\u5ead\u3067"
+    ]
+  },
+  "Title_\u30c9\u30a4\u30c4\u753a\u304b\u3089\u753a\u3078": {
+    "strings": [
+      "\u30c9\u30a4\u30c4\u753a\u304b\u3089\u753a\u3078"
+    ]
+  },
+  "Title_\u30d1\u30ea\u3067\u30e1\u30b7\u3092\u98df\u3046\u3002": {
+    "strings": [
+      "\u30d1\u30ea\u3067\u30e1\u30b7\u3092\u98df\u3046\u3002"
+    ]
+  },
+  "Title_\u30d3\u30c3\u30b0\u30d0\u30f3\u5b87\u5b99\u8ad6_(\u4e0a)": {
+    "strings": [
+      "\u30d3\u30c3\u30b0\u30d0\u30f3\u5b87\u5b99\u8ad6 (\u4e0a)"
+    ]
+  },
+  "Title_\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u6700\u7d42\u5b9a\u7406": {
+    "strings": [
+      "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u6700\u7d42\u5b9a\u7406"
+    ]
+  },
+  "Title_\u30d5\u30a9\u30ed\u30ef\u30fc\u3055\u3093\u306e\u672c\u5f53\u306b\u3042\u3063\u305f\u6016\u3044\u8a71(1)": {
+    "strings": [
+      "\u30d5\u30a9\u30ed\u30ef\u30fc\u3055\u3093\u306e\u672c\u5f53\u306b\u3042\u3063\u305f\u6016\u3044\u8a71(1)"
+    ]
+  },
+  "Title_\u30dd\u30c4\u30f3\u3068\u79d8\u5883\u99c5": {
+    "strings": [
+      "\u30dd\u30c4\u30f3\u3068\u79d8\u5883\u99c5"
+    ]
+  },
+  "Title_\u30de\u30b9\u30ab\u30ec\u30fc\u30c9\u30fb\u30b2\u30fc\u30e0": {
+    "strings": [
+      "\u30de\u30b9\u30ab\u30ec\u30fc\u30c9\u30fb\u30b2\u30fc\u30e0"
+    ]
+  },
+  "Title_\u30de\u30ea\u30a2\u30fb\u30b8\u30d3\u30fc\u30e9\u30fb\u30e1\u30fc\u30ea\u30a2\u30f3_\u87f2\u611b\u305a\u308b\u5973": {
+    "strings": [
+      "\u30de\u30ea\u30a2\u30fb\u30b8\u30d3\u30fc\u30e9\u30fb\u30e1\u30fc\u30ea\u30a2\u30f3 \u87f2\u611b\u305a\u308b\u5973"
+    ]
+  },
+  "Title_\u30e2\u30e2": {
+    "strings": [
+      "\u30e2\u30e2"
+    ]
+  },
+  "Title_\u30ed\u30fc\u30c9\u30fb\u30a8\u30eb\u30e1\u30ed\u30a4\uff29\uff29\u4e16\u306e\u4e8b\u4ef6\u7c3f\u3000\uff08\uff11\uff09": {
+    "strings": [
+      "\u30ed\u30fc\u30c9\u30fb\u30a8\u30eb\u30e1\u30ed\u30a4\uff29\uff29\u4e16\u306e\u4e8b\u4ef6\u7c3f\u3000\uff08\uff11\uff09"
+    ]
+  },
+  "Title_\u4e16\u754c\u306e\u304b\u308f\u3044\u3044\u6563\u6b69\u9053": {
+    "strings": [
+      "\u4e16\u754c\u306e\u304b\u308f\u3044\u3044\u6563\u6b69\u9053"
+    ]
+  },
+  "Title_\u4e16\u754c\u306e\u4e2d\u5fc3\u3067\uff64\u611b\u3092\u3055\u3051\u3076": {
+    "strings": [
+      "\u4e16\u754c\u306e\u4e2d\u5fc3\u3067\uff64\u611b\u3092\u3055\u3051\u3076"
+    ]
+  },
+  "Title_\u4e16\u754c\u306e\u56fd\u5927\u767e\u79d1": {
+    "strings": [
+      "\u4e16\u754c\u306e\u56fd\u5927\u767e\u79d1"
+    ]
+  },
+  "Title_\u4eba\u9b5a\u304c\u9003\u3052\u305f": {
+    "strings": [
+      "\u4eba\u9b5a\u304c\u9003\u3052\u305f"
+    ]
+  },
+  "Title_\u50d5\u3068\u541b\u306e\u5927\u5207\u306a\u8a71(1)": {
+    "strings": [
+      "\u50d5\u3068\u541b\u306e\u5927\u5207\u306a\u8a71(1)"
+    ]
+  },
+  "Title_\u50d5\u306b\u306f\u9ce5\u306e\u8a00\u8449\u304c\u308f\u304b\u308b": {
+    "strings": [
+      "\u50d5\u306b\u306f\u9ce5\u306e\u8a00\u8449\u304c\u308f\u304b\u308b"
+    ]
+  },
+  "Title_\u5149\u304c\u6b7b\u3093\u3060\u590f\u30001": {
+    "strings": [
+      "\u5149\u304c\u6b7b\u3093\u3060\u590f\u30001"
+    ]
+  },
+  "Title_\u5165\u9580_\u72af\u7f6a\u5fc3\u7406\u5b66": {
+    "strings": [
+      "\u5165\u9580 \u72af\u7f6a\u5fc3\u7406\u5b66"
+    ]
+  },
+  "Title_\u53e4\u5178\u843d\u8a9e100\u5e2d": {
+    "strings": [
+      "\u53e4\u5178\u843d\u8a9e100\u5e2d"
+    ]
+  },
+  "Title_\u540d\u63a2\u5075\u30b3\u30ca\u30f3\uff08\uff11\uff09": {
+    "strings": [
+      "\u540d\u63a2\u5075\u30b3\u30ca\u30f3\uff08\uff11\uff09"
+    ]
+  },
+  "Title_\u541b\u306e\u81b5\u81d3\u3092\u305f\u3079\u305f\u3044": {
+    "strings": [
+      "\u541b\u306e\u81b5\u81d3\u3092\u305f\u3079\u305f\u3044"
+    ]
+  },
+  "Title_\u571f\u4ff5\u306e\u9b45\u529b\u3068\u79d8\u8a71": {
+    "strings": [
+      "\u571f\u4ff5\u306e\u9b45\u529b\u3068\u79d8\u8a71"
+    ]
+  },
+  "Title_\u5927\u304d\u306a\u68ee\u306e\u5c0f\u3055\u306a\u5bb6": {
+    "strings": [
+      "\u5927\u304d\u306a\u68ee\u306e\u5c0f\u3055\u306a\u5bb6"
+    ]
+  },
+  "Title_\u5927\u4eba\u306e\u3072\u3068\u308a\u65c5\u306e\u59cb\u3081\u65b9": {
+    "strings": [
+      "\u5927\u4eba\u306e\u3072\u3068\u308a\u65c5\u306e\u59cb\u3081\u65b9"
+    ]
+  },
+  "Title_\u5927\u5668\u6669\u6210\u5217\u4f1d": {
+    "strings": [
+      "\u5927\u5668\u6669\u6210\u5217\u4f1d"
+    ]
+  },
+  "Title_\u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6": {
+    "strings": [
+      "\u5927\u8349\u539f\u306e\u5c0f\u3055\u306a\u5bb6"
+    ]
+  },
+  "Title_\u5927\u8feb\u529b!_\u65e5\u672c\u306e\u5996\u602a\u5927\u767e\u79d1": {
+    "strings": [
+      "\u5927\u8feb\u529b! \u65e5\u672c\u306e\u5996\u602a\u5927\u767e\u79d1"
+    ]
+  },
+  "Title_\u5927\u962a\uff65\u95a2\u897f\u4e07\u535a\u3074\u3042_\u5b8c\u5168\u653b\u7565\u7de8": {
+    "strings": [
+      "\u5927\u962a\uff65\u95a2\u897f\u4e07\u535a\u3074\u3042 \u5b8c\u5168\u653b\u7565\u7de8"
+    ]
+  },
+  "Title_\u5929\u4f7f\u306e\u907a\u8a00": {
+    "strings": [
+      "\u5929\u4f7f\u306e\u907a\u8a00"
+    ]
+  },
+  "Title_\u5bb6\u8cc3\u306e\u5b89\u3044\u90e8\u5c4b": {
+    "strings": [
+      "\u5bb6\u8cc3\u306e\u5b89\u3044\u90e8\u5c4b"
+    ]
+  },
+  "Title_\u5c0f\u8aac_\u541b\u306e\u540d\u306f\u3002": {
+    "strings": [
+      "\u5c0f\u8aac \u541b\u306e\u540d\u306f\u3002"
+    ]
+  },
+  "Title_\u6016\u3044\u7d75": {
+    "strings": [
+      "\u6016\u3044\u7d75"
+    ]
+  },
+  "Title_\u604b\u611b\u306e\u5927\u5b66": {
+    "strings": [
+      "\u604b\u611b\u306e\u5927\u5b66"
+    ]
+  },
+  "Title_\u6226\u56fd\u6642\u4ee3\u3092\u5909\u3048\u305f\u5408\u6226\u3068\u57ce": {
+    "strings": [
+      "\u6226\u56fd\u6642\u4ee3\u3092\u5909\u3048\u305f\u5408\u6226\u3068\u57ce"
+    ]
+  },
+  "Title_\u624b\u306e\u3072\u3089\u306e\u4eac": {
+    "strings": [
+      "\u624b\u306e\u3072\u3089\u306e\u4eac"
+    ]
+  },
+  "Title_\u6368\u3066\u3089\u308c\u305f\u50d5\u3068\u6bcd\u732b\u3068\u5947\u8de1": {
+    "strings": [
+      "\u6368\u3066\u3089\u308c\u305f\u50d5\u3068\u6bcd\u732b\u3068\u5947\u8de1"
+    ]
+  },
+  "Title_\u65ac\u9996\u306e\u68ee": {
+    "strings": [
+      "\u65ac\u9996\u306e\u68ee"
+    ]
+  },
+  "Title_\u65c5\u3092\u3059\u308b\u6728": {
+    "strings": [
+      "\u65c5\u3092\u3059\u308b\u6728"
+    ]
+  },
+  "Title_\u65c5\u597d\u304d\u306e\u305f\u3081\u306e\u9244\u9053\u7d00\u884c": {
+    "strings": [
+      "\u65c5\u597d\u304d\u306e\u305f\u3081\u306e\u9244\u9053\u7d00\u884c"
+    ]
+  },
+  "Title_\u65e5\u672c100\u540d\u57ce\u306b\u884c\u3053\u3046": {
+    "strings": [
+      "\u65e5\u672c100\u540d\u57ce\u306b\u884c\u3053\u3046"
+    ]
+  },
+  "Title_\u65e5\u672c\u306e\u7d76\u666f_\u8d85\u5b8c\u5168\u7248": {
+    "strings": [
+      "\u65e5\u672c\u306e\u7d76\u666f \u8d85\u5b8c\u5168\u7248"
+    ]
+  },
+  "Title_\u65e5\u672c\u30a2\u30a4\u30b9\u30af\u30ed\u30cb\u30af\u30eb": {
+    "strings": [
+      "\u65e5\u672c\u30a2\u30a4\u30b9\u30af\u30ed\u30cb\u30af\u30eb"
+    ]
+  },
+  "Title_\u65e5\u672c\u767e\u3072\u306a\u6cc9": {
+    "strings": [
+      "\u65e5\u672c\u767e\u3072\u306a\u6cc9"
+    ]
+  },
+  "Title_\u65e5\u672c\u9152\u30de\u30cb\u30a2\u30c3\u30af\uff22\uff2f\uff2f\uff2b": {
+    "strings": [
+      "\u65e5\u672c\u9152\u30de\u30cb\u30a2\u30c3\u30af\uff22\uff2f\uff2f\uff2b"
+    ]
+  },
+  "Title_\u660e\u65e5\u3001\u79c1\u306f\u8ab0\u304b\u306e\u30ab\u30ce\u30b8\u30e7_(1)": {
+    "strings": [
+      "\u660e\u65e5\u3001\u79c1\u306f\u8ab0\u304b\u306e\u30ab\u30ce\u30b8\u30e7 (1)"
+    ]
+  },
+  "Title_\u661f\u3068\u5929\u4f53\u89b3\u6e2c\u3068\u65c5<nobr>\u306e\u672c</nobr>": {
+    "strings": [
+      "\u661f\u3068\u5929\u4f53\u89b3\u6e2c\u3068\u65c5<nobr>\u306e\u672c</nobr>"
+    ]
+  },
+  "Title_\u6708\u306e\u5f71_\u5f71\u306e\u6d77_(\u4e0a)_\u5341\u4e8c\u56fd\u8a18_1": {
+    "strings": [
+      "\u6708\u306e\u5f71 \u5f71\u306e\u6d77 (\u4e0a) \u5341\u4e8c\u56fd\u8a18 1"
+    ]
+  },
+  "Title_\u6bba\u4eba\u72af\u306f\u305d\u3053\u306b\u3044\u308b": {
+    "strings": [
+      "\u6bba\u4eba\u72af\u306f\u305d\u3053\u306b\u3044\u308b"
+    ]
+  },
+  "Title_\u6c5f\u6238\u306e\u7528\u8a9e\u8f9e\u5178": {
+    "strings": [
+      "\u6c5f\u6238\u306e\u7528\u8a9e\u8f9e\u5178"
+    ]
+  },
+  "Title_\u6ce8\u6587\u306e\u591a\u3044\u6599\u7406\u5e97": {
+    "strings": [
+      "\u6ce8\u6587\u306e\u591a\u3044\u6599\u7406\u5e97"
+    ]
+  },
+  "Title_\u6d44\u5316\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u5de1\u308a": {
+    "strings": [
+      "\u6d44\u5316\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u5de1\u308a"
+    ]
+  },
+  "Title_\u798d": {
+    "strings": [
+      "\u798d"
+    ]
+  },
+  "Title_\u7d30\u96ea": {
+    "strings": [
+      "\u7d30\u96ea"
+    ]
+  },
+  "Title_\u7d42\u308a\u306a\u304d\u591c\u306b\u751f\u308c\u3064\u304f": {
+    "strings": [
+      "\u7d42\u308a\u306a\u304d\u591c\u306b\u751f\u308c\u3064\u304f"
+    ]
+  },
+  "Title_\u7d76\u666fCAMP_GUIDE": {
+    "strings": [
+      "\u7d76\u666fCAMP GUIDE"
+    ]
+  },
+  "Title_\u85ac\u81b3\u3067\u3082\u8a66\u3057\u3066\u307f\u3088\u304b": {
+    "strings": [
+      "\u85ac\u81b3\u3067\u3082\u8a66\u3057\u3066\u307f\u3088\u304b"
+    ]
+  },
+  "Title_\u8d64\u6bdb\u306e\u30a2\u30f3": {
+    "strings": [
+      "\u8d64\u6bdb\u306e\u30a2\u30f3"
+    ]
+  },
+  "Title_\u9060\u3044\u592a\u9f13": {
+    "strings": [
+      "\u9060\u3044\u592a\u9f13"
+    ]
+  },
+  "Title_\u97d3\u56fd\u30c9\u30e9\u30de\u6cbc\u306b\u30cf\u30de\u3063\u3066\u307f\u305f\u3089": {
+    "strings": [
+      "\u97d3\u56fd\u30c9\u30e9\u30de\u6cbc\u306b\u30cf\u30de\u3063\u3066\u307f\u305f\u3089"
+    ]
+  },
+  "Title_\u9ad8\u6162\u3068\u504f\u898b": {
+    "strings": [
+      "\u9ad8\u6162\u3068\u504f\u898b"
+    ]
+  },
+  "Title_\u9b3c\u5e73\u72af\u79d1\u5e33\uff08\u4e00\uff09": {
+    "strings": [
+      "\u9b3c\u5e73\u72af\u79d1\u5e33\uff08\u4e00\uff09"
+    ]
+  },
+  "Title_\u9b54\u5973\u3068\u50ad\u5175": {
+    "strings": [
+      "\u9b54\u5973\u3068\u50ad\u5175"
+    ]
+  }
+}

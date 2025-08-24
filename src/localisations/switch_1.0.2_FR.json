@@ -1,0 +1,2662 @@
+{
+  "Author_#Title_EN": {
+    "strings": [
+      "Author fr_FR"
+    ]
+  },
+  "Author_#Title_fr_FR": {
+    "strings": [
+      "Author fr_FR"
+    ]
+  },
+  "Author_(Re)naissance_d'un_nomade": {
+    "strings": [
+      "Bastien Delesalle"
+    ]
+  },
+  "Author_A_Clash_of_Kings": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Collection_of_Poems": {
+    "strings": [
+      "St. Bookston"
+    ]
+  },
+  "Author_A_Dance_With_Dragons": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Feast_for_Crows": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Fire_Upon_the_Deep": {
+    "strings": [
+      "Vernor Vinge"
+    ]
+  },
+  "Author_A_Game_of_Thrones": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_A_Senseless_Power": {
+    "strings": [
+      "St. Bookston"
+    ]
+  },
+  "Author_A_Short_History_of_Nearly_Everything": {
+    "strings": [
+      "Bill Bryson"
+    ]
+  },
+  "Author_A_Storm_of_Swords": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Study_in_Scarlet": {
+    "strings": [
+      "Arthur Conan Doyle"
+    ]
+  },
+  "Author_A_Wrinkle_in_Time": {
+    "strings": [
+      "Madeleine L'Engle"
+    ]
+  },
+  "Author_After_the_Funeral": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "Lewis Carroll"
+    ]
+  },
+  "Author_All's_Well_That_Ends_Well": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_American_Psycho": {
+    "strings": [
+      "Bret Easton Ellis"
+    ]
+  },
+  "Author_Anathem": {
+    "strings": [
+      "Neal Stephenson"
+    ]
+  },
+  "Author_Angels_&_Demons": {
+    "strings": [
+      "Dan Brown"
+    ]
+  },
+  "Author_Animal_Farm": {
+    "strings": [
+      "George Orwell"
+    ]
+  },
+  "Author_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "Jules Verne"
+    ]
+  },
+  "Author_Artemis_Fowl": {
+    "strings": [
+      "Eoin Colfer"
+    ]
+  },
+  "Author_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "Hajime Isayama"
+    ]
+  },
+  "Author_Au_revoir_Blaireau": {
+    "strings": [
+      "Susan Varley"
+    ]
+  },
+  "Author_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "Toshikazu Kawaguchi"
+    ]
+  },
+  "Author_Beloved": {
+    "strings": [
+      "Toni Morrison"
+    ]
+  },
+  "Author_Beowulf": {
+    "strings": [
+      "Inconnu, trad. par S. Heaney"
+    ]
+  },
+  "Author_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "Andrzej Sapkowski"
+    ]
+  },
+  "Author_Breakfast_du_monde\u00a0:_40_recettes_pour_voyager_d\u00e8s_le_petit-dej'\u00a0!": {
+    "strings": [
+      "Julie Schwob"
+    ]
+  },
+  "Author_By_Train_Through_Spain": {
+    "strings": [
+      "Amerigo Marchesi"
+    ]
+  },
+  "Author_Call_Me_by_Your_Name": {
+    "strings": [
+      "Andr\u00e9 Aciman"
+    ]
+  },
+  "Author_Carrie": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Catching_Fire": {
+    "strings": [
+      "Suzanne Collins"
+    ]
+  },
+  "Author_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "Roald Dahl"
+    ]
+  },
+  "Author_Clairseach,_la_harpe_irlandaise": {
+    "strings": [
+      "Christine Y Delyn"
+    ]
+  },
+  "Author_Comment_soigner_vos_plantes_d'int\u00e9rieur": {
+    "strings": [
+      "David Longman"
+    ]
+  },
+  "Author_Concevoir_un_jeu_vid\u00e9o": {
+    "strings": [
+      "Marc Albinet"
+    ]
+  },
+  "Author_Coraline": {
+    "strings": [
+      "Neil Gaiman"
+    ]
+  },
+  "Author_Cor\u00e9e_gourmande\u00a0:_voyage_culinaire_au_pays_du_matin_calme": {
+    "strings": [
+      "Luna Kying"
+    ]
+  },
+  "Author_Crime_and_Punishment": {
+    "strings": [
+      "Fyodor Dostoevsky"
+    ]
+  },
+  "Author_Cyrano_de_Bergerac": {
+    "strings": [
+      "Edmond Rostand"
+    ]
+  },
+  "Author_Dark_Places": {
+    "strings": [
+      "Gillian Flynn"
+    ]
+  },
+  "Author_Death_Note;Volume_1": {
+    "strings": [
+      "Tsugumi Ohba"
+    ]
+  },
+  "Author_Death_on_the_Nile": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_Dessiner_un_carnet_de_voyage\u00a0:_astuces_pour_tous\u00a0!": {
+    "strings": [
+      "Renata Lahalle"
+    ]
+  },
+  "Author_Discovering_the_Greater_Bookston_Region": {
+    "strings": [
+      "Peter Spinner"
+    ]
+  },
+  "Author_Don_Quixote": {
+    "strings": [
+      "Miguel de Cervantes"
+    ]
+  },
+  "Author_Dracula": {
+    "strings": [
+      "Bram Stoker"
+    ]
+  },
+  "Author_Du_monde_entier_au_c\u0153ur_du_monde": {
+    "strings": [
+      "Blaise Cendrars"
+    ]
+  },
+  "Author_Dune": {
+    "strings": [
+      "Frank Herbert"
+    ]
+  },
+  "Author_Emma": {
+    "strings": [
+      "Jane Austen"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._2": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._3": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._4": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._5": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Fern": {
+    "strings": [
+      "Fern Estrada"
+    ]
+  },
+  "Author_Fire_&_Blood": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_Five_on_a_Treasure_Island": {
+    "strings": [
+      "Enid Blyton"
+    ]
+  },
+  "Author_France_secr\u00e8te": {
+    "strings": [
+      "Patrick Baud"
+    ]
+  },
+  "Author_Frankenstein": {
+    "strings": [
+      "Mary Shelley"
+    ]
+  },
+  "Author_Full_Dark,_No_Stars": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Gemology:_A_Study_in_Ruby": {
+    "strings": [
+      "Ellie Obsidia"
+    ]
+  },
+  "Author_Gone_Girl": {
+    "strings": [
+      "Gillian Flynn"
+    ]
+  },
+  "Author_Good_Night,_Gorilla": {
+    "strings": [
+      "Peggy Rathmann"
+    ]
+  },
+  "Author_Good_Omens": {
+    "strings": [
+      "Neil Gaiman & Terry Pratchett"
+    ]
+  },
+  "Author_Great_Expectations": {
+    "strings": [
+      "Charles Dickens"
+    ]
+  },
+  "Author_Gulliver's_Travels": {
+    "strings": [
+      "Jonathan Swift"
+    ]
+  },
+  "Author_Gyo": {
+    "strings": [
+      "Junji Ito"
+    ]
+  },
+  "Author_Hamlet": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Heartstopper;Volume_1": {
+    "strings": [
+      "Alice Oseman"
+    ]
+  },
+  "Author_Heidi": {
+    "strings": [
+      "Johanna Spyri"
+    ]
+  },
+  "Author_Henry_V": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Henry_VI,_Part_1": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Henry_VI,_Part_3": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "Val Bomier"
+    ]
+  },
+  "Author_Homage_to_Catalonia": {
+    "strings": [
+      "George Orwell"
+    ]
+  },
+  "Author_How_Many_Castles_in_7_Days?": {
+    "strings": [
+      "Stephen Jezek"
+    ]
+  },
+  "Author_Howl's_Moving_Castle": {
+    "strings": [
+      "Diana Wynne Jones"
+    ]
+  },
+  "Author_Howl,_and_Other_Poems": {
+    "strings": [
+      "Allen Ginsberg"
+    ]
+  },
+  "Author_H\u00e9l\u00e8ne": {
+    "strings": [
+      "St. Bookston"
+    ]
+  },
+  "Author_I,_Robot": {
+    "strings": [
+      "Isaac Asimov"
+    ]
+  },
+  "Author_If_Tomorrow_Comes": {
+    "strings": [
+      "Sidney Sheldon"
+    ]
+  },
+  "Author_In_Search_Of:;The_Most_Beautiful_Islands_In_the_World": {
+    "strings": [
+      "Je Hyun"
+    ]
+  },
+  "Author_Inferno": {
+    "strings": [
+      "Dante Alighieri, transl. by A. Esolen"
+    ]
+  },
+  "Author_Inkheart": {
+    "strings": [
+      "Cornelia Funke"
+    ]
+  },
+  "Author_It": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Itin\u00e9raire_litt\u00e9raire_en_Irlande": {
+    "strings": [
+      "Edmond R\u00e9bill\u00e9"
+    ]
+  },
+  "Author_Jane_Eyre": {
+    "strings": [
+      "Charlotte Bront\u00eb"
+    ]
+  },
+  "Author_Jean_Dubuffet": {
+    "strings": [
+      "Jean Dubuffet"
+    ]
+  },
+  "Author_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "Jules Verne"
+    ]
+  },
+  "Author_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "Wu Cheng'en"
+    ]
+  },
+  "Author_Julius_Caesar": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Kiki's_Delivery_Service": {
+    "strings": [
+      "Eiko Kadono"
+    ]
+  },
+  "Author_L'art_et_la_cr\u00e9ation_de_Arcane": {
+    "strings": [
+      "Elisabeth Vincentelli"
+    ]
+  },
+  "Author_L'extraordinaire_voyage_du_fakir_qui_\u00e9tait_rest\u00e9_coinc\u00e9_dans_une_armoire_Ik\u00e9a": {
+    "strings": [
+      "Romain Pu\u00e9rtolas"
+    ]
+  },
+  "Author_La_belle_lisse_poire_du_prince_de_Motordu": {
+    "strings": [
+      "Pef"
+    ]
+  },
+  "Author_La_petite_bible_des_n\u0153uds": {
+    "strings": [
+      "Des Pawson"
+    ]
+  },
+  "Author_La_vie_des_enfants_au_Moyen_\u00c2ge": {
+    "strings": [
+      "Pierre Rich\u00e9 & Dani\u00e8le Alexandre-Bidon"
+    ]
+  },
+  "Author_Latitude_z\u00e9ro\u00a0:_40\u00a0000\u00a0km_pour_partir_\u00e0_la_rencontre_du_monde": {
+    "strings": [
+      "Mike Horn"
+    ]
+  },
+  "Author_Le_Corbusier": {
+    "strings": [
+      "Le Corbusier"
+    ]
+  },
+  "Author_Le_Doudou_m\u00e9chant": {
+    "strings": [
+      "Claude Ponti"
+    ]
+  },
+  "Author_Le_Mouron_Rouge": {
+    "strings": [
+      "Baronne Orczy"
+    ]
+  },
+  "Author_Le_deuxi\u00e8me_sexe": {
+    "strings": [
+      "Simone de Beauvoir"
+    ]
+  },
+  "Author_Le_petit_guide_des_empreintes_animales": {
+    "strings": [
+      "Thomas Baffault"
+    ]
+  },
+  "Author_Le_petit_vieux_qui_a_fait_le_tour_du_monde_(3\u00a0fois)": {
+    "strings": [
+      "L\u00e9onie Bloom"
+    ]
+  },
+  "Author_Le_voyage_de_Shuna": {
+    "strings": [
+      "Hayao Miyazaki"
+    ]
+  },
+  "Author_Les_Bretonnismes": {
+    "strings": [
+      "Herv\u00e9 Lossec"
+    ]
+  },
+  "Author_Les_Miserables": {
+    "strings": [
+      "Victor Hugo"
+    ]
+  },
+  "Author_Les_Pardaillan": {
+    "strings": [
+      "Michel Z\u00e9vaco"
+    ]
+  },
+  "Author_Les_mots_qui_nous_manquent": {
+    "strings": [
+      "Mikol Spiechowicz"
+    ]
+  },
+  "Author_Little_Women": {
+    "strings": [
+      "Louisa May Alcott"
+    ]
+  },
+  "Author_Ljubljana_-_Un_guide_\u00e0_d\u00e9vorer_comme_un_roman": {
+    "strings": [
+      "Brina Svit"
+    ]
+  },
+  "Author_Looking_for_Alaska": {
+    "strings": [
+      "John Green"
+    ]
+  },
+  "Author_Lord_of_the_Flies": {
+    "strings": [
+      "William Golding"
+    ]
+  },
+  "Author_Love": {
+    "strings": [
+      "Toni Morrison"
+    ]
+  },
+  "Author_Macbeth": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Matilda": {
+    "strings": [
+      "Roald Dahl"
+    ]
+  },
+  "Author_Misery": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Miss_Peregrine's_Home_for_Peculiar_Children": {
+    "strings": [
+      "Ransom Riggs"
+    ]
+  },
+  "Author_Moby-Dick": {
+    "strings": [
+      "Herman Melville"
+    ]
+  },
+  "Author_Momo;or,_The_Grey_Gentlemen": {
+    "strings": [
+      "Michael Ende"
+    ]
+  },
+  "Author_Mrs._Dalloway": {
+    "strings": [
+      "Virginia Woolf"
+    ]
+  },
+  "Author_Much_Ado_About_Nothing": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Murder_on_the_Orient_Express": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_My_Travels_In_East_Africa": {
+    "strings": [
+      "Tao Ryota"
+    ]
+  },
+  "Author_M\u00e9moires_d'une_jeune_fille_rang\u00e9e": {
+    "strings": [
+      "Simone de Beauvoir"
+    ]
+  },
+  "Author_Night_Shift": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Nimona": {
+    "strings": [
+      "N. D. Stevenson"
+    ]
+  },
+  "Author_Nineteen_Eighty-Four": {
+    "strings": [
+      "George Orwell"
+    ]
+  },
+  "Author_Normal_People": {
+    "strings": [
+      "Sally Rooney"
+    ]
+  },
+  "Author_On_Beauty": {
+    "strings": [
+      "Zadie Smith"
+    ]
+  },
+  "Author_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "St. Bookston"
+    ]
+  },
+  "Author_Orlando": {
+    "strings": [
+      "Virginia Woolf"
+    ]
+  },
+  "Author_Othello": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Parable_of_the_Sower": {
+    "strings": [
+      "Octavia E. Butler"
+    ]
+  },
+  "Author_Persuasion": {
+    "strings": [
+      "Jane Austen"
+    ]
+  },
+  "Author_Pet_Sematary": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Plumes_au_vent": {
+    "strings": [
+      "R\u00e9my Basque"
+    ]
+  },
+  "Author_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "C.S. Lewis"
+    ]
+  },
+  "Author_Red,_White_&_Royal_Blue": {
+    "strings": [
+      "Casey McQuiston"
+    ]
+  },
+  "Author_Richard_II": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Romeo_and_Juliet": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Ruy_Blas": {
+    "strings": [
+      "Victor Hugo"
+    ]
+  },
+  "Author_Salom\u00e9": {
+    "strings": [
+      "Oscar Wilde"
+    ]
+  },
+  "Author_Second_Foundation": {
+    "strings": [
+      "Isaac Asimov"
+    ]
+  },
+  "Author_Sense_and_Sensibility": {
+    "strings": [
+      "Jane Austen"
+    ]
+  },
+  "Author_Shirley": {
+    "strings": [
+      "Charlotte Bront\u00eb"
+    ]
+  },
+  "Author_Slov\u00e9nie\u00a0:_tout_ce_que_vous_devez_savoir": {
+    "strings": [
+      "Noah Gil-Smith"
+    ]
+  },
+  "Author_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "Arthur Conan Doyle"
+    ]
+  },
+  "Author_The_Battle_of_the_Labyrinth": {
+    "strings": [
+      "Rick Riordan"
+    ]
+  },
+  "Author_The_Bluest_Eye": {
+    "strings": [
+      "Toni Morrison"
+    ]
+  },
+  "Author_The_Book_of_Tea": {
+    "strings": [
+      "Okakura Kakuzo"
+    ]
+  },
+  "Author_The_Canterbury_Tales": {
+    "strings": [
+      "Geoffrey Chaucer"
+    ]
+  },
+  "Author_The_Canterville_Ghost": {
+    "strings": [
+      "Oscar Wilde"
+    ]
+  },
+  "Author_The_Color_Purple": {
+    "strings": [
+      "Alice Walker"
+    ]
+  },
+  "Author_The_Comedy_of_Errors": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_The_Complete_Robot": {
+    "strings": [
+      "Isaac Asimov"
+    ]
+  },
+  "Author_The_Count_of_Monte_Cristo": {
+    "strings": [
+      "Alexandre Dumas"
+    ]
+  },
+  "Author_The_Curious_Incident_of_the_Dog_in_the_Night-Time": {
+    "strings": [
+      "Mark Haddon"
+    ]
+  },
+  "Author_The_Dispossessed": {
+    "strings": [
+      "Ursula K. Le Guin"
+    ]
+  },
+  "Author_The_Duke_and_I": {
+    "strings": [
+      "Julia Quinn"
+    ]
+  },
+  "Author_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "Edgar Allan Poe"
+    ]
+  },
+  "Author_The_Fault_in_Our_Stars": {
+    "strings": [
+      "John Green"
+    ]
+  },
+  "Author_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "J.R.R. Tolkien"
+    ]
+  },
+  "Author_The_Girl_Who_Played_with_Fire": {
+    "strings": [
+      "Stieg Larsson"
+    ]
+  },
+  "Author_The_Glass_Castle": {
+    "strings": [
+      "Jeannette Walls"
+    ]
+  },
+  "Author_The_God_of_Small_Things": {
+    "strings": [
+      "Arundhati Roy"
+    ]
+  },
+  "Author_The_Great_Gatsby": {
+    "strings": [
+      "F. Scott Fitzgerald"
+    ]
+  },
+  "Author_The_Green_Mile": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Gunslinger": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Handmaid's_Tale": {
+    "strings": [
+      "Margaret Atwood"
+    ]
+  },
+  "Author_The_Happy_Prince_and_Other_Tales": {
+    "strings": [
+      "Oscar Wilde"
+    ]
+  },
+  "Author_The_Hunger_Games": {
+    "strings": [
+      "Suzanne Collins"
+    ]
+  },
+  "Author_The_Importance_of_Being_Earnest": {
+    "strings": [
+      "Oscar Wilde"
+    ]
+  },
+  "Author_The_Invisible_Man": {
+    "strings": [
+      "H. G. Wells"
+    ]
+  },
+  "Author_The_Last_Battle;(Chronicles_of_Narnia)": {
+    "strings": [
+      "C.S. Lewis"
+    ]
+  },
+  "Author_The_Last_Wish;(The_Witcher)": {
+    "strings": [
+      "Andrzej Sapkowski"
+    ]
+  },
+  "Author_The_Lightning_Thief;(Percy_Jackson_#1)": {
+    "strings": [
+      "Rick Riordan"
+    ]
+  },
+  "Author_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "C. S. Lewis"
+    ]
+  },
+  "Author_The_Little_Prince": {
+    "strings": [
+      "Antoine de Saint-Exup\u00e9ry"
+    ]
+  },
+  "Author_The_Lorax": {
+    "strings": [
+      "Dr. Seuss"
+    ]
+  },
+  "Author_The_Lost_Symbol": {
+    "strings": [
+      "Dan Brown"
+    ]
+  },
+  "Author_The_Martian": {
+    "strings": [
+      "Andy Weir"
+    ]
+  },
+  "Author_The_Martian_Chronicles": {
+    "strings": [
+      "Ray Bradbury"
+    ]
+  },
+  "Author_The_Maze_Runner": {
+    "strings": [
+      "James Dashner"
+    ]
+  },
+  "Author_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_The_Neverending_Story": {
+    "strings": [
+      "Michael Ende"
+    ]
+  },
+  "Author_The_Odyssey": {
+    "strings": [
+      "Homer, trad. par Knox & Fagles"
+    ]
+  },
+  "Author_The_Outsider": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Outsiders": {
+    "strings": [
+      "S. E. Hinton"
+    ]
+  },
+  "Author_The_Perks_of_Being_a_Wallflower": {
+    "strings": [
+      "Stephen Chbosky"
+    ]
+  },
+  "Author_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "Oscar Wilde"
+    ]
+  },
+  "Author_The_Raven": {
+    "strings": [
+      "Edgar Allan Poe"
+    ]
+  },
+  "Author_The_Return_of_the_King": {
+    "strings": [
+      "J.R.R. Tolkien"
+    ]
+  },
+  "Author_The_Sea_of_Monsters;(Percy_Jackson_#2)": {
+    "strings": [
+      "Rick Riordan"
+    ]
+  },
+  "Author_The_Secret_Garden": {
+    "strings": [
+      "Frances Hodgson Burnett"
+    ]
+  },
+  "Author_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "H. A. Pennington"
+    ]
+  },
+  "Author_The_Seven_Husbands_of_Evelyn_Hugo": {
+    "strings": [
+      "Taylor Jenkins Reid"
+    ]
+  },
+  "Author_The_Shadow_of_the_Wind": {
+    "strings": [
+      "Carlos Ruiz Zaf\u00f3n"
+    ]
+  },
+  "Author_The_Shining": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Silence_of_the_Lambs": {
+    "strings": [
+      "Thomas Harris"
+    ]
+  },
+  "Author_The_Silent_Patient": {
+    "strings": [
+      "Alex Michaelides"
+    ]
+  },
+  "Author_The_Silmarillion": {
+    "strings": [
+      "J.R.R. Tolkien"
+    ]
+  },
+  "Author_The_Snowy_Day": {
+    "strings": [
+      "Ezra Jack Keats"
+    ]
+  },
+  "Author_The_Stand": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Story_of_Doctor_Dolittle": {
+    "strings": [
+      "Hugh Lofting"
+    ]
+  },
+  "Author_The_Strange_Case_of_Dr._Jekyll_and_Mr._Hyde": {
+    "strings": [
+      "Robert Louis Stevenson"
+    ]
+  },
+  "Author_The_Tell-Tale_Heart": {
+    "strings": [
+      "Edgar Allan Poe"
+    ]
+  },
+  "Author_The_Tempest": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "Marco Polo"
+    ]
+  },
+  "Author_The_Two_Towers": {
+    "strings": [
+      "J.R.R. Tolkien"
+    ]
+  },
+  "Author_The_War_of_the_Worlds": {
+    "strings": [
+      "H. G. Wells"
+    ]
+  },
+  "Author_The_Yellow_Fairy_Book": {
+    "strings": [
+      "Andrew Lang"
+    ]
+  },
+  "Author_They_Both_Die_at_the_End": {
+    "strings": [
+      "Adam Silvera"
+    ]
+  },
+  "Author_To_Kill_a_Mockingbird": {
+    "strings": [
+      "Harper Lee"
+    ]
+  },
+  "Author_To_the_Lighthouse": {
+    "strings": [
+      "Virginia Woolf"
+    ]
+  },
+  "Author_Tokyo_-_Un_guide_\u00e0_d\u00e9vorer_comme_un_roman": {
+    "strings": [
+      "Emily Itami"
+    ]
+  },
+  "Author_Tomie": {
+    "strings": [
+      "Junji Ito"
+    ]
+  },
+  "Author_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "Tamir Ghasti"
+    ]
+  },
+  "Author_Toute_l'histoire_de_la_Bretagne": {
+    "strings": [
+      "Jean-Jacques Monnier et Jean-Christophe Cassard"
+    ]
+  },
+  "Author_Towards_a_New_Architecture": {
+    "strings": [
+      "Le Corbusier"
+    ]
+  },
+  "Author_Treasure_Island": {
+    "strings": [
+      "Robert Louis Stevenson"
+    ]
+  },
+  "Author_Troglobites_Don't_Bite": {
+    "strings": [
+      "Mayara Ferreira"
+    ]
+  },
+  "Author_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "Jules Verne"
+    ]
+  },
+  "Author_Vendredi_ou_la_Vie_sauvage": {
+    "strings": [
+      "Michel Tournier"
+    ]
+  },
+  "Author_Vol_de_nuit": {
+    "strings": [
+      "Antoine de Saint-Exup\u00e9ry"
+    ]
+  },
+  "Author_Voyager_avec_son_chien": {
+    "strings": [
+      "Little Gypsy et Morgane Trussardi"
+    ]
+  },
+  "Author_Watchmen;(Issue_#12)": {
+    "strings": [
+      "Alan Moore"
+    ]
+  },
+  "Author_Where_the_Wild_Things_Are": {
+    "strings": [
+      "Maurice Sendak"
+    ]
+  },
+  "Author_Wuthering_Heights": {
+    "strings": [
+      "Emily Bront\u00eb"
+    ]
+  },
+  "Author_You've_Reached_Sam": {
+    "strings": [
+      "Dustin Thao"
+    ]
+  },
+  "Book_Attribute_Academic": {
+    "strings": [
+      "^acad\u00e9mique"
+    ]
+  },
+  "Book_Attribute_Age-Rating-Mature": {
+    "strings": [
+      "^pour public averti"
+    ]
+  },
+  "Book_Attribute_Animals": {
+    "strings": [
+      "^animaux"
+    ]
+  },
+  "Book_Attribute_Biography": {
+    "strings": [
+      "^biographie"
+    ]
+  },
+  "Book_Attribute_Classic": {
+    "strings": [
+      "^classique"
+    ]
+  },
+  "Book_Attribute_Combiner": {
+    "strings": [
+      "<b></b>, <b></b>"
+    ]
+  },
+  "Book_Attribute_Coming-of-Age": {
+    "strings": [
+      "^roman initiatique"
+    ]
+  },
+  "Book_Attribute_Contemporary": {
+    "strings": [
+      "^contemporain"
+    ]
+  },
+  "Book_Attribute_Cooking": {
+    "strings": [
+      "^cuisine"
+    ]
+  },
+  "Book_Attribute_Crime": {
+    "strings": [
+      "^policier"
+    ]
+  },
+  "Book_Attribute_Detective": {
+    "strings": [
+      "^d\u00e9tective"
+    ]
+  },
+  "Book_Attribute_Drama": {
+    "strings": [
+      "^drame"
+    ]
+  },
+  "Book_Attribute_Dry": {
+    "strings": [
+      "^monotone"
+    ]
+  },
+  "Book_Attribute_Dystopia": {
+    "strings": [
+      "^dystopie"
+    ]
+  },
+  "Book_Attribute_Encyclopedic": {
+    "strings": [
+      "^encyclop\u00e9die"
+    ]
+  },
+  "Book_Attribute_Epic": {
+    "strings": [
+      "^\u00e9pop\u00e9e"
+    ]
+  },
+  "Book_Attribute_Fact": {
+    "strings": [
+      "^factuel"
+    ]
+  },
+  "Book_Attribute_Fantasy": {
+    "strings": [
+      "^fantasy"
+    ]
+  },
+  "Book_Attribute_Female-Author": {
+    "strings": [
+      "^\u00e9crit par une femme"
+    ]
+  },
+  "Book_Attribute_Fiction": {
+    "strings": [
+      "^fiction"
+    ]
+  },
+  "Book_Attribute_Folklore": {
+    "strings": [
+      "^mythes et l\u00e9gendes"
+    ]
+  },
+  "Book_Attribute_Gore": {
+    "strings": [
+      "^gore"
+    ]
+  },
+  "Book_Attribute_Graphic-Novel": {
+    "strings": [
+      "^roman graphique"
+    ]
+  },
+  "Book_Attribute_Happy-Ending": {
+    "strings": [
+      "^d\u00e9nouement heureux"
+    ]
+  },
+  "Book_Attribute_Historic": {
+    "strings": [
+      "^historique"
+    ]
+  },
+  "Book_Attribute_Horror": {
+    "strings": [
+      "^horreur"
+    ]
+  },
+  "Book_Attribute_Humour": {
+    "strings": [
+      "^humour"
+    ]
+  },
+  "Book_Attribute_Kids": {
+    "strings": [
+      "^jeunesse"
+    ]
+  },
+  "Book_Attribute_Lifestyle": {
+    "strings": [
+      "^guide de vie"
+    ]
+  },
+  "Book_Attribute_Light-Reading": {
+    "strings": [
+      "^lecture l\u00e9g\u00e8re"
+    ]
+  },
+  "Book_Attribute_Long": {
+    "strings": [
+      "^long"
+    ]
+  },
+  "Book_Attribute_Magic": {
+    "strings": [
+      "^magique"
+    ]
+  },
+  "Book_Attribute_Manga": {
+    "strings": [
+      "^manga"
+    ]
+  },
+  "Book_Attribute_Mystery": {
+    "strings": [
+      "^myst\u00e8re"
+    ]
+  },
+  "Book_Attribute_Nature": {
+    "strings": [
+      "^nature"
+    ]
+  },
+  "Book_Attribute_Niche": {
+    "strings": [
+      "^m\u00e9connu"
+    ]
+  },
+  "Book_Attribute_Non-Fiction": {
+    "strings": [
+      "^non-fiction"
+    ]
+  },
+  "Book_Attribute_Novel": {
+    "strings": [
+      "^roman"
+    ]
+  },
+  "Book_Attribute_Outdated": {
+    "strings": [
+      "^obsol\u00e8te"
+    ]
+  },
+  "Book_Attribute_Philosophical": {
+    "strings": [
+      "^philosophique"
+    ]
+  },
+  "Book_Attribute_Play": {
+    "strings": [
+      "^pi\u00e8ce de th\u00e9\u00e2tre"
+    ]
+  },
+  "Book_Attribute_Plot-Twist": {
+    "strings": [
+      "^histoire \u00e0 rebondissement"
+    ]
+  },
+  "Book_Attribute_Poetry": {
+    "strings": [
+      "^po\u00e9sie"
+    ]
+  },
+  "Book_Attribute_Political": {
+    "strings": [
+      "^politique"
+    ]
+  },
+  "Book_Attribute_Pop-Science": {
+    "strings": [
+      "^vulgarisation scientifique"
+    ]
+  },
+  "Book_Attribute_Queer": {
+    "strings": [
+      "^LGBTQ+"
+    ]
+  },
+  "Book_Attribute_Romance": {
+    "strings": [
+      "^romance"
+    ]
+  },
+  "Book_Attribute_Science-Fiction": {
+    "strings": [
+      "^science-fiction"
+    ]
+  },
+  "Book_Attribute_Self-Help": {
+    "strings": [
+      "^d\u00e9veloppement personnel"
+    ]
+  },
+  "Book_Attribute_Self-Printed": {
+    "strings": [
+      "^publi\u00e9s en auto-impression"
+    ]
+  },
+  "Book_Attribute_Series": {
+    "strings": [
+      "^saga"
+    ]
+  },
+  "Book_Attribute_Short": {
+    "strings": [
+      "^court"
+    ]
+  },
+  "Book_Attribute_Space": {
+    "strings": [
+      "^espace"
+    ]
+  },
+  "Book_Attribute_Thriller": {
+    "strings": [
+      "^thriller"
+    ]
+  },
+  "Book_Attribute_Tragic": {
+    "strings": [
+      "^trag\u00e9die"
+    ]
+  },
+  "Book_Attribute_Travel": {
+    "strings": [
+      "^voyage"
+    ]
+  },
+  "Book_Attribute_Travel-Guide": {
+    "strings": [
+      "^guide de voyage"
+    ]
+  },
+  "Book_Attribute_Very-Long": {
+    "strings": [
+      "^tr\u00e8s long"
+    ]
+  },
+  "Book_Attribute_Whodunnit": {
+    "strings": [
+      "^roman \u00e0 \u00e9nigme"
+    ]
+  },
+  "Book_Attribute_YA": {
+    "strings": [
+      "^jeune adulte"
+    ]
+  },
+  "Title_#Title_EN": {
+    "strings": [
+      "Title fr_FR"
+    ]
+  },
+  "Title_(Re)naissance_d'un_nomade": {
+    "strings": [
+      "(Re)naissance d'un nomade"
+    ]
+  },
+  "Title_A_Clash_of_Kings": {
+    "strings": [
+      "Le Tr\u00f4ne de fer, l'int\u00e9grale 2"
+    ]
+  },
+  "Title_A_Collection_of_Poems": {
+    "strings": [
+      "Un recueil de po\u00e8mes"
+    ]
+  },
+  "Title_A_Dance_With_Dragons": {
+    "strings": [
+      "Le Tr\u00f4ne de fer, l'int\u00e9grale 5"
+    ]
+  },
+  "Title_A_Feast_for_Crows": {
+    "strings": [
+      "Le Tr\u00f4ne de fer, l'int\u00e9grale 4"
+    ]
+  },
+  "Title_A_Fire_Upon_the_Deep": {
+    "strings": [
+      "Un feu sur l'ab\u00eeme"
+    ]
+  },
+  "Title_A_Game_of_Thrones": {
+    "strings": [
+      "Le Tr\u00f4ne de fer, l'int\u00e9grale 1"
+    ]
+  },
+  "Title_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "Le Songe d'une nuit d'\u00e9t\u00e9"
+    ]
+  },
+  "Title_A_Senseless_Power": {
+    "strings": [
+      "Un pouvoir absurde"
+    ]
+  },
+  "Title_A_Short_History_of_Nearly_Everything": {
+    "strings": [
+      "Une histoire de tout, ou presque..."
+    ]
+  },
+  "Title_A_Storm_of_Swords": {
+    "strings": [
+      "Le Tr\u00f4ne de fer, l'int\u00e9grale 3"
+    ]
+  },
+  "Title_A_Study_in_Scarlet": {
+    "strings": [
+      "Une \u00e9tude en rouge"
+    ]
+  },
+  "Title_A_Wrinkle_in_Time": {
+    "strings": [
+      "Un raccourci dans le temps"
+    ]
+  },
+  "Title_After_the_Funeral": {
+    "strings": [
+      "Les Indiscr\u00e9tions d'Hercule Poirot"
+    ]
+  },
+  "Title_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "Les Aventures d'Alice au pays des merveilles"
+    ]
+  },
+  "Title_All's_Well_That_Ends_Well": {
+    "strings": [
+      "Tout est bien qui finit bien"
+    ]
+  },
+  "Title_American_Psycho": {
+    "strings": [
+      "American Psycho"
+    ]
+  },
+  "Title_Anathem": {
+    "strings": [
+      "Anat\u00e8m"
+    ]
+  },
+  "Title_Angels_&_Demons": {
+    "strings": [
+      "Anges et D\u00e9mons"
+    ]
+  },
+  "Title_Animal_Farm": {
+    "strings": [
+      "La Ferme des animaux"
+    ]
+  },
+  "Title_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "Le tour du monde en quatre-vingts jours"
+    ]
+  },
+  "Title_Artemis_Fowl": {
+    "strings": [
+      "Artemis Fowl"
+    ]
+  },
+  "Title_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "L'Attaque des Titans",
+      "tome 1"
+    ]
+  },
+  "Title_Au_revoir_Blaireau": {
+    "strings": [
+      "Au revoir Blaireau"
+    ]
+  },
+  "Title_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "Tant que le caf\u00e9 est encore chaud"
+    ]
+  },
+  "Title_Beloved": {
+    "strings": [
+      "Beloved"
+    ]
+  },
+  "Title_Beowulf": {
+    "strings": [
+      "Beowulf"
+    ]
+  },
+  "Title_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "Le Sang des elfes",
+      "(Le Sorceleur)"
+    ]
+  },
+  "Title_Breakfast_du_monde\u00a0:_40_recettes_pour_voyager_d\u00e8s_le_petit-dej'\u00a0!": {
+    "strings": [
+      "Breakfast du monde\u00a0: 40 recettes pour voyager d\u00e8s le petit-dej'\u00a0!"
+    ]
+  },
+  "Title_By_Train_Through_Spain": {
+    "strings": [
+      "L'Espagne en train"
+    ]
+  },
+  "Title_Call_Me_by_Your_Name": {
+    "strings": [
+      "Call me by your name"
+    ]
+  },
+  "Title_Carrie": {
+    "strings": [
+      "Carrie"
+    ]
+  },
+  "Title_Catching_Fire": {
+    "strings": [
+      "L'Embrasement"
+    ]
+  },
+  "Title_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "Charlie et la chocolaterie"
+    ]
+  },
+  "Title_Clairseach,_la_harpe_irlandaise": {
+    "strings": [
+      "Clairseach, la harpe irlandaise"
+    ]
+  },
+  "Title_Comment_soigner_vos_plantes_d'int\u00e9rieur": {
+    "strings": [
+      "Comment soigner vos plantes d'int\u00e9rieur"
+    ]
+  },
+  "Title_Concevoir_un_jeu_vid\u00e9o": {
+    "strings": [
+      "Concevoir un jeu vid\u00e9o"
+    ]
+  },
+  "Title_Coraline": {
+    "strings": [
+      "Coraline"
+    ]
+  },
+  "Title_Cor\u00e9e_gourmande\u00a0:_voyage_culinaire_au_pays_du_matin_calme": {
+    "strings": [
+      "Cor\u00e9e gourmande\u00a0: voyage culinaire au pays du matin calme"
+    ]
+  },
+  "Title_Crime_and_Punishment": {
+    "strings": [
+      "Crime et Ch\u00e2timent"
+    ]
+  },
+  "Title_Cyrano_de_Bergerac": {
+    "strings": [
+      "Cyrano de Bergerac"
+    ]
+  },
+  "Title_Dark_Places": {
+    "strings": [
+      "Les Lieux sombres"
+    ]
+  },
+  "Title_Death_Note;Volume_1": {
+    "strings": [
+      "Death Note",
+      "tome 1"
+    ]
+  },
+  "Title_Death_on_the_Nile": {
+    "strings": [
+      "Mort sur le Nil"
+    ]
+  },
+  "Title_Dessiner_un_carnet_de_voyage\u00a0:_astuces_pour_tous\u00a0!": {
+    "strings": [
+      "Dessiner un carnet de voyage\u00a0: astuces pour tous\u00a0!"
+    ]
+  },
+  "Title_Discovering_the_Greater_Bookston_Region": {
+    "strings": [
+      "D\u00e9couvrir la r\u00e9gion du Grand Bouquain"
+    ]
+  },
+  "Title_Don_Quixote": {
+    "strings": [
+      "Don Quichotte"
+    ]
+  },
+  "Title_Dracula": {
+    "strings": [
+      "Dracula"
+    ]
+  },
+  "Title_Du_monde_entier_au_c\u0153ur_du_monde": {
+    "strings": [
+      "Du monde entier au c\u0153ur du monde"
+    ]
+  },
+  "Title_Dune": {
+    "strings": [
+      "Dune"
+    ]
+  },
+  "Title_Emma": {
+    "strings": [
+      "Emma"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "Encyclop\u00e9die Bouquainvilla volume 1"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._2": {
+    "strings": [
+      "Encyclop\u00e9die Bouquainvilla volume 2"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._3": {
+    "strings": [
+      "Encyclop\u00e9die Bouquainvilla volume 3"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._4": {
+    "strings": [
+      "Encyclop\u00e9die Bouquainvilla volume 4"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._5": {
+    "strings": [
+      "Encyclop\u00e9die Bouquainvilla volume 5"
+    ]
+  },
+  "Title_Fire_&_Blood": {
+    "strings": [
+      "Feu et Sang"
+    ]
+  },
+  "Title_Five_on_a_Treasure_Island": {
+    "strings": [
+      "Le Club des cinq et le tr\u00e9sor de l'\u00eele"
+    ]
+  },
+  "Title_France_secr\u00e8te": {
+    "strings": [
+      "France secr\u00e8te"
+    ]
+  },
+  "Title_Frankenstein": {
+    "strings": [
+      "Frankenstein"
+    ]
+  },
+  "Title_Full_Dark,_No_Stars": {
+    "strings": [
+      "Nuit noire, \u00e9toiles mortes"
+    ]
+  },
+  "Title_Gemology:_A_Study_in_Ruby": {
+    "strings": [
+      "Gemmologie : mati\u00e8re pr\u00e9cieuse"
+    ]
+  },
+  "Title_Gone_Girl": {
+    "strings": [
+      "Les Apparences"
+    ]
+  },
+  "Title_Good_Night,_Gorilla": {
+    "strings": [
+      "Bonne nuit, gorille"
+    ]
+  },
+  "Title_Good_Omens": {
+    "strings": [
+      "De bons pr\u00e9sages"
+    ]
+  },
+  "Title_Great_Expectations": {
+    "strings": [
+      "Les Grandes Esp\u00e9rances"
+    ]
+  },
+  "Title_Gulliver's_Travels": {
+    "strings": [
+      "Les voyages de Gulliver"
+    ]
+  },
+  "Title_Gyo": {
+    "strings": [
+      "Gyo"
+    ]
+  },
+  "Title_Hamlet": {
+    "strings": [
+      "Hamlet"
+    ]
+  },
+  "Title_Heartstopper;Volume_1": {
+    "strings": [
+      "Heartstopper",
+      "tome 1"
+    ]
+  },
+  "Title_Heidi": {
+    "strings": [
+      "Heidi"
+    ]
+  },
+  "Title_Henry_V": {
+    "strings": [
+      "Henri V"
+    ]
+  },
+  "Title_Henry_VI,_Part_1": {
+    "strings": [
+      "Henri VI, premi\u00e8re partie"
+    ]
+  },
+  "Title_Henry_VI,_Part_3": {
+    "strings": [
+      "Henri VI, troisi\u00e8me partie"
+    ]
+  },
+  "Title_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "Randonn\u00e9es dans la baie de Bouquainville"
+    ]
+  },
+  "Title_Homage_to_Catalonia": {
+    "strings": [
+      "Hommage \u00e0 la Catalogne"
+    ]
+  },
+  "Title_How_Many_Castles_in_7_Days?": {
+    "strings": [
+      "Combien de ch\u00e2teaux en 7 jours ?"
+    ]
+  },
+  "Title_Howl's_Moving_Castle": {
+    "strings": [
+      "Le Ch\u00e2teau de Hurle"
+    ]
+  },
+  "Title_Howl,_and_Other_Poems": {
+    "strings": [
+      "Howl et autres po\u00e8mes"
+    ]
+  },
+  "Title_H\u00e9l\u00e8ne": {
+    "strings": [
+      "H\u00e9l\u00e8ne"
+    ]
+  },
+  "Title_I,_Robot": {
+    "strings": [
+      "Les Robots"
+    ]
+  },
+  "Title_If_Tomorrow_Comes": {
+    "strings": [
+      "Si c'\u00e9tait demain"
+    ]
+  },
+  "Title_In_Search_Of:;The_Most_Beautiful_Islands_In_the_World": {
+    "strings": [
+      "\u00c0 la recherche...",
+      "des plus belles \u00eeles de la Terre"
+    ]
+  },
+  "Title_Inferno": {
+    "strings": [
+      "Enfer"
+    ]
+  },
+  "Title_Inkheart": {
+    "strings": [
+      "C\u0153ur d'encre"
+    ]
+  },
+  "Title_It": {
+    "strings": [
+      "\u00c7a"
+    ]
+  },
+  "Title_Itin\u00e9raire_litt\u00e9raire_en_Irlande": {
+    "strings": [
+      "Itin\u00e9raire litt\u00e9raire en Irlande"
+    ]
+  },
+  "Title_Jane_Eyre": {
+    "strings": [
+      "Jane Eyre"
+    ]
+  },
+  "Title_Jean_Dubuffet": {
+    "strings": [
+      "Jean Dubuffet"
+    ]
+  },
+  "Title_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "Voyage au centre de la Terre"
+    ]
+  },
+  "Title_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "La P\u00e9r\u00e9grination vers l'Ouest"
+    ]
+  },
+  "Title_Julius_Caesar": {
+    "strings": [
+      "Jules C\u00e9sar"
+    ]
+  },
+  "Title_Kiki's_Delivery_Service": {
+    "strings": [
+      "Kiki la petite sorci\u00e8re"
+    ]
+  },
+  "Title_L'art_et_la_cr\u00e9ation_de_Arcane": {
+    "strings": [
+      "L'art et la cr\u00e9ation de Arcane"
+    ]
+  },
+  "Title_L'extraordinaire_voyage_du_fakir_qui_\u00e9tait_rest\u00e9_coinc\u00e9_dans_une_armoire_Ik\u00e9a": {
+    "strings": [
+      "L'extraordinaire voyage du fakir qui \u00e9tait rest\u00e9 coinc\u00e9 dans une armoire Ik\u00e9a"
+    ]
+  },
+  "Title_La_belle_lisse_poire_du_prince_de_Motordu": {
+    "strings": [
+      "La belle lisse poire du prince de Motordu"
+    ]
+  },
+  "Title_La_petite_bible_des_n\u0153uds": {
+    "strings": [
+      "La petite bible des n\u0153uds"
+    ]
+  },
+  "Title_La_vie_des_enfants_au_Moyen_\u00c2ge": {
+    "strings": [
+      "La vie des enfants au Moyen \u00c2ge"
+    ]
+  },
+  "Title_Latitude_z\u00e9ro\u00a0:_40\u00a0000\u00a0km_pour_partir_\u00e0_la_rencontre_du_monde": {
+    "strings": [
+      "Latitude z\u00e9ro\u00a0: 40\u00a0000\u00a0km pour partir \u00e0 la rencontre du monde"
+    ]
+  },
+  "Title_Le_Corbusier": {
+    "strings": [
+      "Le Corbusier"
+    ]
+  },
+  "Title_Le_Doudou_m\u00e9chant": {
+    "strings": [
+      "Le Doudou m\u00e9chant"
+    ]
+  },
+  "Title_Le_Mouron_Rouge": {
+    "strings": [
+      "Le Mouron Rouge"
+    ]
+  },
+  "Title_Le_deuxi\u00e8me_sexe": {
+    "strings": [
+      "Le deuxi\u00e8me sexe"
+    ]
+  },
+  "Title_Le_petit_guide_des_empreintes_animales": {
+    "strings": [
+      "Le petit guide des empreintes animales"
+    ]
+  },
+  "Title_Le_petit_vieux_qui_a_fait_le_tour_du_monde_(3\u00a0fois)": {
+    "strings": [
+      "Le petit vieux qui a fait le tour du monde (3\u00a0fois)"
+    ]
+  },
+  "Title_Le_voyage_de_Shuna": {
+    "strings": [
+      "Le voyage de Shuna"
+    ]
+  },
+  "Title_Les_Bretonnismes": {
+    "strings": [
+      "Les Bretonnismes"
+    ]
+  },
+  "Title_Les_Miserables": {
+    "strings": [
+      "Les Mis\u00e9rables"
+    ]
+  },
+  "Title_Les_Pardaillan": {
+    "strings": [
+      "Les Pardaillan"
+    ]
+  },
+  "Title_Les_mots_qui_nous_manquent": {
+    "strings": [
+      "Les mots qui nous manquent"
+    ]
+  },
+  "Title_Little_Women": {
+    "strings": [
+      "Les Quatre filles du docteur March"
+    ]
+  },
+  "Title_Ljubljana_-_Un_guide_\u00e0_d\u00e9vorer_comme_un_roman": {
+    "strings": [
+      "Ljubljana - Un guide \u00e0 d\u00e9vorer comme un roman"
+    ]
+  },
+  "Title_Looking_for_Alaska": {
+    "strings": [
+      "Qui es-tu Alaska ?"
+    ]
+  },
+  "Title_Lord_of_the_Flies": {
+    "strings": [
+      "Sa Majest\u00e9 des mouches"
+    ]
+  },
+  "Title_Love": {
+    "strings": [
+      "Love"
+    ]
+  },
+  "Title_Macbeth": {
+    "strings": [
+      "Macbeth"
+    ]
+  },
+  "Title_Matilda": {
+    "strings": [
+      "Matilda"
+    ]
+  },
+  "Title_Misery": {
+    "strings": [
+      "Misery"
+    ]
+  },
+  "Title_Miss_Peregrine's_Home_for_Peculiar_Children": {
+    "strings": [
+      "Miss Peregrine et les enfants particuliers"
+    ]
+  },
+  "Title_Moby-Dick": {
+    "strings": [
+      "Moby Dick"
+    ]
+  },
+  "Title_Momo;or,_The_Grey_Gentlemen": {
+    "strings": [
+      "Momo"
+    ]
+  },
+  "Title_Mrs._Dalloway": {
+    "strings": [
+      "Mrs Dalloway"
+    ]
+  },
+  "Title_Much_Ado_About_Nothing": {
+    "strings": [
+      "Beaucoup de bruit pour rien"
+    ]
+  },
+  "Title_Murder_on_the_Orient_Express": {
+    "strings": [
+      "Le crime de l'Orient-Express"
+    ]
+  },
+  "Title_My_Travels_In_East_Africa": {
+    "strings": [
+      "Mes voyages en Afrique orientale"
+    ]
+  },
+  "Title_M\u00e9moires_d'une_jeune_fille_rang\u00e9e": {
+    "strings": [
+      "M\u00e9moires d'une jeune fille rang\u00e9e"
+    ]
+  },
+  "Title_Night_Shift": {
+    "strings": [
+      "Danse macabre"
+    ]
+  },
+  "Title_Nimona": {
+    "strings": [
+      "Nimona"
+    ]
+  },
+  "Title_Nineteen_Eighty-Four": {
+    "strings": [
+      "1984"
+    ]
+  },
+  "Title_Normal_People": {
+    "strings": [
+      "Normal People"
+    ]
+  },
+  "Title_On_Beauty": {
+    "strings": [
+      "De la beaut\u00e9"
+    ]
+  },
+  "Title_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "De la flore naturelle de Bouquainville"
+    ]
+  },
+  "Title_Orlando": {
+    "strings": [
+      "Orlando"
+    ]
+  },
+  "Title_Othello": {
+    "strings": [
+      "Othello"
+    ]
+  },
+  "Title_Parable_of_the_Sower": {
+    "strings": [
+      "La Parabole du semeur"
+    ]
+  },
+  "Title_Persuasion": {
+    "strings": [
+      "Persuasion"
+    ]
+  },
+  "Title_Pet_Sematary": {
+    "strings": [
+      "Simetierre"
+    ]
+  },
+  "Title_Plumes_au_vent": {
+    "strings": [
+      "Plumes au vent"
+    ]
+  },
+  "Title_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "Le Prince Caspian"
+    ]
+  },
+  "Title_Red,_White_&_Royal_Blue": {
+    "strings": [
+      "My Dear F***ing Prince"
+    ]
+  },
+  "Title_Richard_II": {
+    "strings": [
+      "Richard II"
+    ]
+  },
+  "Title_Romeo_and_Juliet": {
+    "strings": [
+      "Rom\u00e9o et Juliette"
+    ]
+  },
+  "Title_Ruy_Blas": {
+    "strings": [
+      "Ruy Blas"
+    ]
+  },
+  "Title_Salom\u00e9": {
+    "strings": [
+      "Salom\u00e9"
+    ]
+  },
+  "Title_Second_Foundation": {
+    "strings": [
+      "Seconde Fondation"
+    ]
+  },
+  "Title_Sense_and_Sensibility": {
+    "strings": [
+      "Raison et Sentiments"
+    ]
+  },
+  "Title_Shirley": {
+    "strings": [
+      "Shirley"
+    ]
+  },
+  "Title_Slov\u00e9nie\u00a0:_tout_ce_que_vous_devez_savoir": {
+    "strings": [
+      "Slov\u00e9nie\u00a0: tout ce que vous devez savoir"
+    ]
+  },
+  "Title_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "Les Aventures de Sherlock Holmes"
+    ]
+  },
+  "Title_The_Battle_of_the_Labyrinth": {
+    "strings": [
+      "La Bataille du labyrinthe"
+    ]
+  },
+  "Title_The_Bluest_Eye": {
+    "strings": [
+      "L'\u0152il le plus bleu"
+    ]
+  },
+  "Title_The_Book_of_Tea": {
+    "strings": [
+      "Le Livre du th\u00e9"
+    ]
+  },
+  "Title_The_Canterbury_Tales": {
+    "strings": [
+      "Les Contes de Canterbury"
+    ]
+  },
+  "Title_The_Canterville_Ghost": {
+    "strings": [
+      "Le Fant\u00f4me de Canterville"
+    ]
+  },
+  "Title_The_Color_Purple": {
+    "strings": [
+      "La Couleur pourpre"
+    ]
+  },
+  "Title_The_Comedy_of_Errors": {
+    "strings": [
+      "La Com\u00e9die des erreurs"
+    ]
+  },
+  "Title_The_Complete_Robot": {
+    "strings": [
+      "Nous les robots"
+    ]
+  },
+  "Title_The_Count_of_Monte_Cristo": {
+    "strings": [
+      "Le Comte de Monte-Cristo"
+    ]
+  },
+  "Title_The_Curious_Incident_of_the_Dog_in_the_Night-Time": {
+    "strings": [
+      "Le bizarre incident du chien pendant la nuit"
+    ]
+  },
+  "Title_The_Dispossessed": {
+    "strings": [
+      "Les D\u00e9poss\u00e9d\u00e9s"
+    ]
+  },
+  "Title_The_Duke_and_I": {
+    "strings": [
+      "Daphn\u00e9 et le duc"
+    ]
+  },
+  "Title_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "La Chute de la maison Usher"
+    ]
+  },
+  "Title_The_Fault_in_Our_Stars": {
+    "strings": [
+      "Nos \u00e9toiles contraires"
+    ]
+  },
+  "Title_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "La Communaut\u00e9 de l'anneau"
+    ]
+  },
+  "Title_The_Girl_Who_Played_with_Fire": {
+    "strings": [
+      "La Fille qui r\u00eavait d'un bidon d'essence et d'une allumette"
+    ]
+  },
+  "Title_The_Glass_Castle": {
+    "strings": [
+      "Le Ch\u00e2teau de verre"
+    ]
+  },
+  "Title_The_God_of_Small_Things": {
+    "strings": [
+      "Le Dieu des Petits Riens"
+    ]
+  },
+  "Title_The_Great_Gatsby": {
+    "strings": [
+      "Gatsby le Magnifique"
+    ]
+  },
+  "Title_The_Green_Mile": {
+    "strings": [
+      "La Ligne verte"
+    ]
+  },
+  "Title_The_Gunslinger": {
+    "strings": [
+      "Le Pistolero"
+    ]
+  },
+  "Title_The_Handmaid's_Tale": {
+    "strings": [
+      "La servante \u00e9carlate"
+    ]
+  },
+  "Title_The_Happy_Prince_and_Other_Tales": {
+    "strings": [
+      "Le Prince heureux et autres contes"
+    ]
+  },
+  "Title_The_Hunger_Games": {
+    "strings": [
+      "Hunger Games"
+    ]
+  },
+  "Title_The_Importance_of_Being_Earnest": {
+    "strings": [
+      "L'Importance d'\u00eatre Constant"
+    ]
+  },
+  "Title_The_Invisible_Man": {
+    "strings": [
+      "L'Homme invisible"
+    ]
+  },
+  "Title_The_Last_Battle;(Chronicles_of_Narnia)": {
+    "strings": [
+      "La Derni\u00e8re Bataille",
+      "(Le Monde de Narnia)"
+    ]
+  },
+  "Title_The_Last_Wish;(The_Witcher)": {
+    "strings": [
+      "Le Dernier v\u0153u",
+      "(Le Sorceleur)"
+    ]
+  },
+  "Title_The_Lightning_Thief;(Percy_Jackson_#1)": {
+    "strings": [
+      "Le Voleur de foudre",
+      "(Percy Jackson, tome 1)"
+    ]
+  },
+  "Title_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "Le Lion, la Sorci\u00e8re blanche et l'Armoire magique"
+    ]
+  },
+  "Title_The_Little_Prince": {
+    "strings": [
+      "Le Petit Prince"
+    ]
+  },
+  "Title_The_Lorax": {
+    "strings": [
+      "Le Lorax"
+    ]
+  },
+  "Title_The_Lost_Symbol": {
+    "strings": [
+      "Le symbole perdu"
+    ]
+  },
+  "Title_The_Martian": {
+    "strings": [
+      "Seul sur Mars"
+    ]
+  },
+  "Title_The_Martian_Chronicles": {
+    "strings": [
+      "Chroniques martiennes"
+    ]
+  },
+  "Title_The_Maze_Runner": {
+    "strings": [
+      "Le labyrinthe"
+    ]
+  },
+  "Title_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "L'Affaire Protheroe"
+    ]
+  },
+  "Title_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "Le meurtre de Roger Ackroyd"
+    ]
+  },
+  "Title_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "La myst\u00e9rieuse affaire de Styles"
+    ]
+  },
+  "Title_The_Neverending_Story": {
+    "strings": [
+      "L'Histoire sans fin"
+    ]
+  },
+  "Title_The_Odyssey": {
+    "strings": [
+      "L'Odyss\u00e9e"
+    ]
+  },
+  "Title_The_Outsider": {
+    "strings": [
+      "L'Outsider"
+    ]
+  },
+  "Title_The_Outsiders": {
+    "strings": [
+      "Outsiders"
+    ]
+  },
+  "Title_The_Perks_of_Being_a_Wallflower": {
+    "strings": [
+      "Le monde de Charlie"
+    ]
+  },
+  "Title_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "Le Portrait de Dorian Gray"
+    ]
+  },
+  "Title_The_Raven": {
+    "strings": [
+      "Le Corbeau"
+    ]
+  },
+  "Title_The_Return_of_the_King": {
+    "strings": [
+      "Le Retour du roi"
+    ]
+  },
+  "Title_The_Sea_of_Monsters;(Percy_Jackson_#2)": {
+    "strings": [
+      "La Mer des monstres",
+      "(Percy Jackson, tome 2)"
+    ]
+  },
+  "Title_The_Secret_Garden": {
+    "strings": [
+      "Le Jardin secret"
+    ]
+  },
+  "Title_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "L'Histoire secr\u00e8te de Bouquainville"
+    ]
+  },
+  "Title_The_Seven_Husbands_of_Evelyn_Hugo": {
+    "strings": [
+      "Les Sept Maris d'Evelyn Hugo"
+    ]
+  },
+  "Title_The_Shadow_of_the_Wind": {
+    "strings": [
+      "L'Ombre du vent"
+    ]
+  },
+  "Title_The_Shining": {
+    "strings": [
+      "Shining"
+    ]
+  },
+  "Title_The_Silence_of_the_Lambs": {
+    "strings": [
+      "Le Silence des agneaux"
+    ]
+  },
+  "Title_The_Silent_Patient": {
+    "strings": [
+      "Dans son silence"
+    ]
+  },
+  "Title_The_Silmarillion": {
+    "strings": [
+      "Le Silmarillion"
+    ]
+  },
+  "Title_The_Snowy_Day": {
+    "strings": [
+      "Jour de neige"
+    ]
+  },
+  "Title_The_Stand": {
+    "strings": [
+      "Le Fl\u00e9au"
+    ]
+  },
+  "Title_The_Story_of_Doctor_Dolittle": {
+    "strings": [
+      "Histoire du docteur Dolittle"
+    ]
+  },
+  "Title_The_Strange_Case_of_Dr._Jekyll_and_Mr._Hyde": {
+    "strings": [
+      "L'\u00c9trange Cas du docteur Jekyll et de M. Hyde"
+    ]
+  },
+  "Title_The_Tell-Tale_Heart": {
+    "strings": [
+      "Le C\u0153ur r\u00e9v\u00e9lateur"
+    ]
+  },
+  "Title_The_Tempest": {
+    "strings": [
+      "La Temp\u00eate"
+    ]
+  },
+  "Title_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "Le Livre de Marco Polo"
+    ]
+  },
+  "Title_The_Two_Towers": {
+    "strings": [
+      "Les Deux Tours"
+    ]
+  },
+  "Title_The_War_of_the_Worlds": {
+    "strings": [
+      "La Guerre des mondes"
+    ]
+  },
+  "Title_The_Yellow_Fairy_Book": {
+    "strings": [
+      "The Yellow Fairy Book"
+    ]
+  },
+  "Title_They_Both_Die_at_the_End": {
+    "strings": [
+      "Et ils meurent tous les deux \u00e0 la fin"
+    ]
+  },
+  "Title_To_Kill_a_Mockingbird": {
+    "strings": [
+      "Ne tirez pas sur l'oiseau moqueur"
+    ]
+  },
+  "Title_To_the_Lighthouse": {
+    "strings": [
+      "La Promenade au phare"
+    ]
+  },
+  "Title_Tokyo_-_Un_guide_\u00e0_d\u00e9vorer_comme_un_roman": {
+    "strings": [
+      "Tokyo - Un guide \u00e0 d\u00e9vorer comme un roman"
+    ]
+  },
+  "Title_Tomie": {
+    "strings": [
+      "Tomie"
+    ]
+  },
+  "Title_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "Le top 50 des destinations en camping-car"
+    ]
+  },
+  "Title_Toute_l'histoire_de_la_Bretagne": {
+    "strings": [
+      "Toute l'histoire de la Bretagne"
+    ]
+  },
+  "Title_Towards_a_New_Architecture": {
+    "strings": [
+      "Vers une architecture"
+    ]
+  },
+  "Title_Treasure_Island": {
+    "strings": [
+      "L'\u00cele au tr\u00e9sor"
+    ]
+  },
+  "Title_Troglobites_Don't_Bite": {
+    "strings": [
+      "Des troglodytes, vous dites ?"
+    ]
+  },
+  "Title_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "Vingt Mille Lieues sous les mers"
+    ]
+  },
+  "Title_Vendredi_ou_la_Vie_sauvage": {
+    "strings": [
+      "Vendredi ou la Vie sauvage"
+    ]
+  },
+  "Title_Vol_de_nuit": {
+    "strings": [
+      "Vol de nuit"
+    ]
+  },
+  "Title_Voyager_avec_son_chien": {
+    "strings": [
+      "Voyager avec son chien"
+    ]
+  },
+  "Title_Watchmen;(Issue_#12)": {
+    "strings": [
+      "Watchmen",
+      "(tome 12)"
+    ]
+  },
+  "Title_Where_the_Wild_Things_Are": {
+    "strings": [
+      "Max et les Maximonstres"
+    ]
+  },
+  "Title_Wuthering_Heights": {
+    "strings": [
+      "Les Hauts de Hurlevent"
+    ]
+  },
+  "Title_You've_Reached_Sam": {
+    "strings": [
+      "Vous \u00eates sur le portable de Sam"
+    ]
+  }
+}
