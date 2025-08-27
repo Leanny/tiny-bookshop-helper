@@ -1,0 +1,3236 @@
+{
+  "Author_#Title_EN": {
+    "strings": [
+      "Author tr_TR"
+    ]
+  },
+  "Author_#Title_tr_TR": {
+    "strings": [
+      "Author tr_TR"
+    ]
+  },
+  "Author_1,000_Places_to_See_Before_You_Die": {
+    "strings": [
+      "Patricia Schultz"
+    ]
+  },
+  "Author_1st_to_Die": {
+    "strings": [
+      "James Patterson"
+    ]
+  },
+  "Author_A_Clash_of_Kings": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Collection_of_Poems": {
+    "strings": [
+      "St. Bookston"
+    ]
+  },
+  "Author_A_Court_of_Mist_and_Fury": {
+    "strings": [
+      "Sarah J. Maas"
+    ]
+  },
+  "Author_A_Dance_With_Dragons": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Dictionary_of_the_English_Language": {
+    "strings": [
+      "Samuel Johnson"
+    ]
+  },
+  "Author_A_Feast_for_Crows": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Game_of_Thrones": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Good_Girl's_Guide_to_Murder": {
+    "strings": [
+      "Holly Jackson"
+    ]
+  },
+  "Author_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_A_Room_of_One's_Own": {
+    "strings": [
+      "Virginia Woolf"
+    ]
+  },
+  "Author_A_Senseless_Power": {
+    "strings": [
+      "St. Bookston"
+    ]
+  },
+  "Author_A_Short_History_of_Nearly_Everything": {
+    "strings": [
+      "Bill Bryson"
+    ]
+  },
+  "Author_A_Storm_of_Swords": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_A_Study_in_Scarlet": {
+    "strings": [
+      "Arthur Conan Doyle"
+    ]
+  },
+  "Author_A_Wrinkle_in_Time": {
+    "strings": [
+      "Madeleine L'Engle"
+    ]
+  },
+  "Author_Adventures_of_A_Wild_Child": {
+    "strings": [
+      "Gina Grayson Hunt"
+    ]
+  },
+  "Author_After_the_Funeral": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_Alias_Grace": {
+    "strings": [
+      "Margaret Atwood"
+    ]
+  },
+  "Author_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "Lewis Carroll"
+    ]
+  },
+  "Author_Alvar_Aalto": {
+    "strings": [
+      "Alvar Aalto"
+    ]
+  },
+  "Author_American_Psycho": {
+    "strings": [
+      "Bret Easton Ellis"
+    ]
+  },
+  "Author_An_Explorer's_Guide_to_Georgetown": {
+    "strings": [
+      "Zheng Greene"
+    ]
+  },
+  "Author_Anathem": {
+    "strings": [
+      "Neal Stephenson"
+    ]
+  },
+  "Author_Angels_&_Demons": {
+    "strings": [
+      "Dan Brown"
+    ]
+  },
+  "Author_Animal_Farm": {
+    "strings": [
+      "George Orwell"
+    ]
+  },
+  "Author_Anne_of_Green_Gables": {
+    "strings": [
+      "L.M. Montgomery"
+    ]
+  },
+  "Author_Annihilation": {
+    "strings": [
+      "Jeff VanderMeer"
+    ]
+  },
+  "Author_Architecture_in_Britain;1530-1830": {
+    "strings": [
+      "John N. Summerson"
+    ]
+  },
+  "Author_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "Jules Verne"
+    ]
+  },
+  "Author_Artemis_Fowl": {
+    "strings": [
+      "Eoin Colfer"
+    ]
+  },
+  "Author_As_Good_As_Dead": {
+    "strings": [
+      "Holly Jackson"
+    ]
+  },
+  "Author_Ate\u015ften_G\u00f6mlek": {
+    "strings": [
+      "Halide Edib Ad\u0131var"
+    ]
+  },
+  "Author_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "Hajime Isayama"
+    ]
+  },
+  "Author_A\u015fk-\u0131_Memnu": {
+    "strings": [
+      "Halid Ziya U\u015fakl\u0131gil"
+    ]
+  },
+  "Author_Babel;or_the_Necessity_of_Violence": {
+    "strings": [
+      "R. F. Kuang"
+    ]
+  },
+  "Author_Ba\u015flang\u0131\u00e7_D\u00fczeyi_Satran\u00e7_Kaynak_Kitab\u0131": {
+    "strings": [
+      "Olgun Kula\u00e7"
+    ]
+  },
+  "Author_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "Toshikazu Kawaguchi"
+    ]
+  },
+  "Author_Beloved": {
+    "strings": [
+      "Toni Morrison"
+    ]
+  },
+  "Author_Benim_Z\u00fcrafam_U\u00e7abilir": {
+    "strings": [
+      "Mert Ar\u0131k"
+    ]
+  },
+  "Author_Beyo\u011flu_Rapsodisi": {
+    "strings": [
+      "Ahmet \u00dcmit"
+    ]
+  },
+  "Author_Be\u015f_\u015eehir": {
+    "strings": [
+      "Ahmet Hamdi Tanp\u0131nar"
+    ]
+  },
+  "Author_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "Andrzej Sapkowski"
+    ]
+  },
+  "Author_Call_Me_by_Your_Name": {
+    "strings": [
+      "Andr\u00e9 Aciman"
+    ]
+  },
+  "Author_Carmilla": {
+    "strings": [
+      "J. Sheridan Le Fanu"
+    ]
+  },
+  "Author_Carrie": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Catching_Carps": {
+    "strings": [
+      "Nigel Carpum"
+    ]
+  },
+  "Author_Catching_Fire": {
+    "strings": [
+      "Suzanne Collins"
+    ]
+  },
+  "Author_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "Roald Dahl"
+    ]
+  },
+  "Author_Charlotte's_Web": {
+    "strings": [
+      "E. B. White"
+    ]
+  },
+  "Author_Circe": {
+    "strings": [
+      "Madeline Miller"
+    ]
+  },
+  "Author_Cook_As_You_Are;Recipes_for_Real_Life,_Hungry_Cooks_and_Messy_Kitchens": {
+    "strings": [
+      "Ruby Tandoh"
+    ]
+  },
+  "Author_Cook_Korean!;A_Comic_Book_with_Recipes": {
+    "strings": [
+      "Robin Ha"
+    ]
+  },
+  "Author_Coraline": {
+    "strings": [
+      "Neil Gaiman"
+    ]
+  },
+  "Author_Crime_and_Punishment": {
+    "strings": [
+      "Fyodor Dostoevsky"
+    ]
+  },
+  "Author_Dark_Matter": {
+    "strings": [
+      "Blake Crouch"
+    ]
+  },
+  "Author_Dark_Places": {
+    "strings": [
+      "Gillian Flynn"
+    ]
+  },
+  "Author_Death_Note;Volume_1": {
+    "strings": [
+      "Tsugumi Ohba"
+    ]
+  },
+  "Author_Death_on_the_Nile": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_Dinosaurs_and_other_Prehistoric_Life": {
+    "strings": [
+      "Anusuya Chinsamy-Turan"
+    ]
+  },
+  "Author_Discovering_the_Greater_Bookston_Region": {
+    "strings": [
+      "Peter Spinner"
+    ]
+  },
+  "Author_Divergent": {
+    "strings": [
+      "Veronica Roth"
+    ]
+  },
+  "Author_Dokuzuncu_Hariciye_Ko\u011fu\u015fu": {
+    "strings": [
+      "Peyami Safa"
+    ]
+  },
+  "Author_Don_Quixote": {
+    "strings": [
+      "Miguel de Cervantes"
+    ]
+  },
+  "Author_Dracula": {
+    "strings": [
+      "Bram Stoker"
+    ]
+  },
+  "Author_Dragon_Ball;Volume_1": {
+    "strings": [
+      "Akira Toriyama"
+    ]
+  },
+  "Author_Dragonsong": {
+    "strings": [
+      "Anne McCaffrey"
+    ]
+  },
+  "Author_Emma": {
+    "strings": [
+      "Jane Austen"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._2": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._3": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._4": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._5": {
+    "strings": [
+      "Ash Axbridge"
+    ]
+  },
+  "Author_Entangled_Life;_How_Fungi_Make_Our_Worlds,_Change_Our_Minds_&_Shape_Our_Futures": {
+    "strings": [
+      "Merlin Sheldrake"
+    ]
+  },
+  "Author_Fantastic_Mr_Fox": {
+    "strings": [
+      "Roald Dahl"
+    ]
+  },
+  "Author_Fern": {
+    "strings": [
+      "Fern Estrada"
+    ]
+  },
+  "Author_Fire_&_Blood": {
+    "strings": [
+      "George R. R. Martin"
+    ]
+  },
+  "Author_Five_on_a_Treasure_Island": {
+    "strings": [
+      "Enid Blyton"
+    ]
+  },
+  "Author_Flower_Fables": {
+    "strings": [
+      "Louisa May Alcott"
+    ]
+  },
+  "Author_Flowers_for_Algernon": {
+    "strings": [
+      "Daniel Keyes"
+    ]
+  },
+  "Author_Frank_Lloyd_Wright": {
+    "strings": [
+      "Frank Lloyd Wright"
+    ]
+  },
+  "Author_Frankenstein": {
+    "strings": [
+      "Mary Shelley"
+    ]
+  },
+  "Author_Frankfurt_Seyahatnamesi": {
+    "strings": [
+      "Ahmet Ha\u015fim"
+    ]
+  },
+  "Author_Full_Dark,_No_Stars": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Games,_Game_Design,_Game_Studies": {
+    "strings": [
+      "Gundolf S. Freyermuth"
+    ]
+  },
+  "Author_Gemology:_A_Study_in_Ruby": {
+    "strings": [
+      "Ellie Obsidia"
+    ]
+  },
+  "Author_Geometri": {
+    "strings": [
+      "Mustafa Kemal Atat\u00fcrk"
+    ]
+  },
+  "Author_Gone_Girl": {
+    "strings": [
+      "Gillian Flynn"
+    ]
+  },
+  "Author_Good_Girl,_Bad_Blood": {
+    "strings": [
+      "Holly Jackson"
+    ]
+  },
+  "Author_Good_Night,_Gorilla": {
+    "strings": [
+      "Peggy Rathmann"
+    ]
+  },
+  "Author_Gregor_the_Overlander": {
+    "strings": [
+      "Suzanne Collins"
+    ]
+  },
+  "Author_Gulliver's_Travels": {
+    "strings": [
+      "Jonathan Swift"
+    ]
+  },
+  "Author_HTML_1998;An_Introduction": {
+    "strings": [
+      "Hello Worldly"
+    ]
+  },
+  "Author_Hakka_S\u0131\u011f\u0131nd\u0131k": {
+    "strings": [
+      "H\u00fcseyin Rahmi G\u00fcrp\u0131nar"
+    ]
+  },
+  "Author_Hamlet": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Happily_Ever_After_Cookbook;Original_Recipes_for_Book_Lovers": {
+    "strings": [
+      "Various Authors"
+    ]
+  },
+  "Author_Heartstopper;Volume_1": {
+    "strings": [
+      "Alice Oseman"
+    ]
+  },
+  "Author_Heidi": {
+    "strings": [
+      "Johanna Spyri"
+    ]
+  },
+  "Author_Henry_V": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Henry_VI,_Part_1": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Henry_VI,_Part_3": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Herbcraft;The_Power_of_Natural_Healing_and_Hexing": {
+    "strings": [
+      "Star Ravenhunt"
+    ]
+  },
+  "Author_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "Val Bomier"
+    ]
+  },
+  "Author_Historical_Niche": {
+    "strings": [
+      "Terry Czernik"
+    ]
+  },
+  "Author_Homage_to_Catalonia": {
+    "strings": [
+      "George Orwell"
+    ]
+  },
+  "Author_How_Many_Castles_in_7_Days?": {
+    "strings": [
+      "Stephen Jezek"
+    ]
+  },
+  "Author_Howl's_Moving_Castle": {
+    "strings": [
+      "Diana Wynne Jones"
+    ]
+  },
+  "Author_H\u00e9l\u00e8ne": {
+    "strings": [
+      "St. Bookston"
+    ]
+  },
+  "Author_I,_Robot": {
+    "strings": [
+      "Isaac Asimov"
+    ]
+  },
+  "Author_If_We_Were_Villains": {
+    "strings": [
+      "M. L. Rio"
+    ]
+  },
+  "Author_In_Cold_Blood": {
+    "strings": [
+      "Truman Capote"
+    ]
+  },
+  "Author_In_Search_Of:;The_Most_Beautiful_Islands_In_the_World": {
+    "strings": [
+      "Je Hyun"
+    ]
+  },
+  "Author_Inkheart": {
+    "strings": [
+      "Cornelia Funke"
+    ]
+  },
+  "Author_Into_the_Sunset:_The_Magical_West": {
+    "strings": [
+      "Cemal M. Fahmy"
+    ]
+  },
+  "Author_It": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Italian_Villas_and_Their_Gardens": {
+    "strings": [
+      "Edith Wharton"
+    ]
+  },
+  "Author_James_and_the_Giant_Peach": {
+    "strings": [
+      "Roald Dahl"
+    ]
+  },
+  "Author_Jane_Eyre": {
+    "strings": [
+      "Charlotte Bront\u00eb"
+    ]
+  },
+  "Author_Jean_Dubuffet": {
+    "strings": [
+      "Jean Dubuffet"
+    ]
+  },
+  "Author_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "Jules Verne"
+    ]
+  },
+  "Author_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "Wu Cheng'en"
+    ]
+  },
+  "Author_Jujutsu_Kaisen;Volume_1": {
+    "strings": [
+      "Gege Akutami"
+    ]
+  },
+  "Author_Julius_Caesar": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Just_A_Story:_Why_We_Still_Tell_Fairytales": {
+    "strings": [
+      "Isabel Galvan"
+    ]
+  },
+  "Author_Kapadokya;Ta\u015f_Kap\u0131dan_Ta\u00e7kap\u0131ya": {
+    "strings": [
+      "G\u00fcrsel Korat"
+    ]
+  },
+  "Author_Kiki's_Delivery_Service": {
+    "strings": [
+      "Eiko Kadono"
+    ]
+  },
+  "Author_Kinyas_ve_Kayra": {
+    "strings": [
+      "Hakan G\u00fcnday"
+    ]
+  },
+  "Author_Kitchen_Rules_For_Your_Family_and_You": {
+    "strings": [
+      "Mbwana Jones"
+    ]
+  },
+  "Author_Kral_\u015eakir;Hayat_K\u0131sa_Filler_U\u00e7uyor!": {
+    "strings": [
+      "Varol Ya\u015faro\u011flu"
+    ]
+  },
+  "Author_K\u00fcrk_Mantolu_Madonna": {
+    "strings": [
+      "Sabahattin Ali"
+    ]
+  },
+  "Author_K\u0131rlang\u0131\u00e7_\u00c7\u0131\u011fl\u0131\u011f\u0131": {
+    "strings": [
+      "Ahmet \u00dcmit"
+    ]
+  },
+  "Author_Le_Corbusier": {
+    "strings": [
+      "Le Corbusier"
+    ]
+  },
+  "Author_Les_Miserables": {
+    "strings": [
+      "Victor Hugo"
+    ]
+  },
+  "Author_Levent_D\u00fcnya_Harikalar\u0131n\u0131n_Pe\u015finde": {
+    "strings": [
+      "Mustafa Orak\u00e7\u0131"
+    ]
+  },
+  "Author_Little_Women": {
+    "strings": [
+      "Louisa May Alcott"
+    ]
+  },
+  "Author_Living_In_Alaska": {
+    "strings": [
+      "Sioned Jones"
+    ]
+  },
+  "Author_Looking_for_Alaska": {
+    "strings": [
+      "John Green"
+    ]
+  },
+  "Author_Love": {
+    "strings": [
+      "Toni Morrison"
+    ]
+  },
+  "Author_Macbeth": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Matilda": {
+    "strings": [
+      "Roald Dahl"
+    ]
+  },
+  "Author_Medieval_Carpentry": {
+    "strings": [
+      "Obu Henderson"
+    ]
+  },
+  "Author_Menek\u015fe_Kokulu_Hik\u00e2yeler": {
+    "strings": [
+      "Ender Haluk Derince"
+    ]
+  },
+  "Author_Mesopotamian_Buildings": {
+    "strings": [
+      "Ahmed Mansour"
+    ]
+  },
+  "Author_Misery": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Miss_Peregrine's_Home_for_Peculiar_Children": {
+    "strings": [
+      "Ransom Riggs"
+    ]
+  },
+  "Author_Moby-Dick": {
+    "strings": [
+      "Herman Melville"
+    ]
+  },
+  "Author_Momo;or,_The_Grey_Gentlemen": {
+    "strings": [
+      "Michael Ende"
+    ]
+  },
+  "Author_Monster;Volume_1": {
+    "strings": [
+      "Naoki Urasawa"
+    ]
+  },
+  "Author_Mont-Saint-Michel_and_Chartres": {
+    "strings": [
+      "Henry Adams"
+    ]
+  },
+  "Author_Moominland_Midwinter": {
+    "strings": [
+      "Tove Jansson"
+    ]
+  },
+  "Author_Mrs._Dalloway": {
+    "strings": [
+      "Virginia Woolf"
+    ]
+  },
+  "Author_Murder_on_the_Orient_Express": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_My_Lesbian_Experience_With_Loneliness": {
+    "strings": [
+      "Nagata Kabi"
+    ]
+  },
+  "Author_My_Travels_In_East_Africa": {
+    "strings": [
+      "Tao Ryota"
+    ]
+  },
+  "Author_Newtonian_Physics_for_Babies": {
+    "strings": [
+      "Chris Ferrie"
+    ]
+  },
+  "Author_Night_Shift": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Nimona": {
+    "strings": [
+      "N. D. Stevenson"
+    ]
+  },
+  "Author_Nineteen_Eighty-Four": {
+    "strings": [
+      "George Orwell"
+    ]
+  },
+  "Author_Notes_From_A_Small_Island": {
+    "strings": [
+      "Bill Bryson"
+    ]
+  },
+  "Author_Nutuk": {
+    "strings": [
+      "Mustafa Kemal Atat\u00fcrk"
+    ]
+  },
+  "Author_Omniscient_Reader's_Viewpoint;_Volume_1": {
+    "strings": [
+      "singNsong & UMI"
+    ]
+  },
+  "Author_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "St. Bookston"
+    ]
+  },
+  "Author_One_Of_Us_Is_Lying": {
+    "strings": [
+      "Karen M. McManus"
+    ]
+  },
+  "Author_Orlando": {
+    "strings": [
+      "Virginia Woolf"
+    ]
+  },
+  "Author_Othello": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Paper_Towns": {
+    "strings": [
+      "John Green"
+    ]
+  },
+  "Author_Paradise": {
+    "strings": [
+      "Toni Morrison"
+    ]
+  },
+  "Author_Persepolis;The_Story_of_a_Childhood": {
+    "strings": [
+      "Marjane Satrapi"
+    ]
+  },
+  "Author_Persuasion": {
+    "strings": [
+      "Jane Austen"
+    ]
+  },
+  "Author_Pet_Sematary": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_Peter_Pan_in_Kensington_Gardens": {
+    "strings": [
+      "J. M. Barrie"
+    ]
+  },
+  "Author_Physics_1908": {
+    "strings": [
+      "Kendra Conelli"
+    ]
+  },
+  "Author_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "C.S. Lewis"
+    ]
+  },
+  "Author_Puslu_K\u0131talar_Atlas\u0131": {
+    "strings": [
+      "\u0130hsan Oktay Anar"
+    ]
+  },
+  "Author_Rambles_in_Germany_and_Italy;in_1840,_1842,_and_1843": {
+    "strings": [
+      "Mary Shelley"
+    ]
+  },
+  "Author_Red_Dragon": {
+    "strings": [
+      "Thomas Harris"
+    ]
+  },
+  "Author_Richard_II": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Romeo_and_Juliet": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_Round_Luxembourg_with_Brooke": {
+    "strings": [
+      "Brooke Dixon"
+    ]
+  },
+  "Author_Saatleri_Ayarlama_Enstit\u00fcs\u00fc": {
+    "strings": [
+      "Ahmet Hamdi Tanp\u0131nar"
+    ]
+  },
+  "Author_Saga;Volume_9": {
+    "strings": [
+      "Brian K. Vaughan & Fiona Staples"
+    ]
+  },
+  "Author_Sailor_Moon;Volume_1": {
+    "strings": [
+      "Naoko Takeuchi"
+    ]
+  },
+  "Author_Scott_Pilgrim's_Precious_Little_Life_(#1)": {
+    "strings": [
+      "Bryan Lee O'Malley"
+    ]
+  },
+  "Author_Second_Foundation": {
+    "strings": [
+      "Isaac Asimov"
+    ]
+  },
+  "Author_Sense_and_Sensibility": {
+    "strings": [
+      "Jane Austen"
+    ]
+  },
+  "Author_Sevgili_Ars\u0131z_\u00d6l\u00fcm": {
+    "strings": [
+      "Latife Tekin"
+    ]
+  },
+  "Author_Sister_Outsider": {
+    "strings": [
+      "Audre Lorde"
+    ]
+  },
+  "Author_Six_of_Crows": {
+    "strings": [
+      "Leigh Bardugo"
+    ]
+  },
+  "Author_Snow_Crash": {
+    "strings": [
+      "Neal Stephenson"
+    ]
+  },
+  "Author_St._Bookston:_The_Myth,_the_Legend,_the_Truth": {
+    "strings": [
+      "H. A. Pennington"
+    ]
+  },
+  "Author_Stormbreaker": {
+    "strings": [
+      "Anthony Horowitz"
+    ]
+  },
+  "Author_Sula": {
+    "strings": [
+      "Toni Morrison"
+    ]
+  },
+  "Author_The_Adventures_of_Pippi_Longstocking": {
+    "strings": [
+      "Astrid Lindgren"
+    ]
+  },
+  "Author_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "Arthur Conan Doyle"
+    ]
+  },
+  "Author_The_Bad_Beginning;(A_Series_of_Unfortunate_Events)": {
+    "strings": [
+      "Lemony Snicket"
+    ]
+  },
+  "Author_The_Battle_of_the_Labyrinth": {
+    "strings": [
+      "Rick Riordan"
+    ]
+  },
+  "Author_The_Bell_Jar": {
+    "strings": [
+      "Sylvia Plath"
+    ]
+  },
+  "Author_The_Big_Sleep": {
+    "strings": [
+      "Raymond Chandler"
+    ]
+  },
+  "Author_The_Blind_Assassin": {
+    "strings": [
+      "Margaret Atwood"
+    ]
+  },
+  "Author_The_Bluest_Eye": {
+    "strings": [
+      "Toni Morrison"
+    ]
+  },
+  "Author_The_Book_of_Tea": {
+    "strings": [
+      "Okakura Kakuzo"
+    ]
+  },
+  "Author_The_Bookshop_Book": {
+    "strings": [
+      "Jen Campbell"
+    ]
+  },
+  "Author_The_Canterbury_Tales": {
+    "strings": [
+      "Geoffrey Chaucer"
+    ]
+  },
+  "Author_The_Canterville_Ghost": {
+    "strings": [
+      "Oscar Wilde"
+    ]
+  },
+  "Author_The_Comedy_of_Errors": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_The_Cruel_Prince": {
+    "strings": [
+      "Holly Black"
+    ]
+  },
+  "Author_The_Curious_Incident_of_the_Dog_in_the_Night-Time": {
+    "strings": [
+      "Mark Haddon"
+    ]
+  },
+  "Author_The_Debvoir_Family;A_Success_Story": {
+    "strings": [
+      "Kennedy Naybon"
+    ]
+  },
+  "Author_The_Dispossessed": {
+    "strings": [
+      "Ursula K. Le Guin"
+    ]
+  },
+  "Author_The_Eyes_of_Darkness": {
+    "strings": [
+      "Dean Koontz"
+    ]
+  },
+  "Author_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "Edgar Allan Poe"
+    ]
+  },
+  "Author_The_Fault_in_Our_Stars": {
+    "strings": [
+      "John Green"
+    ]
+  },
+  "Author_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "J.R.R. Tolkien"
+    ]
+  },
+  "Author_The_Fisherman": {
+    "strings": [
+      "John Langan"
+    ]
+  },
+  "Author_The_Girl_Who_Played_with_Fire": {
+    "strings": [
+      "Stieg Larsson"
+    ]
+  },
+  "Author_The_Green_Mile": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Gunslinger": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Handmaid's_Tale": {
+    "strings": [
+      "Margaret Atwood"
+    ]
+  },
+  "Author_The_Happy_Prince_and_Other_Tales": {
+    "strings": [
+      "Oscar Wilde"
+    ]
+  },
+  "Author_The_Hunger_Games": {
+    "strings": [
+      "Suzanne Collins"
+    ]
+  },
+  "Author_The_Inheritance_Games": {
+    "strings": [
+      "Jennifer Lynn Barnes"
+    ]
+  },
+  "Author_The_Invasion;(Animorphs_#1)": {
+    "strings": [
+      "K. A. Applegate"
+    ]
+  },
+  "Author_The_Invisible_Man": {
+    "strings": [
+      "H. G. Wells"
+    ]
+  },
+  "Author_The_Last_Battle;(Chronicles_of_Narnia)": {
+    "strings": [
+      "C.S. Lewis"
+    ]
+  },
+  "Author_The_Last_Wish;(The_Witcher)": {
+    "strings": [
+      "Andrzej Sapkowski"
+    ]
+  },
+  "Author_The_Lightning_Thief;(Percy_Jackson_#1)": {
+    "strings": [
+      "Rick Riordan"
+    ]
+  },
+  "Author_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "C. S. Lewis"
+    ]
+  },
+  "Author_The_Little_Prince": {
+    "strings": [
+      "Antoine de Saint-Exup\u00e9ry"
+    ]
+  },
+  "Author_The_Lorax": {
+    "strings": [
+      "Dr. Seuss"
+    ]
+  },
+  "Author_The_Lost_Symbol": {
+    "strings": [
+      "Dan Brown"
+    ]
+  },
+  "Author_The_Magic_City": {
+    "strings": [
+      "Edith Nesbit"
+    ]
+  },
+  "Author_The_Magic_World": {
+    "strings": [
+      "Edith Nesbit"
+    ]
+  },
+  "Author_The_Martian": {
+    "strings": [
+      "Andy Weir"
+    ]
+  },
+  "Author_The_Martian_Chronicles": {
+    "strings": [
+      "Ray Bradbury"
+    ]
+  },
+  "Author_The_Maze_Runner": {
+    "strings": [
+      "James Dashner"
+    ]
+  },
+  "Author_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "Agatha Christie"
+    ]
+  },
+  "Author_The_Neverending_Story": {
+    "strings": [
+      "Michael Ende"
+    ]
+  },
+  "Author_The_Origin_of_Species": {
+    "strings": [
+      "Charles Darwin"
+    ]
+  },
+  "Author_The_Outsider": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "Oscar Wilde"
+    ]
+  },
+  "Author_The_Poetry_of_Architecture": {
+    "strings": [
+      "John Ruskin"
+    ]
+  },
+  "Author_The_Return_of_the_King": {
+    "strings": [
+      "J.R.R. Tolkien"
+    ]
+  },
+  "Author_The_Rose_of_Versailles": {
+    "strings": [
+      "Riyoko Ikeda"
+    ]
+  },
+  "Author_The_Sea_Around_Us": {
+    "strings": [
+      "Rachel Carson"
+    ]
+  },
+  "Author_The_Sea_of_Monsters;(Percy_Jackson_#2)": {
+    "strings": [
+      "Rick Riordan"
+    ]
+  },
+  "Author_The_Search;_Avatar_The_Last_Airbender_(#4-6)": {
+    "strings": [
+      "Konietzko, DiMartino & Yang"
+    ]
+  },
+  "Author_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "H. A. Pennington"
+    ]
+  },
+  "Author_The_Seven_Husbands_of_Evelyn_Hugo": {
+    "strings": [
+      "Taylor Jenkins Reid"
+    ]
+  },
+  "Author_The_Shadow_of_the_Wind": {
+    "strings": [
+      "Carlos Ruiz Zaf\u00f3n"
+    ]
+  },
+  "Author_The_Shining": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Silence_of_the_Lambs": {
+    "strings": [
+      "Thomas Harris"
+    ]
+  },
+  "Author_The_Silent_Patient": {
+    "strings": [
+      "Alex Michaelides"
+    ]
+  },
+  "Author_The_Silmarillion": {
+    "strings": [
+      "J.R.R. Tolkien"
+    ]
+  },
+  "Author_The_Snowy_Day": {
+    "strings": [
+      "Ezra Jack Keats"
+    ]
+  },
+  "Author_The_Soul_of_Man_Under_Socialism": {
+    "strings": [
+      "Oscar Wilde"
+    ]
+  },
+  "Author_The_Stand": {
+    "strings": [
+      "Stephen King"
+    ]
+  },
+  "Author_The_Stones_of_Venice": {
+    "strings": [
+      "John Ruskin"
+    ]
+  },
+  "Author_The_Story_of_Doctor_Dolittle": {
+    "strings": [
+      "Hugh Lofting"
+    ]
+  },
+  "Author_The_Surgeon": {
+    "strings": [
+      "Tess Gerritsen"
+    ]
+  },
+  "Author_The_Tell-Tale_Heart": {
+    "strings": [
+      "Edgar Allan Poe"
+    ]
+  },
+  "Author_The_Tempest": {
+    "strings": [
+      "William Shakespeare"
+    ]
+  },
+  "Author_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "Marco Polo"
+    ]
+  },
+  "Author_The_Two_Towers": {
+    "strings": [
+      "J.R.R. Tolkien"
+    ]
+  },
+  "Author_The_War_of_the_Worlds": {
+    "strings": [
+      "H. G. Wells"
+    ]
+  },
+  "Author_The_Westing_Game": {
+    "strings": [
+      "Ellen Raskin"
+    ]
+  },
+  "Author_The_Willows": {
+    "strings": [
+      "Algernon Blackwood"
+    ]
+  },
+  "Author_The_Woman_in_White": {
+    "strings": [
+      "Wilkie Collins"
+    ]
+  },
+  "Author_To_Kill_a_Mockingbird": {
+    "strings": [
+      "Harper Lee"
+    ]
+  },
+  "Author_To_the_Lighthouse": {
+    "strings": [
+      "Virginia Woolf"
+    ]
+  },
+  "Author_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "Tamir Ghasti"
+    ]
+  },
+  "Author_Towards_a_New_Architecture": {
+    "strings": [
+      "Le Corbusier"
+    ]
+  },
+  "Author_Traditional_Building_Techniques": {
+    "strings": [
+      "Lohar Bishmal"
+    ]
+  },
+  "Author_Treasure_Island": {
+    "strings": [
+      "Robert Louis Stevenson"
+    ]
+  },
+  "Author_Troglobites_Don't_Bite": {
+    "strings": [
+      "Mayara Ferreira"
+    ]
+  },
+  "Author_True_Beauty;Volume_1": {
+    "strings": [
+      "Yaongyi"
+    ]
+  },
+  "Author_Tutunamayanlar": {
+    "strings": [
+      "O\u011fuz Atay"
+    ]
+  },
+  "Author_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "Jules Verne"
+    ]
+  },
+  "Author_Unmasking_Autism": {
+    "strings": [
+      "Devon Price"
+    ]
+  },
+  "Author_Upgrading_and_Repairing_PCs": {
+    "strings": [
+      "Scott Mueller"
+    ]
+  },
+  "Author_U\u00e7_Minik_Ser\u00e7em": {
+    "strings": [
+      "Necati Cumal\u0131"
+    ]
+  },
+  "Author_U\u00e7urtmay\u0131_Vurmas\u0131nlar": {
+    "strings": [
+      "Feride \u00c7i\u00e7eko\u011flu"
+    ]
+  },
+  "Author_Wake;_The_Hidden_History_of_Women-Led_Slave_Revolts": {
+    "strings": [
+      "Rebecca Hall & Hugo Mart\u00ednez"
+    ]
+  },
+  "Author_Where_the_Wild_Things_Are": {
+    "strings": [
+      "Maurice Sendak"
+    ]
+  },
+  "Author_\u00c7al\u0131ku\u015fu": {
+    "strings": [
+      "Re\u015fat Nuri G\u00fcntekin"
+    ]
+  },
+  "Author_\u00c7ocuklar_\u0130\u00e7in_\u0130stanbul": {
+    "strings": [
+      "Bur\u00e7ak G\u00fcr\u00fcn Muraben"
+    ]
+  },
+  "Author_\u0130stanbul_Hat\u0131ras\u0131": {
+    "strings": [
+      "Ahmet \u00dcmit"
+    ]
+  },
+  "Book_Attribute_Academic": {
+    "strings": [
+      "^akademik kitaplar"
+    ]
+  },
+  "Book_Attribute_Age-Rating-Mature": {
+    "strings": [
+      "^yeti\u015fkin i\u00e7erikli kitaplar"
+    ]
+  },
+  "Book_Attribute_Animals": {
+    "strings": [
+      "^hayvan konulu kitaplar"
+    ]
+  },
+  "Book_Attribute_Biography": {
+    "strings": [
+      "^biyografi kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Classic": {
+    "strings": [
+      "^klasik kitaplar"
+    ]
+  },
+  "Book_Attribute_Combiner": {
+    "strings": [
+      "<b></b>, <b></b>"
+    ]
+  },
+  "Book_Attribute_Coming-of-Age": {
+    "strings": [
+      "^gen\u00e7lik kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Contemporary": {
+    "strings": [
+      "^yeni nesil kitaplar"
+    ]
+  },
+  "Book_Attribute_Cooking": {
+    "strings": [
+      "^yemek kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Crime": {
+    "strings": [
+      "^polisiye kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Detective": {
+    "strings": [
+      "^dedektif kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Drama": {
+    "strings": [
+      "^dram kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Dry": {
+    "strings": [
+      "^s\u0131k\u0131c\u0131 kitaplar"
+    ]
+  },
+  "Book_Attribute_Dystopia": {
+    "strings": [
+      "^distopik kitaplar"
+    ]
+  },
+  "Book_Attribute_Encyclopedic": {
+    "strings": [
+      "^ansiklopediler"
+    ]
+  },
+  "Book_Attribute_Epic": {
+    "strings": [
+      "^destans\u0131 kitaplar"
+    ]
+  },
+  "Book_Attribute_Fact": {
+    "strings": [
+      "^kurgu d\u0131\u015f\u0131 kitaplar"
+    ]
+  },
+  "Book_Attribute_Fantasy": {
+    "strings": [
+      "^fantastik kitaplar"
+    ]
+  },
+  "Book_Attribute_Female-Author": {
+    "strings": [
+      "^kad\u0131n yazar kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Fiction": {
+    "strings": [
+      "^kurgu kitaplar"
+    ]
+  },
+  "Book_Attribute_Folklore": {
+    "strings": [
+      "^folklor kitaplar"
+    ]
+  },
+  "Book_Attribute_Gore": {
+    "strings": [
+      "^vah\u015fet kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Graphic-Novel": {
+    "strings": [
+      "^\u00e7i\u0307zgi\u0307 romanlar"
+    ]
+  },
+  "Book_Attribute_Happy-Ending": {
+    "strings": [
+      "^mutlu sonlu kitaplar"
+    ]
+  },
+  "Book_Attribute_Historic": {
+    "strings": [
+      "^tarih\u00ee kitaplar"
+    ]
+  },
+  "Book_Attribute_Horror": {
+    "strings": [
+      "^korku kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Humour": {
+    "strings": [
+      "^mizah kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Kids": {
+    "strings": [
+      "^\u00e7ocuk kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Lifestyle": {
+    "strings": [
+      "^ya\u015fam tarz\u0131 kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Light-Reading": {
+    "strings": [
+      "^\u00e7abuk okunabilir kitaplar"
+    ]
+  },
+  "Book_Attribute_Long": {
+    "strings": [
+      "^uzun kitaplar"
+    ]
+  },
+  "Book_Attribute_Magic": {
+    "strings": [
+      "^b\u00fcy\u00fcl\u00fc kitaplar"
+    ]
+  },
+  "Book_Attribute_Manga": {
+    "strings": [
+      "^mangalar"
+    ]
+  },
+  "Book_Attribute_Mystery": {
+    "strings": [
+      "^gizem kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Nature": {
+    "strings": [
+      "^do\u011fa konulu kitaplar"
+    ]
+  },
+  "Book_Attribute_Niche": {
+    "strings": [
+      "^az bilinen kitaplar"
+    ]
+  },
+  "Book_Attribute_Non-Fiction": {
+    "strings": [
+      "^kurgu olmayan kitaplar"
+    ]
+  },
+  "Book_Attribute_Novel": {
+    "strings": [
+      "^romanlar"
+    ]
+  },
+  "Book_Attribute_Outdated": {
+    "strings": [
+      "^eski kitaplar"
+    ]
+  },
+  "Book_Attribute_Philosophical": {
+    "strings": [
+      "^felsefi kitaplar"
+    ]
+  },
+  "Book_Attribute_Play": {
+    "strings": [
+      "^tiyatro kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Plot-Twist": {
+    "strings": [
+      "^beklenmedik sonlu kitaplar"
+    ]
+  },
+  "Book_Attribute_Poetry": {
+    "strings": [
+      "^\u015fiir kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Political": {
+    "strings": [
+      "^siyasi kitaplar"
+    ]
+  },
+  "Book_Attribute_Pop-Science": {
+    "strings": [
+      "^pop\u00fcler bilim kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Queer": {
+    "strings": [
+      "^kuir kitaplar"
+    ]
+  },
+  "Book_Attribute_Romance": {
+    "strings": [
+      "^a\u015fk kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Science-Fiction": {
+    "strings": [
+      "^bilim kurgu kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Self-Help": {
+    "strings": [
+      "^ki\u015fisel geli\u015fim kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Self-Printed": {
+    "strings": [
+      "^el bas\u0131m\u0131"
+    ]
+  },
+  "Book_Attribute_Series": {
+    "strings": [
+      "^kitap serileri"
+    ]
+  },
+  "Book_Attribute_Short": {
+    "strings": [
+      "^k\u0131sa kitaplar"
+    ]
+  },
+  "Book_Attribute_Space": {
+    "strings": [
+      "^uzay kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Thriller": {
+    "strings": [
+      "^gerilim kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Tragic": {
+    "strings": [
+      "^trajik kitaplar"
+    ]
+  },
+  "Book_Attribute_Travel": {
+    "strings": [
+      "^seyahat kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_Travel-Guide": {
+    "strings": [
+      "^gezi rehberleri"
+    ]
+  },
+  "Book_Attribute_Very-Long": {
+    "strings": [
+      "^\u00e7ok uzun kitaplar"
+    ]
+  },
+  "Book_Attribute_Whodunnit": {
+    "strings": [
+      "^katil kim kitaplar\u0131"
+    ]
+  },
+  "Book_Attribute_YA": {
+    "strings": [
+      "^gen\u00e7 yeti\u015fkin kitaplar\u0131"
+    ]
+  },
+  "Title_#Title_EN": {
+    "strings": [
+      "Title tr_TR"
+    ]
+  },
+  "Title_1,000_Places_to_See_Before_You_Die": {
+    "strings": [
+      "\u00d6lmeden \u00d6nce G\u00f6r\u00fclecek 1000 Yer"
+    ]
+  },
+  "Title_1st_to_Die": {
+    "strings": [
+      "\u0130lk \u00d6l\u00fcm"
+    ]
+  },
+  "Title_A_Clash_of_Kings": {
+    "strings": [
+      "Krallar\u0131n \u00c7arp\u0131\u015fmas\u0131"
+    ]
+  },
+  "Title_A_Collection_of_Poems": {
+    "strings": [
+      "\u015eiir Derlemesi"
+    ]
+  },
+  "Title_A_Court_of_Mist_and_Fury": {
+    "strings": [
+      "Sis ve \u00d6fke Saray\u0131"
+    ]
+  },
+  "Title_A_Dance_With_Dragons": {
+    "strings": [
+      "Ejderhalar\u0131n Dans\u0131"
+    ]
+  },
+  "Title_A_Dictionary_of_the_English_Language": {
+    "strings": [
+      "\u0130ngiliz Dili S\u00f6zl\u00fc\u011f\u00fc"
+    ]
+  },
+  "Title_A_Feast_for_Crows": {
+    "strings": [
+      "Kargalar\u0131n Ziyafeti"
+    ]
+  },
+  "Title_A_Game_of_Thrones": {
+    "strings": [
+      "Taht Oyunlar\u0131"
+    ]
+  },
+  "Title_A_Good_Girl's_Guide_to_Murder": {
+    "strings": [
+      "\u0130yi Bir K\u0131z\u0131n Cinayet Rehberi"
+    ]
+  },
+  "Title_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "Bir Yaz Gecesi R\u00fcyas\u0131"
+    ]
+  },
+  "Title_A_Room_of_One's_Own": {
+    "strings": [
+      "Kendine Ait Bir Oda"
+    ]
+  },
+  "Title_A_Senseless_Power": {
+    "strings": [
+      "Anlams\u0131z G\u00fc\u00e7"
+    ]
+  },
+  "Title_A_Short_History_of_Nearly_Everything": {
+    "strings": [
+      "Hemen Her \u015eeyin K\u0131sa Tarihi"
+    ]
+  },
+  "Title_A_Storm_of_Swords": {
+    "strings": [
+      "K\u0131l\u0131\u00e7lar\u0131n F\u0131rt\u0131nas\u0131"
+    ]
+  },
+  "Title_A_Study_in_Scarlet": {
+    "strings": [
+      "K\u0131z\u0131l Dosya"
+    ]
+  },
+  "Title_A_Wrinkle_in_Time": {
+    "strings": [
+      "Zamanda K\u0131vr\u0131lma"
+    ]
+  },
+  "Title_Adventures_of_A_Wild_Child": {
+    "strings": [
+      "Vah\u015fi \u00c7ocu\u011fun Maceralar\u0131"
+    ]
+  },
+  "Title_After_the_Funeral": {
+    "strings": [
+      "Cenazeden Sonra"
+    ]
+  },
+  "Title_Alias_Grace": {
+    "strings": [
+      "Nam-\u0131 Di\u011fer Grace"
+    ]
+  },
+  "Title_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "Alice Harikalar Diyar\u0131nda"
+    ]
+  },
+  "Title_Alvar_Aalto": {
+    "strings": [
+      "Alvar Aalto"
+    ]
+  },
+  "Title_American_Psycho": {
+    "strings": [
+      "Amerikan Sap\u0131\u011f\u0131"
+    ]
+  },
+  "Title_An_Explorer's_Guide_to_Georgetown": {
+    "strings": [
+      "Bir K\u00e2\u015fifin Georgetown Rehberi"
+    ]
+  },
+  "Title_Anathem": {
+    "strings": [
+      "Anathem"
+    ]
+  },
+  "Title_Angels_&_Demons": {
+    "strings": [
+      "Melekler ve \u015eeytanlar"
+    ]
+  },
+  "Title_Animal_Farm": {
+    "strings": [
+      "Hayvan \u00c7iftli\u011fi"
+    ]
+  },
+  "Title_Anne_of_Green_Gables": {
+    "strings": [
+      "Ye\u015filin K\u0131z\u0131 Anne"
+    ]
+  },
+  "Title_Annihilation": {
+    "strings": [
+      "Yok Olu\u015f"
+    ]
+  },
+  "Title_Architecture_in_Britain;1530-1830": {
+    "strings": [
+      "Britanya Mimarisi",
+      "1530-1830"
+    ]
+  },
+  "Title_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "Seksen G\u00fcnde Devri\u00e2lem"
+    ]
+  },
+  "Title_Artemis_Fowl": {
+    "strings": [
+      "Artemis Fowl"
+    ]
+  },
+  "Title_As_Good_As_Dead": {
+    "strings": [
+      "\u0130yi K\u0131z \u00d6l\u00fcme \u00c7ok Yak\u0131n"
+    ]
+  },
+  "Title_Ate\u015ften_G\u00f6mlek": {
+    "strings": [
+      "Ate\u015ften G\u00f6mlek"
+    ]
+  },
+  "Title_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "Titana Sald\u0131r\u0131",
+      "1. Cilt"
+    ]
+  },
+  "Title_A\u015fk-\u0131_Memnu": {
+    "strings": [
+      "A\u015fk-\u0131 Memnu"
+    ]
+  },
+  "Title_Babel;or_the_Necessity_of_Violence": {
+    "strings": [
+      "Babil",
+      "Oxford \u00c7evirmenler Devriminin Gizemli Hik\u00e2yesi"
+    ]
+  },
+  "Title_Ba\u015flang\u0131\u00e7_D\u00fczeyi_Satran\u00e7_Kaynak_Kitab\u0131": {
+    "strings": [
+      "Ba\u015flang\u0131\u00e7 D\u00fczeyi Satran\u00e7 Kaynak Kitab\u0131"
+    ]
+  },
+  "Title_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "Kahve So\u011fumadan \u00d6nce"
+    ]
+  },
+  "Title_Beloved": {
+    "strings": [
+      "Sevilen"
+    ]
+  },
+  "Title_Benim_Z\u00fcrafam_U\u00e7abilir": {
+    "strings": [
+      "Benim Z\u00fcrafam U\u00e7abilir"
+    ]
+  },
+  "Title_Beyo\u011flu_Rapsodisi": {
+    "strings": [
+      "Beyo\u011flu Rapsodisi"
+    ]
+  },
+  "Title_Be\u015f_\u015eehir": {
+    "strings": [
+      "Be\u015f \u015eehir"
+    ]
+  },
+  "Title_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "Elflerin Kan\u0131",
+      "(The Witcher)"
+    ]
+  },
+  "Title_Call_Me_by_Your_Name": {
+    "strings": [
+      "Ad\u0131nla \u00c7a\u011f\u0131r Beni"
+    ]
+  },
+  "Title_Carmilla": {
+    "strings": [
+      "Carmilla"
+    ]
+  },
+  "Title_Carrie": {
+    "strings": [
+      "G\u00f6z"
+    ]
+  },
+  "Title_Catching_Carps": {
+    "strings": [
+      "Sazan Yakalama Teknikleri"
+    ]
+  },
+  "Title_Catching_Fire": {
+    "strings": [
+      "Ate\u015fi Yakalamak"
+    ]
+  },
+  "Title_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "Charlie'nin \u00c7ikolata Fabrikas\u0131"
+    ]
+  },
+  "Title_Charlotte's_Web": {
+    "strings": [
+      "\u00d6r\u00fcmcek A\u011f\u0131"
+    ]
+  },
+  "Title_Circe": {
+    "strings": [
+      "Ben, Kirke"
+    ]
+  },
+  "Title_Cook_As_You_Are;Recipes_for_Real_Life,_Hungry_Cooks_and_Messy_Kitchens": {
+    "strings": [
+      "Kendince Pi\u015fir",
+      "A\u00e7 A\u015f\u00e7\u0131lar ve Da\u011f\u0131n\u0131k Mutfaklar i\u00e7in Tarifler"
+    ]
+  },
+  "Title_Cook_Korean!;A_Comic_Book_with_Recipes": {
+    "strings": [
+      "Korece Pi\u015fir!",
+      "Karikat\u00fcrlerle Tarifler Kitab\u0131"
+    ]
+  },
+  "Title_Coraline": {
+    "strings": [
+      "Koralin"
+    ]
+  },
+  "Title_Crime_and_Punishment": {
+    "strings": [
+      "Su\u00e7 ve Ceza"
+    ]
+  },
+  "Title_Dark_Matter": {
+    "strings": [
+      "Karanl\u0131k Madde"
+    ]
+  },
+  "Title_Dark_Places": {
+    "strings": [
+      "Karanl\u0131k Yerler"
+    ]
+  },
+  "Title_Death_Note;Volume_1": {
+    "strings": [
+      "\u00d6l\u00fcm Defteri",
+      "1. Cilt"
+    ]
+  },
+  "Title_Death_on_the_Nile": {
+    "strings": [
+      "Nil'de \u00d6l\u00fcm"
+    ]
+  },
+  "Title_Dinosaurs_and_other_Prehistoric_Life": {
+    "strings": [
+      "Dinozorlar ve Tarih \u00d6ncesi Ya\u015fam"
+    ]
+  },
+  "Title_Discovering_the_Greater_Bookston_Region": {
+    "strings": [
+      "B\u00fcy\u00fck Bookston B\u00f6lgesi'nde Ke\u015fif"
+    ]
+  },
+  "Title_Divergent": {
+    "strings": [
+      "Uyumsuz"
+    ]
+  },
+  "Title_Dokuzuncu_Hariciye_Ko\u011fu\u015fu": {
+    "strings": [
+      "Dokuzuncu Hariciye Ko\u011fu\u015fu"
+    ]
+  },
+  "Title_Don_Quixote": {
+    "strings": [
+      "Don Ki\u015fot"
+    ]
+  },
+  "Title_Dracula": {
+    "strings": [
+      "Drakula"
+    ]
+  },
+  "Title_Dragon_Ball;Volume_1": {
+    "strings": [
+      "Dragon Ball",
+      "1. Cilt"
+    ]
+  },
+  "Title_Dragonsong": {
+    "strings": [
+      "Ejder \u015eark\u0131s\u0131"
+    ]
+  },
+  "Title_Emma": {
+    "strings": [
+      "Emma"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "Bookstonbury Ansiklopedisi 1. Cilt"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._2": {
+    "strings": [
+      "Bookstonbury Ansiklopedisi 2. Cilt"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._3": {
+    "strings": [
+      "Bookstonbury Ansiklopedisi 3. Cilt"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._4": {
+    "strings": [
+      "Bookstonbury Ansiklopedisi 4. Cilt"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._5": {
+    "strings": [
+      "Bookstonbury Ansiklopedisi 5. Cilt"
+    ]
+  },
+  "Title_Entangled_Life;_How_Fungi_Make_Our_Worlds,_Change_Our_Minds_&_Shape_Our_Futures": {
+    "strings": [
+      "Sakl\u0131 D\u00fcnya",
+      "Mantarlar Ya\u015fam\u0131, Zihnimizi ve Gelece\u011fimizi Nas\u0131l De\u011fi\u015ftirir?"
+    ]
+  },
+  "Title_Fantastic_Mr_Fox": {
+    "strings": [
+      "Yaman Tilki"
+    ]
+  },
+  "Title_Fire_&_Blood": {
+    "strings": [
+      "Ate\u015f ve Kan"
+    ]
+  },
+  "Title_Five_on_a_Treasure_Island": {
+    "strings": [
+      "Afacan 5'ler Define Adas\u0131nda"
+    ]
+  },
+  "Title_Flower_Fables": {
+    "strings": [
+      "\u00c7i\u00e7ek Masallar\u0131"
+    ]
+  },
+  "Title_Flowers_for_Algernon": {
+    "strings": [
+      "Algernon'a \u00c7i\u00e7ekler"
+    ]
+  },
+  "Title_Frank_Lloyd_Wright": {
+    "strings": [
+      "Frank Lloyd Wright"
+    ]
+  },
+  "Title_Frankenstein": {
+    "strings": [
+      "Frankenstein"
+    ]
+  },
+  "Title_Frankfurt_Seyahatnamesi": {
+    "strings": [
+      "Frankfurt Seyahatnamesi"
+    ]
+  },
+  "Title_Full_Dark,_No_Stars": {
+    "strings": [
+      "Zifiri Karanl\u0131k Y\u0131ld\u0131zs\u0131z Gece"
+    ]
+  },
+  "Title_Games,_Game_Design,_Game_Studies": {
+    "strings": [
+      "Oyunlar, Oyun Tasar\u0131m\u0131, Oyun \u00c7al\u0131\u015fmalar\u0131"
+    ]
+  },
+  "Title_Gemology:_A_Study_in_Ruby": {
+    "strings": [
+      "Gemoloji: Yakut \u00dczerine Bir \u00c7al\u0131\u015fma"
+    ]
+  },
+  "Title_Geometri": {
+    "strings": [
+      "Geometri"
+    ]
+  },
+  "Title_Gone_Girl": {
+    "strings": [
+      "Kay\u0131p K\u0131z"
+    ]
+  },
+  "Title_Good_Girl,_Bad_Blood": {
+    "strings": [
+      "\u0130yi K\u0131z, K\u00f6t\u00fc Son"
+    ]
+  },
+  "Title_Good_Night,_Gorilla": {
+    "strings": [
+      "\u0130yi Geceler Gorilla"
+    ]
+  },
+  "Title_Gregor_the_Overlander": {
+    "strings": [
+      "Gregor'un Yeralt\u0131 G\u00fcnl\u00fckleri"
+    ]
+  },
+  "Title_Gulliver's_Travels": {
+    "strings": [
+      "Gulliver'in Gezileri"
+    ]
+  },
+  "Title_HTML_1998;An_Introduction": {
+    "strings": [
+      "HTML 1998",
+      "Giri\u015f"
+    ]
+  },
+  "Title_Hakka_S\u0131\u011f\u0131nd\u0131k": {
+    "strings": [
+      "Hakka S\u0131\u011f\u0131nd\u0131k"
+    ]
+  },
+  "Title_Hamlet": {
+    "strings": [
+      "Hamlet"
+    ]
+  },
+  "Title_Happily_Ever_After_Cookbook;Original_Recipes_for_Book_Lovers": {
+    "strings": [
+      "Mutluluk Dolu Yemek Kitab\u0131",
+      "Kitapseverler \u0130\u00e7in Orijinal Tarifler"
+    ]
+  },
+  "Title_Heartstopper;Volume_1": {
+    "strings": [
+      "Kalp \u00c7arp\u0131nt\u0131s\u0131",
+      "1. Cilt"
+    ]
+  },
+  "Title_Heidi": {
+    "strings": [
+      "Heidi"
+    ]
+  },
+  "Title_Henry_V": {
+    "strings": [
+      "Kral V. Henry"
+    ]
+  },
+  "Title_Henry_VI,_Part_1": {
+    "strings": [
+      "Kral VI. Henry, 1. B\u00f6l\u00fcm"
+    ]
+  },
+  "Title_Henry_VI,_Part_3": {
+    "strings": [
+      "Kral VI. Henry, 3. B\u00f6l\u00fcm"
+    ]
+  },
+  "Title_Herbcraft;The_Power_of_Natural_Healing_and_Hexing": {
+    "strings": [
+      "Bitki B\u00fcy\u00fcs\u00fc",
+      "Do\u011fal Tedavi ve B\u00fcy\u00fcn\u00fcn G\u00fcc\u00fc"
+    ]
+  },
+  "Title_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "Bookston K\u00f6rfezi'nin Y\u00fcr\u00fcy\u00fc\u015f Yollar\u0131"
+    ]
+  },
+  "Title_Historical_Niche": {
+    "strings": [
+      "Tarihsel Ni\u015f"
+    ]
+  },
+  "Title_Homage_to_Catalonia": {
+    "strings": [
+      "Selam Olsun Katalonya'ya"
+    ]
+  },
+  "Title_How_Many_Castles_in_7_Days?": {
+    "strings": [
+      "Yedi G\u00fcnde Ka\u00e7 Kale?"
+    ]
+  },
+  "Title_Howl's_Moving_Castle": {
+    "strings": [
+      "Y\u00fcr\u00fcyen \u015eato"
+    ]
+  },
+  "Title_H\u00e9l\u00e8ne": {
+    "strings": [
+      "H\u00e9l\u00e8ne"
+    ]
+  },
+  "Title_I,_Robot": {
+    "strings": [
+      "Ben, Robot"
+    ]
+  },
+  "Title_If_We_Were_Villains": {
+    "strings": [
+      "E\u011fer K\u00f6t\u00fc Olsayd\u0131k"
+    ]
+  },
+  "Title_In_Cold_Blood": {
+    "strings": [
+      "So\u011fukkanl\u0131l\u0131kla"
+    ]
+  },
+  "Title_In_Search_Of:;The_Most_Beautiful_Islands_In_the_World": {
+    "strings": [
+      "Aray\u0131\u015f:",
+      "D\u00fcnyan\u0131n En G\u00fczel Adalar\u0131"
+    ]
+  },
+  "Title_Inkheart": {
+    "strings": [
+      "M\u00fcrekkep Y\u00fcrek"
+    ]
+  },
+  "Title_Into_the_Sunset:_The_Magical_West": {
+    "strings": [
+      "G\u00fcn Bat\u0131m\u0131na Do\u011fru: B\u00fcy\u00fcl\u00fc Bat\u0131"
+    ]
+  },
+  "Title_It": {
+    "strings": [
+      "O"
+    ]
+  },
+  "Title_Italian_Villas_and_Their_Gardens": {
+    "strings": [
+      "\u0130talyan Villalar\u0131 ve Bah\u00e7eleri"
+    ]
+  },
+  "Title_James_and_the_Giant_Peach": {
+    "strings": [
+      "Dev \u015eeftali"
+    ]
+  },
+  "Title_Jane_Eyre": {
+    "strings": [
+      "Jane Eyre"
+    ]
+  },
+  "Title_Jean_Dubuffet": {
+    "strings": [
+      "Jean Dubuffet"
+    ]
+  },
+  "Title_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "D\u00fcnyan\u0131n Merkezine Yolculuk"
+    ]
+  },
+  "Title_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "Bat\u0131ya Yolculuk",
+      "Maymun Kral Efsanesi"
+    ]
+  },
+  "Title_Jujutsu_Kaisen;Volume_1": {
+    "strings": [
+      "Jujutsu Kaisen",
+      "1. Cilt"
+    ]
+  },
+  "Title_Julius_Caesar": {
+    "strings": [
+      "Julius Caesar"
+    ]
+  },
+  "Title_Just_A_Story:_Why_We_Still_Tell_Fairytales": {
+    "strings": [
+      "Sadece Bir Hik\u00e2ye: Neden H\u00e2l\u00e2 Masal Anlat\u0131r\u0131z?"
+    ]
+  },
+  "Title_Kapadokya;Ta\u015f_Kap\u0131dan_Ta\u00e7kap\u0131ya": {
+    "strings": [
+      "Kapadokya",
+      "Ta\u015f Kap\u0131dan Ta\u00e7kap\u0131ya"
+    ]
+  },
+  "Title_Kiki's_Delivery_Service": {
+    "strings": [
+      "K\u00fc\u00e7\u00fck Cad\u0131 Kiki"
+    ]
+  },
+  "Title_Kinyas_ve_Kayra": {
+    "strings": [
+      "Kinyas ve Kayra"
+    ]
+  },
+  "Title_Kitchen_Rules_For_Your_Family_and_You": {
+    "strings": [
+      "Ailenize Y\u00f6nelik Mutfak Kurallar\u0131"
+    ]
+  },
+  "Title_Kral_\u015eakir;Hayat_K\u0131sa_Filler_U\u00e7uyor!": {
+    "strings": [
+      "Kral \u015eakir",
+      "Hayat K\u0131sa Filler U\u00e7uyor!"
+    ]
+  },
+  "Title_K\u00fcrk_Mantolu_Madonna": {
+    "strings": [
+      "K\u00fcrk Mantolu Madonna"
+    ]
+  },
+  "Title_K\u0131rlang\u0131\u00e7_\u00c7\u0131\u011fl\u0131\u011f\u0131": {
+    "strings": [
+      "K\u0131rlang\u0131\u00e7 \u00c7\u0131\u011fl\u0131\u011f\u0131"
+    ]
+  },
+  "Title_Le_Corbusier": {
+    "strings": [
+      "Le Corbusier"
+    ]
+  },
+  "Title_Les_Miserables": {
+    "strings": [
+      "Sefiller"
+    ]
+  },
+  "Title_Levent_D\u00fcnya_Harikalar\u0131n\u0131n_Pe\u015finde": {
+    "strings": [
+      "Levent D\u00fcnya Harikalar\u0131n\u0131n Pe\u015finde"
+    ]
+  },
+  "Title_Little_Women": {
+    "strings": [
+      "K\u00fc\u00e7\u00fck Kad\u0131nlar"
+    ]
+  },
+  "Title_Living_In_Alaska": {
+    "strings": [
+      "Alaska'da Ya\u015fam"
+    ]
+  },
+  "Title_Looking_for_Alaska": {
+    "strings": [
+      "Alaska'n\u0131n Pe\u015finde"
+    ]
+  },
+  "Title_Love": {
+    "strings": [
+      "A\u015fk"
+    ]
+  },
+  "Title_Macbeth": {
+    "strings": [
+      "Macbeth"
+    ]
+  },
+  "Title_Matilda": {
+    "strings": [
+      "Matilda"
+    ]
+  },
+  "Title_Medieval_Carpentry": {
+    "strings": [
+      "Orta \u00c7a\u011f Marangozlu\u011fu"
+    ]
+  },
+  "Title_Menek\u015fe_Kokulu_Hik\u00e2yeler": {
+    "strings": [
+      "Menek\u015fe Kokulu Hik\u00e2yeler"
+    ]
+  },
+  "Title_Mesopotamian_Buildings": {
+    "strings": [
+      "Mezopotamya Yap\u0131lar\u0131"
+    ]
+  },
+  "Title_Misery": {
+    "strings": [
+      "Sadist"
+    ]
+  },
+  "Title_Miss_Peregrine's_Home_for_Peculiar_Children": {
+    "strings": [
+      "Bayan Peregrine'in Tuhaf \u00c7ocuklar\u0131"
+    ]
+  },
+  "Title_Moby-Dick": {
+    "strings": [
+      "Moby Dick"
+    ]
+  },
+  "Title_Momo;or,_The_Grey_Gentlemen": {
+    "strings": [
+      "Momo"
+    ]
+  },
+  "Title_Monster;Volume_1": {
+    "strings": [
+      "Monster",
+      "1. Cilt"
+    ]
+  },
+  "Title_Mont-Saint-Michel_and_Chartres": {
+    "strings": [
+      "Mont-Saint-Michel ve Chartres"
+    ]
+  },
+  "Title_Moominland_Midwinter": {
+    "strings": [
+      "Moominland'de K\u0131\u015f Ortas\u0131"
+    ]
+  },
+  "Title_Mrs._Dalloway": {
+    "strings": [
+      "Mrs. Dalloway"
+    ]
+  },
+  "Title_Murder_on_the_Orient_Express": {
+    "strings": [
+      "Do\u011fu Ekspresinde Cinayet"
+    ]
+  },
+  "Title_My_Lesbian_Experience_With_Loneliness": {
+    "strings": [
+      "Yaln\u0131zl\u0131kla \u0130lgili Lezbiyen Deneyimim"
+    ]
+  },
+  "Title_My_Travels_In_East_Africa": {
+    "strings": [
+      "Do\u011fu Afrika'daki Seyahatlerim"
+    ]
+  },
+  "Title_Newtonian_Physics_for_Babies": {
+    "strings": [
+      "Bebekler \u0130\u00e7in Yer\u00e7ekimi"
+    ]
+  },
+  "Title_Night_Shift": {
+    "strings": [
+      "Hayaletin Garip Huylar\u0131"
+    ]
+  },
+  "Title_Nimona": {
+    "strings": [
+      "Nimona"
+    ]
+  },
+  "Title_Nineteen_Eighty-Four": {
+    "strings": [
+      "1984"
+    ]
+  },
+  "Title_Notes_From_A_Small_Island": {
+    "strings": [
+      "K\u00fc\u00e7\u00fck Bir Adadan Notlar"
+    ]
+  },
+  "Title_Nutuk": {
+    "strings": [
+      "Nutuk"
+    ]
+  },
+  "Title_Omniscient_Reader's_Viewpoint;_Volume_1": {
+    "strings": [
+      "Bilge Okuyucunun Bak\u0131\u015f A\u00e7\u0131s\u0131",
+      "1. Cilt"
+    ]
+  },
+  "Title_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "Bookstonbury'nin Do\u011fal Floras\u0131 \u00dczerine"
+    ]
+  },
+  "Title_One_Of_Us_Is_Lying": {
+    "strings": [
+      "Birimiz Yalan S\u00f6yl\u00fcyor"
+    ]
+  },
+  "Title_Orlando": {
+    "strings": [
+      "Orlando"
+    ]
+  },
+  "Title_Othello": {
+    "strings": [
+      "Othello"
+    ]
+  },
+  "Title_Paper_Towns": {
+    "strings": [
+      "K\u00e2\u011f\u0131ttan Kentler"
+    ]
+  },
+  "Title_Paradise": {
+    "strings": [
+      "Cennet"
+    ]
+  },
+  "Title_Persepolis;The_Story_of_a_Childhood": {
+    "strings": [
+      "Persepolis"
+    ]
+  },
+  "Title_Persuasion": {
+    "strings": [
+      "\u0130kna"
+    ]
+  },
+  "Title_Pet_Sematary": {
+    "strings": [
+      "Hayvan Mezarl\u0131\u011f\u0131"
+    ]
+  },
+  "Title_Peter_Pan_in_Kensington_Gardens": {
+    "strings": [
+      "Peter Pan Kensington Bah\u00e7elerinde"
+    ]
+  },
+  "Title_Physics_1908": {
+    "strings": [
+      "Fizik 1908"
+    ]
+  },
+  "Title_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "Prens Kaspiyan",
+      "Narnia'ya D\u00f6n\u00fc\u015f"
+    ]
+  },
+  "Title_Puslu_K\u0131talar_Atlas\u0131": {
+    "strings": [
+      "Puslu K\u0131talar Atlas\u0131"
+    ]
+  },
+  "Title_Rambles_in_Germany_and_Italy;in_1840,_1842,_and_1843": {
+    "strings": [
+      "Almanya ve \u0130talya'da Geziler",
+      "1840, 1842 ve 1843 Y\u0131llar\u0131"
+    ]
+  },
+  "Title_Red_Dragon": {
+    "strings": [
+      "K\u0131z\u0131l Ejder"
+    ]
+  },
+  "Title_Richard_II": {
+    "strings": [
+      "II. Richard"
+    ]
+  },
+  "Title_Romeo_and_Juliet": {
+    "strings": [
+      "Romeo ve Juliet"
+    ]
+  },
+  "Title_Round_Luxembourg_with_Brooke": {
+    "strings": [
+      "Brooke ile L\u00fcksemburg Turu"
+    ]
+  },
+  "Title_Saatleri_Ayarlama_Enstit\u00fcs\u00fc": {
+    "strings": [
+      "Saatleri Ayarlama Enstit\u00fcs\u00fc"
+    ]
+  },
+  "Title_Saga;Volume_9": {
+    "strings": [
+      "Saga",
+      "9. Cilt"
+    ]
+  },
+  "Title_Sailor_Moon;Volume_1": {
+    "strings": [
+      "Ay Sava\u015f\u00e7\u0131s\u0131",
+      "1. Cilt"
+    ]
+  },
+  "Title_Scott_Pilgrim's_Precious_Little_Life_(#1)": {
+    "strings": [
+      "Scott Pilgrim'in De\u011ferli ve Basit Hayat\u0131 (#1)"
+    ]
+  },
+  "Title_Second_Foundation": {
+    "strings": [
+      "\u0130kinci Vak\u0131f"
+    ]
+  },
+  "Title_Sense_and_Sensibility": {
+    "strings": [
+      "Ak\u0131l ve Tutku"
+    ]
+  },
+  "Title_Sevgili_Ars\u0131z_\u00d6l\u00fcm": {
+    "strings": [
+      "Sevgili Ars\u0131z \u00d6l\u00fcm"
+    ]
+  },
+  "Title_Sister_Outsider": {
+    "strings": [
+      "Bahisd\u0131\u015f\u0131 K\u0131z Karde\u015f"
+    ]
+  },
+  "Title_Six_of_Crows": {
+    "strings": [
+      "Kargalar Meclisi"
+    ]
+  },
+  "Title_Snow_Crash": {
+    "strings": [
+      "Parazit"
+    ]
+  },
+  "Title_St._Bookston:_The_Myth,_the_Legend,_the_Truth": {
+    "strings": [
+      "St. Bookston: Mit, Efsane ve Ger\u00e7ekler"
+    ]
+  },
+  "Title_Stormbreaker": {
+    "strings": [
+      "\u015eim\u015fekk\u0131ran"
+    ]
+  },
+  "Title_Sula": {
+    "strings": [
+      "Sula"
+    ]
+  },
+  "Title_The_Adventures_of_Pippi_Longstocking": {
+    "strings": [
+      "Uzun \u00c7orapl\u0131 K\u0131z Pippi'nin Maceralar\u0131"
+    ]
+  },
+  "Title_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "Sherlock Holmes'un Maceralar\u0131"
+    ]
+  },
+  "Title_The_Bad_Beginning;(A_Series_of_Unfortunate_Events)": {
+    "strings": [
+      "K\u00f6t\u00fc G\u00fcnler Ba\u015flarken",
+      "(Talihsiz Ser\u00fcvenler Dizisi)"
+    ]
+  },
+  "Title_The_Battle_of_the_Labyrinth": {
+    "strings": [
+      "Labirent Sava\u015f\u0131"
+    ]
+  },
+  "Title_The_Bell_Jar": {
+    "strings": [
+      "S\u0131r\u00e7a Fanus"
+    ]
+  },
+  "Title_The_Big_Sleep": {
+    "strings": [
+      "B\u00fcy\u00fck Uyku"
+    ]
+  },
+  "Title_The_Blind_Assassin": {
+    "strings": [
+      "K\u00f6r Suikast\u00e7\u0131"
+    ]
+  },
+  "Title_The_Bluest_Eye": {
+    "strings": [
+      "En Mavi G\u00f6z"
+    ]
+  },
+  "Title_The_Book_of_Tea": {
+    "strings": [
+      "\u00c7ay Kitab\u0131"
+    ]
+  },
+  "Title_The_Bookshop_Book": {
+    "strings": [
+      "Kitabevi Kitab\u0131"
+    ]
+  },
+  "Title_The_Canterbury_Tales": {
+    "strings": [
+      "Canterbury Hik\u00e2yeleri"
+    ]
+  },
+  "Title_The_Canterville_Ghost": {
+    "strings": [
+      "Canterville Hayaleti"
+    ]
+  },
+  "Title_The_Comedy_of_Errors": {
+    "strings": [
+      "Yanl\u0131\u015fl\u0131klar Komedyas\u0131"
+    ]
+  },
+  "Title_The_Cruel_Prince": {
+    "strings": [
+      "Zalim Prens"
+    ]
+  },
+  "Title_The_Curious_Incident_of_the_Dog_in_the_Night-Time": {
+    "strings": [
+      "S\u00fcper \u0130yi G\u00fcnler"
+    ]
+  },
+  "Title_The_Debvoir_Family;A_Success_Story": {
+    "strings": [
+      "Devboir Ailesi",
+      "Bir Ba\u015far\u0131 \u00d6yk\u00fcs\u00fc"
+    ]
+  },
+  "Title_The_Dispossessed": {
+    "strings": [
+      "M\u00fclks\u00fczler"
+    ]
+  },
+  "Title_The_Eyes_of_Darkness": {
+    "strings": [
+      "Karanl\u0131\u011f\u0131n G\u00f6zleri"
+    ]
+  },
+  "Title_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "Usher Evi'nin \u00c7\u00f6k\u00fc\u015f\u00fc"
+    ]
+  },
+  "Title_The_Fault_in_Our_Stars": {
+    "strings": [
+      "Ayn\u0131 Y\u0131ld\u0131z\u0131n Alt\u0131nda"
+    ]
+  },
+  "Title_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "Y\u00fcz\u00fck Karde\u015fli\u011fi"
+    ]
+  },
+  "Title_The_Fisherman": {
+    "strings": [
+      "Bal\u0131k\u00e7\u0131"
+    ]
+  },
+  "Title_The_Girl_Who_Played_with_Fire": {
+    "strings": [
+      "Ate\u015fle Oynayan K\u0131z"
+    ]
+  },
+  "Title_The_Green_Mile": {
+    "strings": [
+      "Ye\u015fil Yol"
+    ]
+  },
+  "Title_The_Gunslinger": {
+    "strings": [
+      "Silah\u015for"
+    ]
+  },
+  "Title_The_Handmaid's_Tale": {
+    "strings": [
+      "Dam\u0131zl\u0131k K\u0131z\u0131n \u00d6yk\u00fcs\u00fc"
+    ]
+  },
+  "Title_The_Happy_Prince_and_Other_Tales": {
+    "strings": [
+      "Mutlu Prens: B\u00fct\u00fcn Masallar"
+    ]
+  },
+  "Title_The_Hunger_Games": {
+    "strings": [
+      "A\u00e7l\u0131k Oyunlar\u0131"
+    ]
+  },
+  "Title_The_Inheritance_Games": {
+    "strings": [
+      "Miras Oyunlar\u0131"
+    ]
+  },
+  "Title_The_Invasion;(Animorphs_#1)": {
+    "strings": [
+      "\u0130\u015fgal",
+      "(D\u00f6n\u00fc\u015f\u00fcm #1)"
+    ]
+  },
+  "Title_The_Invisible_Man": {
+    "strings": [
+      "G\u00f6r\u00fcnmez Adam"
+    ]
+  },
+  "Title_The_Last_Battle;(Chronicles_of_Narnia)": {
+    "strings": [
+      "Son Sava\u015f",
+      "(Narnia G\u00fcnl\u00fckleri)"
+    ]
+  },
+  "Title_The_Last_Wish;(The_Witcher)": {
+    "strings": [
+      "Son Dilek",
+      "(The Witcher)"
+    ]
+  },
+  "Title_The_Lightning_Thief;(Percy_Jackson_#1)": {
+    "strings": [
+      "\u015eim\u015fek H\u0131rs\u0131z\u0131",
+      "(Percy Jackson #1)"
+    ]
+  },
+  "Title_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "Aslan, Cad\u0131 Ve Dolap"
+    ]
+  },
+  "Title_The_Little_Prince": {
+    "strings": [
+      "K\u00fc\u00e7\u00fck Prens"
+    ]
+  },
+  "Title_The_Lorax": {
+    "strings": [
+      "Loraks"
+    ]
+  },
+  "Title_The_Lost_Symbol": {
+    "strings": [
+      "Kay\u0131p Sembol"
+    ]
+  },
+  "Title_The_Magic_City": {
+    "strings": [
+      "B\u00fcy\u00fcl\u00fc \u015eehir"
+    ]
+  },
+  "Title_The_Magic_World": {
+    "strings": [
+      "B\u00fcy\u00fcl\u00fc D\u00fcnya"
+    ]
+  },
+  "Title_The_Martian": {
+    "strings": [
+      "Marsl\u0131"
+    ]
+  },
+  "Title_The_Martian_Chronicles": {
+    "strings": [
+      "Mars Y\u0131ll\u0131klar\u0131"
+    ]
+  },
+  "Title_The_Maze_Runner": {
+    "strings": [
+      "Labirent: \u00d6l\u00fcmc\u00fcl Ka\u00e7\u0131\u015f"
+    ]
+  },
+  "Title_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "\u00d6l\u00fcm \u00c7\u0131\u011fl\u0131\u011f\u0131"
+    ]
+  },
+  "Title_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "Roger Ackroyd Cinayeti"
+    ]
+  },
+  "Title_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "\u00d6l\u00fcm Sessiz Geldi"
+    ]
+  },
+  "Title_The_Neverending_Story": {
+    "strings": [
+      "Bitmeyecek \u00d6yk\u00fc"
+    ]
+  },
+  "Title_The_Origin_of_Species": {
+    "strings": [
+      "T\u00fcrlerin K\u00f6keni"
+    ]
+  },
+  "Title_The_Outsider": {
+    "strings": [
+      "Yabanc\u0131"
+    ]
+  },
+  "Title_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "Dorian Gray'in Portresi"
+    ]
+  },
+  "Title_The_Poetry_of_Architecture": {
+    "strings": [
+      "Mimarinin \u015eiiri"
+    ]
+  },
+  "Title_The_Return_of_the_King": {
+    "strings": [
+      "Kral\u0131n D\u00f6n\u00fc\u015f\u00fc"
+    ]
+  },
+  "Title_The_Rose_of_Versailles": {
+    "strings": [
+      "Versay'\u0131n G\u00fcl\u00fc"
+    ]
+  },
+  "Title_The_Sea_Around_Us": {
+    "strings": [
+      "Bizi Saran Deniz"
+    ]
+  },
+  "Title_The_Sea_of_Monsters;(Percy_Jackson_#2)": {
+    "strings": [
+      "Canavarlar Denizi",
+      "(Percy Jackson #2)"
+    ]
+  },
+  "Title_The_Search;_Avatar_The_Last_Airbender_(#4-6)": {
+    "strings": [
+      "Aray\u0131\u015f",
+      "Avatar Son Hava B\u00fck\u00fcc\u00fc (#4-6)"
+    ]
+  },
+  "Title_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "Bookstonbury'nin Gizli Tarihi"
+    ]
+  },
+  "Title_The_Seven_Husbands_of_Evelyn_Hugo": {
+    "strings": [
+      "Evelyn Hugo'nun Yedi Kocas\u0131"
+    ]
+  },
+  "Title_The_Shadow_of_the_Wind": {
+    "strings": [
+      "R\u00fczg\u00e2r\u0131n G\u00f6lgesi"
+    ]
+  },
+  "Title_The_Shining": {
+    "strings": [
+      "Medyum"
+    ]
+  },
+  "Title_The_Silence_of_the_Lambs": {
+    "strings": [
+      "Kuzular\u0131n Sessizli\u011fi"
+    ]
+  },
+  "Title_The_Silent_Patient": {
+    "strings": [
+      "Sessiz Hasta"
+    ]
+  },
+  "Title_The_Silmarillion": {
+    "strings": [
+      "Silmarillion"
+    ]
+  },
+  "Title_The_Snowy_Day": {
+    "strings": [
+      "Karl\u0131 Bir G\u00fcn"
+    ]
+  },
+  "Title_The_Soul_of_Man_Under_Socialism": {
+    "strings": [
+      "Sosyalizm ve \u0130nsan Ruhu"
+    ]
+  },
+  "Title_The_Stand": {
+    "strings": [
+      "Mah\u015fer"
+    ]
+  },
+  "Title_The_Stones_of_Venice": {
+    "strings": [
+      "Venedik'in Ta\u015flar\u0131"
+    ]
+  },
+  "Title_The_Story_of_Doctor_Dolittle": {
+    "strings": [
+      "Doktor Dolittle'\u0131n Hik\u00e2yesi"
+    ]
+  },
+  "Title_The_Surgeon": {
+    "strings": [
+      "Cerrah"
+    ]
+  },
+  "Title_The_Tell-Tale_Heart": {
+    "strings": [
+      "Gammaz Y\u00fcrek"
+    ]
+  },
+  "Title_The_Tempest": {
+    "strings": [
+      "F\u0131rt\u0131na"
+    ]
+  },
+  "Title_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "Marco Polo'nun Geziler Kitab\u0131"
+    ]
+  },
+  "Title_The_Two_Towers": {
+    "strings": [
+      "\u0130ki Kule"
+    ]
+  },
+  "Title_The_War_of_the_Worlds": {
+    "strings": [
+      "D\u00fcnyalar Sava\u015f\u0131"
+    ]
+  },
+  "Title_The_Westing_Game": {
+    "strings": [
+      "D\u00fcnyan\u0131n En Tuhaf Oyunu"
+    ]
+  },
+  "Title_The_Willows": {
+    "strings": [
+      "S\u00f6\u011f\u00fctler"
+    ]
+  },
+  "Title_The_Woman_in_White": {
+    "strings": [
+      "Beyazl\u0131 Kad\u0131n"
+    ]
+  },
+  "Title_To_Kill_a_Mockingbird": {
+    "strings": [
+      "B\u00fclb\u00fcl\u00fc \u00d6ld\u00fcrmek"
+    ]
+  },
+  "Title_To_the_Lighthouse": {
+    "strings": [
+      "Deniz Feneri"
+    ]
+  },
+  "Title_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "Karavanla Gidilecek En \u0130yi 50 Yer"
+    ]
+  },
+  "Title_Towards_a_New_Architecture": {
+    "strings": [
+      "Bir Mimarl\u0131\u011fa Do\u011fru"
+    ]
+  },
+  "Title_Traditional_Building_Techniques": {
+    "strings": [
+      "Geleneksel Yap\u0131 Teknikleri"
+    ]
+  },
+  "Title_Treasure_Island": {
+    "strings": [
+      "Define Adas\u0131"
+    ]
+  },
+  "Title_Troglobites_Don't_Bite": {
+    "strings": [
+      "Troglobitler Is\u0131rmaz"
+    ]
+  },
+  "Title_True_Beauty;Volume_1": {
+    "strings": [
+      "True Beauty",
+      "1. Cilt"
+    ]
+  },
+  "Title_Tutunamayanlar": {
+    "strings": [
+      "Tutunamayanlar"
+    ]
+  },
+  "Title_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "Denizler Alt\u0131nda Yirmi Bin Fersah"
+    ]
+  },
+  "Title_Unmasking_Autism": {
+    "strings": [
+      "Otizm'in Maskesini \u0130ndirmek"
+    ]
+  },
+  "Title_Upgrading_and_Repairing_PCs": {
+    "strings": [
+      "Bilgisayar Y\u00fckseltme ve Onar\u0131m\u0131"
+    ]
+  },
+  "Title_U\u00e7_Minik_Ser\u00e7em": {
+    "strings": [
+      "U\u00e7 Minik Ser\u00e7em"
+    ]
+  },
+  "Title_U\u00e7urtmay\u0131_Vurmas\u0131nlar": {
+    "strings": [
+      "U\u00e7urtmay\u0131 Vurmas\u0131nlar"
+    ]
+  },
+  "Title_Wake;_The_Hidden_History_of_Women-Led_Slave_Revolts": {
+    "strings": [
+      "Uyan\u0131\u015f",
+      "Kad\u0131nlar\u0131n Y\u00f6netti\u011fi K\u00f6le \u0130syanlar\u0131n\u0131n Gizli Tarihi"
+    ]
+  },
+  "Title_Where_the_Wild_Things_Are": {
+    "strings": [
+      "Vah\u015fi \u015eeyler \u00dclkesinde"
+    ]
+  },
+  "Title_\u00c7al\u0131ku\u015fu": {
+    "strings": [
+      "\u00c7al\u0131ku\u015fu"
+    ]
+  },
+  "Title_\u00c7ocuklar_\u0130\u00e7in_\u0130stanbul": {
+    "strings": [
+      "\u00c7ocuklar \u0130\u00e7in \u0130stanbul"
+    ]
+  },
+  "Title_\u0130stanbul_Hat\u0131ras\u0131": {
+    "strings": [
+      "\u0130stanbul Hat\u0131ras\u0131"
+    ]
+  }
+}

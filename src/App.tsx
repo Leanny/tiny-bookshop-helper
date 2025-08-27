@@ -169,9 +169,7 @@ export default function App() {
         </aside>
         <div className='space-y-4'>
           <p className='text-sm text-gray-600 dark:text-gray-400'>
-            <span className='font-bold'>Bold tags</span> indicate main genre(s) - Please contact{' '}
-            <span className='font-semibold'>leanyoshi</span> on Discord if you can provide files from the steam version
-            (as I only have access to the switch version).
+            <span className='font-bold'>Bold tags</span> indicate main genre(s)
           </p>
           <section className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4'>
             {filtered.map((b) => (

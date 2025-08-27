@@ -442,12 +442,13 @@
         "Book_Attribute_Drama",
         "Book_Attribute_Short",
         "Book_Attribute_Female-Author",
-        "Book_Attribute_Academic"
+        "Book_Attribute_Academic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         2514565850928161122, 5346486007068983623, -6636662495733549811, -5297152812902730509, -5324273431625949389,
         9106255848689979198, 3471403351400568100, -7698190043148316418, 3314143632064326362, -2868349081807124857,
-        -2430236346651599417, -7903362346376596395
+        -2430236346651599417, -7903362346376596395, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 1
@@ -549,11 +550,12 @@
         "Book_Attribute_Fact",
         "Book_Attribute_Non-Fiction",
         "Book_Attribute_Outdated",
-        "Book_Attribute_Academic"
+        "Book_Attribute_Academic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -4370700021167045099, -5092700750064605807, -8708106373435973157, 3138240405316037854, -355396152609267625,
-        -7903362346376596395
+        -7903362346376596395, 3060234526182601800
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -680,12 +682,14 @@
         "Book_Attribute_Folklore",
         "Book_Attribute_Short",
         "Book_Attribute_Play",
-        "Book_Attribute_Romance"
+        "Book_Attribute_Romance",
+        "Book_Attribute_Humour",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -1699314828098406484, 3314143632064326362, -8519683449468449194,
         8957559176956913276, 1195107243811689507, -3189764713476197866, -2868349081807124857, -2990197087112418371,
-        -5297152812902730509
+        -5297152812902730509, 6024540521391575692, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -779,11 +783,12 @@
         "Book_Attribute_Fact",
         "Book_Attribute_Epic",
         "Book_Attribute_Pop-Science",
-        "Book_Attribute_Contemporary"
+        "Book_Attribute_Contemporary",
+        "Book_Attribute_Nature"
       ],
       "attributeIds": [
         -13992392358302004, 3060234526182601800, 3138240405316037854, -8708106373435973157, -3081409600515623228,
-        4080566768484691406, -2560211484336640344
+        4080566768484691406, -2560211484336640344, 855941067535245862
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -829,11 +834,12 @@
         "Book_Attribute_Mystery",
         "Book_Attribute_Detective",
         "Book_Attribute_Series",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -6574558982473003707, -4538028669047716633, 3542716738968859996,
-        5657074492002100807, -2868349081807124857
+        5657074492002100807, -2868349081807124857, 3060234526182601800
       ],
       "mainGenres": [0, 4],
       "isFake": 0
@@ -868,16 +874,17 @@
       "pages": 320,
       "published": 1997,
       "attributes": [
-        "Book_Attribute_Fiction",
+        "Book_Attribute_Non-Fiction",
         "Book_Attribute_Lifestyle",
         "Book_Attribute_Light-Reading",
         "Book_Attribute_Travel",
         "Book_Attribute_Humour",
-        "Book_Attribute_Nature"
+        "Book_Attribute_Nature",
+        "Book_Attribute_Fact"
       ],
       "attributeIds": [
-        2514565850928161122, -6446191415289043539, 1195107243811689507, 5563244962772778714, 6024540521391575692,
-        855941067535245862
+        3138240405316037854, -6446191415289043539, 1195107243811689507, 5563244962772778714, 6024540521391575692,
+        855941067535245862, -8708106373435973157
       ],
       "mainGenres": [6],
       "isFake": 0
@@ -926,11 +933,12 @@
         "Book_Attribute_Non-Fiction",
         "Book_Attribute_Niche",
         "Book_Attribute_Outdated",
-        "Book_Attribute_Academic"
+        "Book_Attribute_Academic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -5092700750064605807, -8708106373435973157, -7698190043148316418, -2868349081807124857, 3138240405316037854,
-        -302775179003620685, -355396152609267625, -7903362346376596395
+        -302775179003620685, -355396152609267625, -7903362346376596395, 3060234526182601800
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -1046,7 +1054,6 @@
         "Book_Attribute_Fiction",
         "Book_Attribute_Fantasy",
         "Book_Attribute_Kids",
-        "Book_Attribute_Drama",
         "Book_Attribute_Magic",
         "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Animals",
@@ -1057,13 +1064,14 @@
         "Book_Attribute_Poetry",
         "Book_Attribute_Series",
         "Book_Attribute_Short",
-        "Book_Attribute_Nature"
+        "Book_Attribute_Nature",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
-        -7698190043148316418, 2514565850928161122, -1699314828098406484, -8019033256394625803, 3314143632064326362,
-        -8519683449468449194, -5324273431625949389, 1568488700707839393, 8957559176956913276, 9106255848689979198,
-        1195107243811689507, 6024540521391575692, 5346486007068983623, 5657074492002100807, -2868349081807124857,
-        855941067535245862
+        -7698190043148316418, 2514565850928161122, -1699314828098406484, -8019033256394625803, -8519683449468449194,
+        -5324273431625949389, 1568488700707839393, 8957559176956913276, 9106255848689979198, 1195107243811689507,
+        6024540521391575692, 5346486007068983623, 5657074492002100807, -2868349081807124857, 855941067535245862,
+        3060234526182601800
       ],
       "mainGenres": [5, 4],
       "isFake": 0
@@ -1081,11 +1089,12 @@
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Short",
         "Book_Attribute_Play",
-        "Book_Attribute_Romance"
+        "Book_Attribute_Romance",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, 8957559176956913276, -2868349081807124857,
-        -2990197087112418371, -5297152812902730509
+        -2990197087112418371, -5297152812902730509, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -1196,12 +1205,13 @@
         "Book_Attribute_Female-Author",
         "Book_Attribute_Light-Reading",
         "Book_Attribute_Travel-Guide",
-        "Book_Attribute_Fact"
+        "Book_Attribute_Fact",
+        "Book_Attribute_Series"
       ],
       "attributeIds": [
         -8815882588094248431, 6024540521391575692, 3138240405316037854, 494950073305124249, 5271023795237871952,
         5563244962772778714, -2560211484336640344, 942412258876595157, -2430236346651599417, 1195107243811689507,
-        -5156417586491897883, -8708106373435973157
+        -5156417586491897883, -8708106373435973157, 5657074492002100807
       ],
       "mainGenres": [6],
       "isFake": 0
@@ -1305,18 +1315,18 @@
         "Book_Attribute_Dystopia",
         "Book_Attribute_Animals",
         "Book_Attribute_Tragic",
-        "Book_Attribute_Dry",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Political",
         "Book_Attribute_Short",
         "Book_Attribute_Gore",
         "Book_Attribute_Age-Rating-Mature",
-        "Book_Attribute_Academic"
+        "Book_Attribute_Academic",
+        "Book_Attribute_Novel"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, -6237730427187295350, 1568488700707839393,
-        3471403351400568100, -5092700750064605807, 9106255848689979198, -1282974670280029159, -2868349081807124857,
-        1110050632221053383, 7023676137210118238, -7903362346376596395
+        3471403351400568100, 9106255848689979198, -1282974670280029159, -2868349081807124857, 1110050632221053383,
+        7023676137210118238, -7903362346376596395, 5271023795237871952
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -1335,11 +1345,12 @@
         "Book_Attribute_Kids",
         "Book_Attribute_Female-Author",
         "Book_Attribute_Happy-Ending",
-        "Book_Attribute_Light-Reading"
+        "Book_Attribute_Light-Reading",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         2514565850928161122, 5657074492002100807, -5324273431625949389, -7698190043148316418, -8019033256394625803,
-        -2430236346651599417, 8957559176956913276, 1195107243811689507
+        -2430236346651599417, 8957559176956913276, 1195107243811689507, 3060234526182601800
       ],
       "mainGenres": [4, 5],
       "isFake": 0
@@ -1364,12 +1375,13 @@
         "Book_Attribute_Contemporary",
         "Book_Attribute_Age-Rating-Mature",
         "Book_Attribute_Science-Fiction",
-        "Book_Attribute_Plot-Twist"
+        "Book_Attribute_Plot-Twist",
+        "Book_Attribute_Tragic"
       ],
       "attributeIds": [
         -6237730427187295350, 2514565850928161122, 1110050632221053383, -7360327464572192981, -4538028669047716633,
         5657074492002100807, 739574094248842221, -3081409600515623228, -4193372256073814230, -1699314828098406484,
-        -2560211484336640344, 7023676137210118238, -7434047041947330353, 8272894212065762476
+        -2560211484336640344, 7023676137210118238, -7434047041947330353, 8272894212065762476, 3471403351400568100
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -1527,12 +1539,13 @@
         "Book_Attribute_Tragic",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Series",
-        "Book_Attribute_Contemporary"
+        "Book_Attribute_Contemporary",
+        "Book_Attribute_YA"
       ],
       "attributeIds": [
         2514565850928161122, -4193372256073814230, -6574558982473003707, -2430236346651599417, -4538028669047716633,
         8272894212065762476, 3542716738968859996, 3471403351400568100, 9106255848689979198, 5657074492002100807,
-        -2560211484336640344
+        -2560211484336640344, -6996510392659603296
       ],
       "mainGenres": [0],
       "isFake": 0
@@ -1549,11 +1562,12 @@
         "Book_Attribute_Science-Fiction",
         "Book_Attribute_Epic",
         "Book_Attribute_Series",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Animals"
       ],
       "attributeIds": [
         2514565850928161122, -7698190043148316418, -7434047041947330353, -3081409600515623228, 5657074492002100807,
-        -2868349081807124857
+        -2868349081807124857, 1568488700707839393
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -2147,7 +2161,7 @@
       "isFake": 1
     },
     {
-      "id": "114__bookProfile_Ba_r_im_Universum__-923121472739142154",
+      "id": "114__bookProfile_B\u00e4r_im_Universum__-923121472739142154",
       "title": "Title_B\u00e4r_im_Universum",
       "author": "Author_B\u00e4r_im_Universum",
       "pages": 96,
@@ -2162,14 +2176,13 @@
         "Book_Attribute_Travel",
         "Book_Attribute_Female-Author",
         "Book_Attribute_Happy-Ending",
-        "Book_Attribute_Manga",
         "Book_Attribute_Short",
         "Book_Attribute_Contemporary"
       ],
       "attributeIds": [
         1568488700707839393, 2514565850928161122, 942412258876595157, -8019033256394625803, 1195107243811689507,
-        -5297152812902730509, 5563244962772778714, -2430236346651599417, 8957559176956913276, -440167054879624468,
-        -2868349081807124857, -2560211484336640344
+        -5297152812902730509, 5563244962772778714, -2430236346651599417, 8957559176956913276, -2868349081807124857,
+        -2560211484336640344
       ],
       "mainGenres": [5],
       "isFake": 0
@@ -2190,11 +2203,13 @@
         "Book_Attribute_Travel",
         "Book_Attribute_Novel",
         "Book_Attribute_Contemporary",
-        "Book_Attribute_Queer"
+        "Book_Attribute_Queer",
+        "Book_Attribute_Age-Rating-Mature"
       ],
       "attributeIds": [
         -5324273431625949389, 3471403351400568100, -5297152812902730509, 5346486007068983623, 3314143632064326362,
-        2514565850928161122, 5563244962772778714, 5271023795237871952, -2560211484336640344, -6636662495733549811
+        2514565850928161122, 5563244962772778714, 5271023795237871952, -2560211484336640344, -6636662495733549811,
+        7023676137210118238
       ],
       "mainGenres": [1],
       "isFake": 0
@@ -2237,11 +2252,13 @@
         "Book_Attribute_Fantasy",
         "Book_Attribute_Classic",
         "Book_Attribute_Short",
-        "Book_Attribute_Plot-Twist"
+        "Book_Attribute_Plot-Twist",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         2514565850928161122, -7360327464572192981, -4538028669047716633, -6636662495733549811, -5297152812902730509,
-        5271023795237871952, -1699314828098406484, -7698190043148316418, -2868349081807124857, 8272894212065762476
+        5271023795237871952, -1699314828098406484, -7698190043148316418, -2868349081807124857, 8272894212065762476,
+        3060234526182601800
       ],
       "mainGenres": [3, 4],
       "isFake": 0
@@ -2358,11 +2375,12 @@
         "Book_Attribute_Magic",
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Light-Reading",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Series"
       ],
       "attributeIds": [
         2514565850928161122, -1699314828098406484, -8019033256394625803, -7698190043148316418, -8519683449468449194,
-        8957559176956913276, 1195107243811689507, -2868349081807124857
+        8957559176956913276, 1195107243811689507, -2868349081807124857, 5657074492002100807
       ],
       "mainGenres": [5],
       "isFake": 0
@@ -2701,11 +2719,13 @@
         "Book_Attribute_Crime",
         "Book_Attribute_Tragic",
         "Book_Attribute_Philosophical",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Political",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -13992392358302004, 2514565850928161122, -7698190043148316418, -6574558982473003707, 3471403351400568100,
-        9106255848689979198, 5271023795237871952
+        9106255848689979198, 5271023795237871952, -1282974670280029159, 3060234526182601800
       ],
       "mainGenres": [4, 0],
       "isFake": 0
@@ -3172,11 +3192,12 @@
         "Book_Attribute_Drama",
         "Book_Attribute_Fiction",
         "Book_Attribute_Play",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, -6574558982473003707, 3314143632064326362, 2514565850928161122, -2990197087112418371,
-        -2868349081807124857
+        -2868349081807124857, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -3279,11 +3300,12 @@
         "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Novel",
         "Book_Attribute_Tragic",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 3314143632064326362, 2514565850928161122, -5297152812902730509, -5324273431625949389,
-        5271023795237871952, 3471403351400568100, -2868349081807124857
+        5271023795237871952, 3471403351400568100, -2868349081807124857, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -3333,12 +3355,13 @@
         "Book_Attribute_Tragic",
         "Book_Attribute_Drama",
         "Book_Attribute_Fantasy",
-        "Book_Attribute_Classic"
+        "Book_Attribute_Classic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         1568488700707839393, 2514565850928161122, -7360327464572192981, -4538028669047716633, 855941067535245862,
         -2868349081807124857, 5271023795237871952, 9106255848689979198, 3471403351400568100, 3314143632064326362,
-        -1699314828098406484, -7698190043148316418
+        -1699314828098406484, -7698190043148316418, 3060234526182601800
       ],
       "mainGenres": [1, 3, 4],
       "isFake": 0
@@ -3412,12 +3435,13 @@
         "Book_Attribute_Thriller",
         "Book_Attribute_Series",
         "Book_Attribute_Long",
-        "Book_Attribute_Contemporary"
+        "Book_Attribute_Contemporary",
+        "Book_Attribute_Romance"
       ],
       "attributeIds": [
         2514565850928161122, -7434047041947330353, -6996510392659603296, 3314143632064326362, -2430236346651599417,
         -6237730427187295350, -5324273431625949389, 8272894212065762476, 3471403351400568100, -3081409600515623228,
-        -4193372256073814230, 5657074492002100807, -13992392358302004, -2560211484336640344
+        -4193372256073814230, 5657074492002100807, -13992392358302004, -2560211484336640344, -5297152812902730509
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -3655,12 +3679,13 @@
         "Book_Attribute_Tragic",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Series",
-        "Book_Attribute_Classic"
+        "Book_Attribute_Classic",
+        "Book_Attribute_Political"
       ],
       "attributeIds": [
         -13992392358302004, 2514565850928161122, -7434047041947330353, -3081409600515623228, 1110050632221053383,
         -6237730427187295350, -5324273431625949389, 8272894212065762476, 739574094248842221, 3471403351400568100,
-        9106255848689979198, 5657074492002100807, -7698190043148316418
+        9106255848689979198, 5657074492002100807, -7698190043148316418, -1282974670280029159
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -3882,11 +3907,12 @@
         "Book_Attribute_Academic",
         "Book_Attribute_Dry",
         "Book_Attribute_Tragic",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 3314143632064326362, 2514565850928161122, -2990197087112418371, -1282974670280029159,
-        -7903362346376596395, -5092700750064605807, 3471403351400568100, -2868349081807124857
+        -7903362346376596395, -5092700750064605807, 3471403351400568100, -2868349081807124857, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -3905,11 +3931,12 @@
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Humour",
         "Book_Attribute_Long",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5297152812902730509, -2430236346651599417, 8957559176956913276,
-        6024540521391575692, -13992392358302004, 5271023795237871952
+        6024540521391575692, -13992392358302004, 5271023795237871952, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -3944,17 +3971,17 @@
       "published": 2000,
       "attributes": [
         "Book_Attribute_Fact",
-        "Book_Attribute_Historic",
-        "Book_Attribute_Niche",
         "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Niche",
         "Book_Attribute_Encyclopedic",
         "Book_Attribute_Contemporary",
         "Book_Attribute_Series",
-        "Book_Attribute_Dry"
+        "Book_Attribute_Dry",
+        "Book_Attribute_Academic"
       ],
       "attributeIds": [
-        -8708106373435973157, 3060234526182601800, -302775179003620685, 3138240405316037854, -4370700021167045099,
-        -2560211484336640344, 5657074492002100807, -5092700750064605807
+        -8708106373435973157, 3138240405316037854, -302775179003620685, -4370700021167045099, -2560211484336640344,
+        5657074492002100807, -5092700750064605807, -7903362346376596395
       ],
       "mainGenres": [2],
       "isFake": 1
@@ -3967,17 +3994,17 @@
       "published": 2001,
       "attributes": [
         "Book_Attribute_Fact",
-        "Book_Attribute_Niche",
         "Book_Attribute_Non-Fiction",
-        "Book_Attribute_Series",
+        "Book_Attribute_Niche",
         "Book_Attribute_Encyclopedic",
         "Book_Attribute_Contemporary",
         "Book_Attribute_Series",
-        "Book_Attribute_Dry"
+        "Book_Attribute_Dry",
+        "Book_Attribute_Academic"
       ],
       "attributeIds": [
-        -8708106373435973157, -302775179003620685, 3138240405316037854, 5657074492002100807, -4370700021167045099,
-        -2560211484336640344, 5657074492002100807, -5092700750064605807
+        -8708106373435973157, 3138240405316037854, -302775179003620685, -4370700021167045099, -2560211484336640344,
+        5657074492002100807, -5092700750064605807, -7903362346376596395
       ],
       "mainGenres": [2],
       "isFake": 1
@@ -3990,18 +4017,17 @@
       "published": 2002,
       "attributes": [
         "Book_Attribute_Fact",
-        "Book_Attribute_Niche",
-        "Book_Attribute_Dry",
-        "Book_Attribute_Academic",
-        "Book_Attribute_Series",
-        "Book_Attribute_Encyclopedic",
         "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Niche",
+        "Book_Attribute_Encyclopedic",
         "Book_Attribute_Contemporary",
-        "Book_Attribute_Series"
+        "Book_Attribute_Series",
+        "Book_Attribute_Dry",
+        "Book_Attribute_Academic"
       ],
       "attributeIds": [
-        -8708106373435973157, -302775179003620685, -5092700750064605807, -7903362346376596395, 5657074492002100807,
-        -4370700021167045099, 3138240405316037854, -2560211484336640344, 5657074492002100807
+        -8708106373435973157, 3138240405316037854, -302775179003620685, -4370700021167045099, -2560211484336640344,
+        5657074492002100807, -5092700750064605807, -7903362346376596395
       ],
       "mainGenres": [2],
       "isFake": 1
@@ -4014,18 +4040,17 @@
       "published": 2003,
       "attributes": [
         "Book_Attribute_Fact",
-        "Book_Attribute_Niche",
-        "Book_Attribute_Dry",
-        "Book_Attribute_Academic",
-        "Book_Attribute_Series",
-        "Book_Attribute_Encyclopedic",
         "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Niche",
+        "Book_Attribute_Encyclopedic",
         "Book_Attribute_Contemporary",
-        "Book_Attribute_Series"
+        "Book_Attribute_Series",
+        "Book_Attribute_Dry",
+        "Book_Attribute_Academic"
       ],
       "attributeIds": [
-        -8708106373435973157, -302775179003620685, -5092700750064605807, -7903362346376596395, 5657074492002100807,
-        -4370700021167045099, 3138240405316037854, -2560211484336640344, 5657074492002100807
+        -8708106373435973157, 3138240405316037854, -302775179003620685, -4370700021167045099, -2560211484336640344,
+        5657074492002100807, -5092700750064605807, -7903362346376596395
       ],
       "mainGenres": [2],
       "isFake": 1
@@ -4038,18 +4063,17 @@
       "published": 2005,
       "attributes": [
         "Book_Attribute_Fact",
-        "Book_Attribute_Niche",
-        "Book_Attribute_Dry",
-        "Book_Attribute_Academic",
-        "Book_Attribute_Series",
-        "Book_Attribute_Encyclopedic",
         "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Niche",
+        "Book_Attribute_Encyclopedic",
         "Book_Attribute_Contemporary",
-        "Book_Attribute_Series"
+        "Book_Attribute_Series",
+        "Book_Attribute_Dry",
+        "Book_Attribute_Academic"
       ],
       "attributeIds": [
-        -8708106373435973157, -302775179003620685, -5092700750064605807, -7903362346376596395, 5657074492002100807,
-        -4370700021167045099, 3138240405316037854, -2560211484336640344, 5657074492002100807
+        -8708106373435973157, 3138240405316037854, -302775179003620685, -4370700021167045099, -2560211484336640344,
+        5657074492002100807, -5092700750064605807, -7903362346376596395
       ],
       "mainGenres": [2],
       "isFake": 1
@@ -4173,11 +4197,12 @@
         "Book_Attribute_Queer",
         "Book_Attribute_Academic",
         "Book_Attribute_Philosophical",
-        "Book_Attribute_Contemporary"
+        "Book_Attribute_Contemporary",
+        "Book_Attribute_Political"
       ],
       "attributeIds": [
         3138240405316037854, -8708106373435973157, -6636662495733549811, -7903362346376596395, 9106255848689979198,
-        -2560211484336640344
+        -2560211484336640344, -1282974670280029159
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -4273,11 +4298,15 @@
         "Book_Attribute_Magic",
         "Book_Attribute_Niche",
         "Book_Attribute_Light-Reading",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Poetry",
+        "Book_Attribute_Animals",
+        "Book_Attribute_Nature"
       ],
       "attributeIds": [
         2514565850928161122, -8019033256394625803, 3314143632064326362, -2430236346651599417, -8519683449468449194,
-        -302775179003620685, 1195107243811689507, -2868349081807124857
+        -302775179003620685, 1195107243811689507, -2868349081807124857, 5346486007068983623, 1568488700707839393,
+        855941067535245862
       ],
       "mainGenres": [5],
       "isFake": 0
@@ -4332,7 +4361,7 @@
       "title": "Title_Frank_Lloyd_Wright",
       "author": "Author_Frank_Lloyd_Wright",
       "pages": 141,
-      "published": 1900,
+      "published": 1937,
       "attributes": [
         "Book_Attribute_Fact",
         "Book_Attribute_Biography",
@@ -4364,11 +4393,12 @@
         "Book_Attribute_Tragic",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Thriller",
-        "Book_Attribute_Romance"
+        "Book_Attribute_Romance",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -7434047041947330353, -7360327464572192981, -2430236346651599417,
-        3471403351400568100, 9106255848689979198, -4193372256073814230, -5297152812902730509
+        3471403351400568100, 9106255848689979198, -4193372256073814230, -5297152812902730509, 3060234526182601800
       ],
       "mainGenres": [3, 4],
       "isFake": 0
@@ -4703,11 +4733,14 @@
         "Book_Attribute_Plot-Twist",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Long",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Political",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5324273431625949389, 3314143632064326362, 5563244962772778714,
-        8272894212065762476, 9106255848689979198, -13992392358302004, 5271023795237871952
+        8272894212065762476, 9106255848689979198, -13992392358302004, 5271023795237871952, -1282974670280029159,
+        3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -4758,19 +4791,19 @@
         "Book_Attribute_Folklore",
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Tragic",
-        "Book_Attribute_Crime",
         "Book_Attribute_Fantasy",
         "Book_Attribute_Classic",
         "Book_Attribute_Kids",
-        "Book_Attribute_Very-Long"
+        "Book_Attribute_Very-Long",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         1568488700707839393, 2514565850928161122, -7360327464572192981, -13992392358302004, -8519683449468449194,
         -4538028669047716633, 855941067535245862, 5346486007068983623, -3081409600515623228, -3189764713476197866,
-        8957559176956913276, 3471403351400568100, -6574558982473003707, -1699314828098406484, -7698190043148316418,
-        -8019033256394625803, 2996219866823105587
+        8957559176956913276, 3471403351400568100, -1699314828098406484, -7698190043148316418, -8019033256394625803,
+        2996219866823105587, 3060234526182601800
       ],
-      "mainGenres": [0, 3, 4, 5],
+      "mainGenres": [3, 4, 5],
       "isFake": 0
     },
     {
@@ -4812,12 +4845,13 @@
         "Book_Attribute_Dry",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Political",
-        "Book_Attribute_Epic"
+        "Book_Attribute_Epic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -1699314828098406484, -8019033256394625803, 6024540521391575692,
         5563244962772778714, 8957559176956913276, -5092700750064605807, 9106255848689979198, -1282974670280029159,
-        -3081409600515623228
+        -3081409600515623228, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -4931,12 +4965,13 @@
         "Book_Attribute_Thriller",
         "Book_Attribute_Folklore",
         "Book_Attribute_Play",
-        "Book_Attribute_Horror"
+        "Book_Attribute_Horror",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -6574558982473003707, 3314143632064326362, 3471403351400568100,
         8272894212065762476, 9106255848689979198, -4193372256073814230, -3189764713476197866, -2990197087112418371,
-        -7360327464572192981
+        -7360327464572192981, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -4976,11 +5011,12 @@
         "Book_Attribute_Non-Fiction",
         "Book_Attribute_Political",
         "Book_Attribute_Fact",
-        "Book_Attribute_Travel"
+        "Book_Attribute_Travel",
+        "Book_Attribute_Female-Author"
       ],
       "attributeIds": [
         -8815882588094248431, 3060234526182601800, 3138240405316037854, -1282974670280029159, -8708106373435973157,
-        5563244962772778714
+        5563244962772778714, -2430236346651599417
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -5025,11 +5061,12 @@
         "Book_Attribute_Female-Author",
         "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Happy-Ending",
-        "Book_Attribute_Light-Reading"
+        "Book_Attribute_Light-Reading",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -8019033256394625803, -2430236346651599417, -5324273431625949389,
-        8957559176956913276, 1195107243811689507
+        8957559176956913276, 1195107243811689507, 3060234526182601800
       ],
       "mainGenres": [5],
       "isFake": 0
@@ -5333,11 +5370,12 @@
         "Book_Attribute_Travel",
         "Book_Attribute_Contemporary",
         "Book_Attribute_Light-Reading",
-        "Book_Attribute_Travel-Guide"
+        "Book_Attribute_Travel-Guide",
+        "Book_Attribute_Fact"
       ],
       "attributeIds": [
         6024540521391575692, 3138240405316037854, 5563244962772778714, -2560211484336640344, 1195107243811689507,
-        -5156417586491897883
+        -5156417586491897883, -8708106373435973157
       ],
       "mainGenres": [6],
       "isFake": 1
@@ -5388,33 +5426,35 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Political",
         "Book_Attribute_Poetry",
-        "Book_Attribute_Fiction"
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Queer"
       ],
       "attributeIds": [
         -2868349081807124857, -7698190043148316418, 3138240405316037854, 3314143632064326362, 3060234526182601800,
         3471403351400568100, -7903362346376596395, 9106255848689979198, -1282974670280029159, 5346486007068983623,
-        2514565850928161122
+        2514565850928161122, -6636662495733549811
       ],
       "mainGenres": [1, 4],
       "isFake": 0
     },
     {
-      "id": "114__bookProfile_HTML_1998__an_Introdcution__4220498910255588756",
-      "title": "Title_HTML_1998;An_Introdcution",
-      "author": "Author_HTML_1998;An_Introdcution",
+      "id": "114__bookProfile_HTML_1998__8533566805104238669",
+      "title": "Title_HTML_1998;An_Introduction",
+      "author": "Author_HTML_1998;An_Introduction",
       "pages": 288,
       "published": 1997,
       "attributes": [
-        "Book_Attribute_Dry",
         "Book_Attribute_Fact",
         "Book_Attribute_Lifestyle",
         "Book_Attribute_Niche",
         "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Series",
+        "Book_Attribute_Dry",
         "Book_Attribute_Outdated"
       ],
       "attributeIds": [
-        -5092700750064605807, -8708106373435973157, -6446191415289043539, -302775179003620685, 3138240405316037854,
-        -355396152609267625
+        -8708106373435973157, -6446191415289043539, -302775179003620685, 3138240405316037854, 5657074492002100807,
+        -5092700750064605807, -355396152609267625
       ],
       "mainGenres": [2],
       "isFake": 1
@@ -5597,11 +5637,12 @@
         "Book_Attribute_Tragic",
         "Book_Attribute_Thriller",
         "Book_Attribute_Age-Rating-Mature",
-        "Book_Attribute_Fact"
+        "Book_Attribute_Fact",
+        "Book_Attribute_Mystery"
       ],
       "attributeIds": [
         -6574558982473003707, 3138240405316037854, 3060234526182601800, 1110050632221053383, 3471403351400568100,
-        -4193372256073814230, 7023676137210118238, -8708106373435973157
+        -4193372256073814230, 7023676137210118238, -8708106373435973157, -4538028669047716633
       ],
       "mainGenres": [0],
       "isFake": 0
@@ -5676,11 +5717,13 @@
         "Book_Attribute_Female-Author",
         "Book_Attribute_Tragic",
         "Book_Attribute_Short",
-        "Book_Attribute_Niche"
+        "Book_Attribute_Niche",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         3314143632064326362, 2514565850928161122, -2990197087112418371, -1282974670280029159, -5297152812902730509,
-        -5324273431625949389, -2430236346651599417, 3471403351400568100, -2868349081807124857, -302775179003620685
+        -5324273431625949389, -2430236346651599417, 3471403351400568100, -2868349081807124857, -302775179003620685,
+        3060234526182601800
       ],
       "mainGenres": [1],
       "isFake": 0
@@ -5778,11 +5821,12 @@
         "Book_Attribute_Dry",
         "Book_Attribute_Niche",
         "Book_Attribute_Outdated",
-        "Book_Attribute_Nature"
+        "Book_Attribute_Nature",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         5563244962772778714, -6446191415289043539, -8708106373435973157, 3138240405316037854, -2430236346651599417,
-        -5092700750064605807, -302775179003620685, -355396152609267625, 855941067535245862
+        -5092700750064605807, -302775179003620685, -355396152609267625, 855941067535245862, 3060234526182601800
       ],
       "mainGenres": [6],
       "isFake": 0
@@ -5853,11 +5897,12 @@
         "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Light-Reading",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Animals"
       ],
       "attributeIds": [
         2514565850928161122, -1699314828098406484, -8019033256394625803, 3314143632064326362, -8519683449468449194,
-        -5324273431625949389, 8957559176956913276, 1195107243811689507, -2868349081807124857
+        -5324273431625949389, 8957559176956913276, 1195107243811689507, -2868349081807124857, 1568488700707839393
       ],
       "mainGenres": [5],
       "isFake": 0
@@ -5881,12 +5926,13 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Long",
         "Book_Attribute_Horror",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5297152812902730509, -5324273431625949389, 3314143632064326362,
         -2430236346651599417, 8272894212065762476, 3471403351400568100, 8957559176956913276, 9106255848689979198,
-        -13992392358302004, -7360327464572192981, 5271023795237871952
+        -13992392358302004, -7360327464572192981, 5271023795237871952, 3060234526182601800
       ],
       "mainGenres": [4, 1],
       "isFake": 0
@@ -5948,11 +5994,13 @@
         "Book_Attribute_Kids",
         "Book_Attribute_Travel",
         "Book_Attribute_Happy-Ending",
-        "Book_Attribute_Epic"
+        "Book_Attribute_Epic",
+        "Book_Attribute_Animals",
+        "Book_Attribute_Nature"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -7434047041947330353, -1699314828098406484, -8019033256394625803,
-        5563244962772778714, 8957559176956913276, -3081409600515623228
+        5563244962772778714, 8957559176956913276, -3081409600515623228, 1568488700707839393, 855941067535245862
       ],
       "mainGenres": [6, 4],
       "isFake": 0
@@ -6177,18 +6225,18 @@
         "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Epic",
         "Book_Attribute_Folklore",
-        "Book_Attribute_Crime",
         "Book_Attribute_Fantasy",
         "Book_Attribute_YA",
         "Book_Attribute_Magic",
-        "Book_Attribute_Romance"
+        "Book_Attribute_Romance",
+        "Book_Attribute_Kids"
       ],
       "attributeIds": [
         2514565850928161122, 1110050632221053383, 3060234526182601800, -7360327464572192981, -4538028669047716633,
-        8272894212065762476, -5324273431625949389, -3081409600515623228, -3189764713476197866, -6574558982473003707,
-        -1699314828098406484, -6996510392659603296, -8519683449468449194, -5297152812902730509
+        8272894212065762476, -5324273431625949389, -3081409600515623228, -3189764713476197866, -1699314828098406484,
+        -6996510392659603296, -8519683449468449194, -5297152812902730509, -8019033256394625803
       ],
-      "mainGenres": [3],
+      "mainGenres": [3, 5],
       "isFake": 0
     },
     {
@@ -6733,10 +6781,12 @@
         "Book_Attribute_Nature",
         "Book_Attribute_Non-Fiction",
         "Book_Attribute_Travel",
-        "Book_Attribute_Contemporary"
+        "Book_Attribute_Contemporary",
+        "Book_Attribute_Self-Help"
       ],
       "attributeIds": [
-        -8815882588094248431, 855941067535245862, 3138240405316037854, 5563244962772778714, -2560211484336640344
+        -8815882588094248431, 855941067535245862, 3138240405316037854, 5563244962772778714, -2560211484336640344,
+        494950073305124249
       ],
       "mainGenres": [6],
       "isFake": 0
@@ -6754,11 +6804,12 @@
         "Book_Attribute_Dry",
         "Book_Attribute_Niche",
         "Book_Attribute_Academic",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         3138240405316037854, -8708106373435973157, -8815882588094248431, -5092700750064605807, -302775179003620685,
-        -7903362346376596395, -2868349081807124857
+        -7903362346376596395, -2868349081807124857, 3060234526182601800
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -7043,7 +7094,7 @@
       "title": "Title_Les_Miserables",
       "author": "Author_Les_Miserables",
       "pages": 511,
-      "published": 1800,
+      "published": 1862,
       "attributes": [
         "Book_Attribute_Long",
         "Book_Attribute_Classic",
@@ -7057,12 +7108,13 @@
         "Book_Attribute_Dry",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Political",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Romance"
       ],
       "attributeIds": [
         -13992392358302004, -7698190043148316418, 2514565850928161122, -6574558982473003707, 3314143632064326362,
         3060234526182601800, 1110050632221053383, 3542716738968859996, 3471403351400568100, -5092700750064605807,
-        9106255848689979198, -1282974670280029159, 5271023795237871952
+        9106255848689979198, -1282974670280029159, 5271023795237871952, -5297152812902730509
       ],
       "mainGenres": [4, 1],
       "isFake": 0
@@ -7184,11 +7236,12 @@
         "Book_Attribute_Female-Author",
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_YA",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5324273431625949389, 3314143632064326362, -2430236346651599417,
-        8957559176956913276, -6996510392659603296, 5271023795237871952
+        8957559176956913276, -6996510392659603296, 5271023795237871952, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -7209,11 +7262,13 @@
         "Book_Attribute_Plot-Twist",
         "Book_Attribute_Fact",
         "Book_Attribute_Drama",
-        "Book_Attribute_Mystery"
+        "Book_Attribute_Mystery",
+        "Book_Attribute_Nature"
       ],
       "attributeIds": [
         5563244962772778714, 3138240405316037854, -8815882588094248431, 3471403351400568100, -5324273431625949389,
-        -2430236346651599417, 8272894212065762476, -8708106373435973157, 3314143632064326362, -4538028669047716633
+        -2430236346651599417, 8272894212065762476, -8708106373435973157, 3314143632064326362, -4538028669047716633,
+        855941067535245862
       ],
       "mainGenres": [1, 6],
       "isFake": 1
@@ -7323,11 +7378,12 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Poetry",
         "Book_Attribute_Classic",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Female-Author"
       ],
       "attributeIds": [
         2514565850928161122, 3314143632064326362, -8519683449468449194, -4538028669047716633, 9106255848689979198,
-        5346486007068983623, -7698190043148316418, 5271023795237871952
+        5346486007068983623, -7698190043148316418, 5271023795237871952, -2430236346651599417
       ],
       "mainGenres": [1],
       "isFake": 0
@@ -7482,11 +7538,12 @@
         "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Light-Reading",
-        "Book_Attribute_Humour"
+        "Book_Attribute_Humour",
+        "Book_Attribute_Fantasy"
       ],
       "attributeIds": [
         2514565850928161122, -8019033256394625803, -8519683449468449194, -5324273431625949389, 8957559176956913276,
-        1195107243811689507, 6024540521391575692
+        1195107243811689507, 6024540521391575692, -1699314828098406484
       ],
       "mainGenres": [5],
       "isFake": 0
@@ -7943,11 +8000,12 @@
         "Book_Attribute_Female-Author",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Novel",
-        "Book_Attribute_Academic"
+        "Book_Attribute_Academic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -6636662495733549811, 3314143632064326362, -2430236346651599417,
-        9106255848689979198, 5271023795237871952, -7903362346376596395
+        9106255848689979198, 5271023795237871952, -7903362346376596395, 3060234526182601800
       ],
       "mainGenres": [1],
       "isFake": 0
@@ -7967,11 +8025,12 @@
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Humour",
         "Book_Attribute_Short",
-        "Book_Attribute_Play"
+        "Book_Attribute_Play",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, -5297152812902730509, -6636662495733549811,
-        8957559176956913276, 6024540521391575692, -2868349081807124857, -2990197087112418371
+        8957559176956913276, 6024540521391575692, -2868349081807124857, -2990197087112418371, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -7992,11 +8051,13 @@
         "Book_Attribute_Detective",
         "Book_Attribute_Whodunnit",
         "Book_Attribute_Series",
-        "Book_Attribute_Travel"
+        "Book_Attribute_Travel",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -6574558982473003707, -4538028669047716633, -2430236346651599417,
-        8272894212065762476, 3542716738968859996, 277466913645032469, 5657074492002100807, 5563244962772778714
+        8272894212065762476, 3542716738968859996, 277466913645032469, 5657074492002100807, 5563244962772778714,
+        3060234526182601800
       ],
       "mainGenres": [0],
       "isFake": 0
@@ -8113,11 +8174,12 @@
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Long",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5297152812902730509, 3314143632064326362, -2430236346651599417,
-        8957559176956913276, 9106255848689979198, -13992392358302004, 5271023795237871952
+        8957559176956913276, 9106255848689979198, -13992392358302004, 5271023795237871952, 3060234526182601800
       ],
       "mainGenres": [1],
       "isFake": 0
@@ -8269,11 +8331,12 @@
         "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Light-Reading",
-        "Book_Attribute_Horror"
+        "Book_Attribute_Horror",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5297152812902730509, 3314143632064326362, -2430236346651599417,
-        -5324273431625949389, 8957559176956913276, 1195107243811689507, -7360327464572192981
+        -5324273431625949389, 8957559176956913276, 1195107243811689507, -7360327464572192981, 3060234526182601800
       ],
       "mainGenres": [1],
       "isFake": 0
@@ -8357,12 +8420,13 @@
         "Book_Attribute_Thriller",
         "Book_Attribute_YA",
         "Book_Attribute_Fantasy",
-        "Book_Attribute_Contemporary"
+        "Book_Attribute_Contemporary",
+        "Book_Attribute_Magic"
       ],
       "attributeIds": [
         -6237730427187295350, 2514565850928161122, -13992392358302004, -4538028669047716633, -7434047041947330353,
         5657074492002100807, -3081409600515623228, -440167054879624468, -4193372256073814230, -6996510392659603296,
-        -1699314828098406484, -2560211484336640344
+        -1699314828098406484, -2560211484336640344, -8519683449468449194
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -8406,11 +8470,14 @@
         "Book_Attribute_Nature",
         "Book_Attribute_Lifestyle",
         "Book_Attribute_Female-Author",
-        "Book_Attribute_Light-Reading"
+        "Book_Attribute_Light-Reading",
+        "Book_Attribute_Historic",
+        "Book_Attribute_Outdated"
       ],
       "attributeIds": [
         -6446191415289043539, -302775179003620685, 3138240405316037854, -7903362346376596395, -4370700021167045099,
-        -8708106373435973157, 855941067535245862, -6446191415289043539, -2430236346651599417, 1195107243811689507
+        -8708106373435973157, 855941067535245862, -6446191415289043539, -2430236346651599417, 1195107243811689507,
+        3060234526182601800, -355396152609267625
       ],
       "mainGenres": [2],
       "isFake": 1
@@ -8490,11 +8557,13 @@
         "Book_Attribute_Short",
         "Book_Attribute_Play",
         "Book_Attribute_Romance",
-        "Book_Attribute_Gore"
+        "Book_Attribute_Gore",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, 3471403351400568100, 8272894212065762476,
-        -1282974670280029159, -2868349081807124857, -2990197087112418371, -5297152812902730509, 1110050632221053383
+        -1282974670280029159, -2868349081807124857, -2990197087112418371, -5297152812902730509, 1110050632221053383,
+        3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -8736,11 +8805,12 @@
         "Book_Attribute_Female-Author",
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Humour",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5297152812902730509, 3314143632064326362, -2430236346651599417,
-        8957559176956913276, 6024540521391575692, 5271023795237871952
+        8957559176956913276, 6024540521391575692, 5271023795237871952, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -9059,12 +9129,13 @@
         "Book_Attribute_Crime",
         "Book_Attribute_Horror",
         "Book_Attribute_Female-Author",
-        "Book_Attribute_Plot-Twist"
+        "Book_Attribute_Plot-Twist",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         2514565850928161122, -4538028669047716633, -5297152812902730509, 5271023795237871952, -4193372256073814230,
         3471403351400568100, -7698190043148316418, -6574558982473003707, -7360327464572192981, -2430236346651599417,
-        8272894212065762476
+        8272894212065762476, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -9495,11 +9566,12 @@
         "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Humour",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5297152812902730509, 3314143632064326362, -2430236346651599417,
-        -5324273431625949389, 8957559176956913276, 6024540521391575692, 5271023795237871952
+        -5324273431625949389, 8957559176956913276, 6024540521391575692, 5271023795237871952, 3060234526182601800
       ],
       "mainGenres": [4, 1],
       "isFake": 0
@@ -9570,12 +9642,14 @@
         "Book_Attribute_Epic",
         "Book_Attribute_YA",
         "Book_Attribute_Series",
-        "Book_Attribute_Contemporary"
+        "Book_Attribute_Contemporary",
+        "Book_Attribute_Fantasy"
       ],
       "attributeIds": [
         2514565850928161122, -7434047041947330353, -5297152812902730509, 3314143632064326362, -2430236346651599417,
         -8519683449468449194, -6237730427187295350, -5324273431625949389, 8272894212065762476, 3471403351400568100,
-        8957559176956913276, -3081409600515623228, -6996510392659603296, 5657074492002100807, -2560211484336640344
+        8957559176956913276, -3081409600515623228, -6996510392659603296, 5657074492002100807, -2560211484336640344,
+        -1699314828098406484
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -9585,7 +9659,7 @@
       "title": "Title_Shirley",
       "author": "Author_Shirley",
       "pages": 596,
-      "published": 1800,
+      "published": 1849,
       "attributes": [
         "Book_Attribute_Long",
         "Book_Attribute_Classic",
@@ -9640,7 +9714,7 @@
       "title": "Title_Six_of_Crows",
       "author": "Author_Six_of_Crows",
       "pages": 496,
-      "published": 2001,
+      "published": 2015,
       "attributes": [
         "Book_Attribute_Fiction",
         "Book_Attribute_Crime",
@@ -10012,11 +10086,12 @@
         "Book_Attribute_Detective",
         "Book_Attribute_Whodunnit",
         "Book_Attribute_Series",
-        "Book_Attribute_Humour"
+        "Book_Attribute_Humour",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -6574558982473003707, -4538028669047716633, 3542716738968859996,
-        277466913645032469, 5657074492002100807, 6024540521391575692
+        277466913645032469, 5657074492002100807, 6024540521391575692, 3060234526182601800
       ],
       "mainGenres": [0, 4],
       "isFake": 0
@@ -10025,8 +10100,8 @@
       "id": "114__bookProfile_The_Anthropocene_Reviewed__-8647241853356725949",
       "title": "Title_The_Anthropocene_Reviewed",
       "author": "Author_The_Anthropocene_Reviewed",
-      "pages": 312,
-      "published": 2019,
+      "pages": 304,
+      "published": 2021,
       "attributes": [
         "Book_Attribute_Non-Fiction",
         "Book_Attribute_Pop-Science",
@@ -10290,11 +10365,12 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Humour",
         "Book_Attribute_Folklore",
-        "Book_Attribute_Poetry"
+        "Book_Attribute_Poetry",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, 1110050632221053383, -7903362346376596395,
-        9106255848689979198, 6024540521391575692, -3189764713476197866, 5346486007068983623
+        9106255848689979198, 6024540521391575692, -3189764713476197866, 5346486007068983623, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -10313,11 +10389,12 @@
         "Book_Attribute_Light-Reading",
         "Book_Attribute_Humour",
         "Book_Attribute_Folklore",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -8519683449468449194, 8957559176956913276, 1195107243811689507,
-        6024540521391575692, -3189764713476197866, -2868349081807124857
+        6024540521391575692, -3189764713476197866, -2868349081807124857, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -10337,11 +10414,12 @@
         "Book_Attribute_Plot-Twist",
         "Book_Attribute_Tragic",
         "Book_Attribute_Thriller",
-        "Book_Attribute_Classic"
+        "Book_Attribute_Classic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -2868349081807124857, 2514565850928161122, -6574558982473003707, -7360327464572192981, -4538028669047716633,
-        8272894212065762476, 3471403351400568100, -4193372256073814230, -7698190043148316418
+        8272894212065762476, 3471403351400568100, -4193372256073814230, -7698190043148316418, 3060234526182601800
       ],
       "mainGenres": [0, 4],
       "isFake": 0
@@ -10387,11 +10465,12 @@
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Humour",
         "Book_Attribute_Short",
-        "Book_Attribute_Play"
+        "Book_Attribute_Play",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, 8957559176956913276, 6024540521391575692,
-        -2868349081807124857, -2990197087112418371
+        -2868349081807124857, -2990197087112418371, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -10468,12 +10547,13 @@
         "Book_Attribute_Epic",
         "Book_Attribute_Folklore",
         "Book_Attribute_Series",
-        "Book_Attribute_Contemporary"
+        "Book_Attribute_Contemporary",
+        "Book_Attribute_Romance"
       ],
       "attributeIds": [
         2514565850928161122, -1699314828098406484, -6996510392659603296, 3314143632064326362, -2430236346651599417,
         -8519683449468449194, -5324273431625949389, 8272894212065762476, 3471403351400568100, 8957559176956913276,
-        -3081409600515623228, -3189764713476197866, 5657074492002100807, -2560211484336640344
+        -3081409600515623228, -3189764713476197866, 5657074492002100807, -2560211484336640344, -5297152812902730509
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -10541,11 +10621,13 @@
         "Book_Attribute_Travel",
         "Book_Attribute_Female-Author",
         "Book_Attribute_Self-Help",
-        "Book_Attribute_Niche"
+        "Book_Attribute_Niche",
+        "Book_Attribute_Outdated",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, -8708106373435973157, -6446191415289043539, 3138240405316037854, 5563244962772778714,
-        -2430236346651599417, 494950073305124249, -302775179003620685
+        -2430236346651599417, 494950073305124249, -302775179003620685, -355396152609267625, 3060234526182601800
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -10565,11 +10647,12 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Political",
         "Book_Attribute_Epic",
-        "Book_Attribute_Series"
+        "Book_Attribute_Series",
+        "Book_Attribute_Romance"
       ],
       "attributeIds": [
         2514565850928161122, -7434047041947330353, -2430236346651599417, -6237730427187295350, 739574094248842221,
-        9106255848689979198, -1282974670280029159, -3081409600515623228, 5657074492002100807
+        9106255848689979198, -1282974670280029159, -3081409600515623228, 5657074492002100807, -5297152812902730509
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -10612,11 +10695,12 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Folklore",
         "Book_Attribute_Poetry",
-        "Book_Attribute_Classic"
+        "Book_Attribute_Classic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         3138240405316037854, 3314143632064326362, -7903362346376596395, 9106255848689979198, -3189764713476197866,
-        5346486007068983623, -7698190043148316418
+        5346486007068983623, -7698190043148316418, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -10662,12 +10746,13 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Thriller",
         "Book_Attribute_Poetry",
-        "Book_Attribute_Fantasy"
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         2514565850928161122, -6574558982473003707, -7698190043148316418, -7360327464572192981, -4538028669047716633,
         3314143632064326362, 8272894212065762476, 3471403351400568100, 9106255848689979198, -4193372256073814230,
-        5346486007068983623, -1699314828098406484
+        5346486007068983623, -1699314828098406484, 3060234526182601800
       ],
       "mainGenres": [0, 4],
       "isFake": 0
@@ -10834,11 +10919,13 @@
         "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Tragic",
         "Book_Attribute_Short",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Plot-Twist",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5297152812902730509, 3314143632064326362, -5324273431625949389,
-        3471403351400568100, -2868349081807124857, 5271023795237871952
+        3471403351400568100, -2868349081807124857, 5271023795237871952, 8272894212065762476, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -10913,12 +11000,13 @@
         "Book_Attribute_Political",
         "Book_Attribute_Folklore",
         "Book_Attribute_Series",
-        "Book_Attribute_Age-Rating-Mature"
+        "Book_Attribute_Age-Rating-Mature",
+        "Book_Attribute_Classic"
       ],
       "attributeIds": [
         2514565850928161122, -7434047041947330353, -2430236346651599417, 1110050632221053383, -6237730427187295350,
         3471403351400568100, 9106255848689979198, -1282974670280029159, -3189764713476197866, 5657074492002100807,
-        7023676137210118238
+        7023676137210118238, -7698190043148316418
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -11072,11 +11160,12 @@
         "Book_Attribute_Humour",
         "Book_Attribute_Short",
         "Book_Attribute_Play",
-        "Book_Attribute_Philosophical"
+        "Book_Attribute_Philosophical",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, 8957559176956913276, 1195107243811689507,
-        6024540521391575692, -2868349081807124857, -2990197087112418371, 9106255848689979198
+        6024540521391575692, -2868349081807124857, -2990197087112418371, 9106255848689979198, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -11317,11 +11406,13 @@
         "Book_Attribute_Humour",
         "Book_Attribute_Poetry",
         "Book_Attribute_Animals",
-        "Book_Attribute_Nature"
+        "Book_Attribute_Nature",
+        "Book_Attribute_Political"
       ],
       "attributeIds": [
         -2868349081807124857, -7698190043148316418, 2514565850928161122, -8019033256394625803, -6237730427187295350,
-        8957559176956913276, 6024540521391575692, 5346486007068983623, 1568488700707839393, 855941067535245862
+        8957559176956913276, 6024540521391575692, 5346486007068983623, 1568488700707839393, 855941067535245862,
+        -1282974670280029159
       ],
       "mainGenres": [5],
       "isFake": 0
@@ -11517,11 +11608,12 @@
         "Book_Attribute_Space",
         "Book_Attribute_Tragic",
         "Book_Attribute_Philosophical",
-        "Book_Attribute_Epic"
+        "Book_Attribute_Epic",
+        "Book_Attribute_Dystopia"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -7434047041947330353, 3314143632064326362, 739574094248842221,
-        3471403351400568100, 9106255848689979198, -3081409600515623228
+        3471403351400568100, 9106255848689979198, -3081409600515623228, -6237730427187295350
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -11671,12 +11763,19 @@
         "Book_Attribute_Fantasy",
         "Book_Attribute_YA",
         "Book_Attribute_Kids",
-        "Book_Attribute_Fantasy",
-        "Book_Attribute_Magic"
+        "Book_Attribute_Magic",
+        "Book_Attribute_Philosophical",
+        "Book_Attribute_Tragic",
+        "Book_Attribute_Epic",
+        "Book_Attribute_Animals",
+        "Book_Attribute_Coming-of-Age",
+        "Book_Attribute_Folklore",
+        "Book_Attribute_Happy-Ending"
       ],
       "attributeIds": [
-        2514565850928161122, -1699314828098406484, -6996510392659603296, -8019033256394625803, -1699314828098406484,
-        -8519683449468449194
+        2514565850928161122, -1699314828098406484, -6996510392659603296, -8019033256394625803, -8519683449468449194,
+        9106255848689979198, 3471403351400568100, -3081409600515623228, 1568488700707839393, -5324273431625949389,
+        -3189764713476197866, 8957559176956913276
       ],
       "mainGenres": [5, 3],
       "isFake": 0
@@ -11727,12 +11826,13 @@
         "Book_Attribute_Fact",
         "Book_Attribute_Long",
         "Book_Attribute_Very-Long",
-        "Book_Attribute_Animals"
+        "Book_Attribute_Animals",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 855941067535245862, 3138240405316037854, -7903362346376596395, -5092700750064605807,
         -355396152609267625, 9106255848689979198, -8708106373435973157, -13992392358302004, 2996219866823105587,
-        1568488700707839393
+        1568488700707839393, 3060234526182601800
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -11866,12 +11966,13 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Novel",
         "Book_Attribute_Magic",
-        "Book_Attribute_Academic"
+        "Book_Attribute_Academic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -6574558982473003707, -7360327464572192981, -1699314828098406484,
         3314143632064326362, -6636662495733549811, 8272894212065762476, 3471403351400568100, 9106255848689979198,
-        5271023795237871952, -8519683449468449194, -7903362346376596395
+        5271023795237871952, -8519683449468449194, -7903362346376596395, 3060234526182601800
       ],
       "mainGenres": [4, 1],
       "isFake": 0
@@ -11890,11 +11991,12 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Poetry",
         "Book_Attribute_Series",
-        "Book_Attribute_Queer"
+        "Book_Attribute_Queer",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, -2430236346651599417, 9106255848689979198,
-        5346486007068983623, 5657074492002100807, -6636662495733549811
+        5346486007068983623, 5657074492002100807, -6636662495733549811, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -11911,11 +12013,13 @@
         "Book_Attribute_Lifestyle",
         "Book_Attribute_Dry",
         "Book_Attribute_Niche",
-        "Book_Attribute_Academic"
+        "Book_Attribute_Academic",
+        "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, -8708106373435973157, -6446191415289043539, -5092700750064605807, -302775179003620685,
-        -7903362346376596395
+        -7903362346376596395, 3138240405316037854, 3060234526182601800
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -11937,12 +12041,13 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Epic",
         "Book_Attribute_Series",
-        "Book_Attribute_Long"
+        "Book_Attribute_Long",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         2514565850928161122, -7698190043148316418, -1699314828098406484, -3189764713476197866, 5346486007068983623,
         -8519683449468449194, 1110050632221053383, 9106255848689979198, -3081409600515623228, 5657074492002100807,
-        -13992392358302004
+        -13992392358302004, 3060234526182601800
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -11961,11 +12066,12 @@
         "Book_Attribute_Philosophical",
         "Book_Attribute_Horror",
         "Book_Attribute_Folklore",
-        "Book_Attribute_Poetry"
+        "Book_Attribute_Poetry",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -2868349081807124857, -7698190043148316418, 2514565850928161122, -1699314828098406484, 9106255848689979198,
-        -7360327464572192981, -3189764713476197866, 5346486007068983623
+        -7360327464572192981, -3189764713476197866, 5346486007068983623, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -12209,11 +12315,13 @@
         "Book_Attribute_Non-Fiction",
         "Book_Attribute_Lifestyle",
         "Book_Attribute_Dry",
-        "Book_Attribute_Niche"
+        "Book_Attribute_Niche",
+        "Book_Attribute_Historic",
+        "Book_Attribute_Outdated"
       ],
       "attributeIds": [
         -7698190043148316418, -8708106373435973157, 3138240405316037854, -6446191415289043539, -5092700750064605807,
-        -302775179003620685
+        -302775179003620685, 3060234526182601800, -355396152609267625
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -12411,11 +12519,12 @@
         "Book_Attribute_Niche",
         "Book_Attribute_Academic",
         "Book_Attribute_Philosophical",
-        "Book_Attribute_Political"
+        "Book_Attribute_Political",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -2868349081807124857, -7698190043148316418, 3138240405316037854, -5092700750064605807, -302775179003620685,
-        -7903362346376596395, 9106255848689979198, -1282974670280029159
+        -7903362346376596395, 9106255848689979198, -1282974670280029159, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -12463,11 +12572,12 @@
         "Book_Attribute_Dry",
         "Book_Attribute_Niche",
         "Book_Attribute_Academic",
-        "Book_Attribute_Series"
+        "Book_Attribute_Series",
+        "Book_Attribute_Outdated"
       ],
       "attributeIds": [
         -7698190043148316418, 5563244962772778714, 3138240405316037854, 3060234526182601800, -6446191415289043539,
-        -5092700750064605807, -302775179003620685, -7903362346376596395, 5657074492002100807
+        -5092700750064605807, -302775179003620685, -7903362346376596395, 5657074492002100807, -355396152609267625
       ],
       "mainGenres": [6],
       "isFake": 0
@@ -12512,12 +12622,13 @@
         "Book_Attribute_Tragic",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Thriller",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -6574558982473003707, -7360327464572192981, -4538028669047716633,
         -1699314828098406484, 3314143632064326362, 8272894212065762476, 3471403351400568100, 9106255848689979198,
-        -4193372256073814230, -2868349081807124857
+        -4193372256073814230, -2868349081807124857, 3060234526182601800
       ],
       "mainGenres": [0, 4],
       "isFake": 0
@@ -12565,11 +12676,13 @@
         "Book_Attribute_Tragic",
         "Book_Attribute_Thriller",
         "Book_Attribute_Classic",
-        "Book_Attribute_Gore"
+        "Book_Attribute_Gore",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -2868349081807124857, 2514565850928161122, -6574558982473003707, -7360327464572192981, -4538028669047716633,
-        8272894212065762476, 3471403351400568100, -4193372256073814230, -7698190043148316418, 1110050632221053383
+        8272894212065762476, 3471403351400568100, -4193372256073814230, -7698190043148316418, 1110050632221053383,
+        3060234526182601800
       ],
       "mainGenres": [0, 4],
       "isFake": 0
@@ -12589,11 +12702,15 @@
         "Book_Attribute_Fantasy",
         "Book_Attribute_Romance",
         "Book_Attribute_Short",
-        "Book_Attribute_Play"
+        "Book_Attribute_Play",
+        "Book_Attribute_Academic",
+        "Book_Attribute_Political",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, -8519683449468449194, 8957559176956913276,
-        -1699314828098406484, -5297152812902730509, -2868349081807124857, -2990197087112418371
+        -1699314828098406484, -5297152812902730509, -2868349081807124857, -2990197087112418371, -7903362346376596395,
+        -1282974670280029159, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -12660,11 +12777,13 @@
         "Book_Attribute_Epic",
         "Book_Attribute_Horror",
         "Book_Attribute_Space",
-        "Book_Attribute_Dystopia"
+        "Book_Attribute_Dystopia",
+        "Book_Attribute_Philosophical"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -7434047041947330353, 3471403351400568100, 8957559176956913276,
-        -1282974670280029159, -3081409600515623228, -7360327464572192981, 739574094248842221, -6237730427187295350
+        -1282974670280029159, -3081409600515623228, -7360327464572192981, 739574094248842221, -6237730427187295350,
+        9106255848689979198
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -12738,12 +12857,13 @@
         "Book_Attribute_Classic",
         "Book_Attribute_Travel",
         "Book_Attribute_Short",
-        "Book_Attribute_Nature"
+        "Book_Attribute_Nature",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         2514565850928161122, -7360327464572192981, -1699314828098406484, -8519683449468449194, 8272894212065762476,
         1568488700707839393, -3081409600515623228, -3189764713476197866, 1110050632221053383, -7698190043148316418,
-        5563244962772778714, -2868349081807124857, 855941067535245862
+        5563244962772778714, -2868349081807124857, 855941067535245862, 3060234526182601800
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -12759,16 +12879,18 @@
         "Book_Attribute_Magic",
         "Book_Attribute_Mystery",
         "Book_Attribute_Queer",
-        "Book_Attribute_Novel",
         "Book_Attribute_YA",
+        "Book_Attribute_Kids",
         "Book_Attribute_Fantasy",
         "Book_Attribute_Contemporary",
         "Book_Attribute_Graphic-Novel",
-        "Book_Attribute_Light-Reading"
+        "Book_Attribute_Light-Reading",
+        "Book_Attribute_Series"
       ],
       "attributeIds": [
-        2514565850928161122, -8519683449468449194, -4538028669047716633, -6636662495733549811, 5271023795237871952,
-        -6996510392659603296, -1699314828098406484, -2560211484336640344, 942412258876595157, 1195107243811689507
+        2514565850928161122, -8519683449468449194, -4538028669047716633, -6636662495733549811, -6996510392659603296,
+        -8019033256394625803, -1699314828098406484, -2560211484336640344, 942412258876595157, 1195107243811689507,
+        5657074492002100807
       ],
       "mainGenres": [3],
       "isFake": 0
@@ -12788,11 +12910,12 @@
         "Book_Attribute_Drama",
         "Book_Attribute_Plot-Twist",
         "Book_Attribute_Tragic",
-        "Book_Attribute_Happy-Ending"
+        "Book_Attribute_Happy-Ending",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -13992392358302004, -7698190043148316418, 2514565850928161122, -6574558982473003707, -4538028669047716633,
-        3314143632064326362, 8272894212065762476, 3471403351400568100, 8957559176956913276
+        3314143632064326362, 8272894212065762476, 3471403351400568100, 8957559176956913276, 3060234526182601800
       ],
       "mainGenres": [0],
       "isFake": 0
@@ -12812,11 +12935,12 @@
         "Book_Attribute_Magic",
         "Book_Attribute_Light-Reading",
         "Book_Attribute_Epic",
-        "Book_Attribute_Series"
+        "Book_Attribute_Series",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -1699314828098406484, -8019033256394625803, -3189764713476197866,
-        -8519683449468449194, 1195107243811689507, -3081409600515623228, 5657074492002100807
+        -8519683449468449194, 1195107243811689507, -3081409600515623228, 5657074492002100807, 3060234526182601800
       ],
       "mainGenres": [5],
       "isFake": 0
@@ -12967,11 +13091,12 @@
         "Book_Attribute_Tragic",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Novel",
-        "Book_Attribute_Academic"
+        "Book_Attribute_Academic",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, 3314143632064326362, -2430236346651599417, 3471403351400568100,
-        9106255848689979198, 5271023795237871952, -7903362346376596395
+        9106255848689979198, 5271023795237871952, -7903362346376596395, 3060234526182601800
       ],
       "mainGenres": [4, 1],
       "isFake": 0
@@ -13036,11 +13161,12 @@
         "Book_Attribute_Light-Reading",
         "Book_Attribute_Travel-Guide",
         "Book_Attribute_Contemporary",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Nature"
       ],
       "attributeIds": [
         3138240405316037854, 5563244962772778714, -6446191415289043539, 1195107243811689507, -5156417586491897883,
-        -2560211484336640344, -2868349081807124857
+        -2560211484336640344, -2868349081807124857, 855941067535245862
       ],
       "mainGenres": [6],
       "isFake": 1
@@ -13105,11 +13231,13 @@
         "Book_Attribute_Lifestyle",
         "Book_Attribute_Dry",
         "Book_Attribute_Niche",
-        "Book_Attribute_Academic"
+        "Book_Attribute_Academic",
+        "Book_Attribute_Outdated",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, -8708106373435973157, 3138240405316037854, -6446191415289043539, -5092700750064605807,
-        -302775179003620685, -7903362346376596395
+        -302775179003620685, -7903362346376596395, -355396152609267625, 3060234526182601800
       ],
       "mainGenres": [2],
       "isFake": 0
@@ -13243,17 +13371,20 @@
         "Book_Attribute_Classic",
         "Book_Attribute_Fiction",
         "Book_Attribute_Science-Fiction",
-        "Book_Attribute_Kids",
         "Book_Attribute_Drama",
         "Book_Attribute_Happy-Ending",
         "Book_Attribute_Epic",
         "Book_Attribute_Travel",
         "Book_Attribute_Animals",
-        "Book_Attribute_Nature"
+        "Book_Attribute_Nature",
+        "Book_Attribute_Outdated",
+        "Book_Attribute_Series",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
-        -7698190043148316418, 2514565850928161122, -7434047041947330353, -8019033256394625803, 3314143632064326362,
-        8957559176956913276, -3081409600515623228, 5563244962772778714, 1568488700707839393, 855941067535245862
+        -7698190043148316418, 2514565850928161122, -7434047041947330353, 3314143632064326362, 8957559176956913276,
+        -3081409600515623228, 5563244962772778714, 1568488700707839393, 855941067535245862, -355396152609267625,
+        5657074492002100807, 3060234526182601800
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -13460,12 +13591,13 @@
         "Book_Attribute_Tragic",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Poetry",
-        "Book_Attribute_Novel"
+        "Book_Attribute_Novel",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -13992392358302004, -7698190043148316418, 2514565850928161122, -5297152812902730509, 3314143632064326362,
         -2430236346651599417, -5324273431625949389, 8272894212065762476, 3471403351400568100, 9106255848689979198,
-        5346486007068983623, 5271023795237871952
+        5346486007068983623, 5271023795237871952, 3060234526182601800
       ],
       "mainGenres": [1],
       "isFake": 0
@@ -13881,12 +14013,13 @@
         "Book_Attribute_Academic",
         "Book_Attribute_Dry",
         "Book_Attribute_Tragic",
-        "Book_Attribute_Short"
+        "Book_Attribute_Short",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 3314143632064326362, 2514565850928161122, 1110050632221053383, -7360327464572192981,
         -4538028669047716633, -2990197087112418371, -7903362346376596395, -5092700750064605807, 3471403351400568100,
-        -2868349081807124857
+        -2868349081807124857, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -13909,12 +14042,13 @@
         "Book_Attribute_Horror",
         "Book_Attribute_Novel",
         "Book_Attribute_Academic",
-        "Book_Attribute_Mystery"
+        "Book_Attribute_Mystery",
+        "Book_Attribute_Historic"
       ],
       "attributeIds": [
         -7698190043148316418, 2514565850928161122, -5297152812902730509, 3314143632064326362, -2430236346651599417,
         8272894212065762476, 3471403351400568100, 9106255848689979198, -7360327464572192981, 5271023795237871952,
-        -7903362346376596395, -4538028669047716633
+        -7903362346376596395, -4538028669047716633, 3060234526182601800
       ],
       "mainGenres": [1, 4],
       "isFake": 0
@@ -15877,40 +16011,43 @@
       "isFake": 0
     },
     {
-      "id": "114__bookProfile__\u4e00\u4e2a\u9002\u5408\u82cf\u4e39\u7684\u6e38\u620f___2003689261786239528",
-      "title": "Title_\u300a\u4e00\u4e2a\u9002\u5408\u82cf\u4e39\u7684\u6e38\u620f\u300b",
-      "author": "Author_\u300a\u4e00\u4e2a\u9002\u5408\u82cf\u4e39\u7684\u6e38\u620f\u300b",
-      "pages": 60,
-      "published": 2025,
+      "id": "114__bookProfile__\u4e00\u4e2a\u4eba\u7684\u6218\u4e89___7535007796921245066",
+      "title": "Title_\u300a\u4e00\u4e2a\u4eba\u7684\u6218\u4e89\u300b",
+      "author": "Author_\u300a\u4e00\u4e2a\u4eba\u7684\u6218\u4e89\u300b",
+      "pages": 320,
+      "published": 1994,
       "attributes": [
-        "Book_Attribute_Age-Rating-Mature",
-        "Book_Attribute_Crime",
-        "Book_Attribute_Drama",
-        "Book_Attribute_Dystopia",
-        "Book_Attribute_Fantasy",
         "Book_Attribute_Fiction",
-        "Book_Attribute_Horror",
-        "Book_Attribute_Light-Reading",
-        "Book_Attribute_Nature",
-        "Book_Attribute_Play",
-        "Book_Attribute_Plot-Twist",
-        "Book_Attribute_Political",
+        "Book_Attribute_Coming-of-Age",
         "Book_Attribute_Female-Author",
-        "Book_Attribute_Happy-Ending",
         "Book_Attribute_Novel",
+        "Book_Attribute_Fantasy"
+      ],
+      "attributeIds": [
+        2514565850928161122, -5324273431625949389, -2430236346651599417, 5271023795237871952, -1699314828098406484
+      ],
+      "mainGenres": [3],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u4e00\u5207\u90fd\u5728\u5b64\u72ec\u91cc\u6210\u5168___-676726010429725427",
+      "title": "Title_\u300a\u4e00\u5207\u90fd\u5728\u5b64\u72ec\u91cc\u6210\u5168\u300b",
+      "author": "Author_\u300a\u4e00\u5207\u90fd\u5728\u5b64\u72ec\u91cc\u6210\u5168\u300b",
+      "pages": 256,
+      "published": 2018,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Nature",
+        "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Academic",
         "Book_Attribute_Philosophical",
-        "Book_Attribute_Thriller",
-        "Book_Attribute_Whodunnit",
-        "Book_Attribute_Short",
         "Book_Attribute_Contemporary"
       ],
       "attributeIds": [
-        7023676137210118238, -6574558982473003707, 3314143632064326362, -6237730427187295350, -1699314828098406484,
-        2514565850928161122, -7360327464572192981, 1195107243811689507, 855941067535245862, -2990197087112418371,
-        8272894212065762476, -1282974670280029159, -2430236346651599417, 8957559176956913276, 5271023795237871952,
-        9106255848689979198, -4193372256073814230, 277466913645032469, -2868349081807124857, -2560211484336640344
+        -7698190043148316418, 855941067535245862, 3138240405316037854, -7903362346376596395, 9106255848689979198,
+        -2560211484336640344
       ],
-      "mainGenres": [0, 1, 3],
+      "mainGenres": [4],
       "isFake": 0
     },
     {
@@ -15945,6 +16082,7 @@
         "Book_Attribute_Classic",
         "Book_Attribute_Drama",
         "Book_Attribute_Fiction",
+        "Book_Attribute_Historic",
         "Book_Attribute_Long",
         "Book_Attribute_Plot-Twist",
         "Book_Attribute_Political",
@@ -15954,8 +16092,9 @@
         "Book_Attribute_Very-Long"
       ],
       "attributeIds": [
-        -7698190043148316418, 3314143632064326362, 2514565850928161122, -13992392358302004, 8272894212065762476,
-        -1282974670280029159, -5324273431625949389, -3189764713476197866, -355396152609267625, 2996219866823105587
+        -7698190043148316418, 3314143632064326362, 2514565850928161122, 3060234526182601800, -13992392358302004,
+        8272894212065762476, -1282974670280029159, -5324273431625949389, -3189764713476197866, -355396152609267625,
+        2996219866823105587
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -15997,12 +16136,13 @@
         "Book_Attribute_Nature",
         "Book_Attribute_Non-Fiction",
         "Book_Attribute_Poetry",
+        "Book_Attribute_Outdated",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Short"
       ],
       "attributeIds": [
         -7698190043148316418, -6446191415289043539, -8019033256394625803, 1195107243811689507, 855941067535245862,
-        3138240405316037854, 5346486007068983623, 9106255848689979198, -2868349081807124857
+        3138240405316037854, 5346486007068983623, -355396152609267625, 9106255848689979198, -2868349081807124857
       ],
       "mainGenres": [4, 5],
       "isFake": 0
@@ -16071,6 +16211,29 @@
       "isFake": 0
     },
     {
+      "id": "114__bookProfile__\u4e2d\u56fd\u7684\u594b\u6597___-9128756585693335835",
+      "title": "Title_\u300a\u4e2d\u56fd\u7684\u594b\u6597\u300b",
+      "author": "Author_\u300a\u4e2d\u56fd\u7684\u594b\u6597\u300b",
+      "pages": 576,
+      "published": 2024,
+      "attributes": [
+        "Book_Attribute_Historic",
+        "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Political",
+        "Book_Attribute_Academic",
+        "Book_Attribute_Dry",
+        "Book_Attribute_Fact",
+        "Book_Attribute_Long",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        3060234526182601800, 3138240405316037854, -1282974670280029159, -7903362346376596395, -5092700750064605807,
+        -8708106373435973157, -13992392358302004, -2560211484336640344
+      ],
+      "mainGenres": [2],
+      "isFake": 0
+    },
+    {
       "id": "114__bookProfile__\u4e2d\u570b\u6027\u7814\u7a76___-3303835379984179514",
       "title": "Title_\u300a\u4e2d\u570b\u6027\u7814\u7a76\u300b",
       "author": "Author_\u300a\u4e2d\u570b\u6027\u7814\u7a76\u300b",
@@ -16095,31 +16258,6 @@
         -2560211484336640344
       ],
       "mainGenres": [2],
-      "isFake": 0
-    },
-    {
-      "id": "114__bookProfile__\u4e5d\u5dde_\u4e27\u4e71\u4e4b\u77b3___8898367786240503472",
-      "title": "Title_\u300a\u4e5d\u5dde\u00b7\u4e27\u4e71\u4e4b\u77b3\u300b",
-      "author": "Author_\u300a\u4e5d\u5dde\u00b7\u4e27\u4e71\u4e4b\u77b3\u300b",
-      "pages": 276,
-      "published": 2011,
-      "attributes": [
-        "Book_Attribute_Crime",
-        "Book_Attribute_Fantasy",
-        "Book_Attribute_Fiction",
-        "Book_Attribute_Magic",
-        "Book_Attribute_Plot-Twist",
-        "Book_Attribute_Political",
-        "Book_Attribute_Series",
-        "Book_Attribute_Travel",
-        "Book_Attribute_Epic",
-        "Book_Attribute_Contemporary"
-      ],
-      "attributeIds": [
-        -6574558982473003707, -1699314828098406484, 2514565850928161122, -8519683449468449194, 8272894212065762476,
-        -1282974670280029159, 5657074492002100807, 5563244962772778714, -3081409600515623228, -2560211484336640344
-      ],
-      "mainGenres": [3],
       "isFake": 0
     },
     {
@@ -16173,31 +16311,6 @@
       "isFake": 0
     },
     {
-      "id": "114__bookProfile__\u4e5d\u5dde_\u7f25\u7f08\u5f55\u2160___-5221500150901777682",
-      "title": "Title_\u300a\u4e5d\u5dde\u00b7\u7f25\u7f08\u5f55\u2160\u300b",
-      "author": "Author_\u300a\u4e5d\u5dde\u00b7\u7f25\u7f08\u5f55\u2160\u300b",
-      "pages": 270,
-      "published": 2015,
-      "attributes": [
-        "Book_Attribute_Crime",
-        "Book_Attribute_Fantasy",
-        "Book_Attribute_Fiction",
-        "Book_Attribute_Magic",
-        "Book_Attribute_Plot-Twist",
-        "Book_Attribute_Political",
-        "Book_Attribute_Series",
-        "Book_Attribute_Travel",
-        "Book_Attribute_Epic",
-        "Book_Attribute_Contemporary"
-      ],
-      "attributeIds": [
-        -6574558982473003707, -1699314828098406484, 2514565850928161122, -8519683449468449194, 8272894212065762476,
-        -1282974670280029159, 5657074492002100807, 5563244962772778714, -3081409600515623228, -2560211484336640344
-      ],
-      "mainGenres": [3],
-      "isFake": 0
-    },
-    {
       "id": "114__bookProfile__\u4eba\u751f\u5fc5\u53bb\u7684\u9910\u5ef3___7423681161218233900",
       "title": "Title_\u300a\u4eba\u751f\u5fc5\u53bb\u7684\u9910\u5ef3\u300b",
       "author": "Author_\u300a\u4eba\u751f\u5fc5\u53bb\u7684\u9910\u5ef3\u300b",
@@ -16218,6 +16331,57 @@
         5563244962772778714, -5156417586491897883, -2560211484336640344
       ],
       "mainGenres": [6],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u501a\u5929\u5c60\u9f8d\u8a18___5445799281208257474",
+      "title": "Title_\u300a\u501a\u5929\u5c60\u9f8d\u8a18\u300b",
+      "author": "Author_\u300a\u501a\u5929\u5c60\u9f8d\u8a18\u300b",
+      "pages": 1594,
+      "published": 1961,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Drama",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Historic",
+        "Book_Attribute_Light-Reading",
+        "Book_Attribute_Magic",
+        "Book_Attribute_Romance",
+        "Book_Attribute_Happy-Ending",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Long",
+        "Book_Attribute_Very-Long"
+      ],
+      "attributeIds": [
+        -7698190043148316418, 3314143632064326362, -1699314828098406484, 2514565850928161122, 3060234526182601800,
+        1195107243811689507, -8519683449468449194, -5297152812902730509, 8957559176956913276, 5271023795237871952,
+        -13992392358302004, 2996219866823105587
+      ],
+      "mainGenres": [1, 3, 4],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u5077\u4e66\u8d3c___-2539231848206999101",
+      "title": "Title_\u300a\u5077\u4e66\u8d3c\u300b",
+      "author": "Author_\u300a\u5077\u4e66\u8d3c\u300b",
+      "pages": 512,
+      "published": 2005,
+      "attributes": [
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Historic",
+        "Book_Attribute_Coming-of-Age",
+        "Book_Attribute_Novel",
+        "Book_Attribute_YA",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Long",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        2514565850928161122, 3060234526182601800, -5324273431625949389, 5271023795237871952, -6996510392659603296,
+        -1699314828098406484, -13992392358302004, -2560211484336640344
+      ],
+      "mainGenres": [3],
       "isFake": 0
     },
     {
@@ -16342,14 +16506,38 @@
         "Book_Attribute_Nature",
         "Book_Attribute_Non-Fiction",
         "Book_Attribute_Self-Help",
+        "Book_Attribute_Outdated",
         "Book_Attribute_Philosophical",
         "Book_Attribute_Short"
       ],
       "attributeIds": [
         -7698190043148316418, -6446191415289043539, -8019033256394625803, 1195107243811689507, 855941067535245862,
-        3138240405316037854, 494950073305124249, 9106255848689979198, -2868349081807124857
+        3138240405316037854, 494950073305124249, -355396152609267625, 9106255848689979198, -2868349081807124857
       ],
       "mainGenres": [4, 5],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u5361\u62c9\u9a6c\u4f50\u592b\u5144\u5f1f___-8024113495595879272",
+      "title": "Title_\u300a\u5361\u62c9\u9a6c\u4f50\u592b\u5144\u5f1f\u300b",
+      "author": "Author_\u300a\u5361\u62c9\u9a6c\u4f50\u592b\u5144\u5f1f\u300b",
+      "pages": 985,
+      "published": 1881,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Nature",
+        "Book_Attribute_Epic",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Philosophical",
+        "Book_Attribute_Long",
+        "Book_Attribute_Very-Long"
+      ],
+      "attributeIds": [
+        -7698190043148316418, 2514565850928161122, 855941067535245862, -3081409600515623228, 5271023795237871952,
+        9106255848689979198, -13992392358302004, 2996219866823105587
+      ],
+      "mainGenres": [4],
       "isFake": 0
     },
     {
@@ -16542,6 +16730,44 @@
       "isFake": 0
     },
     {
+      "id": "114__bookProfile__\u5728\u7ec6\u96e8\u4e2d\u547c\u558a___6148670165820442456",
+      "title": "Title_\u300a\u5728\u7ec6\u96e8\u4e2d\u547c\u558a\u300b",
+      "author": "Author_\u300a\u5728\u7ec6\u96e8\u4e2d\u547c\u558a\u300b",
+      "pages": 296,
+      "published": 1999,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Coming-of-Age",
+        "Book_Attribute_Tragic"
+      ],
+      "attributeIds": [-7698190043148316418, 2514565850928161122, -5324273431625949389, 3471403351400568100],
+      "mainGenres": [4],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u5728\u8def\u4e0a___-1042757161313313365",
+      "title": "Title_\u300a\u5728\u8def\u4e0a\u300b",
+      "author": "Author_\u300a\u5728\u8def\u4e0a\u300b",
+      "pages": 394,
+      "published": 2006,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Travel",
+        "Book_Attribute_Coming-of-Age",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        -7698190043148316418, 2514565850928161122, 5563244962772778714, -5324273431625949389, 5271023795237871952,
+        -1699314828098406484, -2560211484336640344
+      ],
+      "mainGenres": [3, 4, 6],
+      "isFake": 0
+    },
+    {
       "id": "114__bookProfile__\u574f\u5c0f\u5b69___-5069795364150198164",
       "title": "Title_\u300a\u574f\u5c0f\u5b69\u300b",
       "author": "Author_\u300a\u574f\u5c0f\u5b69\u300b",
@@ -16594,6 +16820,7 @@
       "pages": 176,
       "published": 1952,
       "attributes": [
+        "Book_Attribute_Animals",
         "Book_Attribute_Fantasy",
         "Book_Attribute_Fiction",
         "Book_Attribute_Humour",
@@ -16603,8 +16830,8 @@
         "Book_Attribute_Short"
       ],
       "attributeIds": [
-        -1699314828098406484, 2514565850928161122, 6024540521391575692, -8019033256394625803, 8957559176956913276,
-        5271023795237871952, -2868349081807124857
+        1568488700707839393, -1699314828098406484, 2514565850928161122, 6024540521391575692, -8019033256394625803,
+        8957559176956913276, 5271023795237871952, -2868349081807124857
       ],
       "mainGenres": [3, 5],
       "isFake": 0
@@ -16665,6 +16892,30 @@
       "isFake": 0
     },
     {
+      "id": "114__bookProfile__\u5927\u660e\u738b\u671d1566___-7086760572805693441",
+      "title": "Title_\u300a\u5927\u660e\u738b\u671d1566\u300b",
+      "author": "Author_\u300a\u5927\u660e\u738b\u671d1566\u300b",
+      "pages": 835,
+      "published": 2016,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Drama",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Historic",
+        "Book_Attribute_Epic",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Long",
+        "Book_Attribute_Very-Long",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        -7698190043148316418, 3314143632064326362, 2514565850928161122, 3060234526182601800, -3081409600515623228,
+        5271023795237871952, -13992392358302004, 2996219866823105587, -2560211484336640344
+      ],
+      "mainGenres": [1],
+      "isFake": 0
+    },
+    {
       "id": "114__bookProfile__\u5929\u542f\u9884\u62a5___-2342351452661361354",
       "title": "Title_\u300a\u5929\u542f\u9884\u62a5\u300b",
       "author": "Author_\u300a\u5929\u542f\u9884\u62a5\u300b",
@@ -16719,6 +16970,69 @@
         494950073305124249, -7903362346376596395, -355396152609267625
       ],
       "mainGenres": [2, 4],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u5929\u84dd\u8272\u7684\u5f7c\u5cb8___4761780783180336029",
+      "title": "Title_\u300a\u5929\u84dd\u8272\u7684\u5f7c\u5cb8\u300b",
+      "author": "Author_\u300a\u5929\u84dd\u8272\u7684\u5f7c\u5cb8\u300b",
+      "pages": 192,
+      "published": 2002,
+      "attributes": [
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Nature",
+        "Book_Attribute_Philosophical",
+        "Book_Attribute_YA",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Short",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        2514565850928161122, 855941067535245862, 9106255848689979198, -6996510392659603296, -1699314828098406484,
+        -2868349081807124857, -2560211484336640344
+      ],
+      "mainGenres": [3],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u5973\u513f\u7ea2___-6036885715171290517",
+      "title": "Title_\u300a\u5973\u513f\u7ea2\u300b",
+      "author": "Author_\u300a\u5973\u513f\u7ea2\u300b",
+      "pages": 224,
+      "published": 2025,
+      "attributes": [
+        "Book_Attribute_Nature",
+        "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Poetry",
+        "Book_Attribute_Female-Author",
+        "Book_Attribute_Drama",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        855941067535245862, 3138240405316037854, 5346486007068983623, -2430236346651599417, 3314143632064326362,
+        -1699314828098406484, -2560211484336640344
+      ],
+      "mainGenres": [1, 3],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u5982\u679c\u6211\u4eec\u65e0\u6cd5\u4ee5\u5149\u901f\u524d\u884c___2777095648620793865",
+      "title": "Title_\u300a\u5982\u679c\u6211\u4eec\u65e0\u6cd5\u4ee5\u5149\u901f\u524d\u884c\u300b",
+      "author": "Author_\u300a\u5982\u679c\u6211\u4eec\u65e0\u6cd5\u4ee5\u5149\u901f\u524d\u884c\u300b",
+      "pages": 330,
+      "published": 2019,
+      "attributes": [
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Science-Fiction",
+        "Book_Attribute_Female-Author",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        2514565850928161122, -7434047041947330353, -2430236346651599417, -1699314828098406484, -2560211484336640344
+      ],
+      "mainGenres": [3],
       "isFake": 0
     },
     {
@@ -16814,6 +17128,50 @@
       "isFake": 0
     },
     {
+      "id": "114__bookProfile__\u5c9b\u4e0a\u4e66\u5e97___6059760804391590500",
+      "title": "Title_\u300a\u5c9b\u4e0a\u4e66\u5e97\u300b",
+      "author": "Author_\u300a\u5c9b\u4e0a\u4e66\u5e97\u300b",
+      "pages": 271,
+      "published": 2015,
+      "attributes": [
+        "Book_Attribute_Drama",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Romance",
+        "Book_Attribute_Female-Author",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        3314143632064326362, 2514565850928161122, -5297152812902730509, -2430236346651599417, 5271023795237871952,
+        -1699314828098406484, -2560211484336640344
+      ],
+      "mainGenres": [1, 3],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u5e73\u51e1\u7684\u4e16\u754c___-899459347119446877",
+      "title": "Title_\u300a\u5e73\u51e1\u7684\u4e16\u754c\u300b",
+      "author": "Author_\u300a\u5e73\u51e1\u7684\u4e16\u754c\u300b",
+      "pages": 1251,
+      "published": 1986,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Historic",
+        "Book_Attribute_Epic",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Long",
+        "Book_Attribute_Very-Long"
+      ],
+      "attributeIds": [
+        -7698190043148316418, 2514565850928161122, 3060234526182601800, -3081409600515623228, 5271023795237871952,
+        -13992392358302004, 2996219866823105587
+      ],
+      "mainGenres": [4],
+      "isFake": 0
+    },
+    {
       "id": "114__bookProfile__\u5f90\u971e\u5ba2\u6e38\u8bb0___-9617532046537422",
       "title": "Title_\u300a\u5f90\u971e\u5ba2\u6e38\u8bb0\u300b",
       "author": "Author_\u300a\u5f90\u971e\u5ba2\u6e38\u8bb0\u300b",
@@ -16830,14 +17188,82 @@
         "Book_Attribute_Pop-Science",
         "Book_Attribute_Travel",
         "Book_Attribute_Travel-Guide",
+        "Book_Attribute_Outdated",
         "Book_Attribute_Long"
       ],
       "attributeIds": [
         -8815882588094248431, -7698190043148316418, -8708106373435973157, -6446191415289043539, 1195107243811689507,
         855941067535245862, 3138240405316037854, 4080566768484691406, 5563244962772778714, -5156417586491897883,
-        -13992392358302004
+        -355396152609267625, -13992392358302004
       ],
       "mainGenres": [2, 4, 6],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u5ffd\u7136\u4e03\u65e5___6766386790877846767",
+      "title": "Title_\u300a\u5ffd\u7136\u4e03\u65e5\u300b",
+      "author": "Author_\u300a\u5ffd\u7136\u4e03\u65e5\u300b",
+      "pages": 400,
+      "published": 2010,
+      "attributes": [
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Plot-Twist",
+        "Book_Attribute_Female-Author",
+        "Book_Attribute_Novel",
+        "Book_Attribute_YA",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        2514565850928161122, 8272894212065762476, -2430236346651599417, 5271023795237871952, -6996510392659603296,
+        -1699314828098406484, -2560211484336640344
+      ],
+      "mainGenres": [3],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u6076\u5973\u7684\u544a\u767d___-6221224388407018543",
+      "title": "Title_\u300a\u6076\u5973\u7684\u544a\u767d\u300b",
+      "author": "Author_\u300a\u6076\u5973\u7684\u544a\u767d\u300b",
+      "pages": 296,
+      "published": 2024,
+      "attributes": [
+        "Book_Attribute_Crime",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Detective",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Thriller",
+        "Book_Attribute_Whodunnit",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        -6574558982473003707, 2514565850928161122, 3542716738968859996, 5271023795237871952, -4193372256073814230,
+        277466913645032469, -2560211484336640344
+      ],
+      "mainGenres": [0],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u60b2\u5267\u7684\u8bde\u751f___-8289226253867713802",
+      "title": "Title_\u300a\u60b2\u5267\u7684\u8bde\u751f\u300b",
+      "author": "Author_\u300a\u60b2\u5267\u7684\u8bde\u751f\u300b",
+      "pages": 198,
+      "published": 1872,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Nature",
+        "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Academic",
+        "Book_Attribute_Dry",
+        "Book_Attribute_Outdated",
+        "Book_Attribute_Philosophical",
+        "Book_Attribute_Short"
+      ],
+      "attributeIds": [
+        -7698190043148316418, 855941067535245862, 3138240405316037854, -7903362346376596395, -5092700750064605807,
+        -355396152609267625, 9106255848689979198, -2868349081807124857
+      ],
+      "mainGenres": [4],
       "isFake": 0
     },
     {
@@ -17024,6 +17450,28 @@
       "isFake": 0
     },
     {
+      "id": "114__bookProfile__\u6709\u5440\u6709\u5440\u4e66\u5e97___7018532917005596259",
+      "title": "Title_\u300a\u6709\u5440\u6709\u5440\u4e66\u5e97\u300b",
+      "author": "Author_\u300a\u6709\u5440\u6709\u5440\u4e66\u5e97\u300b",
+      "pages": 104,
+      "published": 2018,
+      "attributes": [
+        "Book_Attribute_Graphic-Novel",
+        "Book_Attribute_Humour",
+        "Book_Attribute_Light-Reading",
+        "Book_Attribute_Manga",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Short",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        942412258876595157, 6024540521391575692, 1195107243811689507, -440167054879624468, -1699314828098406484,
+        -2868349081807124857, -2560211484336640344
+      ],
+      "mainGenres": [3],
+      "isFake": 0
+    },
+    {
       "id": "114__bookProfile__\u6768\u7ea2\u6a31\u7b11\u732b\u65e5\u8bb0___-7309598750670107912",
       "title": "Title_\u300a\u6768\u7ea2\u6a31\u7b11\u732b\u65e5\u8bb0\u300b",
       "author": "Author_\u300a\u6768\u7ea2\u6a31\u7b11\u732b\u65e5\u8bb0\u300b",
@@ -17099,8 +17547,10 @@
       "pages": 328,
       "published": 2020,
       "attributes": [
+        "Book_Attribute_Animals",
         "Book_Attribute_Biography",
         "Book_Attribute_Graphic-Novel",
+        "Book_Attribute_Nature",
         "Book_Attribute_Non-Fiction",
         "Book_Attribute_Series",
         "Book_Attribute_Travel",
@@ -17109,8 +17559,8 @@
         "Book_Attribute_Contemporary"
       ],
       "attributeIds": [
-        -8815882588094248431, 942412258876595157, 3138240405316037854, 5657074492002100807, 5563244962772778714,
-        -440167054879624468, -8708106373435973157, -2560211484336640344
+        1568488700707839393, -8815882588094248431, 942412258876595157, 855941067535245862, 3138240405316037854,
+        5657074492002100807, 5563244962772778714, -440167054879624468, -8708106373435973157, -2560211484336640344
       ],
       "mainGenres": [2, 6],
       "isFake": 0
@@ -17138,29 +17588,6 @@
         -2430236346651599417, 8957559176956913276, -13992392358302004, 2996219866823105587, -2560211484336640344
       ],
       "mainGenres": [5],
-      "isFake": 0
-    },
-    {
-      "id": "114__bookProfile__\u6a6b\u65b7\u81fa\u7063__6447166092577896265",
-      "title": "Title_\u300a\u6a6b\u65b7\u81fa\u7063;\u8ffd\u5c0b\u81fa\u7063\u9ad8\u5c71\u690d\u7269\u5730\u7406\u8d77\u6e90\u300b",
-      "author": "Author_\u300a\u6a6b\u65b7\u81fa\u7063;\u8ffd\u5c0b\u81fa\u7063\u9ad8\u5c71\u690d\u7269\u5730\u7406\u8d77\u6e90\u300b",
-      "pages": 464,
-      "published": 2023,
-      "attributes": [
-        "Book_Attribute_Animals",
-        "Book_Attribute_Fact",
-        "Book_Attribute_Nature",
-        "Book_Attribute_Non-Fiction",
-        "Book_Attribute_Travel",
-        "Book_Attribute_Academic",
-        "Book_Attribute_Long",
-        "Book_Attribute_Contemporary"
-      ],
-      "attributeIds": [
-        1568488700707839393, -8708106373435973157, 855941067535245862, 3138240405316037854, 5563244962772778714,
-        -7903362346376596395, -13992392358302004, -2560211484336640344
-      ],
-      "mainGenres": [2, 6],
       "isFake": 0
     },
     {
@@ -17289,42 +17716,24 @@
       "isFake": 0
     },
     {
-      "id": "114__bookProfile__\u6ca1\u94b1\u4fee\u4ec0\u4e48\u4ed9___-7259101784715518922",
-      "title": "Title_\u300a\u6ca1\u94b1\u4fee\u4ec0\u4e48\u4ed9\u300b",
-      "author": "Author_\u300a\u6ca1\u94b1\u4fee\u4ec0\u4e48\u4ed9\u300b",
-      "pages": 9999,
-      "published": 2025,
+      "id": "114__bookProfile__\u6ce2\u8389\u5b89\u5a1c___8221305193522478411",
+      "title": "Title_\u300a\u6ce2\u8389\u5b89\u5a1c\u300b",
+      "author": "Author_\u300a\u6ce2\u8389\u5b89\u5a1c\u300b",
+      "pages": 238,
+      "published": 2002,
       "attributes": [
-        "Book_Attribute_Dystopia",
-        "Book_Attribute_Fantasy",
         "Book_Attribute_Fiction",
-        "Book_Attribute_Gore",
-        "Book_Attribute_Horror",
-        "Book_Attribute_Humour",
-        "Book_Attribute_Mystery",
-        "Book_Attribute_Nature",
-        "Book_Attribute_Plot-Twist",
-        "Book_Attribute_Political",
-        "Book_Attribute_Romance",
-        "Book_Attribute_Academic",
-        "Book_Attribute_Coming-of-Age",
-        "Book_Attribute_Epic",
-        "Book_Attribute_Novel",
-        "Book_Attribute_Philosophical",
-        "Book_Attribute_Thriller",
-        "Book_Attribute_Whodunnit",
-        "Book_Attribute_Long",
-        "Book_Attribute_Very-Long",
+        "Book_Attribute_Kids",
+        "Book_Attribute_Female-Author",
+        "Book_Attribute_Happy-Ending",
+        "Book_Attribute_Fantasy",
         "Book_Attribute_Contemporary"
       ],
       "attributeIds": [
-        -6237730427187295350, -1699314828098406484, 2514565850928161122, 1110050632221053383, -7360327464572192981,
-        6024540521391575692, -4538028669047716633, 855941067535245862, 8272894212065762476, -1282974670280029159,
-        -5297152812902730509, -7903362346376596395, -5324273431625949389, -3081409600515623228, 5271023795237871952,
-        9106255848689979198, -4193372256073814230, 277466913645032469, -13992392358302004, 2996219866823105587,
+        2514565850928161122, -8019033256394625803, -2430236346651599417, 8957559176956913276, -1699314828098406484,
         -2560211484336640344
       ],
-      "mainGenres": [3],
+      "mainGenres": [3, 5],
       "isFake": 0
     },
     {
@@ -17359,14 +17768,16 @@
         "Book_Attribute_Classic",
         "Book_Attribute_Drama",
         "Book_Attribute_Fiction",
+        "Book_Attribute_Historic",
         "Book_Attribute_Romance",
         "Book_Attribute_Coming-of-Age",
+        "Book_Attribute_Tragic",
         "Book_Attribute_Short",
         "Book_Attribute_Contemporary"
       ],
       "attributeIds": [
-        -7698190043148316418, 3314143632064326362, 2514565850928161122, -5297152812902730509, -5324273431625949389,
-        -2868349081807124857, -2560211484336640344
+        -7698190043148316418, 3314143632064326362, 2514565850928161122, 3060234526182601800, -5297152812902730509,
+        -5324273431625949389, 3471403351400568100, -2868349081807124857, -2560211484336640344
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -17433,6 +17844,27 @@
       "isFake": 0
     },
     {
+      "id": "114__bookProfile__\u6d77\u8482___6078268670110386846",
+      "title": "Title_\u300a\u6d77\u8482\u300b",
+      "author": "Author_\u300a\u6d77\u8482\u300b",
+      "pages": 190,
+      "published": 1881,
+      "attributes": [
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Kids",
+        "Book_Attribute_Nature",
+        "Book_Attribute_Female-Author",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Short"
+      ],
+      "attributeIds": [
+        2514565850928161122, -8019033256394625803, 855941067535245862, -2430236346651599417, 5271023795237871952,
+        -2868349081807124857
+      ],
+      "mainGenres": [5],
+      "isFake": 0
+    },
+    {
       "id": "114__bookProfile__\u6ee1\u4e95\u6e38\u8bb0___-6903283294232657020",
       "title": "Title_\u300a\u6ee1\u4e95\u6e38\u8bb0\u300b",
       "author": "Author_\u300a\u6ee1\u4e95\u6e38\u8bb0\u300b",
@@ -17492,11 +17924,50 @@
       "attributes": [
         "Book_Attribute_Classic",
         "Book_Attribute_Drama",
+        "Book_Attribute_Play",
         "Book_Attribute_Romance",
+        "Book_Attribute_Outdated",
         "Book_Attribute_Tragic"
       ],
-      "attributeIds": [-7698190043148316418, 3314143632064326362, -5297152812902730509, 3471403351400568100],
+      "attributeIds": [
+        -7698190043148316418, 3314143632064326362, -2990197087112418371, -5297152812902730509, -355396152609267625,
+        3471403351400568100
+      ],
       "mainGenres": [1],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u7267\u7f8a\u5c11\u5e74\u7684\u5947\u5e7b\u4e4b\u65c5___-4930268927650644535",
+      "title": "Title_\u300a\u7267\u7f8a\u5c11\u5e74\u7684\u5947\u5e7b\u4e4b\u65c5\u300b",
+      "author": "Author_\u300a\u7267\u7f8a\u5c11\u5e74\u7684\u5947\u5e7b\u4e4b\u65c5\u300b",
+      "pages": 217,
+      "published": 2009,
+      "attributes": [
+        "Book_Attribute_Drama",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Nature",
+        "Book_Attribute_Coming-of-Age",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Philosophical",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        3314143632064326362, -1699314828098406484, 2514565850928161122, 855941067535245862, -5324273431625949389,
+        5271023795237871952, 9106255848689979198, -2560211484336640344
+      ],
+      "mainGenres": [1, 3],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u73b0\u4ee3\u9ebb\u5c06\u7684\u7edd\u5bf9\u624b\u987a___-725864575550616990",
+      "title": "Title_\u300a\u73b0\u4ee3\u9ebb\u5c06\u7684\u7edd\u5bf9\u624b\u987a\u300b",
+      "author": "Author_\u300a\u73b0\u4ee3\u9ebb\u5c06\u7684\u7edd\u5bf9\u624b\u987a\u300b",
+      "pages": 217,
+      "published": 2019,
+      "attributes": ["Book_Attribute_Fact", "Book_Attribute_Lifestyle", "Book_Attribute_Contemporary"],
+      "attributeIds": [-8708106373435973157, -6446191415289043539, -2560211484336640344],
+      "mainGenres": [2],
       "isFake": 0
     },
     {
@@ -17519,6 +17990,44 @@
         -5324273431625949389, 3471403351400568100
       ],
       "mainGenres": [4],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u767e\u5e74\u5b64\u72ec___1104264448892557790",
+      "title": "Title_\u300a\u767e\u5e74\u5b64\u72ec\u300b",
+      "author": "Author_\u300a\u767e\u5e74\u5b64\u72ec\u300b",
+      "pages": 360,
+      "published": 1967,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Magic",
+        "Book_Attribute_Epic",
+        "Book_Attribute_Novel"
+      ],
+      "attributeIds": [
+        -7698190043148316418, 2514565850928161122, -8519683449468449194, -3081409600515623228, 5271023795237871952
+      ],
+      "mainGenres": [4],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u771f\u597d\u5927\u5bb6\u5ead___5555458116760866999",
+      "title": "Title_\u300a\u771f\u597d!\u5927\u5bb6\u5ead\u300b",
+      "author": "Author_\u300a\u771f\u597d!\u5927\u5bb6\u5ead\u300b",
+      "pages": 14,
+      "published": 2022,
+      "attributes": [
+        "Book_Attribute_Graphic-Novel",
+        "Book_Attribute_Kids",
+        "Book_Attribute_Manga",
+        "Book_Attribute_Short",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        942412258876595157, -8019033256394625803, -440167054879624468, -2868349081807124857, -2560211484336640344
+      ],
+      "mainGenres": [5],
       "isFake": 0
     },
     {
@@ -17662,6 +18171,7 @@
         "Book_Attribute_Drama",
         "Book_Attribute_Fantasy",
         "Book_Attribute_Fiction",
+        "Book_Attribute_Historic",
         "Book_Attribute_Long",
         "Book_Attribute_Romance",
         "Book_Attribute_Coming-of-Age",
@@ -17670,8 +18180,9 @@
         "Book_Attribute_Very-Long"
       ],
       "attributeIds": [
-        -7698190043148316418, 3314143632064326362, -1699314828098406484, 2514565850928161122, -13992392358302004,
-        -5297152812902730509, -5324273431625949389, -355396152609267625, 3471403351400568100, 2996219866823105587
+        -7698190043148316418, 3314143632064326362, -1699314828098406484, 2514565850928161122, 3060234526182601800,
+        -13992392358302004, -5297152812902730509, -5324273431625949389, -355396152609267625, 3471403351400568100,
+        2996219866823105587
       ],
       "mainGenres": [4],
       "isFake": 0
@@ -17693,6 +18204,28 @@
         -8019033256394625803, 1195107243811689507, 3138240405316037854, 5346486007068983623, -2560211484336640344
       ],
       "mainGenres": [5],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u7f8e\u72c4\u4e9a___7943294715986473529",
+      "title": "Title_\u300a\u7f8e\u72c4\u4e9a\u300b",
+      "author": "Author_\u300a\u7f8e\u72c4\u4e9a\u300b",
+      "pages": 101,
+      "published": -431,
+      "attributes": [
+        "Book_Attribute_Classic",
+        "Book_Attribute_Drama",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Play",
+        "Book_Attribute_Folklore",
+        "Book_Attribute_Tragic",
+        "Book_Attribute_Short"
+      ],
+      "attributeIds": [
+        -7698190043148316418, 3314143632064326362, 2514565850928161122, -2990197087112418371, -3189764713476197866,
+        3471403351400568100, -2868349081807124857
+      ],
+      "mainGenres": [1],
       "isFake": 0
     },
     {
@@ -17740,6 +18273,28 @@
         277466913645032469, -13992392358302004, 2996219866823105587
       ],
       "mainGenres": [0, 1, 3, 4],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u8111\u4e2d\u4e4b\u9b54___7125434093775565091",
+      "title": "Title_\u300a\u8111\u4e2d\u4e4b\u9b54\u300b",
+      "author": "Author_\u300a\u8111\u4e2d\u4e4b\u9b54\u300b",
+      "pages": 432,
+      "published": 2025,
+      "attributes": [
+        "Book_Attribute_Age-Rating-Mature",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Horror",
+        "Book_Attribute_Detective",
+        "Book_Attribute_Thriller",
+        "Book_Attribute_Crime",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        7023676137210118238, 2514565850928161122, -7360327464572192981, 3542716738968859996, -4193372256073814230,
+        -6574558982473003707, -2560211484336640344
+      ],
+      "mainGenres": [0],
       "isFake": 0
     },
     {
@@ -17902,6 +18457,27 @@
       "isFake": 0
     },
     {
+      "id": "114__bookProfile__\u86e4\u87c6\u5148\u751f\u53bb\u770b\u5fc3\u7406\u533b\u751f___-2701839991443872840",
+      "title": "Title_\u300a\u86e4\u87c6\u5148\u751f\u53bb\u770b\u5fc3\u7406\u533b\u751f\u300b",
+      "author": "Author_\u300a\u86e4\u87c6\u5148\u751f\u53bb\u770b\u5fc3\u7406\u533b\u751f\u300b",
+      "pages": 208,
+      "published": 2020,
+      "attributes": [
+        "Book_Attribute_Animals",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Light-Reading",
+        "Book_Attribute_Self-Help",
+        "Book_Attribute_Fantasy",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        1568488700707839393, 2514565850928161122, 1195107243811689507, 494950073305124249, -1699314828098406484,
+        -2560211484336640344
+      ],
+      "mainGenres": [3],
+      "isFake": 0
+    },
+    {
       "id": "114__bookProfile__\u897f\u53a2\u8bb0___3465963483485348623",
       "title": "Title_\u300a\u897f\u53a2\u8bb0\u300b",
       "author": "Author_\u300a\u897f\u53a2\u8bb0\u300b",
@@ -17910,10 +18486,15 @@
       "attributes": [
         "Book_Attribute_Classic",
         "Book_Attribute_Drama",
+        "Book_Attribute_Play",
         "Book_Attribute_Romance",
-        "Book_Attribute_Happy-Ending"
+        "Book_Attribute_Happy-Ending",
+        "Book_Attribute_Outdated"
       ],
-      "attributeIds": [-7698190043148316418, 3314143632064326362, -5297152812902730509, 8957559176956913276],
+      "attributeIds": [
+        -7698190043148316418, 3314143632064326362, -2990197087112418371, -5297152812902730509, 8957559176956913276,
+        -355396152609267625
+      ],
       "mainGenres": [1],
       "isFake": 0
     },
@@ -17931,6 +18512,25 @@
       ],
       "attributeIds": [-7698190043148316418, 3314143632064326362, -5297152812902730509, 8957559176956913276],
       "mainGenres": [1],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u9065\u8fdc\u7684\u5411\u65e5\u8475\u5730___5425928150694129502",
+      "title": "Title_\u300a\u9065\u8fdc\u7684\u5411\u65e5\u8475\u5730\u300b",
+      "author": "Author_\u300a\u9065\u8fdc\u7684\u5411\u65e5\u8475\u5730\u300b",
+      "pages": 258,
+      "published": 2017,
+      "attributes": [
+        "Book_Attribute_Nature",
+        "Book_Attribute_Non-Fiction",
+        "Book_Attribute_Female-Author",
+        "Book_Attribute_Classic",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [
+        855941067535245862, 3138240405316037854, -2430236346651599417, -7698190043148316418, -2560211484336640344
+      ],
+      "mainGenres": [4],
       "isFake": 0
     },
     {
@@ -18017,6 +18617,7 @@
         "Book_Attribute_Crime",
         "Book_Attribute_Fantasy",
         "Book_Attribute_Fiction",
+        "Book_Attribute_Historic",
         "Book_Attribute_Long",
         "Book_Attribute_Plot-Twist",
         "Book_Attribute_Political",
@@ -18025,31 +18626,54 @@
         "Book_Attribute_Contemporary"
       ],
       "attributeIds": [
-        -6574558982473003707, -1699314828098406484, 2514565850928161122, -13992392358302004, 8272894212065762476,
-        -1282974670280029159, 5563244962772778714, -3081409600515623228, -2560211484336640344
+        -6574558982473003707, -1699314828098406484, 2514565850928161122, 3060234526182601800, -13992392358302004,
+        8272894212065762476, -1282974670280029159, 5563244962772778714, -3081409600515623228, -2560211484336640344
       ],
       "mainGenres": [3],
+      "isFake": 0
+    },
+    {
+      "id": "114__bookProfile__\u9694\u58c1\u7684\u5973\u4eba___-1844662773152970541",
+      "title": "Title_\u300a\u9694\u58c1\u7684\u5973\u4eba\u300b",
+      "author": "Author_\u300a\u9694\u58c1\u7684\u5973\u4eba\u300b",
+      "pages": 240,
+      "published": 2018,
+      "attributes": [
+        "Book_Attribute_Drama",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Female-Author",
+        "Book_Attribute_Contemporary"
+      ],
+      "attributeIds": [3314143632064326362, 2514565850928161122, -2430236346651599417, -2560211484336640344],
+      "mainGenres": [1],
       "isFake": 0
     },
     {
       "id": "114__bookProfile__\u96f7\u96e8___5618621291832447504",
       "title": "Title_\u300a\u96f7\u96e8\u300b",
       "author": "Author_\u300a\u96f7\u96e8\u300b",
-      "pages": 188,
-      "published": 1999,
+      "pages": 332,
+      "published": 1934,
       "attributes": [
         "Book_Attribute_Classic",
+        "Book_Attribute_Crime",
         "Book_Attribute_Drama",
-        "Book_Attribute_Historic",
+        "Book_Attribute_Fiction",
+        "Book_Attribute_Light-Reading",
+        "Book_Attribute_Play",
         "Book_Attribute_Plot-Twist",
-        "Book_Attribute_Short",
-        "Book_Attribute_Tragic"
+        "Book_Attribute_Romance",
+        "Book_Attribute_Novel",
+        "Book_Attribute_Thriller",
+        "Book_Attribute_Tragic",
+        "Book_Attribute_Whodunnit"
       ],
       "attributeIds": [
-        -7698190043148316418, 3314143632064326362, 3060234526182601800, 8272894212065762476, -2868349081807124857,
-        3471403351400568100
+        -7698190043148316418, -6574558982473003707, 3314143632064326362, 2514565850928161122, 1195107243811689507,
+        -2990197087112418371, 8272894212065762476, -5297152812902730509, 5271023795237871952, -4193372256073814230,
+        3471403351400568100, 277466913645032469
       ],
-      "mainGenres": [1],
+      "mainGenres": [0, 1, 4],
       "isFake": 0
     },
     {
