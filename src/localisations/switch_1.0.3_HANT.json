@@ -1,0 +1,2674 @@
+{
+  "Author_#Title_zh_HANT_(Tranditional)": {
+    "strings": [
+      "Author zh_HANT (Tranditional)"
+    ]
+  },
+  "Author_A_Clash_of_Kings": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u99ac\u6c40"
+    ]
+  },
+  "Author_A_Collection_of_Poems": {
+    "strings": [
+      "\u8056\u66f8\u7fc1"
+    ]
+  },
+  "Author_A_Dance_With_Dragons": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u99ac\u6c40"
+    ]
+  },
+  "Author_A_Feast_for_Crows": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u99ac\u6c40"
+    ]
+  },
+  "Author_A_Fire_Upon_the_Deep": {
+    "strings": [
+      "\u5f17\u8afe\u00b7\u6587\u5947"
+    ]
+  },
+  "Author_A_Game_of_Thrones": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u99ac\u6c40"
+    ]
+  },
+  "Author_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_A_Senseless_Power": {
+    "strings": [
+      "\u8056\u66f8\u7fc1"
+    ]
+  },
+  "Author_A_Short_History_of_Nearly_Everything": {
+    "strings": [
+      "\u6bd4\u723e\uff0e\u5e03\u840a\u68ee"
+    ]
+  },
+  "Author_A_Storm_of_Swords": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u99ac\u6c40"
+    ]
+  },
+  "Author_A_Study_in_Scarlet": {
+    "strings": [
+      "\u4e9e\u745f\uff0e\u67ef\u5357\uff0e\u9053\u723e"
+    ]
+  },
+  "Author_A_Wrinkle_in_Time": {
+    "strings": [
+      "\u9ea5\u5fb7\u7433\uff0e\u862d\u6b4c"
+    ]
+  },
+  "Author_Adventures_of_A_Wild_Child": {
+    "strings": [
+      "\u5409\u5a1c\u00b7\u683c\u96f7\u68ee\u00b7\u4ea8\u7279"
+    ]
+  },
+  "Author_After_the_Funeral": {
+    "strings": [
+      "\u963f\u5609\u838e\uff0e\u514b\u8389\u7d72\u8482"
+    ]
+  },
+  "Author_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "\u8def\u6613\u65af\uff0e\u5361\u6d1b\u723e"
+    ]
+  },
+  "Author_All's_Well_That_Ends_Well": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_American_Psycho": {
+    "strings": [
+      "\u5e03\u840a\u7279\uff0e\u4f0a\u65af\u9813\uff0e\u57c3\u5229\u65af"
+    ]
+  },
+  "Author_An_Explorer's_Guide_to_Georgetown": {
+    "strings": [
+      "\u912d\u00b7\u683c\u6797"
+    ]
+  },
+  "Author_Angels_&_Demons": {
+    "strings": [
+      "\u4e39\uff0e\u5e03\u6717"
+    ]
+  },
+  "Author_Animal_Farm": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u6b50\u5a01\u723e"
+    ]
+  },
+  "Author_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "\u5112\u52d2\uff0e\u51e1\u723e\u7d0d"
+    ]
+  },
+  "Author_Artemis_Fowl": {
+    "strings": [
+      "\u6b50\u56e0\uff0e\u79d1\u5f17"
+    ]
+  },
+  "Author_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "\u8aeb\u5c71\u5275"
+    ]
+  },
+  "Author_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "\u5ddd\u53e3\u4fca\u548c"
+    ]
+  },
+  "Author_Beowulf": {
+    "strings": [
+      "\u4f5c\u8005\u4f5a\u540d\uff1b\u8b6f\u8005\uff1a\u897f\u9ed8\u65af\uff0e\u5e0c\u5c3c"
+    ]
+  },
+  "Author_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "\u5b89\u5091\uff0e\u85a9\u666e\u79d1\u592b\u65af\u57fa"
+    ]
+  },
+  "Author_By_Train_Through_Spain": {
+    "strings": [
+      "\u4e9e\u7f8e\u5229\u54e5\uff0e\u99ac\u5207\u897f"
+    ]
+  },
+  "Author_Call_Me_by_Your_Name": {
+    "strings": [
+      "\u5b89\u5fb7\u5217\uff0e\u827e\u5e2d\u8499"
+    ]
+  },
+  "Author_Carrie": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_Catching_Carps": {
+    "strings": [
+      "\u5948\u5091\u723e\u00b7\u5361\u666e\u59c6"
+    ]
+  },
+  "Author_Catching_Fire": {
+    "strings": [
+      "\u8607\u73ca\uff0e\u67ef\u6797\u65af"
+    ]
+  },
+  "Author_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "\u7f85\u5fb7\uff0e\u9054\u723e"
+    ]
+  },
+  "Author_Circe": {
+    "strings": [
+      "\u746a\u5fb7\u7433\uff0e\u7c73\u52d2"
+    ]
+  },
+  "Author_Coraline": {
+    "strings": [
+      "\u5c3c\u723e\uff0e\u84cb\u66fc"
+    ]
+  },
+  "Author_Crime_and_Punishment": {
+    "strings": [
+      "\u675c\u65af\u59a5\u4e5f\u592b\u65af\u57fa"
+    ]
+  },
+  "Author_Death_Note;Volume_1": {
+    "strings": [
+      "\u5927\u5834\u9d87"
+    ]
+  },
+  "Author_Death_on_the_Nile": {
+    "strings": [
+      "\u963f\u5609\u838e\uff0e\u514b\u8389\u7d72\u8482"
+    ]
+  },
+  "Author_Discovering_the_Greater_Bookston_Region": {
+    "strings": [
+      "\u5f7c\u5f97\uff0e\u65af\u8cd3\u7d0d"
+    ]
+  },
+  "Author_Don_Quixote": {
+    "strings": [
+      "\u585e\u842c\u63d0\u65af"
+    ]
+  },
+  "Author_Dracula": {
+    "strings": [
+      "\u5e03\u62c9\u59c6\uff0e\u65af\u6258\u514b"
+    ]
+  },
+  "Author_Dune": {
+    "strings": [
+      "\u6cd5\u862d\u514b\uff0e\u8d6b\u4f2f\u7279"
+    ]
+  },
+  "Author_Emma": {
+    "strings": [
+      "\u73cd\uff0e\u5967\u65af\u6c40"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "\u827e\u8a31\uff0e\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._2": {
+    "strings": [
+      "\u827e\u8a31\uff0e\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._3": {
+    "strings": [
+      "\u827e\u8a31\uff0e\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._4": {
+    "strings": [
+      "\u827e\u8a31\uff0e\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._5": {
+    "strings": [
+      "\u827e\u8a31\uff0e\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Fern": {
+    "strings": [
+      "\u82ac\u6069\u00b7\u827e\u65af\u5353\u9054"
+    ]
+  },
+  "Author_Finding_Optimism;The_Future_Is_Good": {
+    "strings": [
+      "\u8389\u8389\u5b89\u00b7\u96f7\u8afe"
+    ]
+  },
+  "Author_Fire_&_Blood": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u99ac\u6c40"
+    ]
+  },
+  "Author_Flowers_for_Algernon": {
+    "strings": [
+      "\u4e39\u5c3c\u723e\uff0e\u51f1\u65af"
+    ]
+  },
+  "Author_Frankenstein": {
+    "strings": [
+      "\u746a\u9e97\uff0e\u96ea\u840a"
+    ]
+  },
+  "Author_Full_Dark,_No_Stars": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_Gemology:_A_Study_in_Ruby": {
+    "strings": [
+      "\u827e\u8389\u00b7\u5967\u5e03\u897f\u8fea\u4e9e"
+    ]
+  },
+  "Author_Gone_Girl": {
+    "strings": [
+      "\u5409\u8389\u5b89\u2027\u5f17\u7433"
+    ]
+  },
+  "Author_Good_Night,_Gorilla": {
+    "strings": [
+      "\u4f69\u742a\uff0e\u82ae\u58eb\u66fc"
+    ]
+  },
+  "Author_Good_Omens": {
+    "strings": [
+      "\u5c3c\u723e\uff0e\u84cb\u66fc\u3001\u6cf0\u745e\uff0e\u666e\u840a\u5951"
+    ]
+  },
+  "Author_Great_Expectations": {
+    "strings": [
+      "\u67e5\u723e\u65af\uff0e\u72c4\u66f4\u65af"
+    ]
+  },
+  "Author_Gulliver's_Travels": {
+    "strings": [
+      "\u55ac\u7d0d\u68ee\uff0e\u53f2\u5a01\u592b\u7279"
+    ]
+  },
+  "Author_HTML_1998;An_Introduction": {
+    "strings": [
+      "\u8d6b\u7f85\u00b7\u6c83\u723e\u5fb7\u5229"
+    ]
+  },
+  "Author_Hamlet": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Heidi": {
+    "strings": [
+      "\u7d04\u7ff0\u5a1c\uff0e\u65bd\u76ae\u91cc"
+    ]
+  },
+  "Author_Henry_V": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Henry_VI,_Part_1": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Henry_VI,_Part_3": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "\u74e6\u723e\u00b7\u535a\u7c73\u8036"
+    ]
+  },
+  "Author_Historical_Niche": {
+    "strings": [
+      "\u6cf0\u745e\u00b7\u91c7\u723e\u5c3c\u514b"
+    ]
+  },
+  "Author_Homage_to_Catalonia": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u6b50\u5a01\u723e"
+    ]
+  },
+  "Author_Howl's_Moving_Castle": {
+    "strings": [
+      "\u9edb\u5b89\u5a1c\uff0e\u97cb\u6069\uff0e\u74ca\u65af"
+    ]
+  },
+  "Author_H\u00e9l\u00e8ne": {
+    "strings": [
+      "\u8056\u66f8\u7fc1"
+    ]
+  },
+  "Author_I,_Robot": {
+    "strings": [
+      "\u4ee5\u6492\u30fb\u827e\u897f\u83ab\u592b"
+    ]
+  },
+  "Author_If_Tomorrow_Comes": {
+    "strings": [
+      "\u5e2d\u5c3c\uff0e\u859b\u723e\u9813"
+    ]
+  },
+  "Author_In_Search_Of:;The_Most_Beautiful_Islands_In_the_World": {
+    "strings": [
+      "\u5091\u00b7\u8ce2"
+    ]
+  },
+  "Author_Inferno": {
+    "strings": [
+      "\u4f46\u4e01\uff0e\u963f\u5229\u5409\u8036\u91cc\uff1b\u82f1\u7248\u8b6f\u8005\uff1a\u5b89\u6771\u5c3c\uff0e\u57c3\u7d22\u502b"
+    ]
+  },
+  "Author_Inkheart": {
+    "strings": [
+      "\u67ef\u5948\u8389\u4e9e\uff0e\u99ae\u514b"
+    ]
+  },
+  "Author_Into_the_Sunset:_The_Magical_West": {
+    "strings": [
+      "\u5091\u99ac\u723e\u00b7M\u00b7\u6cd5\u7c73"
+    ]
+  },
+  "Author_It": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_Jane_Eyre": {
+    "strings": [
+      "\u590f\u7da0\u8482\uff0e\u52c3\u6717\u7279"
+    ]
+  },
+  "Author_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "\u5112\u52d2\uff0e\u51e1\u723e\u7d0d"
+    ]
+  },
+  "Author_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "\u5433\u627f\u6069"
+    ]
+  },
+  "Author_Julius_Caesar": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Just_A_Story:_Why_We_Still_Tell_Fairytales": {
+    "strings": [
+      "\u4f0a\u838e\u8c9d\u723e\u00b7\u52a0\u723e\u842c"
+    ]
+  },
+  "Author_Kiki's_Delivery_Service": {
+    "strings": [
+      "\u89d2\u91ce\u69ae\u5b50"
+    ]
+  },
+  "Author_Kitchen_Rules_For_Your_Family_and_You": {
+    "strings": [
+      "\u59c6\u5e03\u74e6\u7d0d\u00b7\u74ca\u65af"
+    ]
+  },
+  "Author_Les_Miserables": {
+    "strings": [
+      "\u7dad\u514b\u591a\uff0e\u96e8\u679c"
+    ]
+  },
+  "Author_Little_Women": {
+    "strings": [
+      "\u9732\u610f\u838e\uff0e\u6885\uff0e\u5967\u723e\u67ef\u7279"
+    ]
+  },
+  "Author_Living_In_Alaska": {
+    "strings": [
+      "\u897f\u5967\u5167\u5fb7\u00b7\u74ca\u65af"
+    ]
+  },
+  "Author_Looking_for_Alaska": {
+    "strings": [
+      "\u7d04\u7ff0\uff0e\u845b\u6797"
+    ]
+  },
+  "Author_Lord_of_the_Flies": {
+    "strings": [
+      "\u5a01\u5ec9\uff0e\u9ad8\u6c40"
+    ]
+  },
+  "Author_Love": {
+    "strings": [
+      "\u6258\u59ae\uff0e\u83ab\u91cc\u68ee"
+    ]
+  },
+  "Author_Macbeth": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Matilda": {
+    "strings": [
+      "\u7f85\u5fb7\uff0e\u9054\u723e"
+    ]
+  },
+  "Author_Medieval_Carpentry": {
+    "strings": [
+      "\u6b50\u5e03\u00b7\u97d3\u5fb7\u68ee"
+    ]
+  },
+  "Author_Mesopotamian_Buildings": {
+    "strings": [
+      "\u827e\u54c8\u9081\u5fb7\u00b7\u66fc\u8607\u723e"
+    ]
+  },
+  "Author_Middlemarch": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u827e\u7565\u7279"
+    ]
+  },
+  "Author_Misery": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_Miss_Peregrine's_Home_for_Peculiar_Children": {
+    "strings": [
+      "\u862d\u68ee\uff0e\u745e\u683c\u65af"
+    ]
+  },
+  "Author_Moby-Dick": {
+    "strings": [
+      "\u8d6b\u66fc\uff0e\u6885\u723e\u7dad\u723e"
+    ]
+  },
+  "Author_Momo;or,_The_Grey_Gentlemen": {
+    "strings": [
+      "\u9ea5\u514b\uff0e\u5b89\u8fea"
+    ]
+  },
+  "Author_Mrs._Dalloway": {
+    "strings": [
+      "\u7dad\u5409\u5c3c\u4e9e\uff0e\u5433\u723e\u8299"
+    ]
+  },
+  "Author_Much_Ado_About_Nothing": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Murder_on_the_Orient_Express": {
+    "strings": [
+      "\u963f\u5609\u838e\uff0e\u514b\u8389\u7d72\u8482"
+    ]
+  },
+  "Author_My_Travels_In_East_Africa": {
+    "strings": [
+      "\u9676\u00b7\u826f\u592a"
+    ]
+  },
+  "Author_Night_Shift": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_Nimona": {
+    "strings": [
+      "\u8afe\u723e\u00b7\u53f2\u8482\u6587\u68ee"
+    ]
+  },
+  "Author_Nineteen_Eighty-Four": {
+    "strings": [
+      "\u55ac\u6cbb\uff0e\u6b50\u5a01\u723e"
+    ]
+  },
+  "Author_Normal_People": {
+    "strings": [
+      "\u838e\u8389\uff0e\u9b6f\u5c3c"
+    ]
+  },
+  "Author_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "\u8056\u66f8\u7fc1"
+    ]
+  },
+  "Author_Orlando": {
+    "strings": [
+      "\u7dad\u5409\u5c3c\u4e9e\uff0e\u5433\u723e\u8299"
+    ]
+  },
+  "Author_Othello": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Persepolis;The_Story_of_a_Childhood": {
+    "strings": [
+      "\u746a\u8d0a\uff0e\u838e\u5854\u7435"
+    ]
+  },
+  "Author_Persuasion": {
+    "strings": [
+      "\u73cd\uff0e\u5967\u65af\u6c40"
+    ]
+  },
+  "Author_Pet_Sematary": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_Physics_1908": {
+    "strings": [
+      "\u80af\u5353\u62c9\u00b7\u79d1\u5167\u5229"
+    ]
+  },
+  "Author_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "C.S. \u8def\u6613\u65af"
+    ]
+  },
+  "Author_Richard_II": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Romeo_and_Juliet": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_Salom\u00e9": {
+    "strings": [
+      "\u5967\u65af\u5361\u30fb\u738b\u723e\u5fb7"
+    ]
+  },
+  "Author_Second_Foundation": {
+    "strings": [
+      "\u4ee5\u6492\u30fb\u827e\u897f\u83ab\u592b"
+    ]
+  },
+  "Author_Sense_and_Sensibility": {
+    "strings": [
+      "\u73cd\uff0e\u5967\u65af\u6c40"
+    ]
+  },
+  "Author_Shirley": {
+    "strings": [
+      "\u590f\u7da0\u8482\uff0e\u52c3\u6717\u7279"
+    ]
+  },
+  "Author_St._Bookston:_The_Myth,_the_Legend,_the_Truth": {
+    "strings": [
+      "H. A. \u5f6d\u5be7\u9813"
+    ]
+  },
+  "Author_Stories_of_Your_Life_and_Others": {
+    "strings": [
+      "\u59dc\u5cef\u6960"
+    ]
+  },
+  "Author_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "\u4e9e\u745f\uff0e\u67ef\u5357\uff0e\u9053\u723e"
+    ]
+  },
+  "Author_The_Bell_Jar": {
+    "strings": [
+      "\u5e0c\u8587\u4e9e\uff0e\u666e\u62c9\u7d72"
+    ]
+  },
+  "Author_The_Bluest_Eye": {
+    "strings": [
+      "\u6258\u59ae\uff0e\u83ab\u91cc\u68ee"
+    ]
+  },
+  "Author_The_Canterbury_Tales": {
+    "strings": [
+      "\u5091\u4f5b\u745e\uff0e\u55ac\u53df"
+    ]
+  },
+  "Author_The_Canterville_Ghost": {
+    "strings": [
+      "\u5967\u65af\u5361\u30fb\u738b\u723e\u5fb7"
+    ]
+  },
+  "Author_The_Color_Purple": {
+    "strings": [
+      "\u611b\u9e97\u7d72\uff0e\u83ef\u514b"
+    ]
+  },
+  "Author_The_Complete_Robot": {
+    "strings": [
+      "\u4ee5\u6492\u30fb\u827e\u897f\u83ab\u592b"
+    ]
+  },
+  "Author_The_Count_of_Monte_Cristo": {
+    "strings": [
+      "\u5927\u4ef2\u99ac"
+    ]
+  },
+  "Author_The_Curious_Incident_of_the_Dog_in_the_Night-Time": {
+    "strings": [
+      "\u99ac\u514b\u2027\u6d77\u767b"
+    ]
+  },
+  "Author_The_Debvoir_Family;A_Success_Story": {
+    "strings": [
+      "\u7518\u8ffa\u8fea\u00b7\u5948\u90a6"
+    ]
+  },
+  "Author_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "\u827e\u5fb7\u683c\uff0e\u611b\u502b\uff0e\u5761"
+    ]
+  },
+  "Author_The_Fault_in_Our_Stars": {
+    "strings": [
+      "\u7d04\u7ff0\uff0e\u845b\u6797"
+    ]
+  },
+  "Author_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "\u6258\u723e\u91d1"
+    ]
+  },
+  "Author_The_Glass_Castle": {
+    "strings": [
+      "\u73cd\u5948\u7279\uff0e\u6c83\u723e\u65af"
+    ]
+  },
+  "Author_The_God_of_Small_Things": {
+    "strings": [
+      "\u963f\u862d\u9054\u8482\uff0e\u6d1b\u4f0a"
+    ]
+  },
+  "Author_The_Great_Gatsby": {
+    "strings": [
+      "\u53f2\u8003\u7279\uff0e\u8cbb\u8332\u5091\u7f85"
+    ]
+  },
+  "Author_The_Green_Mile": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_The_Gunslinger": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_The_Handmaid's_Tale": {
+    "strings": [
+      "\u746a\u683c\u9e97\u7279\uff0e\u611b\u7279\u4f0d"
+    ]
+  },
+  "Author_The_Happy_Prince_and_Other_Tales": {
+    "strings": [
+      "\u5967\u65af\u5361\u30fb\u738b\u723e\u5fb7"
+    ]
+  },
+  "Author_The_Hunger_Games": {
+    "strings": [
+      "\u8607\u73ca\uff0e\u67ef\u6797\u65af"
+    ]
+  },
+  "Author_The_Invisible_Man": {
+    "strings": [
+      "H.G. \u5a01\u723e\u65af"
+    ]
+  },
+  "Author_The_Last_Battle;(Chronicles_of_Narnia)": {
+    "strings": [
+      "C.S. \u8def\u6613\u65af"
+    ]
+  },
+  "Author_The_Lightning_Thief;(Percy_Jackson_#1)": {
+    "strings": [
+      "\u96f7\u514b\uff0e\u840a\u723e\u9813"
+    ]
+  },
+  "Author_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "C.S. \u8def\u6613\u65af"
+    ]
+  },
+  "Author_The_Little_Prince": {
+    "strings": [
+      "\u5b89\u6771\u5c3c\uff0e\u8056\u4fee\u4f2f\u91cc"
+    ]
+  },
+  "Author_The_Lorax": {
+    "strings": [
+      "\u8607\u65af\u535a\u58eb"
+    ]
+  },
+  "Author_The_Lost_Symbol": {
+    "strings": [
+      "\u4e39\uff0e\u5e03\u6717"
+    ]
+  },
+  "Author_The_Love_Hypothesis": {
+    "strings": [
+      "\u963f\u91cc\u00b7\u54c8\u6fa4\u723e\u4f0d\u5fb7"
+    ]
+  },
+  "Author_The_Martian": {
+    "strings": [
+      "\u5b89\u8fea\uff0e\u5a01\u723e"
+    ]
+  },
+  "Author_The_Martian_Chronicles": {
+    "strings": [
+      "\u96f7\uff0e\u5e03\u840a\u4f2f\u5229"
+    ]
+  },
+  "Author_The_Maze_Runner": {
+    "strings": [
+      "\u8a79\u59c6\u58eb\uff0e\u9054\u8a31\u7d0d"
+    ]
+  },
+  "Author_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "\u963f\u5609\u838e\uff0e\u514b\u8389\u7d72\u8482"
+    ]
+  },
+  "Author_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "\u963f\u5609\u838e\uff0e\u514b\u8389\u7d72\u8482"
+    ]
+  },
+  "Author_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "\u963f\u5609\u838e\uff0e\u514b\u8389\u7d72\u8482"
+    ]
+  },
+  "Author_The_Odyssey": {
+    "strings": [
+      "\u8377\u99ac\uff1b\u8b6f\u8005\uff1aKnox & Fagles"
+    ]
+  },
+  "Author_The_Perks_of_Being_a_Wallflower": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u5207\u6ce2\u65af\u57fa"
+    ]
+  },
+  "Author_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "\u5967\u65af\u5361\u30fb\u738b\u723e\u5fb7"
+    ]
+  },
+  "Author_The_Raven": {
+    "strings": [
+      "\u827e\u5fb7\u683c\uff0e\u611b\u502b\uff0e\u5761"
+    ]
+  },
+  "Author_The_Return_of_the_King": {
+    "strings": [
+      "\u6258\u723e\u91d1"
+    ]
+  },
+  "Author_The_Sea_of_Monsters;(Percy_Jackson_#2)": {
+    "strings": [
+      "\u96f7\u514b\uff0e\u840a\u723e\u9813"
+    ]
+  },
+  "Author_The_Secret_Garden": {
+    "strings": [
+      "\u6cd5\u862d\u897f\u7d72\uff0e\u970d\u68ee\uff0e\u67cf\u5167\u7279"
+    ]
+  },
+  "Author_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "H. A. \u5f6d\u5be7\u9813"
+    ]
+  },
+  "Author_The_Shining": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_The_Silence_of_the_Lambs": {
+    "strings": [
+      "\u6e6f\u746a\u58eb\uff0c\u54c8\u7406\u65af"
+    ]
+  },
+  "Author_The_Silent_Patient": {
+    "strings": [
+      "\u827e\u529b\u514b\u65af\uff0e\u9ea5\u53ef\u5229\u8fea\u65af"
+    ]
+  },
+  "Author_The_Silmarillion": {
+    "strings": [
+      "\u6258\u723e\u91d1"
+    ]
+  },
+  "Author_The_Stand": {
+    "strings": [
+      "\u53f2\u8482\u82ac\uff0e\u91d1"
+    ]
+  },
+  "Author_The_Story_of_Doctor_Dolittle": {
+    "strings": [
+      "\u4f11\uff0e\u7f85\u592b\u6c40"
+    ]
+  },
+  "Author_The_Strange_Case_of_Dr._Jekyll_and_Mr._Hyde": {
+    "strings": [
+      "\u7f85\u4f2f\u7279\u30fb\u53f2\u8482\u6587\u751f"
+    ]
+  },
+  "Author_The_Tell-Tale_Heart": {
+    "strings": [
+      "\u827e\u5fb7\u683c\uff0e\u611b\u502b\uff0e\u5761"
+    ]
+  },
+  "Author_The_Tempest": {
+    "strings": [
+      "\u5a01\u5ec9\u30fb\u838e\u58eb\u6bd4\u4e9e"
+    ]
+  },
+  "Author_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "\u99ac\u53ef\uff0e\u6ce2\u7f85"
+    ]
+  },
+  "Author_The_Two_Towers": {
+    "strings": [
+      "\u6258\u723e\u91d1"
+    ]
+  },
+  "Author_The_War_of_the_Worlds": {
+    "strings": [
+      "H.G. \u5a01\u723e\u65af"
+    ]
+  },
+  "Author_The_Yellow_Fairy_Book": {
+    "strings": [
+      "\u5b89\u5fb7\u9b6f\u00b7\u6717\u683c"
+    ]
+  },
+  "Author_To_Kill_a_Mockingbird": {
+    "strings": [
+      "\u54c8\u6ce2\uff0e\u674e"
+    ]
+  },
+  "Author_To_the_Lighthouse": {
+    "strings": [
+      "\u7dad\u5409\u5c3c\u4e9e\uff0e\u5433\u723e\u8299"
+    ]
+  },
+  "Author_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "\u5854\u7c73\u723e\u00b7\u52a0\u65af\u8482"
+    ]
+  },
+  "Author_Traditional_Building_Techniques": {
+    "strings": [
+      "\u6d1b\u54c8\u723e\u00b7\u6bd4\u4ec0\u99ac\u723e"
+    ]
+  },
+  "Author_Treasure_Island": {
+    "strings": [
+      "\u7f85\u4f2f\u7279\u30fb\u53f2\u8482\u6587\u751f"
+    ]
+  },
+  "Author_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "\u5112\u52d2\uff0e\u51e1\u723e\u7d0d"
+    ]
+  },
+  "Author_Watchmen;(Issue_#12)": {
+    "strings": [
+      "\u827e\u502b\u30fb\u6469\u723e"
+    ]
+  },
+  "Author_Where_the_Wild_Things_Are": {
+    "strings": [
+      "\u83ab\u91cc\u65af\u30fb\u6851\u9054\u514b"
+    ]
+  },
+  "Author_Wuthering_Heights": {
+    "strings": [
+      "\u827e\u871c\u8389\uff0e\u52c3\u6717\u7279"
+    ]
+  },
+  "Author_\u300a\u4e00\u628a\u9752\u300b": {
+    "strings": [
+      "\u767d\u5148\u52c7"
+    ]
+  },
+  "Author_\u300a\u4e09\u570b\u6f14\u7fa9\u300b": {
+    "strings": [
+      "\u7f85\u8cab\u4e2d"
+    ]
+  },
+  "Author_\u300a\u4e2d\u56fd\u547d\u7814\u7a76\u300b": {
+    "strings": [
+      "\u674e\u6556"
+    ]
+  },
+  "Author_\u300a\u4e2d\u570b\u6027\u7814\u7a76\u300b": {
+    "strings": [
+      "\u674e\u6556"
+    ]
+  },
+  "Author_\u300a\u4e5d\u5dde\u00b7\u55aa\u4e82\u4e4b\u77b3\u300b": {
+    "strings": [
+      "\u5510\u7f3a"
+    ]
+  },
+  "Author_\u300a\u4e5d\u5dde\u00b7\u7e39\u7df2\u9304\u2160\u300b": {
+    "strings": [
+      "\u6c5f\u5357"
+    ]
+  },
+  "Author_\u300a\u4eba\u751f\u5fc5\u53bb\u7684\u9910\u5ef3\u300b": {
+    "strings": [
+      "\u8521\u703e"
+    ]
+  },
+  "Author_\u300a\u501a\u5929\u5c60\u9f8d\u8a18\u300b": {
+    "strings": [
+      "\u91d1\u5eb8"
+    ]
+  },
+  "Author_\u300a\u516b\u5c3a\u9580\u300b": {
+    "strings": [
+      "\u962e\u7fa9\u5fe0"
+    ]
+  },
+  "Author_\u300a\u516c\u4e3b\u50b3\u5947\u300b": {
+    "strings": [
+      "\u99ac\u7fe0\u863f"
+    ]
+  },
+  "Author_\u300a\u5341\u4e8c\u5802\u7d93\u5178\u79d1\u666e\u8ab2\u300b": {
+    "strings": [
+      "\u5433\u4eac\u5e73 / \u6c6a\u8a70"
+    ]
+  },
+  "Author_\u300a\u53bb\u770b\u4e16\u754c\u7684\u71b1\u9b27\u300b": {
+    "strings": [
+      "\u8521\u703e"
+    ]
+  },
+  "Author_\u300a\u53ef\u80fd\u7684\u4e16\u754c\u300b": {
+    "strings": [
+      "\u694a\u701f"
+    ]
+  },
+  "Author_\u300a\u53f0\u5317\u65c5\u904a\u5168\u653b\u7565\u300b": {
+    "strings": [
+      "\u6881\u654f\u83c1\u548c\u9ec4\u96c5\u4e1d"
+    ]
+  },
+  "Author_\u300a\u56db\u6708\u671b\u96e8\u300b": {
+    "strings": [
+      "\u9127\u96e8\u8ce2"
+    ]
+  },
+  "Author_\u300a\u5728\u5730\uff0e\u9910\u684c\uff0e\u5c0f\u65c5\u884c\u300b": {
+    "strings": [
+      "\u9ec3\u53ef\u8861"
+    ]
+  },
+  "Author_\u300a\u58de\u5c0f\u5b69\u300b": {
+    "strings": [
+      "\u7d2b\u91d1\u9673"
+    ]
+  },
+  "Author_\u300a\u5c0b\u5922\u300b": {
+    "strings": [
+      "\u502a\u5321"
+    ]
+  },
+  "Author_\u300a\u5c16\u6c99\u5480\u6d77\u65c1\u7684\u805a\u6703\u300b": {
+    "strings": [
+      "\u4f55\u7d2b"
+    ]
+  },
+  "Author_\u300a\u5c71\u8c6c\u5c0f\u96bb\u300b": {
+    "strings": [
+      "\u694a\u9686\u5409"
+    ]
+  },
+  "Author_\u300a\u6211\u5011\u8207\u60e1\u7684\u8ddd\u96e2\u300b": {
+    "strings": [
+      "\u5442\u8494\u5a9b"
+    ]
+  },
+  "Author_\u300a\u6211\u548c\u7238\u5abd\u53bb\u65c5\u884c;\u4e16\u754c\u5404\u5730\u65c5\u884c\u8a18\u300b": {
+    "strings": [
+      "\u967d\u5149\u4e09\u91c7"
+    ]
+  },
+  "Author_\u300a\u6211\u6240\u544a\u8a34\u4f60\u95dc\u65bc\u90a3\u5ea7\u5c71\u7684\u4e00\u5207\u300b": {
+    "strings": [
+      "\u5289\u5bb8\u541b"
+    ]
+  },
+  "Author_\u300a\u6211\u7684\u5152\u6b4c\u300b": {
+    "strings": [
+      "\u4f55\u7d2b"
+    ]
+  },
+  "Author_\u300a\u6492\u54c8\u62c9\u7684\u6545\u4e8b\u300b": {
+    "strings": [
+      "\u4e09\u6bdb"
+    ]
+  },
+  "Author_\u300a\u65c5\u4f34\u300b": {
+    "strings": [
+      "\u7cb2\u7136"
+    ]
+  },
+  "Author_\u300a\u661f\u6708\u7ae5\u8a71\u300b": {
+    "strings": [
+      "\u99ac\u7fe0\u863f"
+    ]
+  },
+  "Author_\u300a\u694a\u7d05\u6afb\u7b11\u8c93\u65e5\u8a18\u300b": {
+    "strings": [
+      "\u694a\u7d05\u6afb"
+    ]
+  },
+  "Author_\u300a\u6a6b\u65b7\u81fa\u7063;\u8ffd\u5c0b\u81fa\u7063\u9ad8\u5c71\u690d\u7269\u5730\u7406\u8d77\u6e90\u300b": {
+    "strings": [
+      "\u6e38\u65e8\u4ef7"
+    ]
+  },
+  "Author_\u300a\u6ab8\u6aac\u8776\u300b": {
+    "strings": [
+      "\u66f9\u6587\u8ed2 \u8457 / [\u5df4\u897f]\u7f85\u5091\u00b7\u7c73\u7f85 \u7e6a"
+    ]
+  },
+  "Author_\u300a\u6b77\u53f2\u8207\u4eba\u50cf\u300b": {
+    "strings": [
+      "\u674e\u6556"
+    ]
+  },
+  "Author_\u300a\u6c92\u6709\u516c\u5f0f\u7684\u7269\u7406\u8ab2\u300b": {
+    "strings": [
+      "\u5468\u9cf3\u7965"
+    ]
+  },
+  "Author_\u300a\u6d3b\u8457\u300b": {
+    "strings": [
+      "\u4f59\u83ef"
+    ]
+  },
+  "Author_\u300a\u718a\u5bf6\u904a\u53f0\u7063\u300b": {
+    "strings": [
+      "\u5433\u5728\u5a96"
+    ]
+  },
+  "Author_\u300a\u7261\u4e39\u4ead\u300b": {
+    "strings": [
+      "\u6e6f\u986f\u7956"
+    ]
+  },
+  "Author_\u300a\u767d\u9e7f\u539f\u300b": {
+    "strings": [
+      "\u9673\u5fe0\u5be6"
+    ]
+  },
+  "Author_\u300a\u7b2c\u4e00\u6b21\u73a9\u9999\u6e2f\u5c31\u4e0a\u624b\u300b": {
+    "strings": [
+      "\u4f55\u5fd7\u52c7"
+    ]
+  },
+  "Author_\u300a\u7d05\u6a13\u5922\u300b": {
+    "strings": [
+      "\u66f9\u96ea\u82b9"
+    ]
+  },
+  "Author_\u300a\u7d66\u5b69\u5b50\u768412\u5802\u8a69\u6b4c\u8ab2\u300b": {
+    "strings": [
+      "\u6a39\u624d"
+    ]
+  },
+  "Author_\u300a\u7da0\u85fb\u8207\u9e79\u86cb\u300b": {
+    "strings": [
+      "\u6797\u6d77\u97f3"
+    ]
+  },
+  "Author_\u300a\u81ea\u5728\u53f0\u7063\u300b": {
+    "strings": [
+      "\u9673\u658c\u83ef"
+    ]
+  },
+  "Author_\u300a\u81fa\u7063\u7de9\u6162\u5fae\u65c5\u884c\u300b": {
+    "strings": [
+      "\u6797\u4f69\u541b"
+    ]
+  },
+  "Author_\u300a\u83ef\u71c8\u521d\u4e0a\u300b": {
+    "strings": [
+      "\u675c\u653f\u54f2"
+    ]
+  },
+  "Author_\u300a\u8521\u703e\u65c5\u884c\u98df\u8a18\u300b": {
+    "strings": [
+      "\u8521\u703e"
+    ]
+  },
+  "Author_\u300a\u85cd\u8840\u4eba\u300b": {
+    "strings": [
+      "\u502a\u5321"
+    ]
+  },
+  "Author_\u300a\u897f\u5ec2\u8a18\u300b": {
+    "strings": [
+      "\u738b\u5be6\u752b"
+    ]
+  },
+  "Author_\u300a\u9577\u591c\u96e3\u660e\u300b": {
+    "strings": [
+      "\u7d2b\u91d1\u9673"
+    ]
+  },
+  "Author_\u300a\u9577\u5b89\u5341\u4e8c\u6642\u8fb0\u300b": {
+    "strings": [
+      "\u99ac\u4f2f\u5eb8"
+    ]
+  },
+  "Author_\u300a\u96f7\u96e8\u300b": {
+    "strings": [
+      "\u66f9\u79ba"
+    ]
+  },
+  "Book_Attribute_Academic": {
+    "strings": [
+      "^\u5b78\u8853"
+    ]
+  },
+  "Book_Attribute_Age-Rating-Mature": {
+    "strings": [
+      "^\u6210\u4eba\u5411"
+    ]
+  },
+  "Book_Attribute_Animals": {
+    "strings": [
+      "^\u52d5\u7269"
+    ]
+  },
+  "Book_Attribute_Biography": {
+    "strings": [
+      "^\u50b3\u8a18"
+    ]
+  },
+  "Book_Attribute_Classic": {
+    "strings": [
+      "^\u7d93\u5178"
+    ]
+  },
+  "Book_Attribute_Combiner": {
+    "strings": [
+      "\u3001"
+    ]
+  },
+  "Book_Attribute_Coming-of-Age": {
+    "strings": [
+      "^\u6210\u9577"
+    ]
+  },
+  "Book_Attribute_Contemporary": {
+    "strings": [
+      "^\u7576\u4ee3"
+    ]
+  },
+  "Book_Attribute_Cooking": {
+    "strings": [
+      "^\u70f9\u98ea"
+    ]
+  },
+  "Book_Attribute_Crime": {
+    "strings": [
+      "^\u72af\u7f6a"
+    ]
+  },
+  "Book_Attribute_Detective": {
+    "strings": [
+      "^\u5075\u63a2"
+    ]
+  },
+  "Book_Attribute_Drama": {
+    "strings": [
+      "^\u6232\u5287"
+    ]
+  },
+  "Book_Attribute_Dry": {
+    "strings": [
+      "^\u67af\u71e5"
+    ]
+  },
+  "Book_Attribute_Dystopia": {
+    "strings": [
+      "^\u53cd\u70cf\u6258\u90a6"
+    ]
+  },
+  "Book_Attribute_Encyclopedic": {
+    "strings": [
+      "^\u767e\u79d1\u5168\u66f8"
+    ]
+  },
+  "Book_Attribute_Epic": {
+    "strings": [
+      "^\u53f2\u8a69"
+    ]
+  },
+  "Book_Attribute_Fact": {
+    "strings": [
+      "^\u77e5\u8b58"
+    ]
+  },
+  "Book_Attribute_Fantasy": {
+    "strings": [
+      "^\u5947\u5e7b"
+    ]
+  },
+  "Book_Attribute_Female-Author": {
+    "strings": [
+      "^\u5973\u6027\u4f5c\u5bb6"
+    ]
+  },
+  "Book_Attribute_Fiction": {
+    "strings": [
+      "^\u865b\u69cb"
+    ]
+  },
+  "Book_Attribute_Folklore": {
+    "strings": [
+      "^\u6c11\u9593\u50b3\u8aaa"
+    ]
+  },
+  "Book_Attribute_Gore": {
+    "strings": [
+      "^\u8840\u8165\u66b4\u529b"
+    ]
+  },
+  "Book_Attribute_Graphic-Novel": {
+    "strings": [
+      "^\u5716\u50cf\u5c0f\u8aaa"
+    ]
+  },
+  "Book_Attribute_Happy-Ending": {
+    "strings": [
+      "^\u5feb\u6a02\u7d50\u5c40"
+    ]
+  },
+  "Book_Attribute_Historic": {
+    "strings": [
+      "^\u6b77\u53f2"
+    ]
+  },
+  "Book_Attribute_Horror": {
+    "strings": [
+      "^\u6050\u6016"
+    ]
+  },
+  "Book_Attribute_Humour": {
+    "strings": [
+      "^\u5e7d\u9ed8"
+    ]
+  },
+  "Book_Attribute_Kids": {
+    "strings": [
+      "^\u5152\u7ae5"
+    ]
+  },
+  "Book_Attribute_Lifestyle": {
+    "strings": [
+      "^\u751f\u6d3b\u98a8\u683c"
+    ]
+  },
+  "Book_Attribute_Light-Reading": {
+    "strings": [
+      "^\u8f15\u95b1\u8b80"
+    ]
+  },
+  "Book_Attribute_Long": {
+    "strings": [
+      "^\u9577\u7bc7"
+    ]
+  },
+  "Book_Attribute_Magic": {
+    "strings": [
+      "^\u9b54\u6cd5"
+    ]
+  },
+  "Book_Attribute_Manga": {
+    "strings": [
+      "^\u6f2b\u756b"
+    ]
+  },
+  "Book_Attribute_Mystery": {
+    "strings": [
+      "^\u61f8\u7591"
+    ]
+  },
+  "Book_Attribute_Nature": {
+    "strings": [
+      "^\u81ea\u7136"
+    ]
+  },
+  "Book_Attribute_Niche": {
+    "strings": [
+      "^\u5c0f\u773e"
+    ]
+  },
+  "Book_Attribute_Non-Fiction": {
+    "strings": [
+      "^\u7d00\u5be6"
+    ]
+  },
+  "Book_Attribute_Novel": {
+    "strings": [
+      "^\u5c0f\u8aaa"
+    ]
+  },
+  "Book_Attribute_Outdated": {
+    "strings": [
+      "^\u8001\u820a"
+    ]
+  },
+  "Book_Attribute_Philosophical": {
+    "strings": [
+      "^\u54f2\u5b78"
+    ]
+  },
+  "Book_Attribute_Play": {
+    "strings": [
+      "^\u5287\u672c"
+    ]
+  },
+  "Book_Attribute_Plot-Twist": {
+    "strings": [
+      "^\u5287\u60c5\u53cd\u8f49"
+    ]
+  },
+  "Book_Attribute_Poetry": {
+    "strings": [
+      "^\u8a69\u6b4c"
+    ]
+  },
+  "Book_Attribute_Political": {
+    "strings": [
+      "^\u653f\u6cbb"
+    ]
+  },
+  "Book_Attribute_Pop-Science": {
+    "strings": [
+      "^\u79d1\u666e"
+    ]
+  },
+  "Book_Attribute_Queer": {
+    "strings": [
+      "^\u9177\u5152"
+    ]
+  },
+  "Book_Attribute_Romance": {
+    "strings": [
+      "^\u6d6a\u6f2b"
+    ]
+  },
+  "Book_Attribute_Science-Fiction": {
+    "strings": [
+      "^\u79d1\u5e7b"
+    ]
+  },
+  "Book_Attribute_Self-Help": {
+    "strings": [
+      "^\u52f5\u5fd7"
+    ]
+  },
+  "Book_Attribute_Self-Printed": {
+    "strings": [
+      "\u81ea\u884c\u5370\u5237"
+    ]
+  },
+  "Book_Attribute_Series": {
+    "strings": [
+      "^\u7cfb\u5217\u4f5c"
+    ]
+  },
+  "Book_Attribute_Short": {
+    "strings": [
+      "^\u77ed\u7bc7"
+    ]
+  },
+  "Book_Attribute_Space": {
+    "strings": [
+      "^\u592a\u7a7a"
+    ]
+  },
+  "Book_Attribute_Thriller": {
+    "strings": [
+      "^\u9a5a\u609a"
+    ]
+  },
+  "Book_Attribute_Tragic": {
+    "strings": [
+      "^\u60b2\u5287"
+    ]
+  },
+  "Book_Attribute_Travel": {
+    "strings": [
+      "^\u65c5\u904a"
+    ]
+  },
+  "Book_Attribute_Travel-Guide": {
+    "strings": [
+      "^\u65c5\u904a\u6307\u5357"
+    ]
+  },
+  "Book_Attribute_Very-Long": {
+    "strings": [
+      "^\u8d85\u9577\u7bc7"
+    ]
+  },
+  "Book_Attribute_Whodunnit": {
+    "strings": [
+      "^\u672c\u683c\u63a8\u7406"
+    ]
+  },
+  "Book_Attribute_YA": {
+    "strings": [
+      "^\u9752\u5c11\u5e74"
+    ]
+  },
+  "Title_A_Clash_of_Kings": {
+    "strings": [
+      "\u300a\u51b0\u8207\u706b\u4e4b\u6b4c\u7b2c\u4e8c\u90e8\uff1a\u70fd\u706b\u5371\u57ce\u300b"
+    ]
+  },
+  "Title_A_Collection_of_Poems": {
+    "strings": [
+      "\u300a\u8a69\u96c6\u7cbe\u9078\u300b"
+    ]
+  },
+  "Title_A_Dance_With_Dragons": {
+    "strings": [
+      "\u300a\u51b0\u8207\u706b\u4e4b\u6b4c\u7b2c\u4e94\u90e8\uff1a\u8207\u9f8d\u5171\u821e\u300b"
+    ]
+  },
+  "Title_A_Feast_for_Crows": {
+    "strings": [
+      "\u300a\u51b0\u8207\u706b\u4e4b\u6b4c\u7b2c\u56db\u90e8\uff1a\u7fa4\u9d09\u76db\u5bb4\u300b"
+    ]
+  },
+  "Title_A_Fire_Upon_the_Deep": {
+    "strings": [
+      "\u300a\u6df1\u6df5\u4e0a\u7684\u706b\u300b"
+    ]
+  },
+  "Title_A_Game_of_Thrones": {
+    "strings": [
+      "\u300a\u51b0\u8207\u706b\u4e4b\u6b4c\u7b2c\u4e00\u90e8\uff1a\u6b0a\u529b\u904a\u6232\u300b"
+    ]
+  },
+  "Title_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "\u300a\u4ef2\u590f\u591c\u4e4b\u5922\u300b"
+    ]
+  },
+  "Title_A_Senseless_Power": {
+    "strings": [
+      "\u300a\u7121\u8b02\u7684\u529b\u91cf\u300b"
+    ]
+  },
+  "Title_A_Short_History_of_Nearly_Everything": {
+    "strings": [
+      "\u300a\u842c\u7269\u7c21\u53f2\u300b"
+    ]
+  },
+  "Title_A_Storm_of_Swords": {
+    "strings": [
+      "\u300a\u51b0\u8207\u706b\u4e4b\u6b4c\u7b2c\u4e09\u90e8\uff1a\u528d\u5203\u98a8\u66b4\u300b"
+    ]
+  },
+  "Title_A_Study_in_Scarlet": {
+    "strings": [
+      "\u300a\u8840\u5b57\u7684\u7814\u7a76\u300b"
+    ]
+  },
+  "Title_A_Wrinkle_in_Time": {
+    "strings": [
+      "\u300a\u6642\u9593\u7684\u76ba\u647a\u300b"
+    ]
+  },
+  "Title_Adventures_of_A_Wild_Child": {
+    "strings": [
+      "\u300a\u91ce\u5b69\u5b50\u6b77\u96aa\u8a18\u300b"
+    ]
+  },
+  "Title_After_the_Funeral": {
+    "strings": [
+      "\u300a\u846c\u79ae\u8b8a\u594f\u66f2\u300b"
+    ]
+  },
+  "Title_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "\u300a\u611b\u9e97\u7d72\u5922\u904a\u4ed9\u5883\u300b"
+    ]
+  },
+  "Title_All's_Well_That_Ends_Well": {
+    "strings": [
+      "\u300a\u7d42\u6210\u7737\u5c6c\u300b"
+    ]
+  },
+  "Title_American_Psycho": {
+    "strings": [
+      "\u300a\u7f8e\u570b\u6bba\u4eba\u9b54\u300b"
+    ]
+  },
+  "Title_An_Explorer's_Guide_to_Georgetown": {
+    "strings": [
+      "\u300a\u55ac\u6cbb\u6566\u63a2\u96aa\u6307\u5357\u300b"
+    ]
+  },
+  "Title_Angels_&_Demons": {
+    "strings": [
+      "\u300a\u5929\u4f7f\u8207\u9b54\u9b3c\u300b"
+    ]
+  },
+  "Title_Animal_Farm": {
+    "strings": [
+      "\u300a\u52d5\u7269\u8fb2\u838a\u300b"
+    ]
+  },
+  "Title_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "\u300a\u74b0\u904a\u4e16\u754c\u516b\u5341\u5929\u300b"
+    ]
+  },
+  "Title_Artemis_Fowl": {
+    "strings": [
+      "\u300a\u963f\u63d0\u7c73\u65af\u300b"
+    ]
+  },
+  "Title_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "\u300a\u9032\u64ca\u7684\u5de8\u4eba1\u300b"
+    ]
+  },
+  "Title_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "\u300a\u5728\u5496\u5561\u51b7\u6389\u4e4b\u524d\u300b"
+    ]
+  },
+  "Title_Beowulf": {
+    "strings": [
+      "\u300a\u8c9d\u6b66\u592b\u300b"
+    ]
+  },
+  "Title_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "\u300a\u7cbe\u9748\u8840\u300b\uff08\u300a\u7375\u9b54\u58eb\u300b\uff09"
+    ]
+  },
+  "Title_By_Train_Through_Spain": {
+    "strings": [
+      "\u300a\u897f\u73ed\u7259\u706b\u8eca\u904a\u8a18\u300b"
+    ]
+  },
+  "Title_Call_Me_by_Your_Name": {
+    "strings": [
+      "\u300a\u4ee5\u4f60\u7684\u540d\u5b57\u547c\u559a\u6211\u300b"
+    ]
+  },
+  "Title_Carrie": {
+    "strings": [
+      "\u300a\u9b54\u5973\u5609\u8389\u300b"
+    ]
+  },
+  "Title_Catching_Carps": {
+    "strings": [
+      "\u300a\u6355\u9bc9\u8a18\u300b"
+    ]
+  },
+  "Title_Catching_Fire": {
+    "strings": [
+      "\u300a\u661f\u706b\u71ce\u539f\u300b"
+    ]
+  },
+  "Title_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "\u300a\u5de7\u514b\u529b\u5192\u96aa\u5de5\u5ee0\u300b"
+    ]
+  },
+  "Title_Circe": {
+    "strings": [
+      "\u300a\u5973\u5deb\u745f\u897f\u300b"
+    ]
+  },
+  "Title_Coraline": {
+    "strings": [
+      "\u300a\u7b2c\u5341\u56db\u9053\u9580\u300b"
+    ]
+  },
+  "Title_Crime_and_Punishment": {
+    "strings": [
+      "\u300a\u7f6a\u8207\u7f70\u300b"
+    ]
+  },
+  "Title_Death_Note;Volume_1": {
+    "strings": [
+      "\u300a\u6b7b\u4ea1\u7b46\u8a18\u672c1\u300b"
+    ]
+  },
+  "Title_Death_on_the_Nile": {
+    "strings": [
+      "\u300a\u5c3c\u7f85\u6cb3\u8b00\u6bba\u6848\u300b"
+    ]
+  },
+  "Title_Discovering_the_Greater_Bookston_Region": {
+    "strings": [
+      "\u300a\u5927\u66f8\u6d77\u90e1\u63a2\u79d8\u300b"
+    ]
+  },
+  "Title_Don_Quixote": {
+    "strings": [
+      "\u300a\u5510\u5409\u8a36\u5fb7\u300b"
+    ]
+  },
+  "Title_Dracula": {
+    "strings": [
+      "\u300a\u5438\u8840\u9b3c\u4f2f\u7235\u5fb7\u53e4\u62c9\u300b"
+    ]
+  },
+  "Title_Dune": {
+    "strings": [
+      "\u300a\u6c99\u4e18\u300b"
+    ]
+  },
+  "Title_Emma": {
+    "strings": [
+      "\u300a\u611b\u746a\u300b"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "\u300a\u66f8\u6d77\u767e\u79d1\u300b\u7b2c 1 \u5377"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._2": {
+    "strings": [
+      "\u300a\u66f8\u6d77\u767e\u79d1\u300b\u7b2c 2 \u5377"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._3": {
+    "strings": [
+      "\u300a\u66f8\u6d77\u767e\u79d1\u300b\u7b2c 3 \u5377"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._4": {
+    "strings": [
+      "\u300a\u66f8\u6d77\u767e\u79d1\u300b\u7b2c 4 \u5377"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._5": {
+    "strings": [
+      "\u300a\u66f8\u6d77\u767e\u79d1\u300b\u7b2c 5 \u5377"
+    ]
+  },
+  "Title_Finding_Optimism;The_Future_Is_Good": {
+    "strings": [
+      "\u300a\u8ffd\u5c0b\u6a02\u89c0\u4e4b\u9014\uff1a\u524d\u8def\u7f8e\u597d\u300b"
+    ]
+  },
+  "Title_Fire_&_Blood": {
+    "strings": [
+      "\u300a\u51b0\u8207\u706b\u4e4b\u6b4c\u524d\u50b3\uff1a\u8840\u706b\u540c\u6e90\u300b"
+    ]
+  },
+  "Title_Flowers_for_Algernon": {
+    "strings": [
+      "\u300a\u737b\u7d66\u963f\u723e\u5409\u5102\u7684\u82b1\u675f\u300b"
+    ]
+  },
+  "Title_Frankenstein": {
+    "strings": [
+      "\u300a\u79d1\u5b78\u602a\u4eba\u300b"
+    ]
+  },
+  "Title_Full_Dark,_No_Stars": {
+    "strings": [
+      "\u300a\u6697\u591c\u7121\u661f\u300b"
+    ]
+  },
+  "Title_Gemology:_A_Study_in_Ruby": {
+    "strings": [
+      "\u300a\u5bf6\u77f3\u5b78\uff1a\u7d05\u5bf6\u77f3\u7814\u7a76\u300b"
+    ]
+  },
+  "Title_Gone_Girl": {
+    "strings": [
+      "\u300a\u63a7\u5236\u300b"
+    ]
+  },
+  "Title_Good_Night,_Gorilla": {
+    "strings": [
+      "\u300a\u665a\u5b89\uff0c\u7329\u7329\u300b"
+    ]
+  },
+  "Title_Good_Omens": {
+    "strings": [
+      "\u300a\u597d\u9810\u5146\u300b"
+    ]
+  },
+  "Title_Great_Expectations": {
+    "strings": [
+      "\u300a\u9060\u5927\u524d\u7a0b\u300b"
+    ]
+  },
+  "Title_Gulliver's_Travels": {
+    "strings": [
+      "\u300a\u683c\u5217\u4f5b\u904a\u8a18\u300b"
+    ]
+  },
+  "Title_HTML_1998;An_Introduction": {
+    "strings": [
+      "\u300aHTML 1998\uff1a\u5165\u9580\u6307\u5357\u300b"
+    ]
+  },
+  "Title_Hamlet": {
+    "strings": [
+      "\u300a\u54c8\u59c6\u96f7\u7279\u300b"
+    ]
+  },
+  "Title_Heidi": {
+    "strings": [
+      "\u300a\u6d77\u8482\u300b"
+    ]
+  },
+  "Title_Henry_V": {
+    "strings": [
+      "\u300a\u4ea8\u5229\u4e94\u4e16\u300b"
+    ]
+  },
+  "Title_Henry_VI,_Part_1": {
+    "strings": [
+      "\u300a\u4ea8\u5229\u516d\u4e16\u7b2c\u4e00\u90e8\u300b"
+    ]
+  },
+  "Title_Henry_VI,_Part_3": {
+    "strings": [
+      "\u300a\u4ea8\u5229\u516d\u4e16\u7b2c\u4e09\u90e8\u300b"
+    ]
+  },
+  "Title_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "\u300a\u66f8\u6d77\u7063\u5065\u884c\u8def\u7dda\u5716\u300b"
+    ]
+  },
+  "Title_Historical_Niche": {
+    "strings": [
+      "\u300a\u5c0f\u773e\u6b77\u53f2\u300b"
+    ]
+  },
+  "Title_Homage_to_Catalonia": {
+    "strings": [
+      "\u300a\u5411\u52a0\u6cf0\u9686\u5c3c\u4e9e\u81f4\u656c\u300b"
+    ]
+  },
+  "Title_Howl's_Moving_Castle": {
+    "strings": [
+      "\u300a\u970d\u723e\u7684\u79fb\u52d5\u57ce\u5821\u300b"
+    ]
+  },
+  "Title_H\u00e9l\u00e8ne": {
+    "strings": [
+      "\u300a\u6d77\u84ee\u300b"
+    ]
+  },
+  "Title_I,_Robot": {
+    "strings": [
+      "\u300a\u6211\uff0c\u6a5f\u5668\u4eba\u300b"
+    ]
+  },
+  "Title_If_Tomorrow_Comes": {
+    "strings": [
+      "\u300a\u5982\u679c\u9084\u6709\u660e\u5929\u300b"
+    ]
+  },
+  "Title_In_Search_Of:;The_Most_Beautiful_Islands_In_the_World": {
+    "strings": [
+      "\u300a\u5c0b\u627e\u4e16\u4e0a\u6700\u7f8e\u7684\u5cf6\u5dbc\u300b"
+    ]
+  },
+  "Title_Inferno": {
+    "strings": [
+      "\u300a\u5730\u7344\u300b"
+    ]
+  },
+  "Title_Inkheart": {
+    "strings": [
+      "\u300a\u58a8\u6c34\u5fc3\u300b"
+    ]
+  },
+  "Title_Into_the_Sunset:_The_Magical_West": {
+    "strings": [
+      "\u300a\u843d\u65e5\u4e4b\u65c5\uff1a\u9b54\u5e7b\u897f\u90e8\u300b"
+    ]
+  },
+  "Title_It": {
+    "strings": [
+      "\u300a\u7260\u300b"
+    ]
+  },
+  "Title_Jane_Eyre": {
+    "strings": [
+      "\u300a\u7c21\u611b\u300b"
+    ]
+  },
+  "Title_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "\u300a\u5730\u5fc3\u5192\u96aa\u8a18\u300b"
+    ]
+  },
+  "Title_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "\u300a\u897f\u904a\u8a18\u300b"
+    ]
+  },
+  "Title_Julius_Caesar": {
+    "strings": [
+      "\u300a\u51f1\u6492\u5927\u5e1d\u300b"
+    ]
+  },
+  "Title_Just_A_Story:_Why_We_Still_Tell_Fairytales": {
+    "strings": [
+      "\u300a\u7ae5\u8a71\u6545\u4e8b\uff1a\u70ba\u4f55\u6211\u5011\u4ecd\u7136\u50b3\u980c\u300b"
+    ]
+  },
+  "Title_Kiki's_Delivery_Service": {
+    "strings": [
+      "\u300a\u9b54\u5973\u5b85\u6025\u4fbf\u300b"
+    ]
+  },
+  "Title_Kitchen_Rules_For_Your_Family_and_You": {
+    "strings": [
+      "\u300a\u5bb6\u5ead\u8207\u4f60\u7684\u5eda\u623f\u5b88\u5247\u300b"
+    ]
+  },
+  "Title_Les_Miserables": {
+    "strings": [
+      "\u300a\u60b2\u6158\u4e16\u754c\u300b"
+    ]
+  },
+  "Title_Little_Women": {
+    "strings": [
+      "\u300a\u5c0f\u5a66\u4eba\u300b"
+    ]
+  },
+  "Title_Living_In_Alaska": {
+    "strings": [
+      "\u300a\u963f\u62c9\u65af\u52a0\u751f\u6d3b\u8a8c\u300b"
+    ]
+  },
+  "Title_Looking_for_Alaska": {
+    "strings": [
+      "\u300a\u5c0b\u627e\u963f\u62c9\u65af\u52a0\u300b"
+    ]
+  },
+  "Title_Lord_of_the_Flies": {
+    "strings": [
+      "\u300a\u84bc\u8805\u738b\u300b"
+    ]
+  },
+  "Title_Love": {
+    "strings": [
+      "\u300a\u611b\u300b"
+    ]
+  },
+  "Title_Macbeth": {
+    "strings": [
+      "\u300a\u99ac\u514b\u767d\u300b"
+    ]
+  },
+  "Title_Matilda": {
+    "strings": [
+      "\u300a\u746a\u8482\u9054\u300b"
+    ]
+  },
+  "Title_Medieval_Carpentry": {
+    "strings": [
+      "\u300a\u4e2d\u4e16\u7d00\u6728\u5de5\u85dd\u8853\u300b"
+    ]
+  },
+  "Title_Mesopotamian_Buildings": {
+    "strings": [
+      "\u300a\u7f8e\u7d22\u4e0d\u9054\u7c73\u4e9e\u5efa\u7bc9\u4e4b\u8b0e\u300b"
+    ]
+  },
+  "Title_Middlemarch": {
+    "strings": [
+      "\u300a\u7c73\u5fb7\u93ae\u7684\u6625\u5929\u300b"
+    ]
+  },
+  "Title_Misery": {
+    "strings": [
+      "\u300a\u6230\u6144\u904a\u6232\u300b"
+    ]
+  },
+  "Title_Miss_Peregrine's_Home_for_Peculiar_Children": {
+    "strings": [
+      "\u300a\u602a\u5947\u5b64\u5152\u9662\u300b"
+    ]
+  },
+  "Title_Moby-Dick": {
+    "strings": [
+      "\u300a\u767d\u9be8\u8a18\u300b"
+    ]
+  },
+  "Title_Momo;or,_The_Grey_Gentlemen": {
+    "strings": [
+      "\u300a\u9ed8\u9ed8\u300b"
+    ]
+  },
+  "Title_Mrs._Dalloway": {
+    "strings": [
+      "\u300a\u6234\u6d1b\u7dad\u592b\u4eba\u300b"
+    ]
+  },
+  "Title_Much_Ado_About_Nothing": {
+    "strings": [
+      "\u300a\u7121\u4e8b\u751f\u975e\u300b"
+    ]
+  },
+  "Title_Murder_on_the_Orient_Express": {
+    "strings": [
+      "\u300a\u6771\u65b9\u5feb\u8eca\u8b00\u6bba\u6848\u300b"
+    ]
+  },
+  "Title_My_Travels_In_East_Africa": {
+    "strings": [
+      "\u300a\u6771\u975e\u884c\u65c5\u9304\u300b"
+    ]
+  },
+  "Title_Night_Shift": {
+    "strings": [
+      "\u300a\u6709\u6642\u5019\uff0c\u4ed6\u5011\u6703\u56de\u4f86\u300b"
+    ]
+  },
+  "Title_Nimona": {
+    "strings": [
+      "\u300a\u602a\u7269\u5c11\u5973\u59ae\u83ab\u5a1c\u300b"
+    ]
+  },
+  "Title_Nineteen_Eighty-Four": {
+    "strings": [
+      "\u300a\u4e00\u4e5d\u516b\u56db\u300b"
+    ]
+  },
+  "Title_Normal_People": {
+    "strings": [
+      "\u300a\u6b63\u5e38\u4eba\u300b"
+    ]
+  },
+  "Title_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "\u300a\u66f8\u6d77\u93ae\u81ea\u7136\u690d\u7269\u5716\u9451\u300b"
+    ]
+  },
+  "Title_Orlando": {
+    "strings": [
+      "\u300a\u6b50\u862d\u591a\u300b"
+    ]
+  },
+  "Title_Othello": {
+    "strings": [
+      "\u300a\u5967\u8cfd\u7f85\u300b"
+    ]
+  },
+  "Title_Persepolis;The_Story_of_a_Childhood": {
+    "strings": [
+      "\u300a\u8309\u8389\u4eba\u751f\u300b"
+    ]
+  },
+  "Title_Persuasion": {
+    "strings": [
+      "\u300a\u52f8\u5c0e\u300b"
+    ]
+  },
+  "Title_Pet_Sematary": {
+    "strings": [
+      "\u300a\u5bf5\u7269\u58b3\u5834\u300b"
+    ]
+  },
+  "Title_Physics_1908": {
+    "strings": [
+      "\u300a1908\u5e74\u7684\u7269\u7406\u5b78\u300b"
+    ]
+  },
+  "Title_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "\u300a\u8cc8\u601d\u6f58\u738b\u5b50\u300b\uff08\u300a\u7d0d\u5c3c\u4e9e\u50b3\u5947\u300b\uff09"
+    ]
+  },
+  "Title_Richard_II": {
+    "strings": [
+      "\u300a\u7406\u67e5\u4e8c\u4e16\u300b"
+    ]
+  },
+  "Title_Romeo_and_Juliet": {
+    "strings": [
+      "\u300a\u7f85\u5bc6\u6b50\u8207\u8331\u9e97\u8449\u300b"
+    ]
+  },
+  "Title_Salom\u00e9": {
+    "strings": [
+      "\u300a\u838e\u6a02\u7f8e\u300b"
+    ]
+  },
+  "Title_Second_Foundation": {
+    "strings": [
+      "\u300a\u7b2c\u4e8c\u57fa\u5730\u300b"
+    ]
+  },
+  "Title_Sense_and_Sensibility": {
+    "strings": [
+      "\u300a\u7406\u6027\u8207\u611f\u6027\u300b"
+    ]
+  },
+  "Title_Shirley": {
+    "strings": [
+      "\u300a\u96ea\u8389\u300b"
+    ]
+  },
+  "Title_St._Bookston:_The_Myth,_the_Legend,_the_Truth": {
+    "strings": [
+      "\u300a\u66f8\u6d77\u93ae\uff1a\u795e\u8a71\u3001\u50b3\u8aaa\u8207\u771f\u76f8\u300b"
+    ]
+  },
+  "Title_Stories_of_Your_Life_and_Others": {
+    "strings": [
+      "\u300a\u59b3\u4e00\u751f\u7684\u9810\u8a00\u300b"
+    ]
+  },
+  "Title_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "\u300a\u798f\u723e\u6469\u65af\u5192\u96aa\u53f2\u300b"
+    ]
+  },
+  "Title_The_Bell_Jar": {
+    "strings": [
+      "\u300a\u9418\u5f62\u7f69\u300b"
+    ]
+  },
+  "Title_The_Bluest_Eye": {
+    "strings": [
+      "\u300a\u6700\u85cd\u7684\u773c\u775b\u300b"
+    ]
+  },
+  "Title_The_Canterbury_Tales": {
+    "strings": [
+      "\u300a\u574e\u7279\u4f2f\u96f7\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_The_Canterville_Ghost": {
+    "strings": [
+      "\u300a\u8001\u9b3c\u7576\u5bb6\u300b"
+    ]
+  },
+  "Title_The_Color_Purple": {
+    "strings": [
+      "\u300a\u7d2b\u8272\u59ca\u59b9\u82b1\u300b"
+    ]
+  },
+  "Title_The_Complete_Robot": {
+    "strings": [
+      "\u300a\u827e\u897f\u83ab\u592b\u6a5f\u5668\u4eba\u6545\u4e8b\u5168\u96c6\u300b"
+    ]
+  },
+  "Title_The_Count_of_Monte_Cristo": {
+    "strings": [
+      "\u300a\u57fa\u7763\u5c71\u6069\u4ec7\u8a18\u300b"
+    ]
+  },
+  "Title_The_Curious_Incident_of_the_Dog_in_the_Night-Time": {
+    "strings": [
+      "\u300a\u6df1\u591c\u5c0f\u72d7\u795e\u7955\u7fd2\u984c\u300b"
+    ]
+  },
+  "Title_The_Debvoir_Family;A_Success_Story": {
+    "strings": [
+      "\u300a\u5fb7\u5e03\u74e6\u5bb6\u65cf\uff1a\u6210\u529f\u50b3\u5947\u300b"
+    ]
+  },
+  "Title_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "\u300a\u4e9e\u745f\u5e9c\u7684\u6c92\u843d\u300b"
+    ]
+  },
+  "Title_The_Fault_in_Our_Stars": {
+    "strings": [
+      "\u300a\u751f\u547d\u4e2d\u7684\u7f8e\u597d\u7f3a\u61be\u300b"
+    ]
+  },
+  "Title_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "\u300a\u9b54\u6212\u9996\u90e8\u66f2\uff1a\u9b54\u6212\u73fe\u8eab\u300b"
+    ]
+  },
+  "Title_The_Glass_Castle": {
+    "strings": [
+      "\u300a\u73bb\u7483\u57ce\u5821\u300b"
+    ]
+  },
+  "Title_The_God_of_Small_Things": {
+    "strings": [
+      "\u300a\u5fae\u7269\u4e4b\u795e\u300b"
+    ]
+  },
+  "Title_The_Great_Gatsby": {
+    "strings": [
+      "\u300a\u5927\u4ea8\u5c0f\u50b3\u300b"
+    ]
+  },
+  "Title_The_Green_Mile": {
+    "strings": [
+      "\u300a\u7da0\u8272\u5947\u8e5f\u300b"
+    ]
+  },
+  "Title_The_Gunslinger": {
+    "strings": [
+      "\u300a\u6700\u5f8c\u7684\u69cd\u5ba2\u300b"
+    ]
+  },
+  "Title_The_Handmaid's_Tale": {
+    "strings": [
+      "\u300a\u4f7f\u5973\u7684\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_The_Happy_Prince_and_Other_Tales": {
+    "strings": [
+      "\u300a\u5feb\u6a02\u738b\u5b50\u8207\u738b\u723e\u5fb7\u7ae5\u8a71\u300b"
+    ]
+  },
+  "Title_The_Hunger_Games": {
+    "strings": [
+      "\u300a\u98e2\u9913\u904a\u6232\u300b"
+    ]
+  },
+  "Title_The_Invisible_Man": {
+    "strings": [
+      "\u300a\u96b1\u5f62\u4eba\u300b"
+    ]
+  },
+  "Title_The_Last_Battle;(Chronicles_of_Narnia)": {
+    "strings": [
+      "\u300a\u6700\u5f8c\u7684\u6230\u5f79\u300b\uff08\u300a\u7d0d\u5c3c\u4e9e\u50b3\u5947\u300b\uff09"
+    ]
+  },
+  "Title_The_Lightning_Thief;(Percy_Jackson_#1)": {
+    "strings": [
+      "\u300a\u6ce2\u897f\u5091\u514b\u68ee1\uff1a\u795e\u706b\u4e4b\u8cca\u300b"
+    ]
+  },
+  "Title_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "\u300a\u7345\u5b50\uff0e\u5973\u5deb\uff0e\u9b54\u8863\u6ae5\u300b"
+    ]
+  },
+  "Title_The_Little_Prince": {
+    "strings": [
+      "\u300a\u5c0f\u738b\u5b50\u300b"
+    ]
+  },
+  "Title_The_Lorax": {
+    "strings": [
+      "\u300a\u7f85\u96f7\u53f8\u300b"
+    ]
+  },
+  "Title_The_Lost_Symbol": {
+    "strings": [
+      "\u300a\u5931\u843d\u7684\u7b26\u865f\u300b"
+    ]
+  },
+  "Title_The_Love_Hypothesis": {
+    "strings": [
+      "\u300a\u611b\u60c5\u5047\u8aaa\u300b"
+    ]
+  },
+  "Title_The_Martian": {
+    "strings": [
+      "\u300a\u706b\u661f\u4efb\u52d9\u300b"
+    ]
+  },
+  "Title_The_Martian_Chronicles": {
+    "strings": [
+      "\u300a\u706b\u661f\u7d00\u4e8b\u300b"
+    ]
+  },
+  "Title_The_Maze_Runner": {
+    "strings": [
+      "\u300a\u79fb\u52d5\u8ff7\u5bae\u300b"
+    ]
+  },
+  "Title_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "\u300a\u7267\u5e2b\u516c\u9928\u8b00\u6bba\u6848\u300b"
+    ]
+  },
+  "Title_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "\u300a\u7f85\u5091\u827e\u514b\u6d1b\u547d\u6848\u300b"
+    ]
+  },
+  "Title_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "\u300a\u53f2\u5cb1\u723e\u838a\u8b00\u6bba\u6848\u300b"
+    ]
+  },
+  "Title_The_Odyssey": {
+    "strings": [
+      "\u300a\u5967\u5fb7\u8cfd\u300b"
+    ]
+  },
+  "Title_The_Perks_of_Being_a_Wallflower": {
+    "strings": [
+      "\u300a\u58c1\u82b1\u7537\u5b69\u300b"
+    ]
+  },
+  "Title_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "\u300a\u9053\u6797\uff0e\u683c\u96f7\u7684\u756b\u50cf\u300b"
+    ]
+  },
+  "Title_The_Raven": {
+    "strings": [
+      "\u300a\u70cf\u9d09\u300b"
+    ]
+  },
+  "Title_The_Return_of_the_King": {
+    "strings": [
+      "\u300a\u9b54\u6212\u4e09\u90e8\u66f2\uff1a\u738b\u8005\u518d\u81e8\u300b"
+    ]
+  },
+  "Title_The_Sea_of_Monsters;(Percy_Jackson_#2)": {
+    "strings": [
+      "\u300a\u6ce2\u897f\u5091\u514b\u68ee2\uff1a\u5996\u9b54\u4e4b\u6d77\u300b"
+    ]
+  },
+  "Title_The_Secret_Garden": {
+    "strings": [
+      "\u300a\u7955\u5bc6\u82b1\u5712\u300b"
+    ]
+  },
+  "Title_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "\u300a\u66f8\u6d77\u93ae\u7955\u53f2\u300b"
+    ]
+  },
+  "Title_The_Shining": {
+    "strings": [
+      "\u300a\u9b3c\u5e97\u300b"
+    ]
+  },
+  "Title_The_Silence_of_the_Lambs": {
+    "strings": [
+      "\u300a\u6c89\u9ed8\u7684\u7f94\u7f8a\u300b"
+    ]
+  },
+  "Title_The_Silent_Patient": {
+    "strings": [
+      "\u300a\u7dd8\u9ed8\u7684\u75c5\u4eba\u300b"
+    ]
+  },
+  "Title_The_Silmarillion": {
+    "strings": [
+      "\u300a\u7cbe\u9748\u5bf6\u947d\u300b"
+    ]
+  },
+  "Title_The_Stand": {
+    "strings": [
+      "\u300a\u672b\u65e5\u903c\u8fd1\u300b"
+    ]
+  },
+  "Title_The_Story_of_Doctor_Dolittle": {
+    "strings": [
+      "\u300a\u5929\u624d\u52d5\u7269\u91ab\u751f\uff0e\u675c\u7acb\u5fb7\u300b"
+    ]
+  },
+  "Title_The_Strange_Case_of_Dr._Jekyll_and_Mr._Hyde": {
+    "strings": [
+      "\u300a\u5316\u8eab\u535a\u58eb\u300b"
+    ]
+  },
+  "Title_The_Tell-Tale_Heart": {
+    "strings": [
+      "\u300a\u544a\u5bc6\u7684\u5fc3\u300b"
+    ]
+  },
+  "Title_The_Tempest": {
+    "strings": [
+      "\u300a\u66b4\u98a8\u96e8\u300b"
+    ]
+  },
+  "Title_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "\u300a\u99ac\u53ef\u6ce2\u7f85\u904a\u8a18\u300b"
+    ]
+  },
+  "Title_The_Two_Towers": {
+    "strings": [
+      "\u300a\u9b54\u6212\u4e8c\u90e8\u66f2\uff1a\u96d9\u57ce\u5947\u8b00\u300b"
+    ]
+  },
+  "Title_The_War_of_the_Worlds": {
+    "strings": [
+      "\u300a\u4e16\u754c\u5927\u6230\u300b"
+    ]
+  },
+  "Title_The_Yellow_Fairy_Book": {
+    "strings": [
+      "\u300a\u9ec3\u8272\u7ae5\u8a71\u300b"
+    ]
+  },
+  "Title_To_Kill_a_Mockingbird": {
+    "strings": [
+      "\u300a\u6885\u5ca1\u57ce\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_To_the_Lighthouse": {
+    "strings": [
+      "\u300a\u71c8\u5854\u884c\u300b"
+    ]
+  },
+  "Title_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "\u300a\u4e94\u5341\u4f73\u9732\u71df\u8eca\u65c5\u884c\u76ee\u7684\u5730\u300b"
+    ]
+  },
+  "Title_Traditional_Building_Techniques": {
+    "strings": [
+      "\u300a\u50b3\u7d71\u5efa\u7bc9\u6280\u85dd\u5927\u5168\u300b"
+    ]
+  },
+  "Title_Treasure_Island": {
+    "strings": [
+      "\u300a\u91d1\u9280\u5cf6\u300b"
+    ]
+  },
+  "Title_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "\u300a\u6d77\u5e95\u5169\u842c\u91cc\u300b"
+    ]
+  },
+  "Title_Watchmen;(Issue_#12)": {
+    "strings": [
+      "\u300a\u5b88\u8b77\u8005\u300b\uff08\u517112\u96c6\uff09"
+    ]
+  },
+  "Title_Where_the_Wild_Things_Are": {
+    "strings": [
+      "\u300a\u91ce\u7378\u570b\u300b"
+    ]
+  },
+  "Title_Wuthering_Heights": {
+    "strings": [
+      "\u300a\u5486\u54ee\u5c71\u838a\u300b"
+    ]
+  },
+  "Title_\u300a\u4e00\u628a\u9752\u300b": {
+    "strings": [
+      "\u300a\u4e00\u628a\u9752\u300b"
+    ]
+  },
+  "Title_\u300a\u4e09\u570b\u6f14\u7fa9\u300b": {
+    "strings": [
+      "\u300a\u4e09\u570b\u6f14\u7fa9\u300b"
+    ]
+  },
+  "Title_\u300a\u4e2d\u56fd\u547d\u7814\u7a76\u300b": {
+    "strings": [
+      "\u300a\u4e2d\u56fd\u547d\u7814\u7a76\u300b"
+    ]
+  },
+  "Title_\u300a\u4e2d\u570b\u6027\u7814\u7a76\u300b": {
+    "strings": [
+      "\u300a\u4e2d\u570b\u6027\u7814\u7a76\u300b"
+    ]
+  },
+  "Title_\u300a\u4e5d\u5dde\u00b7\u55aa\u4e82\u4e4b\u77b3\u300b": {
+    "strings": [
+      "\u300a\u4e5d\u5dde\u00b7\u55aa\u4e82\u4e4b\u77b3\u300b"
+    ]
+  },
+  "Title_\u300a\u4e5d\u5dde\u00b7\u7e39\u7df2\u9304\u2160\u300b": {
+    "strings": [
+      "\u300a\u4e5d\u5dde\u00b7\u7e39\u7df2\u9304\u2160\u300b"
+    ]
+  },
+  "Title_\u300a\u4eba\u751f\u5fc5\u53bb\u7684\u9910\u5ef3\u300b": {
+    "strings": [
+      "\u300a\u4eba\u751f\u5fc5\u53bb\u7684\u9910\u5ef3\u300b"
+    ]
+  },
+  "Title_\u300a\u501a\u5929\u5c60\u9f8d\u8a18\u300b": {
+    "strings": [
+      "\u300a\u501a\u5929\u5c60\u9f8d\u8a18\u300b"
+    ]
+  },
+  "Title_\u300a\u516b\u5c3a\u9580\u300b": {
+    "strings": [
+      "\u300a\u516b\u5c3a\u9580\u300b"
+    ]
+  },
+  "Title_\u300a\u516c\u4e3b\u50b3\u5947\u300b": {
+    "strings": [
+      "\u300a\u516c\u4e3b\u50b3\u5947\u300b"
+    ]
+  },
+  "Title_\u300a\u5341\u4e8c\u5802\u7d93\u5178\u79d1\u666e\u8ab2\u300b": {
+    "strings": [
+      "\u300a\u5341\u4e8c\u5802\u7d93\u5178\u79d1\u666e\u8ab2\u300b"
+    ]
+  },
+  "Title_\u300a\u53bb\u770b\u4e16\u754c\u7684\u71b1\u9b27\u300b": {
+    "strings": [
+      "\u300a\u53bb\u770b\u4e16\u754c\u7684\u71b1\u9b27\u300b"
+    ]
+  },
+  "Title_\u300a\u53ef\u80fd\u7684\u4e16\u754c\u300b": {
+    "strings": [
+      "\u300a\u53ef\u80fd\u7684\u4e16\u754c\u300b"
+    ]
+  },
+  "Title_\u300a\u53f0\u5317\u65c5\u904a\u5168\u653b\u7565\u300b": {
+    "strings": [
+      "\u300a\u53f0\u5317\u65c5\u904a\u5168\u653b\u7565\u300b"
+    ]
+  },
+  "Title_\u300a\u56db\u6708\u671b\u96e8\u300b": {
+    "strings": [
+      "\u300a\u56db\u6708\u671b\u96e8\u300b"
+    ]
+  },
+  "Title_\u300a\u5728\u5730\uff0e\u9910\u684c\uff0e\u5c0f\u65c5\u884c\u300b": {
+    "strings": [
+      "\u300a\u5728\u5730\uff0e\u9910\u684c\uff0e\u5c0f\u65c5\u884c\u300b"
+    ]
+  },
+  "Title_\u300a\u58de\u5c0f\u5b69\u300b": {
+    "strings": [
+      "\u300a\u58de\u5c0f\u5b69\u300b"
+    ]
+  },
+  "Title_\u300a\u5c0b\u5922\u300b": {
+    "strings": [
+      "\u300a\u5c0b\u5922\u300b"
+    ]
+  },
+  "Title_\u300a\u5c16\u6c99\u5480\u6d77\u65c1\u7684\u805a\u6703\u300b": {
+    "strings": [
+      "\u300a\u5c16\u6c99\u5480\u6d77\u65c1\u7684\u805a\u6703\u300b"
+    ]
+  },
+  "Title_\u300a\u5c71\u8c6c\u5c0f\u96bb\u300b": {
+    "strings": [
+      "\u300a\u5c71\u8c6c\u5c0f\u96bb\u300b"
+    ]
+  },
+  "Title_\u300a\u6211\u5011\u8207\u60e1\u7684\u8ddd\u96e2\u300b": {
+    "strings": [
+      "\u300a\u6211\u5011\u8207\u60e1\u7684\u8ddd\u96e2\u300b"
+    ]
+  },
+  "Title_\u300a\u6211\u548c\u7238\u5abd\u53bb\u65c5\u884c;\u4e16\u754c\u5404\u5730\u65c5\u884c\u8a18\u300b": {
+    "strings": [
+      "\u300a\u6211\u548c\u7238\u5abd\u53bb\u65c5\u884c",
+      "\u4e16\u754c\u5404\u5730\u65c5\u884c\u8a18\u300b"
+    ]
+  },
+  "Title_\u300a\u6211\u6240\u544a\u8a34\u4f60\u95dc\u65bc\u90a3\u5ea7\u5c71\u7684\u4e00\u5207\u300b": {
+    "strings": [
+      "\u300a\u6211\u6240\u544a\u8a34\u4f60\u95dc\u65bc\u90a3\u5ea7\u5c71\u7684\u4e00\u5207\u300b"
+    ]
+  },
+  "Title_\u300a\u6211\u7684\u5152\u6b4c\u300b": {
+    "strings": [
+      "\u300a\u6211\u7684\u5152\u6b4c\u300b"
+    ]
+  },
+  "Title_\u300a\u6492\u54c8\u62c9\u7684\u6545\u4e8b\u300b": {
+    "strings": [
+      "\u300a\u6492\u54c8\u62c9\u7684\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_\u300a\u65c5\u4f34\u300b": {
+    "strings": [
+      "\u300a\u65c5\u4f34\u300b"
+    ]
+  },
+  "Title_\u300a\u661f\u6708\u7ae5\u8a71\u300b": {
+    "strings": [
+      "\u300a\u661f\u6708\u7ae5\u8a71\u300b"
+    ]
+  },
+  "Title_\u300a\u694a\u7d05\u6afb\u7b11\u8c93\u65e5\u8a18\u300b": {
+    "strings": [
+      "\u300a\u694a\u7d05\u6afb\u7b11\u8c93\u65e5\u8a18\u300b"
+    ]
+  },
+  "Title_\u300a\u6a6b\u65b7\u81fa\u7063;\u8ffd\u5c0b\u81fa\u7063\u9ad8\u5c71\u690d\u7269\u5730\u7406\u8d77\u6e90\u300b": {
+    "strings": [
+      "\u300a\u6a6b\u65b7\u81fa\u7063",
+      "\u8ffd\u5c0b\u81fa\u7063\u9ad8\u5c71\u690d\u7269\u5730\u7406\u8d77\u6e90\u300b"
+    ]
+  },
+  "Title_\u300a\u6ab8\u6aac\u8776\u300b": {
+    "strings": [
+      "\u300a\u6ab8\u6aac\u8776\u300b"
+    ]
+  },
+  "Title_\u300a\u6b77\u53f2\u8207\u4eba\u50cf\u300b": {
+    "strings": [
+      "\u300a\u6b77\u53f2\u8207\u4eba\u50cf\u300b"
+    ]
+  },
+  "Title_\u300a\u6c92\u6709\u516c\u5f0f\u7684\u7269\u7406\u8ab2\u300b": {
+    "strings": [
+      "\u300a\u6c92\u6709\u516c\u5f0f\u7684\u7269\u7406\u8ab2\u300b"
+    ]
+  },
+  "Title_\u300a\u6d3b\u8457\u300b": {
+    "strings": [
+      "\u300a\u6d3b\u8457\u300b"
+    ]
+  },
+  "Title_\u300a\u718a\u5bf6\u904a\u53f0\u7063\u300b": {
+    "strings": [
+      "\u300a\u718a\u5bf6\u904a\u53f0\u7063\u300b"
+    ]
+  },
+  "Title_\u300a\u7261\u4e39\u4ead\u300b": {
+    "strings": [
+      "\u300a\u7261\u4e39\u4ead\u300b"
+    ]
+  },
+  "Title_\u300a\u767d\u9e7f\u539f\u300b": {
+    "strings": [
+      "\u300a\u767d\u9e7f\u539f\u300b"
+    ]
+  },
+  "Title_\u300a\u7b2c\u4e00\u6b21\u73a9\u9999\u6e2f\u5c31\u4e0a\u624b\u300b": {
+    "strings": [
+      "\u300a\u7b2c\u4e00\u6b21\u73a9\u9999\u6e2f\u5c31\u4e0a\u624b\u300b"
+    ]
+  },
+  "Title_\u300a\u7d05\u6a13\u5922\u300b": {
+    "strings": [
+      "\u300a\u7d05\u6a13\u5922\u300b"
+    ]
+  },
+  "Title_\u300a\u7d66\u5b69\u5b50\u768412\u5802\u8a69\u6b4c\u8ab2\u300b": {
+    "strings": [
+      "\u300a\u7d66\u5b69\u5b50\u768412\u5802\u8a69\u6b4c\u8ab2\u300b"
+    ]
+  },
+  "Title_\u300a\u7da0\u85fb\u8207\u9e79\u86cb\u300b": {
+    "strings": [
+      "\u300a\u7da0\u85fb\u8207\u9e79\u86cb\u300b"
+    ]
+  },
+  "Title_\u300a\u81ea\u5728\u53f0\u7063\u300b": {
+    "strings": [
+      "\u300a\u81ea\u5728\u53f0\u7063\u300b"
+    ]
+  },
+  "Title_\u300a\u81fa\u7063\u7de9\u6162\u5fae\u65c5\u884c\u300b": {
+    "strings": [
+      "\u300a\u81fa\u7063\u7de9\u6162\u5fae\u65c5\u884c\u300b"
+    ]
+  },
+  "Title_\u300a\u83ef\u71c8\u521d\u4e0a\u300b": {
+    "strings": [
+      "\u300a\u83ef\u71c8\u521d\u4e0a\u300b"
+    ]
+  },
+  "Title_\u300a\u8521\u703e\u65c5\u884c\u98df\u8a18\u300b": {
+    "strings": [
+      "\u300a\u8521\u703e\u65c5\u884c\u98df\u8a18\u300b"
+    ]
+  },
+  "Title_\u300a\u85cd\u8840\u4eba\u300b": {
+    "strings": [
+      "\u300a\u85cd\u8840\u4eba\u300b"
+    ]
+  },
+  "Title_\u300a\u897f\u5ec2\u8a18\u300b": {
+    "strings": [
+      "\u300a\u897f\u5ec2\u8a18\u300b"
+    ]
+  },
+  "Title_\u300a\u9577\u591c\u96e3\u660e\u300b": {
+    "strings": [
+      "\u300a\u9577\u591c\u96e3\u660e\u300b"
+    ]
+  },
+  "Title_\u300a\u9577\u5b89\u5341\u4e8c\u6642\u8fb0\u300b": {
+    "strings": [
+      "\u300a\u9577\u5b89\u5341\u4e8c\u6642\u8fb0\u300b"
+    ]
+  },
+  "Title_\u300a\u96f7\u96e8\u300b": {
+    "strings": [
+      "\u300a\u96f7\u96e8\u300b"
+    ]
+  }
+}
