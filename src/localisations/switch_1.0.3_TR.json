@@ -1754,6 +1754,1843 @@
       "^gen\u00e7 yeti\u015fkin kitaplar\u0131"
     ]
   },
+  "Request_bookAttribute_Academic_Neg": {
+    "strings": [
+      "^genelde akademik kitaplardan ka\u00e7\u0131n\u0131r\u0131m",
+      "^akademik ve karma\u015f\u0131k kitaplar pek benlik de\u011fil",
+      "^karma\u015f\u0131k veya okunmas\u0131 zor bir \u015fey aram\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Academic_Neg_Severe": {
+    "strings": [
+      "^sak\u0131n a\u011f\u0131r ve akademik bir kitap \u00f6nerme",
+      "^akademik kitaplar benden uzak dursun",
+      "^akademik kitaplardan nefret ediyorum"
+    ]
+  },
+  "Request_bookAttribute_Academic_Pos": {
+    "strings": [
+      "^ciddi ve entelekt\u00fcel d\u00fczeyi y\u00fcksek kitaplar ho\u015fuma gider",
+      "^bana akademik bir \u015feyler \u00f6nermekten \u00e7ekinme",
+      "^ciddi ve akademik kitaplar da ilgimi \u00e7eker"
+    ]
+  },
+  "Request_bookAttribute_Academic_Pos_Severe": {
+    "strings": [
+      "^zihnime ger\u00e7ekten meydan okuyacak bir kitap istiyorum",
+      "^bir tek ciddi ve akademik kitaplar\u0131 okurum",
+      "^akademik a\u00e7\u0131dan en sayg\u0131n kitab\u0131n\u0131 \u00f6ner bana",
+      "^beyin kaslar\u0131m\u0131 geli\u015ftiriyorum, bana akademik bir \u015feyler \u00f6ner"
+    ]
+  },
+  "Request_bookAttribute_Animals_Neg": {
+    "strings": [
+      "^kitaplar\u0131mda hayvanlara yer verilmesini pek istemem",
+      "^i\u00e7inde hayvan olan kitaplar bana g\u00f6re de\u011fil",
+      "^kitaplarda ge\u00e7en hayvanlara \u00e7ok merakl\u0131 de\u011filim"
+    ]
+  },
+  "Request_bookAttribute_Animals_Neg_Severe": {
+    "strings": [
+      "^hayvanl\u0131 bir kitap istemiyorum. Alerjim var",
+      "^\u00e7o\u011fu hayvandan korkuyorum",
+      "^kitaplar\u0131mda hayvan mayvan istemiyorum",
+      "^hayvanlarla ilgili kitaplar\u0131 g\u00f6rmek bile istemiyorum"
+    ]
+  },
+  "Request_bookAttribute_Animals_Pos": {
+    "strings": [
+      "^hayvanlar\u0131 i\u00e7eren kitaplar ho\u015fuma gidiyor",
+      "^i\u00e7inde hayvanlar olan kitaplar\u0131 seviyorum",
+      "^hayvanlarla ilgili kitaplar her zaman iyidir"
+    ]
+  },
+  "Request_bookAttribute_Animals_Pos_Severe": {
+    "strings": [
+      "^sevimli hayvanlar\u0131n oldu\u011fu bir ktiap istiyorum",
+      "^i\u00e7inde bir s\u00fcr\u00fc hayvan\u0131n oldu\u011fu bir kitaba ihtiyac\u0131m var",
+      "^hayvanlar\u0131 \u00e7ooook seviyorum"
+    ]
+  },
+  "Request_bookAttribute_Biography_Neg": {
+    "strings": [
+      "^biyografiler beni genelde s\u0131k\u0131yor",
+      "^normalde biyografi okumam"
+    ]
+  },
+  "Request_bookAttribute_Biography_Neg_Severe": {
+    "strings": [
+      "^biyografilere zerre ilgi duymuyorum",
+      "^hayatta biyografi okumam",
+      "^biyografi okumak i\u015fkence gibi geliyor"
+    ]
+  },
+  "Request_bookAttribute_Biography_Pos": {
+    "strings": [
+      "^ger\u00e7ek insanlar hakk\u0131nda bir \u015feyler okumay\u0131 severim",
+      "^her t\u00fcrl\u00fc an\u0131 kitab\u0131 ilgimi \u00e7ekiyor",
+      "^biyografi okumak ho\u015fuma gidiyor"
+    ]
+  },
+  "Request_bookAttribute_Biography_Pos_Severe": {
+    "strings": [
+      "^bir otobiyografi ya da an\u0131 kitab\u0131 istiyorum",
+      "^biyografi okumaya resmen bay\u0131l\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Horror_Pos": {
+    "strings": [
+      "^ara s\u0131ra klasik korku kitab\u0131 okurum",
+      "^klasik korku hik\u00e2yeleri ho\u015fuma gider",
+      "^klasik korkuya hay\u0131r demem"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Horror_Pos_Severe": {
+    "strings": [
+      "^klasik korku kitab\u0131 almam gerekiyor",
+      "^klasik korku kitaplar\u0131na bay\u0131l\u0131yorum",
+      "^t\u00fcylerimi diken diken edecek bir klasik korku kitab\u0131 \u00f6nermeni istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Neg": {
+    "strings": [
+      "^klasik kitaplarla aram pek iyi de\u011fil",
+      "^klasikleri okurken biraz s\u0131k\u0131l\u0131yorum",
+      "^klasikler olmazsa olmaz\u0131m say\u0131lmaz"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Neg_Severe": {
+    "strings": [
+      "^\u015fu s\u0131k\u0131c\u0131 klasiklerden \u00f6nerme",
+      "^bir daha asla klasik kitap okumam",
+      "^klasik kitaplara alerjim var",
+      "^ne olur, klasik kitaplar\u0131n\u0131 benden uzak tut! Hi\u00e7 sarm\u0131yor"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Pos": {
+    "strings": [
+      "^zaman zaman klasikleri okurum",
+      "^klasik kitaplar genelde ilgimi \u00e7eker",
+      "^ara s\u0131ra edebiyat klasiklerini okurum",
+      "^klasikler genelde ho\u015fuma gidiyor"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Pos_Severe": {
+    "strings": [
+      "^klasik t\u00fcr\u00fc her zaman favorim olmu\u015ftur. Bir tane daha laz\u0131m bana",
+      "^eski klasiklerden bir tane \u00f6nermeni istiyorum",
+      "^mutlaka okunmal\u0131 dedi\u011fin klasiklerden ver",
+      "^edebiyat klasiklerinden okumam gerek"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Neg": {
+    "strings": [
+      "^gen\u00e7lik hik\u00e2yelerinden pek ho\u015flanmam",
+      "^normalde gen\u00e7lik hik\u00e2yelerini pek sevmem",
+      "^gen\u00e7lik hik\u00e2yeleri bana g\u00f6re de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Neg_Severe": {
+    "strings": [
+      "^ha bire gen\u00e7lik hik\u00e2yeleri g\u00f6rmekten b\u0131kt\u0131m",
+      "^d\u00fcr\u00fcst olmak gerekirse art\u0131k gen\u00e7lik t\u00fcr\u00fcnden s\u0131k\u0131ld\u0131m",
+      "^gen\u00e7lik kitaplar\u0131 ASLA benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Pos": {
+    "strings": [
+      "^gen\u00e7lik hik\u00e2yelerini severim",
+      "^gen\u00e7lik hik\u00e2yeleri ilgimi \u00e7ekiyor",
+      "^gen\u00e7lik hikayelerinin hayran\u0131 say\u0131l\u0131r\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Pos_Severe": {
+    "strings": [
+      "^gen\u00e7likle ilgili bir kitap istiyorum",
+      "^gen\u00e7likle ilgili bir kitap ar\u0131yorum",
+      "^yeni bir gen\u00e7lik hik\u00e2yesi i\u00e7in can at\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Neg": {
+    "strings": [
+      "^hen\u00fcz bu y\u00fczy\u0131lda yaz\u0131lm\u0131\u015f ho\u015fuma giden bir \u015fey bulamad\u0131m",
+      "^bu d\u00f6nemde yaz\u0131lm\u0131\u015f kitaplar\u0131 \u00e7ok da merak etmiyorum",
+      "21. y\u00fczy\u0131l kitaplar\u0131 benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Neg_Severe": {
+    "strings": [
+      "^bu y\u00fczy\u0131la ait bir \u015fey okumak istemiyorum",
+      "^sak\u0131n bana bu y\u00fczy\u0131lda \u00e7\u0131kan bir kitap verme",
+      "^s\u00f6ylenmesi gereken her \u015fey 2000 y\u0131l\u0131ndan \u00f6nce s\u00f6ylenmi\u015f zaten"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Pos": {
+    "strings": [
+      "^bu y\u00fczy\u0131ldansa art\u0131 puan",
+      "^genelde 21. y\u00fczy\u0131l yay\u0131nlar\u0131n\u0131 okurum",
+      "^bu y\u00fczy\u0131la ait kitaplar\u0131 tercih ederim"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Pos_Severe": {
+    "strings": [
+      "^bu y\u00fczy\u0131la ait bir \u015feyler istiyorum",
+      "21. y\u00fczy\u0131la ait bir kitap istiyorum",
+      "^modern bir \u015fey ar\u0131yorum, bu y\u00fczy\u0131la ait olsun",
+      "^sadece modern kitaplar okuyorum"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Neg": {
+    "strings": [
+      "^san\u0131r\u0131m yeterince yemek kitab\u0131m var",
+      "^genelde yemek kitab\u0131 almam",
+      "^yemek kitab\u0131 tariflerine uyacak sabr\u0131m yok"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Neg_Severe": {
+    "strings": [
+      "^yemek kitaplar\u0131na hi\u00e7 ihtiyac\u0131m yok",
+      "^harika bir a\u015f\u00e7\u0131y\u0131m bu y\u00fczden bana yemek kitab\u0131 falan verme",
+      "^yemek yapmak beni geriyor, d\u00fc\u015f\u00fcnmek bile istemiyorum"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Pos": {
+    "strings": [
+      "^yemek yapmay\u0131 seviyorum",
+      "^yemek kitab\u0131 alsam g\u00fczel olurdu",
+      "^biraz mutfak ilham\u0131na hay\u0131r demem"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Pos_Severe": {
+    "strings": [
+      "^yeni bir yemek kitab\u0131 \u00e7ok i\u015fime yarard\u0131",
+      "^mutfak i\u00e7in ilham ar\u0131yorum",
+      "^yeni yemek pi\u015firme ipu\u00e7lar\u0131 ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Neg": {
+    "strings": [
+      "^su\u00e7 hik\u00e2yeleri o kadar da ilgimi \u00e7ekmiyor",
+      "^polisiye romanlar\u0131na pek d\u00fc\u015fk\u00fcn de\u011filim",
+      "^illa polisiye roman\u0131 almam gerekmiyor",
+      "^polisiye romanlar\u0131yla aram \u00e7ok iyi de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Neg_Severe": {
+    "strings": [
+      "^polisiye romanlar\u0131ndan nefret ediyorum. \u00c7ok \u015fiddet i\u00e7eriyorlar",
+      "^sak\u0131n bana polisiye \u00f6nerme",
+      "^polisiye romanlar\u0131n\u0131 kimse bana sevdiremez",
+      "^su\u00e7 hik\u00e2yelerine tamamen kar\u015f\u0131y\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Pos": {
+    "strings": [
+      "^polisiye romanlar\u0131 ho\u015fuma gidiyor",
+      "^iyi polisiye romanlar\u0131n\u0131 severim",
+      "^polisiye romanlar\u0131na hayran\u0131m",
+      "^polisiye romanlar\u0131na biraz fazla sarm\u0131\u015f durumday\u0131m",
+      "^polisiye d\u00fc\u015fk\u00fcn\u00fcy\u00fcm! Evet, su\u00e7lara bay\u0131l\u0131yorum",
+      "^polisiye kitaplar\u0131 ilgimi \u00e7ekiyor"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^polisiye roman\u0131ndan ba\u015fka kitap istemiyorum",
+      "^bir polisiye roman\u0131 ar\u0131yorum",
+      "^polisiye romanlar\u0131 olmazsa olmaz\u0131m",
+      "^polisiye roman\u0131 almadan bu d\u00fckk\u00e2ndan \u00e7\u0131kmam",
+      "^su\u00e7 benim tutkum! Aa, yani \u015fey, su\u00e7 hik\u00e2yelerine bay\u0131l\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Detective_Neg": {
+    "strings": [
+      "^genelde dedektiflik romanlar\u0131n\u0131n pek hayran\u0131 de\u011filim",
+      "^normalde i\u00e7inde dedektif olmayan bir hik\u00e2yeyi tercih ederim",
+      "^dedektifler genelde bana pek cazip gelmiyor"
+    ]
+  },
+  "Request_bookAttribute_Detective_Neg_Severe": {
+    "strings": [
+      "^dedektif i\u00e7eren romanlara sonuna kadar kar\u015f\u0131y\u0131m",
+      "^\u015fu \u015f\u0131mar\u0131k dedektif tiplemelerine katlanam\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Detective_Pos": {
+    "strings": [
+      "^dedektifli bir \u015feylere hay\u0131r demem",
+      "^d\u00fcnyaca me\u015fhur dedektiflerin hayran\u0131y\u0131m",
+      "^dedektif i\u00e7eren \u00e7o\u011fu hik\u00e2ye ilgimi \u00e7eker"
+    ]
+  },
+  "Request_bookAttribute_Detective_Pos_Severe": {
+    "strings": [
+      "^kurnaz bir dedektifle ilgili bir \u015feyler istiyorum",
+      "^dedektif i\u00e7eren bir kitap ar\u0131yorum",
+      "^heyecan verici bir dava ve at\u0131lgan bir dedektif i\u00e7eren kitaplar\u0131ndan ver bana"
+    ]
+  },
+  "Request_bookAttribute_Detective_Whodunnit_Pos": {
+    "strings": [
+      "^dedektif i\u00e7eren katil kim kitaplar\u0131 ilgimi \u00e7ekiyor",
+      "^su\u00e7lunun kim oldu\u011funu tahmin ettiren dedektif romanlar\u0131 ho\u015fuma gider",
+      "^ho\u015fuma gitmeyen bir katil kim kitab\u0131 bulamad\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Detective_Whodunnit_Pos_Severe": {
+    "strings": [
+      "^ilgin\u00e7 dedektifli bir katil kim roman\u0131 istiyorum",
+      "^dedektifine hayran kalaca\u011f\u0131m bir katil kim kitab\u0131na ihtiyac\u0131m var"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Neg": {
+    "strings": [
+      "^hayat\u0131mda yeterince dram varken kitab\u0131mda da olsun istemem",
+      "^a\u015f\u0131r\u0131 dramatize edilen hik\u00e2yeler benden uzak dursun"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Pos": {
+    "strings": [
+      "^dram kitaplar\u0131n\u0131 seviyorum",
+      "^kitaplar\u0131mda biraz dram g\u00f6rmek fena olmazd\u0131",
+      "^dram ve tiyatronun hayran\u0131y\u0131m",
+      "^tiyatro ho\u015fuma gidebilir",
+      "^kitab\u0131m biraz duygu, biraz melodram i\u00e7ermeli"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Pos_Severe": {
+    "strings": [
+      "^dram kitaplar\u0131na resmen bay\u0131l\u0131yorum",
+      "^kitaplarda dram olmazsa olmaz\u0131m",
+      "^dram ve tiyatroya ba\u011f\u0131ml\u0131y\u0131m",
+      "^dram kitab\u0131 almadan bu d\u00fckk\u00e2ndan \u00e7\u0131kamam"
+    ]
+  },
+  "Request_bookAttribute_Dry_Neg": {
+    "strings": [
+      "^s\u0131k\u0131c\u0131 kitaplar\u0131 pek sevmem",
+      "^s\u0131k\u0131c\u0131 kitaplar beni biraz bay\u0131yor",
+      "yavan kitaplara bay\u0131ld\u0131\u011f\u0131m s\u00f6ylenemez"
+    ]
+  },
+  "Request_bookAttribute_Dry_Neg_Severe": {
+    "strings": [
+      "^\u00e7ok s\u0131k\u0131c\u0131ysa okumayaca\u011f\u0131m",
+      "^\u015fu anda s\u0131k\u0131c\u0131 bir kitapla u\u011fra\u015famam",
+      "^l\u00fctfen yavan veya s\u0131k\u0131c\u0131 bir kitap \u00f6nerme"
+    ]
+  },
+  "Request_bookAttribute_Dry_Pos": {
+    "strings": [
+      "^yavan kitaplara ald\u0131rmam",
+      "^s\u0131k\u0131c\u0131 bir kitaba ald\u0131rmam",
+      "^yavan kitaplar beni rahats\u0131z etmez"
+    ]
+  },
+  "Request_bookAttribute_Dry_Pos_Severe": {
+    "strings": [
+      "^edebiyat dedi\u011fin un kadar tats\u0131z olacak",
+      "^s\u0131k\u0131c\u0131 bir kitap ar\u0131yorum",
+      "^s\u0131k\u0131c\u0131 ve yavan kitaplar ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Neg": {
+    "strings": [
+      "^distopik hik\u00e2yelerden pek ho\u015flanmam",
+      "^hen\u00fcz distopik bir hik\u00e2yeyi be\u011fenmi\u015fli\u011fim yok",
+      "^\u00e7o\u011fu distopik roman\u0131 biraz fazla karanl\u0131k buluyorum"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Neg_Severe": {
+    "strings": [
+      "^okudu\u011fum kitab\u0131n kasvetli ve distopik olmas\u0131n\u0131 istemem",
+      "^distopik hik\u00e2yeleri midem kald\u0131rm\u0131yor",
+      "^distopyalar beni \u00e7ok geriyor"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Pos": {
+    "strings": [
+      "^distopik romanlardan ho\u015flan\u0131r\u0131m",
+      "^distopik bir kitaba hay\u0131r demem",
+      "^distopik bir kitap okumak fena olmazd\u0131"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Pos_Severe": {
+    "strings": [
+      "^distopik bir \u015feyler okumak istiyorum",
+      "^distopik romanlar\u0131n tam bir hayran\u0131y\u0131m",
+      "^bana ac\u0131mas\u0131z, kasvetli ve distopik bir d\u00fcnyada ge\u00e7en bir kitap ver"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Neg": {
+    "strings": [
+      "^ansiklopediye pek de ihtiyac\u0131m yok",
+      "^ansiklopedik bir \u015fey aram\u0131yorum",
+      "^ansiklopediler o kadar da ilgimi \u00e7ekmiyor"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Neg_Severe": {
+    "strings": [
+      "^bo\u015f zaman\u0131mda hayatta ansiklopedi okumam",
+      "^ansiklopedi olmaz! Zaten bug\u00fcnlerde her \u015fey internette var",
+      "^ansiklopediler benim zevklerime g\u00f6re \u00e7ok s\u0131k\u0131c\u0131"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Pos": {
+    "strings": [
+      "^ansiklopedik bir \u015feyi tercih ederim",
+      "^ansiklopediye dair bir \u015fey var m\u0131",
+      "^ansiklopedilere hay\u0131r demem",
+      "^ansiklopediler her zaman ilgi \u00e7ekicidir"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Pos_Severe": {
+    "strings": [
+      "^ansiklopedi kitab\u0131na ihtiyac\u0131m var",
+      "^ansiklopedi kitab\u0131 almak istiyorum",
+      "^iyi bir ansiklopedi ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Epic_Neg": {
+    "strings": [
+      "^\u00f6yle abart\u0131l\u0131, kahramanvari bir \u015fey olmas\u0131na gerek yok",
+      "^okuyaca\u011f\u0131n hik\u00e2yenin ger\u00e7ek\u00e7i ve abart\u0131s\u0131z olmas\u0131n\u0131 isterim"
+    ]
+  },
+  "Request_bookAttribute_Epic_Neg_Severe": {
+    "strings": [
+      "^destans\u0131 ve kahramanl\u0131k hik\u00e2yelerden \u00e7ok bunald\u0131m",
+      "^insanlar\u0131n neden destans\u0131 hik\u00e2yeleri bu kadar sevdi\u011fini anlam\u0131yorum, bence abart\u0131yorlar"
+    ]
+  },
+  "Request_bookAttribute_Epic_Pos": {
+    "strings": [
+      "^destans\u0131 kahraman maceralar\u0131n\u0131 severim",
+      "DESTAN kitab\u0131ysa art\u0131 puan",
+      "^destans\u0131 maceralar\u0131 okumay\u0131 severim"
+    ]
+  },
+  "Request_bookAttribute_Epic_Pos_Severe": {
+    "strings": [
+      "<i>Destan</i> kitab\u0131 istiyorum",
+      "^ger\u00e7ek bir destans\u0131 macera okumak istiyorum",
+      "^ya\u015f\u0131yormu\u015fcas\u0131na okuyaca\u011f\u0131m destans\u0131 bir macera laz\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Neg": {
+    "strings": [
+      "^kurgu d\u0131\u015f\u0131 kitaplara o kadar da merakl\u0131 de\u011filim",
+      "^genelde kurgu d\u0131\u015f\u0131 kitaplardan ka\u00e7\u0131n\u0131r\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Neg_Severe": {
+    "strings": [
+      "^kurgu d\u0131\u015f\u0131 kitaplara elimi bile s\u00fcrmem",
+      "^kurgu d\u0131\u015f\u0131 kitaplar zerre ilgimi \u00e7ekmiyor",
+      "^kurgu d\u0131\u015f\u0131 kitaplar a\u015f\u0131r\u0131 s\u0131k\u0131c\u0131"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Pos": {
+    "strings": [
+      "^kurgu d\u0131\u015f\u0131 kitaplarla ilgileniyorum",
+      "^ger\u00e7ek\u00e7i kitaplar\u0131 tercih ediyorum",
+      "^genelde kurgu d\u0131\u015f\u0131 kitaplar okurum"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "^ger\u00e7ekleri y\u00fcz\u00fcme vuracak kitaplar\u0131 ar\u0131yorum",
+      "^yeni bilgiler edinece\u011fim bir kitap laz\u0131m",
+      "^bana kurgu d\u0131\u015f\u0131 kitaplar\u0131ndan \u00f6ner"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Neg": {
+    "strings": [
+      "^fantastik \u015feyler pek ilgimi \u00e7ekmiyor",
+      "^fantastik romanlar\u0131n hayran\u0131 de\u011filim"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Neg_Severe": {
+    "strings": [
+      "^fantastik \u015feylere katlanam\u0131yorum",
+      "^fantastik kitaplar\u0131n\u0131 benden uzak tut",
+      "^\u015fu fantastik, ger\u00e7eklikten yoksun romanlardan nefret ediyorum",
+      "^fantastik romanlar hi\u00e7 benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Pos": {
+    "strings": [
+      "^fantastik romanlara ilgim var diyebilirim",
+      "^fantastik \u015feyler ho\u015fuma gidiyor",
+      "^fantastik romanlara hay\u0131r demem",
+      "^fantastik evrenlere at\u0131lmay\u0131 seviyorum"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Pos_Severe": {
+    "strings": [
+      "^fantastik romanlar\u0131n hastas\u0131y\u0131m",
+      "^fantastik evren i\u00e7eren kitaplar\u0131 ar\u0131yorum",
+      "^fantastik roman ar\u0131yorum",
+      "^fantastik roman almadan gidemem",
+      "^fantastik \u015feylere resmen bay\u0131l\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Female-Author_Pos": {
+    "strings": [
+      "^kad\u0131n yazarlar\u0131n kitaplar\u0131n\u0131 okumaya \u00e7al\u0131\u015f\u0131yorum",
+      "^bir kad\u0131n taraf\u0131ndan yaz\u0131lm\u0131\u015fsa art\u0131 puan",
+      "^kad\u0131n yazarlar\u0131n eserlerini daha s\u0131k okumak isterim"
+    ]
+  },
+  "Request_bookAttribute_Female-Author_Pos_Severe": {
+    "strings": [
+      "^kad\u0131n eli de\u011fmi\u015f kitaplar ar\u0131yorum",
+      "^bir kad\u0131n yazar\u0131n eserini almak istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Neg": {
+    "strings": [
+      "^normalde kurgudan pek anlamam",
+      "^kurgu kitaplar\u0131n\u0131 okumaya pek meyilli de\u011filimdir",
+      "^kurgusal kitaplar ilk tercihim olmaz"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Neg_Severe": {
+    "strings": [
+      "^bana SAKIN kurgu kitab\u0131 verme",
+      "kurgu zerre umurumda olmuyor",
+      "kurgusal kitaplar \u00e7ok s\u0131k\u0131c\u0131"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Pos": {
+    "strings": [
+      "^kurgu kitaplar\u0131na a\u00e7\u0131\u011f\u0131m",
+      "^kurgu hik\u00e2yelerden ho\u015flan\u0131r\u0131m",
+      "^\u00e7o\u011funlukla kurgusal kitaplar okuyorum"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Pos_Severe": {
+    "strings": [
+      "^kurgu kitaplar\u0131ndan ba\u015fka bir \u015fey okuyamam",
+      "^kalbimdeki bo\u015flu\u011fu bir tek kurgu doldurabiliyor",
+      "^kurgu kitaplar\u0131ndan ver bana, a\u015f\u0131r\u0131 d\u00fc\u015fk\u00fcn\u00fcmd\u00fcr",
+      "^hakk\u0131mda bir bilgi vereyim, \u00f6l\u00fcm\u00fcne kurgu kitab\u0131 hayran\u0131y\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Neg": {
+    "strings": [
+      "^eski efsaneler genelde ilgimi \u00e7ekmiyor",
+      "^folklor normalde benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Neg_Severe": {
+    "strings": [
+      "^eski efsanelere zerre ilgi duymuyorum",
+      "^ayn\u0131 masallar\u0131 tekrar tekrar okumama gerek yok",
+      "^folklor okumak i\u00e7in fazla b\u00fcy\u00fcd\u00fcm",
+      "^folklor ve efsanevi kitaplar bana hitap etmiyor"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Pos": {
+    "strings": [
+      "^masals\u0131 ve efsanevi \u015feyler okumak ho\u015fuma gidiyor",
+      "^folklor i\u00e7eriklerini severim",
+      "^mitoloji ve folklor beni daima b\u00fcy\u00fcl\u00fcyor"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Pos_Severe": {
+    "strings": [
+      "^folklor i\u00e7erikli bir kitap ar\u0131yorum",
+      "^folklor \u00f6geleri i\u00e7eren bir kitap istiyorum",
+      "^folklor kitab\u0131 l\u00fctfen! Masals\u0131 ve efsanevi \u015feylere bay\u0131l\u0131r\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Gore_Neg": {
+    "strings": [
+      "^kanl\u0131 \u015feyleri sevmem",
+      "^kitaplar\u0131m\u0131n \u015fiddet i\u00e7ermemesinden memnunum",
+      "^vah\u015fet i\u00e7erikli \u015feyler midemi buland\u0131r\u0131yor"
+    ]
+  },
+  "Request_bookAttribute_Gore_Neg_Severe": {
+    "strings": [
+      "^vah\u015fete dayanam\u0131yorum",
+      "^l\u00fctfen bana \u00e7ok i\u011fren\u00e7 bir \u015fey verme",
+      "^vah\u015fet midemi buland\u0131r\u0131yor",
+      "^vah\u015fet y\u00fcz\u00fcnden i\u011fren\u00e7 k\u00e2buslar g\u00f6r\u00fcyorum",
+      "^l\u00fctfen bana \u00e7ok vah\u015fet i\u00e7eren bir \u015fey verme"
+    ]
+  },
+  "Request_bookAttribute_Gore_Pos": {
+    "strings": [
+      "^biraz vah\u015fet beni bozmaz",
+      "^ne kadar \u00fcrpertici olursa o kadar iyi",
+      "^\u015fiddet olmasa da olur ama olsa iyi olur"
+    ]
+  },
+  "Request_bookAttribute_Gore_Pos_Severe": {
+    "strings": [
+      "^bana \u015f\u00f6yle sa\u011flam bir \u015fey ver, t\u00fcyler \u00fcrpertici t\u00fcrden olsun",
+      "^bana kan, \u015fiddet ve korku dolu bir \u015fey ver",
+      "^bolca kan ve vah\u015fet istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Neg": {
+    "strings": [
+      "^\u00e7izgi romanlar i\u00e7in delirdi\u011fim s\u00f6ylenemez",
+      "^normalde karikat\u00fcr pek aramam",
+      "^\u00e7izgi romanlar genelde tercihim olmuyor"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Neg_Severe": {
+    "strings": [
+      "^\u00e7izgi roman istemiyorum, buraya yaz\u0131l\u0131 bir \u015feyler i\u00e7in geldim",
+      "^\u015fu karikat\u00fcr merakl\u0131s\u0131 ineklerden de\u011filim",
+      "^\u00e7izgi romanlardan nefret ediyorum"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Pos": {
+    "strings": [
+      "^bazen g\u00fczel bir \u00e7izgi romana denk gelirsem okuyorum",
+      "^ara s\u0131ra \u00e7izgi roman ve karikat\u00fcr biriktiririm",
+      "^\u00e7izgi roman alma e\u011filimindeyim",
+      "^\u00e7izgi roman almay\u0131 d\u00fc\u015f\u00fcnm\u00fcyor de\u011filim"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Pos_Severe": {
+    "strings": [
+      "^\u00e7izgi roman ar\u0131yorum",
+      "^bir tek \u00e7izgi roman ve karikat\u00fcrle ilgileniyorum",
+      "^b\u00fcy\u00fck bir \u00e7izgi roman hayran\u0131y\u0131m",
+      "^bir adet \u00e7izgi roman alay\u0131m l\u00fctfen"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Neg": {
+    "strings": [
+      "^genellikle mutlu sonla bitmeyen hik\u00e2yeleri tercih ederim",
+      "^mutlu sonlar\u0131 ger\u00e7ek\u00e7i bulmam",
+      "^mutlu sonla biten kitaplar\u0131 pek sevmem"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Neg_Severe": {
+    "strings": [
+      "^mutlu sonlar umurumda de\u011fil",
+      "^mutlu sonlar\u0131n benim kitaplar\u0131mda yeri yok",
+      "^mutlu sonlar\u0131n bir yalan oldu\u011funu d\u00fc\u015f\u00fcn\u00fcyorum"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Pos": {
+    "strings": [
+      "^mutlu sonlar\u0131 severim",
+      "^genellikle mutlu sonla biten kitaplar\u0131 tercih ederim",
+      "^mutlu sonla biten kitaplardan keyif al\u0131r\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Pos_Severe": {
+    "strings": [
+      "^mutlu bir son istiyorum",
+      "^mutlu bir son olmal\u0131",
+      "^sonsuza dek mutlu olmayacaklarsa a\u011flar\u0131m",
+      "^mutlu bir son i\u00e7in can at\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fact-Genre_Pos": {
+    "strings": [
+      "^tarihle ilgili bir \u015feyler okumay\u0131 seviyorum",
+      "^tarihe merakl\u0131y\u0131m diyebilirim",
+      "^tarih\u00ee ger\u00e7ekler ilgimi \u00e7ekiyor"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "^tarih\u00ee olaylar\u0131 anlatan bir kitap ar\u0131yorum",
+      "^tarih\u00ee ger\u00e7eklerle ilgili bir kitap \u00f6ner",
+      "^tarihimizle ilgili daha fazla \u015fey \u00f6\u011frenmek istiyorum",
+      "^tarih\u00ee ara\u015ft\u0131rmalar yapmam gerekiyor"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fantasy-Genre_Pos": {
+    "strings": [
+      "^tarih\u00ee fantastik t\u00fcr\u00fcn\u00fc be\u011feniyorum",
+      "^tarih\u00ee fantastik kitaplar ho\u015fuma gidiyor",
+      "^tarih\u00ee fantastik t\u00fcr\u00fcn\u00fc hep sevmi\u015fimdir"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fantasy-Genre_Pos_Severe": {
+    "strings": [
+      "^tarih\u00ee bir ortamda ge\u00e7en fantastik bir kitap ar\u0131yorum",
+      "^tarih\u00ee fantastik t\u00fcr\u00fcnden bir kitap almadan buradan gitmem",
+      "^tarih\u00ee fantastik t\u00fcr\u00fcne resmen BAYILIYORUM"
+    ]
+  },
+  "Request_bookAttribute_Historic_Kids-Genre_Pos_Severe": {
+    "strings": [
+      "^\u00e7ocuklara y\u00f6neli ve \u015f\u00f6valye, dinozor ya da Roma temal\u0131 bir \u015feyler laz\u0131m",
+      "^hem tarih\u00ee hem de \u00e7ocuklara uygun bir kitap istiyorum",
+      "^ge\u00e7mi\u015fle ilgili ve \u00e7ocuklara y\u00f6nelik bir kitap \u00f6ner",
+      "^\u00e7ocuklara uygun bir tarih kitab\u0131 ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Historic_Neg": {
+    "strings": [
+      "^tarih beni biraz s\u0131k\u0131yor",
+      "^genelde tarih kitaplar\u0131 ilgimi \u00e7ekmez",
+      "^tarih\u00ee kitaplar bana hitap etmiyor",
+      "^tarih\u00ee kitaplara ilgim oldu\u011funu s\u00f6yleyemem"
+    ]
+  },
+  "Request_bookAttribute_Historic_Neg_Severe": {
+    "strings": [
+      "^tarih\u00ee \u015feylerle hi\u00e7 ilgilenmiyorum",
+      "^tarih\u00ee kitaplara elimi s\u00fcrmek bile istemiyorum",
+      "^hayatta tarih\u00ee bir kitap okumam"
+    ]
+  },
+  "Request_bookAttribute_Historic_Pos": {
+    "strings": [
+      "^tarih hakk\u0131nda bir \u015feyler okumay\u0131 seviyorum",
+      "^tarih\u00ee kitaplar\u0131 severim",
+      "^tarih\u00ee kitaplar ilgimi \u00e7ekiyor"
+    ]
+  },
+  "Request_bookAttribute_Historic_Pos_Severe": {
+    "strings": [
+      "^tarih\u00ee bir kitap istiyorum",
+      "^tarihi ara\u015ft\u0131rmak istiyorum, tarih\u00ee bir \u015fey olsun l\u00fctfen",
+      "^\u015f\u00f6valyeler, romal\u0131lar, vikingler.. Biraz tarih laz\u0131m bana",
+      "^kesinlikle tarihle ilgili bir \u015fey istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Historic_Romance_Pos": {
+    "strings": [
+      "^tarih\u00ee a\u015fk romanlar\u0131na zaaf\u0131m var",
+      "^lordun k\u0131z\u0131yla \u00e7\u0131kmak, \u015f\u00f6valyelerle \u00f6p\u00fc\u015fmek, kalede a\u015fk ya\u015famak... Bunlar tam benlik \u015feyler",
+      "^kitaplar\u0131mda tarih\u00ee romantizm ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Historic_Romance_Pos_Severe": {
+    "strings": [
+      "^ge\u00e7mi\u015fte ya\u015fanan bir a\u015fk hik\u00e2yesi okumam laz\u0131m",
+      "^ge\u00e7mi\u015fte ya\u015fanan bir a\u015fk hik\u00e2yesi ar\u0131yorum",
+      "^tarih merakl\u0131s\u0131y\u0131m ve <i>a\u015fka</i> \u00e2\u015f\u0131\u011f\u0131m, tarih\u00ee bir a\u015fk kitab\u0131 \u00f6ner bana"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Neg": {
+    "strings": [
+      "^\u015fu anda yeni bir hobi kitab\u0131 aram\u0131yorum.",
+      "^yeni hobilere ba\u015flamay\u0131 sevmem",
+      "^hobilere ay\u0131racak fazla zaman\u0131m yok"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Neg_Severe": {
+    "strings": [
+      "^kesinlikle bir hobi kitab\u0131 aram\u0131yorum",
+      "^zaten yeterince hobim var, hobi kitab\u0131 \u00f6nerme l\u00fctfen",
+      "^olduk\u00e7a me\u015fgul\u00fcm, l\u00fctfen beni hobi kitaplar\u0131ndan uzak tut"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Pos": {
+    "strings": [
+      "^yeni bir hobi \u00f6\u011frenmek g\u00fczel olabilir",
+      "^yeni bir u\u011fra\u015f edinebilirim",
+      "^yeni bir hobi edinebilirim"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Pos_Severe": {
+    "strings": [
+      "^yeni bir hobi ar\u0131yorum",
+      "^yeni bir hobi ar\u0131yorum ve fikrini almak isterim",
+      "^ilgilenebilece\u011fim yeni bir hobi ar\u0131yorum",
+      "^yeni bir tak\u0131nt\u0131ya ihtiyac\u0131m var, hobilerle ilgili bir kitab\u0131n var m\u0131?"
+    ]
+  },
+  "Request_bookAttribute_Horror_Neg": {
+    "strings": [
+      "^korku kitaplar\u0131 beni geriyor",
+      "^korku t\u00fcr\u00fc olmasa da olur",
+      "^pek korku seven biri de\u011filimdir",
+      "^korku hik\u00e2yeleri bana biraz fazla a\u011f\u0131r gelebiliyor"
+    ]
+  },
+  "Request_bookAttribute_Horror_Neg_Severe": {
+    "strings": [
+      "^korku t\u00fcr\u00fcn\u00fc hi\u00e7 sevmiyorum",
+      "^korku kitab\u0131 okuyabilenleri anlayam\u0131yorum",
+      "^korku hik\u00e2yelerini okuyam\u0131yorum, k\u00e2buslar\u0131ma giriyor"
+    ]
+  },
+  "Request_bookAttribute_Horror_Pos": {
+    "strings": [
+      "^biraz \u00fcrkmeyi sorun etmem",
+      "^korku i\u00e7eren bir \u015fey \u00f6nermekten \u00e7ekinme",
+      "^korku t\u00fcr\u00fc ilgimi \u00e7ekiyor asl\u0131nda",
+      "^korku ho\u015fuma gidiyor",
+      "^biraz korkuyu kald\u0131rabilirim"
+    ]
+  },
+  "Request_bookAttribute_Horror_Pos_Severe": {
+    "strings": [
+      "^bana en korkun\u00e7 kitab\u0131ndan ver",
+      "^bir korku kitab\u0131 alay\u0131m l\u00fctfen",
+      "^gece k\u00e2buslar\u0131ma girecek bir kitap ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Horror_Romance_Pos": {
+    "strings": [
+      "^romantizmi severim, biraz da \u00fcrk\u00fct\u00fcc\u00fcyse daha da ilgimi \u00e7eker",
+      "^gotik romantizimi merak ediyorum",
+      "^\"korku romantizmi\" diye bir \u015fey duydum, ilgimi \u00e7ekti"
+    ]
+  },
+  "Request_bookAttribute_Horror_Romance_Pos_Severe": {
+    "strings": [
+      "^hani \u015fu gotik a\u015fk romanlar\u0131 var ya, onlardan istiyorum",
+      "^gotik a\u015fk romanlar\u0131 elimden bir an olsun d\u00fc\u015fm\u00fcyor"
+    ]
+  },
+  "Request_bookAttribute_Horror_Science-Fiction_Pos": {
+    "strings": [
+      "^korku i\u00e7erikli bilim kurgu t\u00fcrleri ho\u015fuma gidiyor",
+      "^kozmik korkuyu severim",
+      "^bilim kurgu korkular\u0131 haval\u0131 duruyor",
+      "^bilim kurgu ve korku kombosu g\u00fczel oluyor"
+    ]
+  },
+  "Request_bookAttribute_Horror_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "^kozmik bir korku kitab\u0131 ar\u0131yorum",
+      "^uzayda ge\u00e7en korku dolu hik\u00e2yeleri duymak istiyorum. Ne kadar deh\u015fet vericiyse o kadar iyi",
+      "^tarif edilemeyen korkun\u00e7 hik\u00e2yelere bay\u0131l\u0131yorum, tasvirde ne kadar \u00e7ok g\u00f6z varsa o kadar iyi"
+    ]
+  },
+  "Request_bookAttribute_Humour_Neg": {
+    "strings": [
+      "^mizahtan uzak bir kitap bak\u0131yorum",
+      "^genelde kitaplar\u0131mda mizah aramam",
+      "^mizahi kitaplar\u0131n biraz utan\u00e7 verici oldu\u011funu d\u00fc\u015f\u00fcn\u00fcyorum",
+      "^\"komik\" kitaplar genelde beni g\u00fcld\u00fcrm\u00fcyor"
+    ]
+  },
+  "Request_bookAttribute_Humour_Neg_Severe": {
+    "strings": [
+      "^mizahtan nefret ederim",
+      "^en az\u0131ndan kendini ciddiye alan kitaplar ar\u0131yorum",
+      "^mizahi kitaplar beni H\u0130\u00c7 ne\u015felendirmiyor",
+      "^mizahi kitaplar asla benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Humour_Play_Pos": {
+    "strings": [
+      "^tiyatro oyunlar\u0131n\u0131 okumay\u0131 severim, komedi i\u00e7erenler tercihimdir",
+      "^tiyatro okuyacaksam komik olanlar\u0131 tercih ederim",
+      "^komedi oyunlar\u0131 \u00e7ok keyifli oluyor",
+      "^biraz mizah i\u00e7eren tiyatro oyunlar\u0131 ilgimi \u00e7ekiyor"
+    ]
+  },
+  "Request_bookAttribute_Humour_Play_Pos_Severe": {
+    "strings": [
+      "^bana kahkahalar att\u0131racak kadar komik bir tiyatro oyunu ar\u0131yorum",
+      "^mizah i\u00e7eren bir tiyatro oyunu laz\u0131m bana",
+      "^komik bir tiyatro oyunu \u00f6nermeni istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Humour_Pos": {
+    "strings": [
+      "^komik bir \u015feyler okumay\u0131 severim",
+      "^\u00e7ok ciddi olmayan kitaplar ho\u015fuma gidiyor"
+    ]
+  },
+  "Request_bookAttribute_Humour_Pos_Severe": {
+    "strings": [
+      "^mizahi bir kitap ar\u0131yorum",
+      "^l\u00fctfen komik bir \u015fey \u00f6ner",
+      "^espirili bir kitapsa okurum"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Fact-Genre_Pos": {
+    "strings": [
+      "^\u00e7ocuklara y\u00f6nelik kurgu d\u0131\u015f\u0131 kitaplar\u0131na hay\u0131r demem",
+      "^\u00f6zellikle \u00e7ocuklar i\u00e7in e\u011fitici olmas\u0131 g\u00fczel olabilir"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "^\u00e7ocuklar i\u00e7in e\u011fitici bir kitab\u0131n m\u0131? Okul i\u00e7in alaca\u011f\u0131m",
+      "^\u00e7ocuklar i\u00e7in e\u011fitici kitap ar\u0131yorum",
+      "^\u00e7ocuklara y\u00f6nelik e\u011fitici bir \u015fey laz\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Neg": {
+    "strings": [
+      "^\u00e7ocuk kitaplar\u0131n\u0131 o kadar da sevmiyorum",
+      "^\u00e7ocuk kitaplar\u0131 bana pek hitap etmiyor",
+      "^genelde \u00e7ocuk kitab\u0131 okumam"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Neg_Severe": {
+    "strings": [
+      "^\u00e7ocuk kitaplar\u0131 i\u00e7in fazla ya\u015fl\u0131y\u0131m",
+      "^fazla \u00e7ocuksu kitaplar asla benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Pos": {
+    "strings": [
+      "^\u00e7ocuk kitaplar\u0131n\u0131 h\u00e2l\u00e2 seviyorum",
+      "^bu ya\u015f\u0131mda bile ara s\u0131ra \u00e7ocuk kitab\u0131 okurum",
+      "^\u00e7ocuk kitaplar\u0131n\u0131n ya\u015f s\u0131n\u0131r\u0131 olmad\u0131\u011f\u0131n\u0131 d\u00fc\u015f\u00fcn\u00fcyorum",
+      "^san\u0131r\u0131m asla \u00e7ocuk kitaplar\u0131ndan s\u0131k\u0131lmayaca\u011f\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Pos_Severe": {
+    "strings": [
+      "^10 ya\u015f\u0131nda bir \u00e7ocuk i\u00e7in uygun bir kitap \u00f6ner",
+      "^8 ya\u015f\u0131nda bir \u00e7ocu\u011fun okuyaca\u011f\u0131 tarzdan kitaplar ar\u0131yorum",
+      "^\u00f6nerece\u011fin kitap kesinlikle \u00e7ocuklar i\u00e7in uygun olmal\u0131",
+      "bir \u00e7ocuk kitab\u0131 alay\u0131m l\u00fctfen"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Neg": {
+    "strings": [
+      "^kolay okunabilir kitaplar pek benlik de\u011fil",
+      "^biraz karma\u015f\u0131k bir kitap \u00f6nerebilirsen iyi olur",
+      "^kolay okunabilir kitaplar\u0131 s\u0131k\u0131c\u0131 buluyorum"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Neg_Severe": {
+    "strings": [
+      "^beni zorlayacak bir kitap istiyorum",
+      "^\u00f6ylesine kitap okuyanlar\u0131 anlayam\u0131yorum, kitap dedi\u011fin seni zorlamal\u0131",
+      "^kolay okunabilir kitaplar\u0131 tercih etmiyorum"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Pos": {
+    "strings": [
+      "^karma\u015f\u0131k olmayan kitaplar\u0131 severim",
+      "^e\u011flenceli ve kolay okunabilir kitaplar ho\u015fuma gider",
+      "^rahat\u00e7a okuyabilece\u011fim kitaplar\u0131 severim"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Pos_Severe": {
+    "strings": [
+      "^bana e\u011flenceli ve \u00e7ok zorlamayacak bir kitap \u00f6ner",
+      "^kolay okunabilir ve e\u011flenceli bir kitap istiyorum",
+      "^okuma al\u0131\u015fkanl\u0131\u011f\u0131m\u0131 geri kazanmaya \u00e7al\u0131\u015f\u0131yorum, beni zorlamayacak ve e\u011flenceli bir kitap laz\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Long_Neg": {
+    "strings": [
+      "450 sayfadan k\u0131sa olsun",
+      "^\u00e7ok uzun olmayan kitaplar\u0131 tercih ederim"
+    ]
+  },
+  "Request_bookAttribute_Long_Neg_Severe": {
+    "strings": [
+      "^\u00e7ok uzun bir \u015fey istemiyorum",
+      "^\u00e7ok fazla sayfay\u0131 okumakla u\u011fra\u015famam",
+      "^\u00e7ok uzun kitaplar\u0131 okuyacak zaman\u0131m yok",
+      "^bitirmem sonsuza kadar s\u00fcrecek bir \u015fey istemiyorum"
+    ]
+  },
+  "Request_bookAttribute_Long_Pos": {
+    "strings": [
+      "^normalde daha uzun kitaplar\u0131 okumay\u0131 severim",
+      "450 sayfal\u0131k veya daha uzun bir kitaba hay\u0131r demem",
+      "^daha a\u011f\u0131r kitaplar\u0131 seviyorum",
+      "^ger\u00e7ekten uzun bir kitab\u0131n i\u00e7ine \u00e7ekilmek isterim"
+    ]
+  },
+  "Request_bookAttribute_Long_Pos_Severe": {
+    "strings": [
+      "^\u00e7ok uzun bir kitap istiyorum",
+      "^sayfa say\u0131s\u0131 fazla bir kitaba ihtiyac\u0131m var",
+      "450 sayfan\u0131n alt\u0131nda hi\u00e7bir \u015fey okumam",
+      "^en az 450 sayfal\u0131k bir kitap laz\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Magic_Neg": {
+    "strings": [
+      "^asl\u0131nda yazarlar\u0131n her \u015feye b\u00fcy\u00fc eklemesi ho\u015fuma gitmiyor",
+      "^kitaplar\u0131m b\u00fcy\u00fcs\u00fcz daha iyi",
+      "^b\u00fcy\u00fc beni genelde pek b\u00fcy\u00fclemiyor",
+      "^kitaplar\u0131mda b\u00fcy\u00fcye ihtiya\u00e7 duymuyorum"
+    ]
+  },
+  "Request_bookAttribute_Magic_Neg_Severe": {
+    "strings": [
+      "^\u00f6nerece\u011fin kitapta b\u00fcy\u00fc olmasa iyi olur",
+      "^b\u00fcy\u00fcc\u00fcl\u00fck ve sihir gibi \u015feyler asla benlik de\u011fil",
+      "^kitab\u0131mda sihirli bir \u015fey g\u00f6r\u00fcrsem pi\u015fman ederim",
+      "^b\u00fcy\u00fcye inanm\u0131yorum, asla bununla ilgili bir \u015fey okumam"
+    ]
+  },
+  "Request_bookAttribute_Magic_Pos": {
+    "strings": [
+      "^b\u00fcy\u00fc dolu hik\u00e2yeler ho\u015fuma gidiyor",
+      "^sihirli g\u00fc\u00e7ler her zaman e\u011flencelidir",
+      "^biraz b\u00fcy\u00fcn\u00fcn kimseye zarar\u0131 dokunmaz"
+    ]
+  },
+  "Request_bookAttribute_Magic_Pos_Severe": {
+    "strings": [
+      "^b\u00fcy\u00fcl\u00fc, tuhaf ve do\u011fa\u00fcst\u00fc \u015feylere ihtiyac\u0131m var!",
+      "^b\u00fcy\u00fcl\u00fc veya s\u0131ra d\u0131\u015f\u0131 \u015feyler ar\u0131yorum",
+      "^b\u00fcy\u00fcyle ilgili bir kitap istiyorum",
+      "^b\u00fcy\u00fcl\u00fc bir \u015fey l\u00fctfen! B\u00fcy\u00fclenmek istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Manga_Neg": {
+    "strings": [
+      "^genelde manga okumam",
+      "^mangalar pek benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Manga_Neg_Severe": {
+    "strings": [
+      "^sak\u0131n bana manga \u00f6nerme",
+      "^o mangalara elimi bile s\u00fcrmem"
+    ]
+  },
+  "Request_bookAttribute_Manga_Pos": {
+    "strings": [
+      "^asl\u0131nda mangalar ilgimi \u00e7ekiyor",
+      "^mangaya hay\u0131r demem",
+      "^manhwa ve mangalara bir g\u00f6z atabilirim",
+      "^manhwa ve mangalar ho\u015fuma gidiyor"
+    ]
+  },
+  "Request_bookAttribute_Manga_Pos_Severe": {
+    "strings": [
+      "^mangalara resmen d\u00fc\u015fk\u00fcn\u00fcm",
+      "^manga ya da manhwa almadan buradan gitmem",
+      "^mangalar\u0131 <i>her \u015feyden \u00e7ok</i> seviyorum"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Neg": {
+    "strings": [
+      "^gizem hik\u00e2yeleri olmasa da olur",
+      "^genelde gizem kitaplar\u0131n\u0131 sevmem",
+      "^gizemli kitaplar pek bana g\u00f6re de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Neg_Severe": {
+    "strings": [
+      "^gizem kitab\u0131 falan istemiyorum",
+      "^gizem kitaplar\u0131n\u0131 benden uzak tut",
+      "^gizemlerden nefret ediyorum"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Pos": {
+    "strings": [
+      "^esrarengiz kitaplar okumay\u0131 severim",
+      "^gizem romanlar\u0131na zaaf\u0131m var",
+      "^iyi bir gizem hik\u00e2yesine hay\u0131r diyemem"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Pos_Severe": {
+    "strings": [
+      "^yeni bir gizem kitab\u0131 okumay\u0131 \u00e7ok isterim",
+      "^gizem dolu bir kitap \u00f6ner bana",
+      "^gizemli bir hik\u00e2ye ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Nature_Neg": {
+    "strings": [
+      "^bitki ve do\u011fa konulu kitaplar pek bana g\u00f6re de\u011fil",
+      "^do\u011fa hakk\u0131nda bir \u015feyler okumaya \u00e7ok istekli de\u011filim",
+      "^genelde d\u00fcnyan\u0131n do\u011fas\u0131yla falan ilgilenmem"
+    ]
+  },
+  "Request_bookAttribute_Nature_Neg_Severe": {
+    "strings": [
+      "^do\u011fa konulu kitaplar hi\u00e7 benlik de\u011fil",
+      "^do\u011fay\u0131 anlatan kitaplar\u0131 \u00e7ok itici buluyorum",
+      "^bana do\u011fa hakk\u0131nda kitap okutamazs\u0131n"
+    ]
+  },
+  "Request_bookAttribute_Nature_Pos": {
+    "strings": [
+      "^do\u011fa dostuyumdur",
+      "^bitki ve do\u011fayla ilgili kitaplar ho\u015fuma gidiyor",
+      "^do\u011fa hakk\u0131nda daha fazla \u015fey \u00f6\u011frenmek isterim",
+      "^do\u011faya her zaman ilgi duymu\u015fumdur"
+    ]
+  },
+  "Request_bookAttribute_Nature_Pos_Severe": {
+    "strings": [
+      "^do\u011fa hakk\u0131nda bir kitap ar\u0131yorum",
+      "^bitkiler, kayalar veya hayvanlar i\u00e7eren kitaplar\u0131ndan \u00f6ner bana. Do\u011fayla ilgili bir \u015fey olsun yeter.",
+      "^d\u00fcnya gezegeninin g\u00fczel do\u011fas\u0131 hakk\u0131nda daha fazla \u015fey okumak istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Niche_Neg": {
+    "strings": [
+      "^az bilinen kitaplar \u00e7ok da benlik de\u011fil",
+      "^bana daha bilindik \u015feyler \u00f6nerebilirsin",
+      "^az bilinen kitaplar pek ilgimi \u00e7ekmiyor"
+    ]
+  },
+  "Request_bookAttribute_Niche_Neg_Severe": {
+    "strings": [
+      "^az bilinen kitaplar okumam",
+      "^sak\u0131n kimsenin ad\u0131n\u0131 duymad\u0131\u011f\u0131 kitaplardan verme",
+      "^az bilinen kitaplarla hi\u00e7 ilgilenmiyorum"
+    ]
+  },
+  "Request_bookAttribute_Niche_Pos": {
+    "strings": [
+      "^az bilinen kitaplara hay\u0131r demem",
+      "^\u00e7o\u011funlukla az bilinen kitaplar\u0131 okumay\u0131 severim",
+      "^daha az bilinen eserleri okuma e\u011filimindeyim"
+    ]
+  },
+  "Request_bookAttribute_Niche_Pos_Severe": {
+    "strings": [
+      "^bana o az bilinen de\u011ferli kitaplar\u0131ndan ver",
+      "^az bilinen kitaplar\u0131 ara\u015ft\u0131rmak istiyorum",
+      "^elindeki en az bilinen kitab\u0131 ver bana"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Neg": {
+    "strings": [
+      "^kurgu olmayan kitaplar beni s\u0131k\u0131yor",
+      "^kurgu olmayan kitaplar benim i\u00e7in sadece vakit kayb\u0131",
+      "^kurgusal olmayan kitaplar\u0131 pek sevmem"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Neg_Severe": {
+    "strings": [
+      "^kurgu olmayan kitaplar zerre ilgimi \u00e7ekmiyor",
+      "^kurgusal olmayan kitaplar\u0131 asla tercih etmem",
+      "^kurgu olmayan kitaplardan uzak duruyorum"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Pos": {
+    "strings": [
+      "^kurgu olmayan kitaplar\u0131 tercih ederim",
+      "^burada kurgusal olmayan g\u00fczel kitaplar oldu\u011funu duydum",
+      "^\u015fu g\u00fcnlerde kurgu olmayan eserler ilgimi \u00e7ekiyor",
+      "^kurgusal olmayan kitaplar ho\u015fuma gidiyor"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Pos_Severe": {
+    "strings": [
+      "^ger\u00e7ek hayatla ilgili bir \u015feyler okumaya bay\u0131l\u0131r\u0131m",
+      "^kurgu olmayan bir kitap ar\u0131yorum",
+      "^kurgu olmayan kitaplar olmazsa olmaz\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Novel_Classic-Genre_Pos": {
+    "strings": [
+      "^klasik romanlar\u0131 seviyorum",
+      "^genelde edeb\u00ee klasikleri okurum"
+    ]
+  },
+  "Request_bookAttribute_Novel_Classic-Genre_Pos_Severe": {
+    "strings": [
+      "^klasik bir edeb\u00ee roman ar\u0131yorum",
+      "^klasik bir roman istiyorum, edebiyattan bir par\u00e7a olsun",
+      "^edeb\u00ee klasiklerin en iyisini \u00f6ner bana"
+    ]
+  },
+  "Request_bookAttribute_Novel_Contemporary_Pos": {
+    "strings": [
+      "^yeni nesil romanlara hay\u0131r demem",
+      "^\u00e7ok fazla yeni nesil roman okuyorum",
+      "^yeni nesil romanlar benlik gibi duruyor"
+    ]
+  },
+  "Request_bookAttribute_Novel_Contemporary_Pos_Severe": {
+    "strings": [
+      "^harika bir yeni nesil roman ar\u0131yorum",
+      "^l\u00fctfen yeni nesil romanlar\u0131n\u0131n yerini g\u00f6ster",
+      "^yeni nesil bir romandan daha iyi bir \u015fey yok",
+      "^umar\u0131m yeni nesil romanlar\u0131n vard\u0131r"
+    ]
+  },
+  "Request_bookAttribute_Novel_Neg": {
+    "strings": [
+      "^s\u0131radan kurgu romanlar\u0131n\u0131 biraz s\u0131k\u0131c\u0131 buluyorum",
+      "^\u00e7o\u011fu edeb\u00ee kurgu ho\u015fuma gitmiyor"
+    ]
+  },
+  "Request_bookAttribute_Novel_Neg_Severe": {
+    "strings": [
+      "^edeb\u00ee kurguyu ger\u00e7ekten s\u0131k\u0131c\u0131 buluyorum",
+      "^edeb\u00ee kurgudan nefret ediyorum",
+      "^edeb\u00ee kurgu bana hi\u00e7 hitap etmiyor"
+    ]
+  },
+  "Request_bookAttribute_Novel_Pos": {
+    "strings": [
+      "^edeb\u00ee kurgular\u0131 seviyorum",
+      "^karakter odakl\u0131 romanlar\u0131 tercih ederim"
+    ]
+  },
+  "Request_bookAttribute_Novel_Pos_Severe": {
+    "strings": [
+      "^sadece edeb\u00ee bir kurgu roman\u0131 istiyorum",
+      "^can\u0131m bir tek edeb\u00ee kurgu okumak istiyor",
+      "^karakter odakl\u0131 bir hik\u00e2ye okuyas\u0131m var"
+    ]
+  },
+  "Request_bookAttribute_Novel_Romance_Pos": {
+    "strings": [
+      "^karma\u015f\u0131k a\u015fk romanlar\u0131n\u0131 severim",
+      "^daha edeb\u00ee ve ciddi bir a\u015fk romana a\u00e7\u0131\u011f\u0131m",
+      "^romantizmin yer ald\u0131\u011f\u0131 bir edeb\u00ee roman ilgimi \u00e7ekebilir"
+    ]
+  },
+  "Request_bookAttribute_Novel_Romance_Pos_Severe": {
+    "strings": [
+      "^a\u015fk edebiyat\u0131n\u0131n ba\u011fr\u0131ndan kopmu\u015f bir roman ar\u0131yorum",
+      "^a\u015fk edebiyat\u0131na <i>\u00e7ok</i> ihtiyac\u0131m var",
+      "^karma\u015f\u0131k a\u015fk romanlar\u0131 tam benlik"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Neg": {
+    "strings": [
+      "^umar\u0131m bana modas\u0131 ge\u00e7mi\u015f bir \u015fey vermezsin",
+      "^eski kitaplara ilgim yok",
+      "^\u00e7ok eski \u015feyleri tercih etmem"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Neg_Severe": {
+    "strings": [
+      "^sak\u0131n bana eski kitaplar\u0131ndan verme",
+      "^eski ve demode \u015feylere ihtiyac\u0131m yok",
+      "^yeni bir \u015feyler istiyorum, demode kitaplar\u0131n\u0131 benden uzak tut"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Pos": {
+    "strings": [
+      "^eski kitaplar ilgimi \u00e7ekiyor",
+      "^biraz demode olmas\u0131 beni rahats\u0131z etmez",
+      "^eski kitaplar beni rahats\u0131z etmiyor"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Pos_Severe": {
+    "strings": [
+      "^eski kitaplar\u0131 topluyorum",
+      "^sadece eski kitaplara ilgim var",
+      "^demode bir \u015feylere ihtiyac\u0131m var"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Neg": {
+    "strings": [
+      "^felsefe \u00e7ok da benlik de\u011fil",
+      "^felsefik bir kitap alaca\u011f\u0131m\u0131 sanm\u0131yorum",
+      "^felsefik hik\u00e2yeleri her zaman anlams\u0131z bulmu\u015fumdur"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Neg_Severe": {
+    "strings": [
+      "^sonu gelmeyen felsefik \u015feylere katlanam\u0131yorum",
+      "^insanlar\u0131n felsefeyle neden zaman harcad\u0131klar\u0131n\u0131 anlam\u0131yorum",
+      "^felsefe \u00e7oook s\u0131k\u0131c\u0131"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Pos": {
+    "strings": [
+      "^felsefe kitaplar\u0131n\u0131 severim",
+      "^felsefe tam benlik",
+      "^felsefe ile ilgili her \u015fey ho\u015fuma gider",
+      "^kendimi felsefik hissediyorum"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Pos_Severe": {
+    "strings": [
+      "^derh\u00e2l felsefi bir kitaba ihtiyac\u0131m var",
+      "^bana insan do\u011fas\u0131 hakk\u0131nda derin sorular soran bir kitap ver",
+      "^felsefeyi daha derinden ara\u015ft\u0131rmal\u0131y\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Play_Neg": {
+    "strings": [
+      "^tiyatro oyunlar\u0131ndan pek <i>anlamam</i>",
+      "^genelde tiyatro oyunlar\u0131 okumam",
+      "^tiyatro oyunlar\u0131 pek benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Play_Neg_Severe": {
+    "strings": [
+      "^tiyatro hi\u00e7 sevmiyorum",
+      "^tiyatroyla aram hi\u00e7 iyi de\u011fil",
+      "^tiyatro oyunlar\u0131n\u0131 okumaya asla \u0131s\u0131namad\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Play_Pos": {
+    "strings": [
+      "^tiyatro oyunlar\u0131 her zaman iyi bir se\u00e7imdir",
+      "^tiyatro oyunlar\u0131ndan \u00e7ok keyif al\u0131r\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Play_Pos_Severe": {
+    "strings": [
+      "^bana tiyatro sahnelerinden \u00e7\u0131km\u0131\u015f bir \u015feyler \u00f6ner",
+      "^d\u00fcnya bir sahne, ben de bu tiyatroyu okumak isiyorum",
+      "^bir tiyatro oyunu okumak istiyorum",
+      "^drama, tarz, <i>duygu</i>! Tiyatro oyunlar\u0131 olmazsa olmaz\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Neg": {
+    "strings": [
+      "^ters k\u00f6\u015fe i\u00e7eren kitaplar pek bana g\u00f6re de\u011fil",
+      "^\u015fa\u015f\u0131rtmacal\u0131 kitaplar\u0131 pek sevmem",
+      "^ters k\u00f6\u015feler bana biraz gereksiz geliyor"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Neg_Severe": {
+    "strings": [
+      "^ters k\u00f6\u015felerden nefret ediyorum",
+      "^l\u00fctfen \u015fa\u015f\u0131rtmacal\u0131 kitaplar olmas\u0131n! Neredeyse her kitapta g\u00f6rmeye ba\u015flad\u0131m",
+      "^kitab\u0131mda ters k\u00f6\u015fe falan istemiyorum"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Pos": {
+    "strings": [
+      "^ters k\u00f6\u015feleri olan kitaplar ho\u015fuma gidiyor",
+      "^\u015fa\u015f\u0131rtmacal\u0131 kitaplar\u0131 severim",
+      "^genellikle ters k\u00f6\u015feleri olan kitaplar\u0131 seviyorum"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Pos_Severe": {
+    "strings": [
+      "^\u015fa\u015f\u0131rtmacal\u0131 bir kitap ar\u0131yorum",
+      "^ters k\u00f6\u015feli bir olay \u00f6rg\u00fcs\u00fc i\u00e7eren kitaplar\u0131ndan \u00f6ner bana",
+      "^kitaplar\u0131mda \u015fa\u015f\u0131rtmacal\u0131 sonlar olmazsa olmaz\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Neg": {
+    "strings": [
+      "^\u015fiirlerden hi\u00e7 anlamam",
+      "^genelde \u015fiir okumamay\u0131 tercih ederim",
+      "^\u015fiir kitaplar\u0131 bana hep a\u011f\u0131r gelmi\u015ftir"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Neg_Severe": {
+    "strings": [
+      "^\u015fiir dili bana hi\u00e7 hitap etmiyor",
+      "^bana \u015fiir kitab\u0131 falan verme",
+      "^\u015fiir okumam ve asla okumayaca\u011f\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Pos": {
+    "strings": [
+      "^\u015fiir kitaplar\u0131 ho\u015fuma gidiyor",
+      "^\u015fiir i\u00e7eren kitaplar\u0131 seviyorum",
+      "^\u015fiir kitaplar\u0131na hay\u0131r demem"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Pos_Severe": {
+    "strings": [
+      "^\u015fu s\u0131ralar \u015fiirsel bir \u015feyler ar\u0131yorum",
+      "^biraz \u015fiir okumaya ihtiyac\u0131m var",
+      "^bana bir \u015feyler hissettirecek ve d\u00fc\u015f\u00fcncelere itecek \u015fiir kitaplar\u0131ndan \u00f6ner"
+    ]
+  },
+  "Request_bookAttribute_Political_Neg": {
+    "strings": [
+      "^siyasi mesajlar veren kitaplar\u0131 okumay\u0131 tercih etmem",
+      "^siyaset pek ho\u015fuma gitmiyor",
+      "^siyasi kitaplar benim i\u00e7in biraz a\u011f\u0131r"
+    ]
+  },
+  "Request_bookAttribute_Political_Neg_Severe": {
+    "strings": [
+      "^siyasal mesajlar i\u00e7eren kitaplar\u0131 bir t\u00fcrl\u00fc sevemiyorum",
+      "^siyasi mesajlar beni \u00e7ok bunalt\u0131yor"
+    ]
+  },
+  "Request_bookAttribute_Political_Pos": {
+    "strings": [
+      "^siyasi mesajlar i\u00e7eren kitaplar\u0131 severim",
+      "^siyasal kitaplar beni korkutmaz"
+    ]
+  },
+  "Request_bookAttribute_Political_Pos_Severe": {
+    "strings": [
+      "^siyasal mesajlar i\u00e7eren bir kitap ar\u0131yorum",
+      "^siyasal mesaj i\u00e7eren bir \u015fey istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Political_Science-Fiction_Pos": {
+    "strings": [
+      "^siyasal bilim kurgu hik\u00e2yeleri ilgimi \u00e7ekiyor",
+      "^bilim kurgu hayran\u0131y\u0131m, \u00f6zellikle de siyasi olanlar\u0131 seviyorum",
+      "^son zamanlarda siyasal bilim kurgulara sard\u0131m",
+      "^siyasal bilim kurguya hay\u0131r demem"
+    ]
+  },
+  "Request_bookAttribute_Political_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "^spek\u00fclatif kurgu kitab\u0131 ar\u0131yorum, \u015fu s\u0131ralar a\u015f\u0131r\u0131 sard\u0131m",
+      "^siyasi bilim kurgu kitaplar\u0131na bay\u0131l\u0131yorum, en sevdi\u011fim bilim kurgu t\u00fcr\u00fc",
+      "^ufkumu a\u00e7mak istiyorum, bana siyasal bir bilim kurgu kitab\u0131 \u00f6ner"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Neg": {
+    "strings": [
+      "^genelde pop\u00fcler bilimi s\u0131k\u0131c\u0131 bulurum",
+      "^normalde pop\u00fcler bilimi okumam",
+      "^pop\u00fcler bilim kitaplar\u0131 benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Neg_Severe": {
+    "strings": [
+      "^kitab\u0131n i\u00e7inde \"pop\u00fcler\" bilim ge\u00e7iyorsa okumam",
+      "^pop\u00fcler bilim hi\u00e7 ilgimi \u00e7ekmiyor",
+      "^pop\u00fcler bilim en nefret etti\u011fim t\u00fcr"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Pos": {
+    "strings": [
+      "^pop\u00fcler bilim vazge\u00e7ilmezimdir",
+      "^pop\u00fcler bilim sayesinde bilgilenmek ho\u015fuma gidiyor",
+      "^pop\u00fcler bilime hay\u0131r demem"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Pos_Severe": {
+    "strings": [
+      "^yeni ba\u015flayanlar i\u00e7in her \u015feyi a\u00e7\u0131klayan bir bilim kitab\u0131 istiyorum",
+      "^pop\u00fcler bilim kitaplar\u0131ndan birini istiyorum",
+      "^yeni bir pop\u00fcler bilim maceras\u0131 ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Queer_Pos": {
+    "strings": [
+      "^s\u0131k s\u0131k kuir temsili i\u00e7eren kitaplar ar\u0131yorum",
+      "^kuir temsili bir kitap bulsam g\u00fczel olurdu"
+    ]
+  },
+  "Request_bookAttribute_Queer_Pos_Severe": {
+    "strings": [
+      "^kesinlikle kuir temsili i\u00e7eren bir \u015fey istiyorum",
+      "^kuir temsili benim i\u00e7in ger\u00e7ekten \u00e7ok \u00f6nemli",
+      "^okuduklar\u0131mda kuir temsil edilmeli"
+    ]
+  },
+  "Request_bookAttribute_Romance_Neg": {
+    "strings": [
+      "^romantik eserler \u00e7ok da ilgimi \u00e7ekmez",
+      "^\u00e7ok romantik bir \u015fey \u00f6nerme l\u00fctfen",
+      "^romantizme d\u00fc\u015fk\u00fcn de\u011filim"
+    ]
+  },
+  "Request_bookAttribute_Romance_Neg_Severe": {
+    "strings": [
+      "^sak\u0131n bana romantizm okutay\u0131m deme",
+      "romantizm kitaplar\u0131n\u0131 benden uzak tut, o sinir bozucu a\u015fk \u00fc\u00e7genlerinden nefret ediyorum",
+      "^romantizmden nefret ediyorum",
+      "^kesinlikle romantik bir kitap istemiyorum"
+    ]
+  },
+  "Request_bookAttribute_Romance_Pos": {
+    "strings": [
+      "^zaman zaman romantik eserler okurum",
+      "^biraz romantizm okusam fena olmazd\u0131",
+      "^asl\u0131nda a\u015fk romanlar\u0131 ilgimi \u00e7ekiyor"
+    ]
+  },
+  "Request_bookAttribute_Romance_Pos_Severe": {
+    "strings": [
+      "^romantizm konulu bir \u015fey istiyorum",
+      "^karakterlerden hi\u00e7biri \u00f6p\u00fc\u015fmezse sinirlenirim",
+      "^l\u00fctfen bana <i>romantik</i> bir \u015fey \u00f6ner",
+      "^\u00f6zlem ve a\u015fk me\u015fk i\u00e7eren bir \u015feyler okumak istiyorum",
+      "^a\u015fk romanlar\u0131na k\u00f6rk\u00fct\u00fck \u00e2\u015f\u0131\u011f\u0131m",
+      "^romantizm benim i\u00e7in olmazsa olmaz"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Neg": {
+    "strings": [
+      "^asl\u0131nda bilim kurgudan biraz s\u0131k\u0131ld\u0131m",
+      "^bilim kurguya <i>bay\u0131l\u0131yorum</i> diyemem",
+      "^bilim kurgu benlik de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Neg_Severe": {
+    "strings": [
+      "^bilim kurgu kitab\u0131 istemiyorum",
+      "^hayatta bilim kurgu okumam",
+      "^bence spek\u00fclatif kurgu tam bir zaman kayb\u0131"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Pos": {
+    "strings": [
+      "^bilim kurgu hik\u00e2yeleri genelde ho\u015fuma gider",
+      "^g\u00fczel bilim kurgu hik\u00e2yesi bulursam okurum",
+      "^bilim kurguyu severim"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "^bilim kurgu kitab\u0131 ar\u0131yorum",
+      "^bilim kurgu olmazsa olmaz\u0131m",
+      "^bilim kurgu kitab\u0131 almam gerekiyor",
+      "^b\u00fcy\u00fck bir bilim kurgu hayran\u0131y\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Neg": {
+    "strings": [
+      "^genelde tavsiye kitaplar\u0131n\u0131 sevmem",
+      "^ki\u015fisel geli\u015fim kitaplar\u0131 pek benlik de\u011fil",
+      "^ki\u015fisel geli\u015fim kitaplar\u0131n\u0131 biraz s\u0131k\u0131c\u0131 buluyorum"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Neg_Severe": {
+    "strings": [
+      "^o \u00e7ok bilmi\u015f ki\u015fisel geli\u015fim kitaplar\u0131ndan nefret ediyorum",
+      "^bana hayat tavsiyesi vermeye \u00e7al\u0131\u015fan kitaplardan hi\u00e7 hazzetmem"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Pos": {
+    "strings": [
+      "^tavsiye dolu kitaplara a\u00e7\u0131\u011f\u0131m",
+      "^ki\u015fisel geli\u015fim kitaplar\u0131 ho\u015fuma gidiyor",
+      "^ki\u015fisel geli\u015fim kitab\u0131 okumak fena olmazd\u0131"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Pos_Severe": {
+    "strings": [
+      "^hayat tavsiyesine ihtiyac\u0131m var",
+      "^ki\u015fisel geli\u015fim kitab\u0131na ihtiyac\u0131m var",
+      "^biraz kendi geli\u015fimim \u00fczerinde \u00e7al\u0131\u015fmak istiyorum",
+      "^bana ki\u015fisel geli\u015fim kitab\u0131 laz\u0131m",
+      "^son zamanlarda kaybolmu\u015f hissediyorum, ki\u015fisel geli\u015fim kitab\u0131 okumak iyi gelebilir"
+    ]
+  },
+  "Request_bookAttribute_Series_Neg": {
+    "strings": [
+      "^yeni bir seriye ba\u015flamaya hevesli de\u011filim",
+      "^yeni bir seriye haz\u0131r oldu\u011fumdan emin de\u011filim",
+      "^yeni bir seriye zaman bulamam san\u0131r\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Series_Neg_Severe": {
+    "strings": [
+      "^beni sak\u0131n bir seriye ba\u015flatma",
+      "^\u015fu anda hi\u00e7 seriye ba\u015flayacak h\u00e2lim yok",
+      "^bana sak\u0131n bir seriden kitap \u00f6nerme",
+      "^oturup t\u00fcm bir seriyi okumak zorunda kalmak istemiyorum"
+    ]
+  },
+  "Request_bookAttribute_Series_Pos": {
+    "strings": [
+      "^yeni bir seriye ba\u015flayabilirim",
+      "^genelde seriye ait bir kitap se\u00e7erim",
+      "^herhangi bir seriden kitap \u00f6nersen g\u00fczel olabilir"
+    ]
+  },
+  "Request_bookAttribute_Series_Pos_Severe": {
+    "strings": [
+      "^yeni bir seriye ba\u015flamak istiyorum",
+      "^bir serinin sonraki kitab\u0131n\u0131 ar\u0131yorum",
+      "^bir serinin devam kitab\u0131n\u0131 almak istiyorum",
+      "^kitaplar\u0131n \u00f6ylece bitmesinden nefret ediyorum! Bana koca bir seri laz\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Short_Neg": {
+    "strings": [
+      "^kitap dedi\u011fin 200 sayfadan fazla olur",
+      "^\u00e7ok k\u0131sa kitaplar\u0131 tercih etmem",
+      "200 sayfan\u0131n alt\u0131ndaki kitaplar\u0131 pek okumam"
+    ]
+  },
+  "Request_bookAttribute_Short_Neg_Severe": {
+    "strings": [
+      "^\u00e7ok k\u0131sa bir kitap istemiyorum",
+      "^bir tek en az 200 sayfal\u0131k kitaplar\u0131 okurum",
+      "^sak\u0131n bana \u015fu ince kitaplardan verme"
+    ]
+  },
+  "Request_bookAttribute_Short_Pos": {
+    "strings": [
+      "^normalde k\u0131sa ve \u00f6z kitaplar\u0131 tercih ederim",
+      "200 sayfadan azsa benden art\u0131 puan al\u0131rs\u0131n"
+    ]
+  },
+  "Request_bookAttribute_Short_Pos_Severe": {
+    "strings": [
+      "^k\u0131sa ve \u00f6z bir \u015fey istiyorum",
+      "^bana sayfa say\u0131s\u0131 az bir kitap ver",
+      "^sadece 200 sayfadan daha az kitaplar\u0131 okuyabiliyorum"
+    ]
+  },
+  "Request_bookAttribute_Space_Neg": {
+    "strings": [
+      "^uzay hik\u00e2yelerinden biraz s\u0131k\u0131ld\u0131m",
+      "^uzay yolculu\u011fu gibi \u015feyler benlik de\u011fil",
+      "^kitab\u0131mda uzay yolculu\u011fu olmasa da olur"
+    ]
+  },
+  "Request_bookAttribute_Space_Neg_Severe": {
+    "strings": [
+      "^uzaya yolculuk asla benlik de\u011fil",
+      "^uzayla ilgili \u015feyler zerre umurumda de\u011fil",
+      "^uzayla alakal\u0131 kitaplar art\u0131k midemi buland\u0131r\u0131yor",
+      "^uzay yolculuklar\u0131na de\u011finmeyen bir kitap laz\u0131m bana"
+    ]
+  },
+  "Request_bookAttribute_Space_Pos": {
+    "strings": [
+      "^uzayla ilgileniyorum",
+      "^galaksiler, solucan delikleri ve o t\u00fcr konulara de\u011finen kitaplara ilgim var",
+      "^uzay\u0131 \u00e7ok b\u00fcy\u00fcleyici buluyorum"
+    ]
+  },
+  "Request_bookAttribute_Space_Pos_Severe": {
+    "strings": [
+      "^uzayla ilgili bir \u015feyler \u00f6nermeni istiyorum",
+      "^uzayla alakal\u0131 her \u015feye <i>tak\u0131nt\u0131l\u0131y\u0131m</i>",
+      "^uzayla ilgili bir kitap almadan buradan gitmem"
+    ]
+  },
+  "Request_bookAttribute_Space_Science-Fiction_Pos": {
+    "strings": [
+      "^gezegen ve uzayl\u0131 i\u00e7eren bilim kurgu kitaplar\u0131 ho\u015fuma gider",
+      "^ba\u015fka gezegenlerde ge\u00e7en bilim kurgu hik\u00e2yeleri favorim",
+      "^en sevdi\u011fim bilim kurgu hik\u00e2yeleri hep uzayda ge\u00e7iyor"
+    ]
+  },
+  "Request_bookAttribute_Space_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "^uzay yolculu\u011fu, uzak galaksiler, dev imparatorluklar... \u0130\u015fte o tarz \u015feyler ar\u0131yorum",
+      "^uzayda ge\u00e7en bilim kurgudan ve uzayl\u0131lardan daha haval\u0131s\u0131 var m\u0131? Sanm\u0131yorum",
+      "^uzayda ge\u00e7en bilim kurgu kitaplar\u0131n\u0131 \u00f6ner bana",
+      "^uzay temal\u0131 bilim kurgu hik\u00e2yesi istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Crime-Genre_Pos": {
+    "strings": [
+      "^gerilimli polisiye romanlar\u0131 ilgimi \u00e7ekmiyor de\u011fil",
+      "^gerilimli polisiye hik\u00e2yeleri daima ilgimi \u00e7ekmi\u015ftir",
+      "^polisiye romanlar\u0131n\u0131n gerilimli olanlar\u0131n\u0131 daha \u00e7ok seviyorum"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^bana gerilmekten t\u0131rnak yedirten bir polisiye \u00f6ner",
+      "^nabz\u0131m\u0131 h\u0131zland\u0131racak kadar gerilimli bir polisiye roman\u0131 laz\u0131m",
+      "^beni gerilime bo\u011facak bir polisiye hik\u00e2yesi ar\u0131yorum",
+      "^gerilim dolu bir polisiye roman\u0131 ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Neg": {
+    "strings": [
+      "^gerilim filmlerini pek sevmem",
+      "^gerilim hik\u00e2yelerini pek tercih etmem",
+      "^gerilim filmleri pek benim tarz\u0131m de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Neg_Severe": {
+    "strings": [
+      "^pek gerilim hayran\u0131 de\u011filim",
+      "^gerilim kitaplar\u0131 beni \u00e7ok geriyor",
+      "^doktorumun tavsiyesi \u00fczerine gerilim okumam yasak"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Pos": {
+    "strings": [
+      "^gerilim dolu kitaplara hay\u0131r demem",
+      "^heyecan verici, s\u00fcr\u00fckleyici bir hik\u00e2ye fena olmazd\u0131",
+      "^asl\u0131nda gerilim dolu hik\u00e2yeler ho\u015fuma gidiyor"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Pos_Severe": {
+    "strings": [
+      "^bana gerilim dolu bir kitap \u00f6ner",
+      "^kesinlikle bir gerilim kitab\u0131na ihtiyac\u0131m var",
+      "^yeni bir gerilim i\u00e7in can at\u0131yorum",
+      "^heyecan verici ve gizemli bir \u015fey istiyorum",
+      "^tam bir gerilim hayran\u0131y\u0131m"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Neg": {
+    "strings": [
+      "^kitab\u0131mda trajedi ya\u015fanmas\u0131n\u0131 pek tercih etmem",
+      "^normalde trajik kitaplar\u0131 okumam",
+      "^genelde trajedi hik\u00e2yeleri benim i\u00e7in fazla ac\u0131 doludur"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Neg_Severe": {
+    "strings": [
+      "^bu aralar trajik hik\u00e2yelere elimi bile s\u00fcrmek istemiyorum",
+      "^bana trajik bir \u015feyler \u00f6nerme l\u00fctfen",
+      "^trajedi olmas\u0131n! A\u011flamak istemiyorum"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Pos": {
+    "strings": [
+      "^trajik hik\u00e2yeler okumak ho\u015fuma gidiyor",
+      "^kalbimi yerinden s\u00f6k\u00fcp atacak kitaplar\u0131 seviyorum",
+      "^biraz tradejiden kimseye zarar gelmez"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Pos_Severe": {
+    "strings": [
+      "^y\u00fcrek burkan bir trajediye ihtiyac\u0131m var",
+      "^bana trajik bir \u015feyler \u00f6ner",
+      "^g\u00f6z ya\u015fartan t\u00fcrden bir trajedi istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Crime-Genre_Pos": {
+    "strings": [
+      "^polisiye romanlar\u0131n\u0131n bazen g\u00fczel bir seyahat rehberi oldu\u011funu d\u00fc\u015f\u00fcn\u00fcyorum",
+      "^okurken beni bir yerden bir yere g\u00f6t\u00fcren polisiye romanlar\u0131 daha g\u00fczel oluyor",
+      "^seyahate dair ufaktan bilgi alabilece\u011fim polisiye romanlar\u0131n\u0131 severim"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^seyahat a\u00e7l\u0131\u011f\u0131m\u0131 giderecek bir su\u00e7 hik\u00e2yesi ar\u0131yorum",
+      "^polisiye hik\u00e2yelerine bay\u0131\u0131l\u0131yorum ama ayn\u0131 zamanda seyahat \u00f6nerilerine de ihtiyac\u0131m var, l\u00fctfen ikisini birle\u015ftir",
+      "^beni yeni yerlere g\u00f6t\u00fcrecek bir polisiye kitab\u0131 \u00f6ner"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Neg": {
+    "strings": [
+      "^seyahat kitaplar\u0131n\u0131n pek merakl\u0131s\u0131 de\u011filim",
+      "^normalde seyahat edebiyat\u0131ndan ka\u00e7\u0131n\u0131r\u0131m",
+      "^seyahat kitaplar\u0131 bana g\u00f6re de\u011fil"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Neg_Severe": {
+    "strings": [
+      "^ger\u00e7ek yerler hakk\u0131nda bir \u015feyler okumak istemiyorum",
+      "^seyahat kitaplar\u0131na hi\u00e7 merakl\u0131 de\u011filim",
+      "^seyahat kitaplar\u0131 zerre ilgimi \u00e7ekmiyor"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Pos": {
+    "strings": [
+      "^gezginim ve ger\u00e7ek yerlerle ilgili kitaplar\u0131 okumay\u0131 seviyorum",
+      "^seyahat hakk\u0131nda her t\u00fcrden kitap ilgimi \u00e7eker"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Pos_Severe": {
+    "strings": [
+      "^evden d\u0131\u015far\u0131 \u00e7\u0131kmam laz\u0131m, bana bir seyahat kitab\u0131 \u00f6ner",
+      "^ger\u00e7ek yerler hakk\u0131nda okumaya bay\u0131l\u0131yorum",
+      "^seyahatle ilgili bir \u015feylere ihtiyac\u0131m var",
+      "^iyi bir seyahat kitab\u0131yla uzaklara s\u00fcr\u00fcklenmem gerek"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Neg": {
+    "strings": [
+      "^daha fazla gezi rehberine ihtiyac\u0131m yok",
+      "^\u00e7ok seyahat eden biri de\u011filim",
+      "^tatile ay\u0131racak zaman\u0131m yok o y\u00fczden gezi rehberine gerek duymuyorum"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Neg_Severe": {
+    "strings": [
+      "^gezi rehberi g\u00f6rmek istemiyorum",
+      "^gezi rehberlerinin bir i\u015fe yarad\u0131\u011f\u0131n\u0131 d\u00fc\u015f\u00fcnm\u00fcyorum",
+      "^l\u00fctfen bana seyahat rehberi \u00f6nerme"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Pos": {
+    "strings": [
+      "^yeni bir seyahat rehberi okumak fena olmaz",
+      "^gezi rehberlerine hay\u0131r demem",
+      "^bir gezi rehberi g\u00fczel olabilir"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Pos_Severe": {
+    "strings": [
+      "^tatil i\u00e7in uygun yerler ar\u0131yorum",
+      "^seyahat rehberi ar\u0131yorum",
+      "^yeni bir gezi rehberine ihtiyac\u0131m var",
+      "^seyahatim i\u00e7in ilham ar\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Neg": {
+    "strings": [
+      "^kitab\u0131m\u0131 ta\u015f\u0131yabilmek istiyorum",
+      "^700 sayfadan daha az bir kitap bulmaya \u00e7al\u0131\u015f",
+      "700'den fazla sayfas\u0131 olan bir kitap istedi\u011fimi sanm\u0131yorum"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Neg_Severe": {
+    "strings": [
+      "^bana o \u00e7ok a\u011f\u0131r kitaplardan verme",
+      "^hayat 700 sayfal\u0131 bir kitab\u0131 okumak i\u00e7in \u00e7ok k\u0131sa",
+      "700'den fazla sayfas\u0131 olan bir kitap i\u00e7in ger\u00e7ekten zaman\u0131m yok"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Pos": {
+    "strings": [
+      "^kitap dedi\u011fin uzun olacak",
+      "700 sayfal\u0131k bir kitab\u0131 okuyabilirim",
+      "^kendimi uzuuun bir okuyu\u015fa zorlamak istiyorum"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Pos_Severe": {
+    "strings": [
+      "^KOCAMAN bir kitap istiyorum! Do\u011fru duydun! En az 700 sayfa olsun",
+      "^bana kapkal\u0131n bir kitap laz\u0131m... En az 700 sayfa olsun",
+      "^bana en az 700 sayfal\u0131 kal\u0131n kitaplardan birini ver"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Neg": {
+    "strings": [
+      "^katil kim kitaplar\u0131 pek ilgimi \u00e7ekmiyor",
+      "^genelde katil kim hik\u00e2yelerini okumuyorum",
+      "^katil kim hik\u00e2yelerin biraz abart\u0131ld\u0131\u011f\u0131n\u0131 d\u00fc\u015f\u00fcn\u00fcyorum",
+      "^katil kim kitaplar\u0131 pek bana hitap etmiyor",
+      "^katil kim kitaplar\u0131 ho\u015fuma gitmiyor"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Neg_Severe": {
+    "strings": [
+      "^sak\u0131n bana \u015fu katil kim kitaplar\u0131ndan verme",
+      "^katil kim hik\u00e2yelerine tahamm\u00fcl edemiyorum",
+      "^kimin su\u00e7lu oldu\u011funu tahmin etmek zorunda kald\u0131\u011f\u0131m hik\u00e2yeler beni sinir ediyor"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Pos": {
+    "strings": [
+      "^iyi bir katil kim hik\u00e2yesine hay\u0131r demem",
+      "^asl\u0131nda katil kim kitaplar\u0131 ilgimi \u00e7ekiyor",
+      "^katil kim kitaplar\u0131 ho\u015fuma gidiyor"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Pos_Severe": {
+    "strings": [
+      "^yeni bir katil kim kitab\u0131 ar\u0131yorum",
+      "^l\u00fctfen koleksiyonum i\u00e7in bana bir katil kim kitab\u0131 \u00f6ner",
+      "^katil kim kitab\u0131 bulmam gerekiyor"
+    ]
+  },
+  "Request_bookAttribute_YA_Neg": {
+    "strings": [
+      "^gen\u00e7 yeti\u015fkin kurgusuyla pek ilgilenmiyorum",
+      "^gen\u00e7 yeti\u015fkin romanlar\u0131 bana g\u00f6re de\u011fil",
+      "^\u00e7o\u011fu gen\u00e7 yeti\u015fkin roman\u0131n\u0131 be\u011fenmedim"
+    ]
+  },
+  "Request_bookAttribute_YA_Neg_Severe": {
+    "strings": [
+      "^gen\u00e7 yeti\u015fkin romanlar\u0131 kesinlikle bana g\u00f6re de\u011fil",
+      "^\u015fu gen\u00e7 yeti\u015fkin sevdas\u0131n\u0131 ger\u00e7ekten anlayam\u0131yorum",
+      "^sak\u0131n gen\u00e7 yeti\u015fkin kurgusu falan \u00f6nereyim deme"
+    ]
+  },
+  "Request_bookAttribute_YA_Pos": {
+    "strings": [
+      "^ara s\u0131ra iyi bir gen\u00e7 yeti\u015fkin roman\u0131 bulursam okurum",
+      "^gen\u00e7 yeti\u015fkin kitaplar\u0131 ilgimi \u00e7ekiyor",
+      "^gen\u00e7 yeti\u015fkin romanlar\u0131 benlik diyebilirim",
+      "^gen\u00e7 yeti\u015fkin kurgusu okumak ho\u015fuma gidiyor"
+    ]
+  },
+  "Request_bookAttribute_YA_Pos_Severe": {
+    "strings": [
+      "^gen\u00e7 yeti\u015fkin roman\u0131 okumak istiyorum",
+      "^buradan yeni bir gen\u00e7 yeti\u015fkin kitab\u0131 almadan gitmeyece\u011fim",
+      "^gen\u00e7 yeti\u015fkin roman\u0131 \u00f6ner l\u00fctfen!"
+    ]
+  },
   "Title_#Title_EN": {
     "strings": [
       "Title tr_TR"

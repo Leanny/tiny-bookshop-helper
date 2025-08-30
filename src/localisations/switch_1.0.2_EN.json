@@ -2229,6 +2229,1838 @@
       "YA"
     ]
   },
+  "Request_bookAttribute_Academic_Neg": {
+    "strings": [
+      "I usually try to avoid pretentious books",
+      "I'm not the biggest fan of academic and complicated books",
+      "I'm not looking for anything too complex or hard to read"
+    ]
+  },
+  "Request_bookAttribute_Academic_Neg_Severe": {
+    "strings": [
+      "^nothing highbrow",
+      "I don't want anything pretentious",
+      "I don't want anything academic"
+    ]
+  },
+  "Request_bookAttribute_Academic_Pos": {
+    "strings": [
+      "I enjoy reading serious, sophisticated literature",
+      "^don't shy away from handing me a sophisticated work",
+      "I wouldn't mind getting into something more sophisticated"
+    ]
+  },
+  "Request_bookAttribute_Academic_Pos_Severe": {
+    "strings": [
+      "I'm looking for a true challenge to my wits",
+      "I only read serious, sophisticated literature",
+      "^hand me the most prestigious book you have",
+      "I'm training my brain-ceps, give me something academic"
+    ]
+  },
+  "Request_bookAttribute_Animals_Neg": {
+    "strings": [
+      "I prefer books without animals",
+      "^books with animals are normally not for me",
+      "I'm not too keen on animals in books"
+    ]
+  },
+  "Request_bookAttribute_Animals_Neg_Severe": {
+    "strings": [
+      "I don't want anything with animals. I'm allergic",
+      "I'm afraid of most animals",
+      "I don't want animals in my books",
+      "I think books with animals are cringe"
+    ]
+  },
+  "Request_bookAttribute_Animals_Pos": {
+    "strings": [
+      "I wouldn't mind a book that included animals",
+      "^if there's animals, that's a plus",
+      "books about animals are always a good shout"
+    ]
+  },
+  "Request_bookAttribute_Animals_Pos_Severe": {
+    "strings": [
+      "I want something with cute animals",
+      "I need something with loads of cool animals",
+      "I loooove animals so much"
+    ]
+  },
+  "Request_bookAttribute_Biography_Neg": {
+    "strings": [
+      "I tend to get bored by biographies",
+      "I don't normally read biographies"
+    ]
+  },
+  "Request_bookAttribute_Biography_Neg_Severe": {
+    "strings": [
+      "I have no interest in biographies",
+      "I never read biographies",
+      "^biographies are far too boring for me"
+    ]
+  },
+  "Request_bookAttribute_Biography_Pos": {
+    "strings": [
+      "I like reading about real people",
+      "I'm interested in all kinds of memoirs",
+      "I'm a fan of biographies"
+    ]
+  },
+  "Request_bookAttribute_Biography_Pos_Severe": {
+    "strings": [
+      "I want an autobiography or memoir",
+      "I'm looking for a biography"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Horror_Pos": {
+    "strings": [
+      "I often enjoy reading classic horror",
+      "I'm a fan of classic horror stories",
+      "I'm partial to a classic horror novel"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Horror_Pos_Severe": {
+    "strings": [
+      "I really want a classic horror story",
+      "I really love classic horror, give me some sophisticated spine-tingling"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Neg": {
+    "strings": [
+      "I don't usually read classics",
+      "^classics usually bore me",
+      "I don't tend to reach for classics"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Neg_Severe": {
+    "strings": [
+      "^don't give me one of those boring old classics",
+      "I'll rage if I have to read another so called <b>classic</b>",
+      "I can't read classics... allergies",
+      "^please, no classics! I just can't get into them"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Pos": {
+    "strings": [
+      "I enjoy a good classic from time to time",
+      "I'd love to read something classic",
+      "I usually enjoy a classic piece of literature",
+      "I tend to enjoy the classics"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Pos_Severe": {
+    "strings": [
+      "^classics are my absolute favourite. I must request another one",
+      "^gimme one o'those good ol' classics",
+      "I'd like a must-read classic piece of literature",
+      "I'm looking for a piece of <i>classic</i> literature"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Neg": {
+    "strings": [
+      "I'm not really into coming-of-age stories",
+      "I don't normally enjoy coming-of-age stuff",
+      "^coming-of-age stories aren't really for me"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Neg_Severe": {
+    "strings": [
+      "I'm fed up with constant \"coming-of-age\" plots",
+      "I'm honestly bored with the coming-of-age genre",
+      "^coming-of-age books are a hard pass for me"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Pos": {
+    "strings": [
+      "I like coming-of-age stories",
+      "I'm into coming-of-age stories",
+      "I'm a fan of coming-of-age stories"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Pos_Severe": {
+    "strings": [
+      "I want a book with a coming-of-age plotline",
+      "I'm looking for a coming-of-age book",
+      "I'm craving a new coming-of-age story"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Neg": {
+    "strings": [
+      "I have yet to find a book from this century that I enjoy",
+      "I'm not really a fan of books written in this millennium",
+      "I'm not big into 21st-century books"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Neg_Severe": {
+    "strings": [
+      "I don't want to read anything from this century",
+      "^don't you dare give me anything from this century",
+      "^anything worth saying has been said before the year 2000"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Pos": {
+    "strings": [
+      "^bonus points if it's from this century",
+      "I usually go for 21st century publications",
+      "I prefer books from this century"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Pos_Severe": {
+    "strings": [
+      "I want something from this century",
+      "I'd like a 21st century read",
+      "I'm looking for something contemporary \u2014 from this century \u2014",
+      "I only read contemporary books"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Neg": {
+    "strings": [
+      "I think I already have enough cookbooks",
+      "I don't usually buy cookbooks",
+      "I rarely have the patience to follow cookbook recipes"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Neg_Severe": {
+    "strings": [
+      "I have no use for cookbooks",
+      "I am a grand cook, so don't give me one of those cookbooks",
+      "^cooking makes me so anxious, I don't even want to think about it"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Pos": {
+    "strings": [
+      "I quite enjoy cooking",
+      "^a cookbook would be nice",
+      "I wouldn't mind some culinary inspiration"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Pos_Severe": {
+    "strings": [
+      "I could use a new cookbook",
+      "I'm looking for inspiration for the kitchen",
+      "I'm looking for new cooking tips"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Neg": {
+    "strings": [
+      "I don't usually like crime stories",
+      "I'm not the biggest fan of crime novels",
+      "I don't tend to reach for crime novels",
+      "I don't reeeally go for crime stories"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Neg_Severe": {
+    "strings": [
+      "I hate crime novels. They're too brutal",
+      "I really don't like crime stories",
+      "I'm absolutely not a fan of crime novels",
+      "I'm taking a bold anti-crime stance"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Pos": {
+    "strings": [
+      "I quite enjoy crime novels",
+      "I am partial to a good crime novel",
+      "I adore crime novels",
+      "I'm a bit obsessed with crime novels",
+      "I'm a crime fan! Yep, love crimes",
+      "I'm a huge crimina\u2013 uh I mean crime story fan"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^it should definitely be a crime novel",
+      "I'm looking for a crime novel",
+      "I'm looking for a crime novel, I'm obsessed",
+      "^halt! I can't leave without a new crime novel",
+      "^crime is my passion! Um, I mean, I'd love a crime novel"
+    ]
+  },
+  "Request_bookAttribute_Detective_Neg": {
+    "strings": [
+      "I'm usually not a fan of detective novels",
+      "I'd normally prefer a story without a detective",
+      "^detectives aren't really a selling point for me"
+    ]
+  },
+  "Request_bookAttribute_Detective_Neg_Severe": {
+    "strings": [
+      "I'm utterly opposed to detective novels",
+      "I can't stand those plucky investigator types"
+    ]
+  },
+  "Request_bookAttribute_Detective_Pos": {
+    "strings": [
+      "I wouldn't mind something with a detective",
+      "I'm a fan of world-renowned detectives",
+      "I tend to like most stories with a detective"
+    ]
+  },
+  "Request_bookAttribute_Detective_Pos_Severe": {
+    "strings": [
+      "I'm looking for something with a quirky investigator",
+      "I'm looking for something with a detective",
+      "^give me something with a thrilling case and a dashing detective"
+    ]
+  },
+  "Request_bookAttribute_Detective_Whodunnit_Pos": {
+    "strings": [
+      "^if there's a whodunnit with an interesting detective, I'm sold",
+      "I like detective novels that make you guess who the culprit was",
+      "I've not found a whodunnit I don't like"
+    ]
+  },
+  "Request_bookAttribute_Detective_Whodunnit_Pos_Severe": {
+    "strings": [
+      "I'm craving a whodunnit with an interesting detective",
+      "^please, I need another whodunnit with a fascinating detective"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Neg": {
+    "strings": [
+      "I don't need any of that personal drama in my books",
+      "I can't deal with those whiny, overdramatic stories"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Pos": {
+    "strings": [
+      "I love dramatic books",
+      "I need some drama in my books",
+      "I'm a fan of dramas and plays",
+      "^gimme some theatrics, some emotions, some melodrama"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Pos_Severe": {
+    "strings": [
+      "I love dramatic books",
+      "I need some drama in my books",
+      "I'm a fan of dramas and plays",
+      "^gimme some theatrics, some emotions, some melodrama"
+    ]
+  },
+  "Request_bookAttribute_Dry_Neg": {
+    "strings": [
+      "I don't usually enjoy dry books",
+      "^dry books can be a bit boring",
+      "I don't <i>love</i> dry books"
+    ]
+  },
+  "Request_bookAttribute_Dry_Neg_Severe": {
+    "strings": [
+      "I won't read it if it's super dry",
+      "I can't deal with a dull book right now",
+      "^please, no dry or dull reading"
+    ]
+  },
+  "Request_bookAttribute_Dry_Pos": {
+    "strings": [
+      "I don't mind a dry book",
+      "I don't mind a dull book",
+      "I'm not put off by dry books"
+    ]
+  },
+  "Request_bookAttribute_Dry_Pos_Severe": {
+    "strings": [
+      "I prefer my literature dry as a bone",
+      "I'm looking for a dry book",
+      "I collect dry and dull books"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Neg": {
+    "strings": [
+      "I'm not particularly fond of dystopic stories",
+      "I have yet to enjoy a dystopic story",
+      "I find most dystopian novels to be a bit too dark for me"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Neg_Severe": {
+    "strings": [
+      "I hate when the plot is too dark and dystopic",
+      "I cannot stomach dystopic stories",
+      "^dystopias make me way too anxious"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Pos": {
+    "strings": [
+      "I enjoy dystopian novels",
+      "I could go for something dystopic",
+      "I wouldn't mind if it's dystopic"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Pos_Severe": {
+    "strings": [
+      "I want to read something dystopic",
+      "I'm a total fan of dystopian novels",
+      "^give me something about a grim, dark, dystopian world"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Neg": {
+    "strings": [
+      "I'm not sure I have much use for an encyclopaedia",
+      "I'm not really looking for anything encyclopaedic",
+      "^encyclopaedias aren't that interesting to me"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Neg_Severe": {
+    "strings": [
+      "^no way am I going to read an encyclopaedia in my free time",
+      "^no encyclopaedias! Everything's online nowadays",
+      "^encyclopaedias are way too dull for my tastes"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Pos": {
+    "strings": [
+      "^preferably something encyclopaedic",
+      "^do you happen to have something encyclopaedic",
+      "I wouldn't mind something encyclopaedic",
+      "^encyclopaedias are always interesting"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Pos_Severe": {
+    "strings": [
+      "I need a comprehensive reference book",
+      "I would like an encyclopaedia for reference",
+      "I'm on the hunt for a good encyclopaedia"
+    ]
+  },
+  "Request_bookAttribute_Epic_Neg": {
+    "strings": [
+      "^it doesn't have to be all big and heroic",
+      "I prefer my stories down to earth and understated"
+    ]
+  },
+  "Request_bookAttribute_Epic_Neg_Severe": {
+    "strings": [
+      "I'm really tired of epic and heroic stories",
+      "I really don't get why people like epic stories, it's all a bit much"
+    ]
+  },
+  "Request_bookAttribute_Epic_Pos": {
+    "strings": [
+      "I like a good old epic hero's journey",
+      "^bonus points if it's EPIC",
+      "I like going on epic adventures in my reading"
+    ]
+  },
+  "Request_bookAttribute_Epic_Pos_Severe": {
+    "strings": [
+      "I want something <i>epic</i>",
+      "I want a really epic adventure",
+      "I need to live vicariously through an epic adventure"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Neg": {
+    "strings": [
+      "I'm not that interested in fact books",
+      "I normally avoid fact books"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Neg_Severe": {
+    "strings": [
+      "^facts? Don't wanna hear 'em",
+      "^fact books are just boring to me",
+      "I'm not at all interested in fact books"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Pos": {
+    "strings": [
+      "I'm interested in fact books",
+      "I usually prefer factual books",
+      "^fact books are my usual go-tos"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "I want some cold, hard facts",
+      "I need a fact book, because I want to acquire knowledge",
+      "^give me a fact book"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Neg": {
+    "strings": [
+      "^fantasy isn't normally my favourite",
+      "I'm not usually much of a fantasy fan"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Neg_Severe": {
+    "strings": [
+      "I can't stand fantasy",
+      "I want none of that fantastical, unrealistic stuff",
+      "^fantasy is just not for me",
+      "^fantasy books are just not my cup of tea"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Pos": {
+    "strings": [
+      "I am partial to a good fantasy novel",
+      "^fantasy is my fave",
+      "I can always go for a fantasy novel",
+      "I like escaping into fantasy worlds"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Pos_Severe": {
+    "strings": [
+      "I'm a big fantasy fanatic",
+      "I'd like something with a fantasy world",
+      "I just need another fantasy novel now",
+      "I just can't leave without another fantasy novel",
+      "I absolutely looove fantasy"
+    ]
+  },
+  "Request_bookAttribute_Female-Author_Pos": {
+    "strings": [
+      "I'm trying to read more from female authors",
+      "^bonus points if it was written by a woman",
+      "I wouldn't mind reading more female-penned literature"
+    ]
+  },
+  "Request_bookAttribute_Female-Author_Pos_Severe": {
+    "strings": [
+      "I'm looking for books by women",
+      "I want a book that was written by a woman"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Neg": {
+    "strings": [
+      "I usually don't care for fiction",
+      "I don't tend to read fiction books",
+      "^a fiction book wouldn't be my first choice"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Neg_Severe": {
+    "strings": [
+      "^do NOT give me fiction",
+      "I just don't care for fiction",
+      "I don't read fiction books"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Pos": {
+    "strings": [
+      "I'm down with something fictional",
+      "I rather enjoy fictional stories",
+      "I mostly read fiction",
+      "I normally read fiction books",
+      "I'm into fiction"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Pos_Severe": {
+    "strings": [
+      "I can only read fiction",
+      "^only fiction can fill the void in my heart",
+      "^give me a fiction book, I'm a big fan",
+      "^one fact about me? I'm a die-hard fiction fan"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Neg": {
+    "strings": [
+      "^old legends don't typically interest me",
+      "^folklore isn't usually my thing"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Neg_Severe": {
+    "strings": [
+      "I'm just not interested in old legends",
+      "I don't need to read the same old myths again",
+      "I've grown out of folklore",
+      "^folklore and myths don't appeal to me in the slightest"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Pos": {
+    "strings": [
+      "I quite like reading about myths and legends",
+      "I usually enjoy elements of folklore",
+      "^mythology and folklore have always fascinated me"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Pos_Severe": {
+    "strings": [
+      "I'm looking for a book featuring folklore",
+      "I'd really like something with folklore elements",
+      "^folklore please! I'm all about myths and legends"
+    ]
+  },
+  "Request_bookAttribute_Gore_Neg": {
+    "strings": [
+      "I usually don't like it gory",
+      "I'm happy for my books to be gore-free",
+      "gore tends to make me feel a bit queasy"
+    ]
+  },
+  "Request_bookAttribute_Gore_Neg_Severe": {
+    "strings": [
+      "I can't stand gore",
+      "^please don't give me anything too grisly",
+      "^gore makes me sick",
+      "I get pretty bad nightmares from grisly violence",
+      "please don't give me anything too gory"
+    ]
+  },
+  "Request_bookAttribute_Gore_Pos": {
+    "strings": [
+      "I don't mind a bit of gore",
+      "^the grislier, the better",
+      "^violence is optional but appreciated"
+    ]
+  },
+  "Request_bookAttribute_Gore_Pos_Severe": {
+    "strings": [
+      "^give me something with real stakes, you know, the grisly kind",
+      "^give me something with blood, violence, splatter",
+      "I want gore galore"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Neg": {
+    "strings": [
+      "I'm not that crazy about comics",
+      "I don't usually look for comics",
+      "I don't normally go for graphic novels"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Neg_Severe": {
+    "strings": [
+      "^no comics, I came here for the written word",
+      "I'm not one of those comic nerds",
+      "I'm not a fan of graphic novels at all"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Pos": {
+    "strings": [
+      "^sometimes I enjoy a good graphic novel",
+      "I occasionally collect graphic novels and comics",
+      "I can always go for a comic",
+      "^it might be nice to read a graphic novel"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Pos_Severe": {
+    "strings": [
+      "I'm looking for a graphic novel",
+      "I'm only interested in graphic novels and comics",
+      "I'm a huge comic fan",
+      "POW! One comic, please"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Neg": {
+    "strings": [
+      "I usually prefer stories without a happy ending",
+      "I tend to find happy endings unrealistic",
+      "I'm not super into books with happy endings"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Neg_Severe": {
+    "strings": [
+      "I really don't care for happy endings",
+      "^happy endings have no place in my books",
+      "I think happy endings are a lie"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Pos": {
+    "strings": [
+      "I wouldn't mind a happy ending",
+      "I usually go for books with happy endings",
+      "I quite enjoy books that have happy endings"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Pos_Severe": {
+    "strings": [
+      "I want a happy ending",
+      "^there needs to be a happy ending",
+      "^if there's no happily ever after, I'll cry",
+      "I yearn for a happy ending"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fact-Genre_Pos": {
+    "strings": [
+      "I'm interested in learning about history",
+      "I'm a bit of a history geek",
+      "I've always found historical facts pretty cool"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "I want a book about historical events",
+      "^give me historical facts",
+      "I want to learn more about our history",
+      "I want to do some historical research"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fantasy-Genre_Pos": {
+    "strings": [
+      "I think historical fantasy is neat",
+      "^historical fantasy is pretty cool",
+      "I've always liked historical fantasy"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fantasy-Genre_Pos_Severe": {
+    "strings": [
+      "I want a fantasy book in a historical setting",
+      "^your highness, I do require a historical fantasy book",
+      "I'm a BIG fan of historical fantasy, I just love the flavour"
+    ]
+  },
+  "Request_bookAttribute_Historic_Kids-Genre_Pos_Severe": {
+    "strings": [
+      "I want something with knights or dinos or Romans, for kids",
+      "^need something historical and child-friendly",
+      "^it needs to be about the past, and it needs to be alright for children",
+      "some child-friendly history, please"
+    ]
+  },
+  "Request_bookAttribute_Historic_Neg": {
+    "strings": [
+      "I think history is a bit boring",
+      "I'm usually not interested in history",
+      "I've not yet enjoyed historical settings",
+      "I can't say I'm fond of historical settings"
+    ]
+  },
+  "Request_bookAttribute_Historic_Neg_Severe": {
+    "strings": [
+      "I'm not into that historical stuff",
+      "I'm not at all interested in historical settings",
+      "^historical settings are uttlerly dull to me"
+    ]
+  },
+  "Request_bookAttribute_Historic_Pos": {
+    "strings": [
+      "I quite like historical settings",
+      "I like historical settings",
+      "^historical settings appeal to me"
+    ]
+  },
+  "Request_bookAttribute_Historic_Pos_Severe": {
+    "strings": [
+      "I want something in a historical setting",
+      "I wanna delve into the past \u2014 something historical please",
+      "^knights, romans, vikings \u2014 I want to see some history \u2014",
+      "^something with a historical setting is a must"
+    ]
+  },
+  "Request_bookAttribute_Historic_Romance_Pos": {
+    "strings": [
+      "I've got a soft spot for those historical romances",
+      "^dating dames, kissing knights, romancing Romans... that's the stuff",
+      "I like escaping into a historical romance"
+    ]
+  },
+  "Request_bookAttribute_Historic_Romance_Pos_Severe": {
+    "strings": [
+      "I crave a love story set in the past",
+      "I'm looking for a romance set in the past",
+      "I'm a history buff, and I <i>love</i> love, so I need a historical romance"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Neg": {
+    "strings": [
+      "I'm not really looking for a new hobby book right now",
+      "I don't usually like starting new hobbies",
+      "I don't really have much time for hobbies"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Neg_Severe": {
+    "strings": [
+      "I am absolutely not looking for books on hobbies",
+      "I have enough hobbies already, so don't give me a book on them",
+      "I'm rather busy, so please spare me from books on hobbies"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Pos": {
+    "strings": [
+      "I wouldn't mind learning about a new hobby",
+      "I could go for a new pastime",
+      "I could pick up a new hobby"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Pos_Severe": {
+    "strings": [
+      "I'm looking for a new hobby",
+      "I'm looking for a new pastime and could use some ideas",
+      "I'm looking for something to do, you know, a new hobby"
+    ]
+  },
+  "Request_bookAttribute_Horror_Neg": {
+    "strings": [
+      "I'm a bit of a scaredy-cat",
+      "I could do without scary stuff",
+      "I'm not really into horror",
+      "^horror stories can sometimes be a bit too much for me"
+    ]
+  },
+  "Request_bookAttribute_Horror_Neg_Severe": {
+    "strings": [
+      "I really don't like scary stuff",
+      "I'm not a fan of horror at all",
+      "I easily get nightmares, so no horror stories for me"
+    ]
+  },
+  "Request_bookAttribute_Horror_Pos": {
+    "strings": [
+      "I don't mind a bit of a fright",
+      "^don't hesitate to recommend something scary",
+      "I quite like scary stuff",
+      "I'm into horror",
+      "I can handle a bit of horror"
+    ]
+  },
+  "Request_bookAttribute_Horror_Pos_Severe": {
+    "strings": [
+      "^give me something utterly scary",
+      "^one horror shocker, please",
+      "I want to read something truly horrifying"
+    ]
+  },
+  "Request_bookAttribute_Horror_Romance_Pos": {
+    "strings": [
+      "I like romance, and if it's a bit eerie, I'm even more intrigued",
+      "I'm considering getting into gothic romance",
+      "I recently heard of something called \"horrormance\" and I'm intrigued"
+    ]
+  },
+  "Request_bookAttribute_Horror_Romance_Pos_Severe": {
+    "strings": [
+      "^you know those gothic, atmospheric romance novels? I want one of those",
+      "I can't get enough of gothic romance novels"
+    ]
+  },
+  "Request_bookAttribute_Horror_Science-Fiction_Pos": {
+    "strings": [
+      "I like the kind of sci-fi that has some horror elements, too",
+      "I'm into cosmic horror",
+      "^sci-fi horrors are cool",
+      "^a sci-fi and horror combo would be neat"
+    ]
+  },
+  "Request_bookAttribute_Horror_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "I am looking for a cosmic horror book",
+      "I want to read about terrors from outer space. The more mind-shattering, the better",
+      "I love stories about indescribable horrors - bonus points if they have an indescribable amount of eyes"
+    ]
+  },
+  "Request_bookAttribute_Humour_Neg": {
+    "strings": [
+      "I'm trying to find something free of humour",
+      "I don't usually like when the book tries to be funny",
+      "I think humorous books can be bit cringey",
+      "I've yet to find a \"funny\" book that actually makes me laugh"
+    ]
+  },
+  "Request_bookAttribute_Humour_Neg_Severe": {
+    "strings": [
+      "I hate humour",
+      "I want a book that at least takes itself seriously",
+      "^humour books do NOT amuse me",
+      "humorous books aren't my vibe"
+    ]
+  },
+  "Request_bookAttribute_Humour_Play_Pos": {
+    "strings": [
+      "I quite like reading plays, preferably comedies",
+      "^if I go for plays, they tend to be comedies",
+      "I enjoy comedic plays",
+      "I quite like plays with a bit of humour to them"
+    ]
+  },
+  "Request_bookAttribute_Humour_Play_Pos_Severe": {
+    "strings": [
+      "I need a good laugh, so I was looking for a comedy play",
+      "I want a play that isn't stuffy, with some humour in it",
+      "I need a play, and make it humorous"
+    ]
+  },
+  "Request_bookAttribute_Humour_Pos": {
+    "strings": [
+      "I'm up for something humorous",
+      "I like a book that doesn't take itself too seriously"
+    ]
+  },
+  "Request_bookAttribute_Humour_Pos_Severe": {
+    "strings": [
+      "I want a book with some humour",
+      "I'd like something funny",
+      "I'll only read it if it's humorous"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Fact-Genre_Pos": {
+    "strings": [
+      "I've been meaning to get some child-friendly fact books",
+      "I wouldn't mind something educational, especially if it's good for kids"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "^do you have anything educational for kids? It's for school",
+      "^do you have an educational book for kids? I need a little tutoring",
+      "I need something kid-friendly and educational"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Neg": {
+    "strings": [
+      "I'm usually not looking for children's books",
+      "^kid's books aren't usually for me",
+      "I don't tend to read kid's books"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Neg_Severe": {
+    "strings": [
+      "I'm too old for kid's books",
+      "I don't want anything super childish"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Pos": {
+    "strings": [
+      "I still like children's books",
+      "^even at my age, I still enjoy a good kid's book",
+      "I'm never gonna be too old for a kid's book",
+      "I don't think I'll ever outgrow children's literature"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Pos_Severe": {
+    "strings": [
+      "^it needs to be suitable for a 10-year-old",
+      "^it needs to be suitable for an 8-year-old",
+      "I'm looking for a fresh kid's book",
+      "^one kid's book, please"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Neg": {
+    "strings": [
+      "I'm not usually a casual reader",
+      "I don't mind if it's a bit complicated",
+      "I sometimes find light reading a bit boring"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Neg_Severe": {
+    "strings": [
+      "I only want a book that challenges me",
+      "I think casual reading is pointless",
+      "I don't go for frivolous literature"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Pos": {
+    "strings": [
+      "I prefer to read uncomplicated books",
+      "I enjoy my books light and entertaining",
+      "I'm more of a casual reader"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Pos_Severe": {
+    "strings": [
+      "^give me something that's entertaining and not too demanding",
+      "I want something easy, entertaining and uncomplicated",
+      "I'm just getting back into reading, so I'd like something light and entertaining"
+    ]
+  },
+  "Request_bookAttribute_Long_Neg": {
+    "strings": [
+      "^try to keep it under 450 pages",
+      "I prefer books that aren't too long"
+    ]
+  },
+  "Request_bookAttribute_Long_Neg_Severe": {
+    "strings": [
+      "^nothing too long",
+      "I just can't deal with too many pages",
+      "I just don't have time for a lot of pages",
+      "I really don't want anything that'll take me forever to get through"
+    ]
+  },
+  "Request_bookAttribute_Long_Pos": {
+    "strings": [
+      "^normally, I enjoy longer books",
+      "I wouldn't mind a book with 450 pages or more",
+      "I quite like the feeling of a heftier book",
+      "I enjoy getting sucked into a really long book"
+    ]
+  },
+  "Request_bookAttribute_Long_Pos_Severe": {
+    "strings": [
+      "I want something with a lot of pages",
+      "I need a book with a high page count",
+      "I won't read anything under 450 pages",
+      "I'm gonna need at least 450 pages"
+    ]
+  },
+  "Request_bookAttribute_Magic_Neg": {
+    "strings": [
+      "I don't normally like it when authors add magic to everything",
+      "I'm good without magic in my books",
+      "^magic doesn't usually enchant me",
+      "I'm not that fussed on books about magic"
+    ]
+  },
+  "Request_bookAttribute_Magic_Neg_Severe": {
+    "strings": [
+      "^the book better not have any magic",
+      "I don't approve of witchcraft and magic and such",
+      "I really don't want anything with magic in my book",
+      "I don't believe in magic, so there's no way I want to read about it"
+    ]
+  },
+  "Request_bookAttribute_Magic_Pos": {
+    "strings": [
+      "I like magical stories",
+      "^magic elements are always fun",
+      "^you can't go wrong with a bit of magic"
+    ]
+  },
+  "Request_bookAttribute_Magic_Pos_Severe": {
+    "strings": [
+      "I need magic! Whimsy! Occult stuff",
+      "I'm looking for something magical or supernatural",
+      "I want something magical",
+      "^something magical, please! I want to be enchanted"
+    ]
+  },
+  "Request_bookAttribute_Manga_Neg": {
+    "strings": [
+      "I don't usually read mangas",
+      "^most mangas aren't my cup of tea"
+    ]
+  },
+  "Request_bookAttribute_Manga_Neg_Severe": {
+    "strings": [
+      "I don't read mangas",
+      "I don't want one of those mangas"
+    ]
+  },
+  "Request_bookAttribute_Manga_Pos": {
+    "strings": [
+      "I'm partial to a good manga",
+      "I wouldn't mind a manga",
+      "I could go for a manhwa or manga",
+      "I'm quite fond of manhwa and mangas"
+    ]
+  },
+  "Request_bookAttribute_Manga_Pos_Severe": {
+    "strings": [
+      "I'm not leaving without a manga or manhwa",
+      "I <i>love</i> manga more than anything"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Neg": {
+    "strings": [
+      "I'd prefer if it didn't include a mystery",
+      "I usually don't like solving mysteries",
+      "mysteries aren't really my thing"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Neg_Severe": {
+    "strings": [
+      "^nothing mysterious, please",
+      "I really don't want a mystery",
+      "I hate mysteries"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Pos": {
+    "strings": [
+      "I usually enjoy a good mystery plot",
+      "I've got a soft spot for mysteries",
+      "I wouldn't say no to a good mystery"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Pos_Severe": {
+    "strings": [
+      "I'd love to get a new mystery",
+      "I'd like a book with some mystery",
+      "I want a mystery plot"
+    ]
+  },
+  "Request_bookAttribute_Nature_Neg": {
+    "strings": [
+      "^plants and nature aren't usually my thing",
+      "I am reluctant to read anything about nature",
+      "I'm not usually interested in the natural world"
+    ]
+  },
+  "Request_bookAttribute_Nature_Neg_Severe": {
+    "strings": [
+      "^nature just isn't for me",
+      "I find nature utterly repulsive",
+      "I won't read a book about nature"
+    ]
+  },
+  "Request_bookAttribute_Nature_Pos": {
+    "strings": [
+      "I'm a friend of nature",
+      "I enjoy books about plants and nature",
+      "I wouldn't mind learning more about nature",
+      "I've always been interested in nature"
+    ]
+  },
+  "Request_bookAttribute_Nature_Pos_Severe": {
+    "strings": [
+      "I'm looking for a book about nature",
+      "^give me a book about plants or rocks or animals \u2014 as long as it's about nature \u2014",
+      "I'd like to read more about the beautiful nature on planet Earth"
+    ]
+  },
+  "Request_bookAttribute_Niche_Neg": {
+    "strings": [
+      "^niche books aren't usually my cup of tea",
+      "^try to give me something not too obscure",
+      "I don't usually go for anything too niche"
+    ]
+  },
+  "Request_bookAttribute_Niche_Neg_Severe": {
+    "strings": [
+      "I don't read niche books",
+      "^don't give me one of your obscure books",
+      "I'm not interested in anything niche"
+    ]
+  },
+  "Request_bookAttribute_Niche_Pos": {
+    "strings": [
+      "I wouldn't mind something niche",
+      "I like niche books for the most part",
+      "I tend to read lesser-known works"
+    ]
+  },
+  "Request_bookAttribute_Niche_Pos_Severe": {
+    "strings": [
+      "^give me one of your niche hidden gems",
+      "I want to do a deep dive",
+      "^give me something very niche"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Neg": {
+    "strings": [
+      "^non-fiction usually bores me",
+      "I have yet to find a non-fiction book worth my time",
+      "I'm not really interested in non-fiction"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Neg_Severe": {
+    "strings": [
+      "I have absolutely no interest in non-fiction",
+      "I never go for non-fiction books",
+      "I steer clear of non-fiction books"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Pos": {
+    "strings": [
+      "I usually prefer non-fiction",
+      "I heard the non-fiction here is good",
+      "I'm getting more into non-fiction these days",
+      "I tend to lean a little more towards non-fiction"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Pos_Severe": {
+    "strings": [
+      "I'd love to read something to do with real-life",
+      "I am looking for a non-fiction book",
+      "I only want non-fiction"
+    ]
+  },
+  "Request_bookAttribute_Novel_Classic-Genre_Pos": {
+    "strings": [
+      "I tend to like classic novels",
+      "I normally go for literary classics"
+    ]
+  },
+  "Request_bookAttribute_Novel_Classic-Genre_Pos_Severe": {
+    "strings": [
+      "I'm looking for a classic literary novel",
+      "I would like a vintage novel, you know, a piece of literature",
+      "I only want the greatest of literary classics"
+    ]
+  },
+  "Request_bookAttribute_Novel_Contemporary_Pos": {
+    "strings": [
+      "I wouldn't mind a contemporary novel",
+      "I read a lot of contemporary novels",
+      "^contemporary novels are kind of my thing"
+    ]
+  },
+  "Request_bookAttribute_Novel_Contemporary_Pos_Severe": {
+    "strings": [
+      "I'm looking for a great contemporary fiction novel",
+      "please help me find a contemporary fiction novel",
+      "^there's absolutely nothing better than contemporary novels",
+      "I hope you've got a contemporary novel for me"
+    ]
+  },
+  "Request_bookAttribute_Novel_Neg": {
+    "strings": [
+      "I think most regular fiction novels are a tad boring",
+      "I don't like most literary fiction"
+    ]
+  },
+  "Request_bookAttribute_Novel_Neg_Severe": {
+    "strings": [
+      "I find literary fiction really boring",
+      "I just don't like literary fiction",
+      "^literary fiction doesn't appeal to me at all"
+    ]
+  },
+  "Request_bookAttribute_Novel_Pos": {
+    "strings": [
+      "I enjoy literary fiction",
+      "I typically go for character-driven novels"
+    ]
+  },
+  "Request_bookAttribute_Novel_Pos_Severe": {
+    "strings": [
+      "I just want a literary fiction novel",
+      "I feel like reading literary fiction",
+      "I'm in the mood for a character-driven novel"
+    ]
+  },
+  "Request_bookAttribute_Novel_Romance_Pos": {
+    "strings": [
+      "I'm fond of sophisticated romance novels",
+      "I like romance, but something more literary and serious would be appreciated",
+      "^a literary novel with romance could be nice"
+    ]
+  },
+  "Request_bookAttribute_Novel_Romance_Pos_Severe": {
+    "strings": [
+      "I'm looking for a piece of romance literature",
+      "I <i>need</i> romantic literature",
+      "^sophisticated romance novels are my favourite"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Neg": {
+    "strings": [
+      "I hope you don't give me anything outdated",
+      "I've never been that into outdated books",
+      "I'd rather not have anything too outdated"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Neg_Severe": {
+    "strings": [
+      "^don't give me an outdated book",
+      "I have no use for old, outdated books",
+      "I need something with relevance \u2014 nothing outdated \u2014"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Pos": {
+    "strings": [
+      "I find outdated books rather charming",
+      "I don't mind if it's a little outdated",
+      "I'm not put off by outdated books"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Pos_Severe": {
+    "strings": [
+      "I collect outdated books",
+      "I'm only interested in your outdated works",
+      "I need something outdated"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Neg": {
+    "strings": [
+      "I'm not the biggest fan of philosophical books",
+      "I don't think I get philosophical books",
+      "^philosophical stories have always seemed a bit pointless to me"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Neg_Severe": {
+    "strings": [
+      "I really can't stand endless philosophising",
+      "I don't know why people waste their time on philosophy",
+      "^philosophy is boooring"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Pos": {
+    "strings": [
+      "I like philosophical books",
+      "^philosophy is my cup of tea",
+      "I could go for something philosophical",
+      "I'm feeling philosophical"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Pos_Severe": {
+    "strings": [
+      "I really need a philosophical book right now",
+      "^give me a book that asks deep questions about human nature",
+      "I need to get more into philosophy"
+    ]
+  },
+  "Request_bookAttribute_Play_Neg": {
+    "strings": [
+      "I don't really <i>get</i> plays",
+      "I don't think I need plays in my life",
+      "I've yet to enjoy reading a play"
+    ]
+  },
+  "Request_bookAttribute_Play_Neg_Severe": {
+    "strings": [
+      "I really don't like plays",
+      "^plays and I, we just don't go well together",
+      "I just can't get into the flow of plays"
+    ]
+  },
+  "Request_bookAttribute_Play_Pos": {
+    "strings": [
+      "^you can't go wrong with a play",
+      "I quite enjoy plays"
+    ]
+  },
+  "Request_bookAttribute_Play_Pos_Severe": {
+    "strings": [
+      "^give me something straight from the stage",
+      "^all the world's a stage, so give me a play",
+      "I am intent on reading a play",
+      "^the drama, the style, the <i>emotions</i>! It has to be a play for me"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Neg": {
+    "strings": [
+      "I'd rather not read anything with a plot twist",
+      "I'd prefer a story without a plot twist",
+      "plot twists are usually a bit too exciting for me"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Neg_Severe": {
+    "strings": [
+      "I hate plot twists",
+      "^please, no plot twists! They're sooo overdone",
+      "I really don't want any plot twists"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Pos": {
+    "strings": [
+      "I tend to like books with unexpected twists",
+      "I'm partial to a plot twist",
+      "I usually like books with plot twists"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Pos_Severe": {
+    "strings": [
+      "I'm looking for a book with a twist",
+      "I'd something with a plot that twists and turns",
+      "^plot twists are a must"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Neg": {
+    "strings": [
+      "I've never really understood poetry",
+      "I don't think I get poetry",
+      "^poetry has always been a bit elusive to me"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Neg_Severe": {
+    "strings": [
+      "I just don't get poetic language",
+      "^don't give me anything poetic",
+      "I cannot and will not engage with poetry"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Pos": {
+    "strings": [
+      "I like books with poetic language",
+      "^something poetic would be nice",
+      "I could go for something poetic"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Pos_Severe": {
+    "strings": [
+      "I'm looking for something poetic right now",
+      "I need some poetry in my life",
+      "^make me feel, make me think, give me something poetic"
+    ]
+  },
+  "Request_bookAttribute_Political_Neg": {
+    "strings": [
+      "I'd rather not read something with a political message",
+      "^actually, I would prefer not to read anything political",
+      "^political books are usually a bit too heavy for me"
+    ]
+  },
+  "Request_bookAttribute_Political_Neg_Severe": {
+    "strings": [
+      "I cannot stomach books with political messages",
+      "^political messages make me feel way too depressed"
+    ]
+  },
+  "Request_bookAttribute_Political_Pos": {
+    "strings": [
+      "I like books that have a political message",
+      "^political books don't scare me"
+    ]
+  },
+  "Request_bookAttribute_Political_Pos_Severe": {
+    "strings": [
+      "I could really use something with a political message",
+      "I want something with a political message"
+    ]
+  },
+  "Request_bookAttribute_Political_Science-Fiction_Pos": {
+    "strings": [
+      "I'm intrigued by those political sci-fi stories",
+      "I'm a fan of sci-fi, especially the political kind",
+      "I've recently been interested in political sci-fis",
+      "I wouldn't mind getting into some political sci-fi"
+    ]
+  },
+  "Request_bookAttribute_Political_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "I'm looking for speculative fiction books, I'm a big fan",
+      "I love thinking about fictional politics, it's my favourite sci-fi theme",
+      "I'd like to expand my mind, so give me a political sci-fi"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Neg": {
+    "strings": [
+      "I usually find pop-science a bit dull",
+      "I'm not really much of a pop-science reader",
+      "^pop-science isn't really my thing"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Neg_Severe": {
+    "strings": [
+      "I'm not gonna read any of that \"popular\" science",
+      "I detest pop-science",
+      "^pop-science is my pet-peeve"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Pos": {
+    "strings": [
+      "^pop-science is a go-to of mine",
+      "^pop-science makes me feel well informed",
+      "I never say no to a bit of pop-sci"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Pos_Severe": {
+    "strings": [
+      "I want a science book that explains things well for beginners",
+      "I'd like one of your popular science books",
+      "I am looking for a new pop-science binge"
+    ]
+  },
+  "Request_bookAttribute_Queer_Pos": {
+    "strings": [
+      "I often look for books with queer representation",
+      "^it'd be nice to get something with queer representation"
+    ]
+  },
+  "Request_bookAttribute_Queer_Pos_Severe": {
+    "strings": [
+      "I'd like something with queer representation",
+      "^queer representation is really quite important to me",
+      "^my reads must have queer representation"
+    ]
+  },
+  "Request_bookAttribute_Romance_Neg": {
+    "strings": [
+      "I'm usually not a fan of romance",
+      "^nothing too romantic, please",
+      "I'm not crazy about romance"
+    ]
+  },
+  "Request_bookAttribute_Romance_Neg_Severe": {
+    "strings": [
+      "^no romance, please",
+      "^don't give me romance, I hate those pesky love-triangles",
+      "I'm not a fan of romance",
+      "^absolutely nothing romantic, please"
+    ]
+  },
+  "Request_bookAttribute_Romance_Pos": {
+    "strings": [
+      "I enjoy the odd romance plot from time to time",
+      "I wouldn't mind if there was romance",
+      "I could get into a romance novel"
+    ]
+  },
+  "Request_bookAttribute_Romance_Pos_Severe": {
+    "strings": [
+      "I want something with a romance plot line",
+      "I will rage if none of the characters kiss",
+      "^please give me something <i>romantic</i>",
+      "I want yearning and blushing, please",
+      "I'm helplessly in love with romance novels",
+      "^romance is a must-have for me"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Neg": {
+    "strings": [
+      "I'm a bit bored by science fiction",
+      "I don't necessarily <i>love</i> sci-fi",
+      "^sci-fi isn't really my thing"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Neg_Severe": {
+    "strings": [
+      "^no sci-fi for me",
+      "I could never read a sci-fi book",
+      "I think speculative fiction is an absolute waste of time"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Pos": {
+    "strings": [
+      "I usually enjoy a good sci-fi story",
+      "I'm rather fond of good sci-fi stories",
+      "I have a soft spot for science fiction"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "I'm looking for anything sci-fi",
+      "^it needs to be science fiction",
+      "I can't live without sci-fi",
+      "I'm a huge sci-fi nerd"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Neg": {
+    "strings": [
+      "^usually I find advice books a bit dull",
+      "^self-help books are usually not my cup of tea",
+      "I don't think I need a self-help book right now"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Neg_Severe": {
+    "strings": [
+      "I hate those condescending self-help books",
+      "I absolutely don't care for books that try to give me life advice"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Pos": {
+    "strings": [
+      "I'm open to an advice book",
+      "^a book on self-help would be nice",
+      "I wouldn't mind a self-help book"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Pos_Severe": {
+    "strings": [
+      "I desperately need some life advice",
+      "I think I need a self-help book",
+      "I want to work on myself a bit",
+      "I'd love an advice or self-help book",
+      "^recently I've been feeling a bit lost, I could really use a self-help book"
+    ]
+  },
+  "Request_bookAttribute_Series_Neg": {
+    "strings": [
+      "I'm not quick to start a new series",
+      "I'm not sure I'm ready for a new series yet",
+      "I'm not sure I've got time for a series"
+    ]
+  },
+  "Request_bookAttribute_Series_Neg_Severe": {
+    "strings": [
+      "^don't get me invested in a series",
+      "I don't have time to start a series right now",
+      "^don't give me something from a series",
+      "I don't want to commit to a whole series"
+    ]
+  },
+  "Request_bookAttribute_Series_Pos": {
+    "strings": [
+      "I wouldn't mind starting a new series",
+      "I typically pick books from a series",
+      "^something from a series would be nice"
+    ]
+  },
+  "Request_bookAttribute_Series_Pos_Severe": {
+    "strings": [
+      "I'd like to start a new series",
+      "I'm looking for the next book in a series",
+      "I want something that's part of a series",
+      "I hate when books just... end! Give me a series"
+    ]
+  },
+  "Request_bookAttribute_Short_Neg": {
+    "strings": [
+      "^ideally it should have more than 200 pages",
+      "I don't typically go for very short books",
+      "I don't tend to reach for books with under 200 pages"
+    ]
+  },
+  "Request_bookAttribute_Short_Neg_Severe": {
+    "strings": [
+      "^nothing too short",
+      "I only read books with at least 200 pages",
+      "^don't give me one of those thin books"
+    ]
+  },
+  "Request_bookAttribute_Short_Pos": {
+    "strings": [
+      "I normally prefer short and sweet books",
+      "^if there are less than 200 pages, that's a plus for me"
+    ]
+  },
+  "Request_bookAttribute_Short_Pos_Severe": {
+    "strings": [
+      "I want something short and sweet",
+      "^gimme something with a low page count",
+      "I can only commit to something with less than 200 pages"
+    ]
+  },
+  "Request_bookAttribute_Space_Neg": {
+    "strings": [
+      "I'm a bit tired of space stories",
+      "^space travel isn't really my thing",
+      "I don't really need space travel in my books"
+    ]
+  },
+  "Request_bookAttribute_Space_Neg_Severe": {
+    "strings": [
+      "^space travel is just not my thing",
+      "I don't. care. about. space",
+      "^space makes me nauseous",
+      "I need some space from outer space"
+    ]
+  },
+  "Request_bookAttribute_Space_Pos": {
+    "strings": [
+      "I'm interested in outer space",
+      "I like books about galaxies, wormholes, and stuff like that",
+      "I find outer space fascinating"
+    ]
+  },
+  "Request_bookAttribute_Space_Pos_Severe": {
+    "strings": [
+      "I'm looking for something with outer space",
+      "I'm <i>obsessed</i> with outer space",
+      "Houston, give me something set in outer space"
+    ]
+  },
+  "Request_bookAttribute_Space_Science-Fiction_Pos": {
+    "strings": [
+      "I mostly like sci-fi because of the planets and the aliens",
+      "^my favourite sci-fi stories are the ones on other planets",
+      "I call myself a sci-fi nerd, but I mostly prefer the ones in space"
+    ]
+  },
+  "Request_bookAttribute_Space_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "I wanna see something with space travel, distant galaxies, far off empires... You know, the good stuff",
+      "^is there anything cooler than space sci-fi and aliens? I don't think so",
+      "I'm utterly obsessed with outer space sci-fi"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Crime-Genre_Pos": {
+    "strings": [
+      "^my favourite crime novels are the super suspenseful ones. The ones you can't put down",
+      "I've always been drawn to thrilling crime stories",
+      "I like my crime novels more on the thriller side of the spectrum"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^give me a crime thriller! A real nail-biter",
+      "I've got low blood pressure, please prescribe me another crime thriller",
+      "I need a crime story that'll thrill me",
+      "give me a crime story! And make it thrilling"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Neg": {
+    "strings": [
+      "I'm not really a fan of thrillers",
+      "I usually don't go for thrillers",
+      "^thrillers aren't really my style"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Neg_Severe": {
+    "strings": [
+      "I'm really not a fan of thrillers",
+      "^thrillers make me way too anxious",
+      "^no thrillers for me \u2014 doctor's orders \u2014"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Pos": {
+    "strings": [
+      "I wouldn't mind something a bit thrilling",
+      "^it wouldn't hurt if it had a thrilling, gripping plot",
+      "I quite like a thrilling story"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Pos_Severe": {
+    "strings": [
+      "^give me a real thrilling page-turner",
+      "I absolutely need a thriller",
+      "I'm craving a new thriller",
+      "I want something thrilling and suspenseful",
+      "I'm an absolute thriller fan"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Neg": {
+    "strings": [
+      "I'd prefer something not too tragic",
+      "^it would be nice if it's not super tragic",
+      "^tragedies are often a bit too... tragic for me"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Neg_Severe": {
+    "strings": [
+      "I can't cope with something tragic right now",
+      "^no tragedies pleeease",
+      "^no tragedies! I don't need to cry right now"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Pos": {
+    "strings": [
+      "I could go for a tragic story",
+      "I like books that basically rip my heart out",
+      "I'm not afraid of a bit of tragedy"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Pos_Severe": {
+    "strings": [
+      "I just need an absolutely gut-wrenching tragedy",
+      "^give me something tragic",
+      "I want a tragic tear-jerker"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Crime-Genre_Pos": {
+    "strings": [
+      "I believe crime novels can sometimes make the best travel guides",
+      "I like crime novels, and if they can take me somewhere new then that's a plus",
+      "I like crime novels that I can get a little travel inspo from"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "I'm looking for a crime story that will satisfy my wanderlust",
+      "I love crime stories, but I also need holiday inspo, so please combine the two",
+      "^take me somewhere new! But there needs to be some crime happening there"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Neg": {
+    "strings": [
+      "I'm not the biggest fan of travel books",
+      "I normally steer clear of travel literature",
+      "^travel books aren't really for me"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Neg_Severe": {
+    "strings": [
+      "I don't like reading about real places",
+      "I'm not a fan of travel books",
+      "^travel books are of no interest to me"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Pos": {
+    "strings": [
+      "I'm a traveller, I like reading about real places",
+      "I love all kinds of different books about travel"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Pos_Severe": {
+    "strings": [
+      "I have to get out of the house, give me a travel book",
+      "I really love to read about real places",
+      "I need something about travel",
+      "I need to be whisked away by a good travel book"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Neg": {
+    "strings": [
+      "I don't really need any more travel guides",
+      "I'm not really a big traveller",
+      "I haven't got the time for holidays, so I don't really need a travel guide"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Neg_Severe": {
+    "strings": [
+      "I don't want any more travel guides",
+      "I don't see the point in travel guides",
+      "^please don't give me a travel guide"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Pos": {
+    "strings": [
+      "I wouldn't mind reading another travel guide",
+      "I could go for a travel guide",
+      "^a travel guide might be nice"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Pos_Severe": {
+    "strings": [
+      "I'm looking for possible holiday destinations",
+      "I'm looking for a travel guide",
+      "I need a new travel guide",
+      "I want travel inspo"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Neg": {
+    "strings": [
+      "I'd like to be able to carry the book",
+      "^try to find something with less than 700 pages",
+      "I don't think I want anything with, like, 700+ pages"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Neg_Severe": {
+    "strings": [
+      "^don't give me one of those super heavy books",
+      "^life's too short to read a book with over 700 pages",
+      "I really don't have the time for anything over 700 pages"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Pos": {
+    "strings": [
+      "^the longer the book, the better",
+      "I'm ready for a 700-page commitment",
+      "I wouldn't mind challenging myself to a reeeally long read"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Pos_Severe": {
+    "strings": [
+      "I want a MASSIVE book! That's right! 700 pages or more",
+      "I need an absolute unit of a book... 700 pages at a minimum",
+      "^give me one of those huge tomes, you know, with more than 700 pages"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Neg": {
+    "strings": [
+      "^personally, I think whodunnits are a tad overdone by now",
+      "I'm not massively into whodunnits",
+      "I think whodunnits are a little overrated"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Neg_Severe": {
+    "strings": [
+      "^Don't give me another one of those whodunnits",
+      "I find whodunnits intolerable",
+      "^if I have to guess who did it, I'm going to be annoyed"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Pos": {
+    "strings": [
+      "I can always go for a good whodunnit",
+      "I love that whodunnits are having a comeback",
+      "I wouldn't mind a whodunnit"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Pos_Severe": {
+    "strings": [
+      "I'm looking for a fresh whodunnit",
+      "^please give me one more whodunnit for my collection",
+      "I need to find out whodunnit"
+    ]
+  },
+  "Request_bookAttribute_YA_Neg": {
+    "strings": [
+      "I'm not really into YA fiction",
+      "YA isn't normally my thing",
+      "I find it hard to get into most YA stuff"
+    ]
+  },
+  "Request_bookAttribute_YA_Neg_Severe": {
+    "strings": [
+      "^young adult novels definitely aren't for me",
+      "I don't really get the YA craze",
+      "^please, no YA fiction"
+    ]
+  },
+  "Request_bookAttribute_YA_Pos": {
+    "strings": [
+      "I occasionally enjoy escaping with a good YA novel",
+      "I'm a bit of a YA fan",
+      "^you usually can't go wrong with a good YA novel",
+      "I don't mind reading young adult fiction"
+    ]
+  },
+  "Request_bookAttribute_YA_Pos_Severe": {
+    "strings": [
+      "I'd like a YA novel",
+      "I am not leaving without a fresh YA book",
+      "YA please! I'm obsessed"
+    ]
+  },
   "Title_1,000_Places_to_See_Before_You_Die": {
     "strings": [
       "1,000 Places to See Before You Die"

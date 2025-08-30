@@ -1564,6 +1564,1839 @@
       "^novela juvenil"
     ]
   },
+  "Request_bookAttribute_Academic_Neg": {
+    "strings": [
+      "^no quiero nada demasiado pretencioso",
+      "^las obras acad\u00e9micas y complicadas no me van mucho",
+      "^no busco nada complicado ni dif\u00edcil de leer"
+    ]
+  },
+  "Request_bookAttribute_Academic_Neg_Severe": {
+    "strings": [
+      "^nada intelectualoide",
+      "^no busco nada pretencioso",
+      "^no quiero obras acad\u00e9micas"
+    ]
+  },
+  "Request_bookAttribute_Academic_Pos": {
+    "strings": [
+      "^me encanta la literatura seria y sofisticada",
+      "^no te cortes en ofrecerme obras sofisticadas",
+      "^no estar\u00eda mal descubrir algo m\u00e1s sofisticado"
+    ]
+  },
+  "Request_bookAttribute_Academic_Pos_Severe": {
+    "strings": [
+      "^busco algo que desaf\u00ede mi intelecto",
+      "^solo consumo literatura seria y sofisticada",
+      "^ens\u00e9\u00f1ame el libro m\u00e1s prestigioso que tengas",
+      "^tengo que entrenar las neuronas con algo intelectual"
+    ]
+  },
+  "Request_bookAttribute_Animals_Neg": {
+    "strings": [
+      "^no quiero libros de animales",
+      "^los libros de animales no me van demasiado",
+      "^no me gusta que salgan animales en los libros"
+    ]
+  },
+  "Request_bookAttribute_Animals_Neg_Severe": {
+    "strings": [
+      "^no quiero saber nada de animales. Me dan alergia",
+      "^no hay animal que no me d\u00e9 miedo",
+      "^no quiero que salga ni un animal en mis libros",
+      "^los libros de animales me dan verg\u00fcenza ajena"
+    ]
+  },
+  "Request_bookAttribute_Animals_Pos": {
+    "strings": [
+      "^estar\u00eda bien un libro con animales",
+      "^si salen animales, mejor que mejor",
+      "^los libros sobre animales nunca fallan"
+    ]
+  },
+  "Request_bookAttribute_Animals_Pos_Severe": {
+    "strings": [
+      "^buscaba algo con animales cuquis",
+      "^querr\u00eda algo con muchos animales chulos",
+      "^me encantan los animales"
+    ]
+  },
+  "Request_bookAttribute_Biography_Neg": {
+    "strings": [
+      "^las biograf\u00edas me parecen aburridas",
+      "^no suelo leer biograf\u00edas"
+    ]
+  },
+  "Request_bookAttribute_Biography_Neg_Severe": {
+    "strings": [
+      "^no me interesan las biograf\u00edas",
+      "^nunca leo biograf\u00edas",
+      "^las biograf\u00edas me resultan muy aburridas"
+    ]
+  },
+  "Request_bookAttribute_Biography_Pos": {
+    "strings": [
+      "^me gusta leer sobre gente real",
+      "^me interesan las biograf\u00edas de todo tipo",
+      "^soy muy fan de las biograf\u00edas"
+    ]
+  },
+  "Request_bookAttribute_Biography_Pos_Severe": {
+    "strings": [
+      "^quiero una autobiograf\u00eda",
+      "^estoy buscando una biograf\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Horror_Pos": {
+    "strings": [
+      "^suelo disfrutar de cl\u00e1sicos de terror",
+      "^soy muy fan de las historias de terror cl\u00e1sicas",
+      "^me gustan mucho las novelas cl\u00e1sicas de terror"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Horror_Pos_Severe": {
+    "strings": [
+      "^me encantar\u00eda una historia de terror cl\u00e1sica",
+      "^me encanta el terror cl\u00e1sico, dame algo escalofriante y sofisticado"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Neg": {
+    "strings": [
+      "^no suelo leer literatura cl\u00e1sica",
+      "^los cl\u00e1sicos suelen aburrirme",
+      "^no suelo interesarme por los cl\u00e1sicos"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Neg_Severe": {
+    "strings": [
+      "^no me des uno de esos cl\u00e1sicos viejos y aburridos",
+      "^me va a dar algo como tenga que leerme otro de esos <b>cl\u00e1sicos</b>",
+      "^no puedo leer libros cl\u00e1sicos... Me dan alergia.",
+      "\u00a1^por favor, cl\u00e1sicos no! No soy capaz de disfrutar de ellos"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Pos": {
+    "strings": [
+      "^me gusta leer cl\u00e1sicos de vez en cuando",
+      "^me encantar\u00eda leer alg\u00fan cl\u00e1sico",
+      "^suelo disfrutar de la literatura cl\u00e1sica",
+      "^me suelen gustar los cl\u00e1sicos"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Pos_Severe": {
+    "strings": [
+      "^los cl\u00e1sicos son mis favoritos. Tengo que pedir otro",
+      "^dame uno de esos viejos cl\u00e1sicos",
+      "^me gustar\u00eda leer alg\u00fan libro de esos que hay que leer",
+      "^busco algo de literatura <i>cl\u00e1sica</i>"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Neg": {
+    "strings": [
+      "^estoy hasta las narices de historias de \u00abcrecimiento personal\u00bb",
+      "^no me suele gustar el rollo de la evoluci\u00f3n personal",
+      "^las novelas de aprendizaje no son lo m\u00edo"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Neg_Severe": {
+    "strings": [
+      "^me cansa tanta historia de crecimiento personal",
+      "^sinceramente, las novelas de aprendizaje me aburren",
+      "^las novelas de aprendizaje ni las tengo en cuenta"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Pos": {
+    "strings": [
+      "^me gustan las historias de crecimiento personal",
+      "^quiero un libro sobre evoluci\u00f3n personal",
+      "^me gustar\u00eda leer una novela de aprendizaje"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Pos_Severe": {
+    "strings": [
+      "^quiero un libro basado en el crecimiento personal",
+      "^busco una novela de aprendizaje",
+      "^me encantar\u00eda una novela de aprendizaje"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Neg": {
+    "strings": [
+      "^a\u00fan no he encontrado un libro de este siglo que me guste",
+      "^no me apasionan los libros de este milenio",
+      "^no me atraen los libros del siglo XXI"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Neg_Severe": {
+    "strings": [
+      "^no quiero leer nada de este siglo",
+      "^ni se te ocurra darme nada de este siglo",
+      "^todo lo que merec\u00eda ser contado ya se ha hecho antes del 2000"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Pos": {
+    "strings": [
+      "^si es de este siglo, es un plus",
+      "^suelo limitarme a publicaciones del siglo XXI",
+      "^prefiero los libros de este siglo"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Pos_Severe": {
+    "strings": [
+      "^buscaba algo de este siglo",
+      "^me gusta la literatura del siglo XXI",
+      "^busco algo contempor\u00e1neo, de este siglo",
+      "^solo leo libros contempor\u00e1neos"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Neg": {
+    "strings": [
+      "^creo que ya tengo bastantes libros de cocina",
+      "^no suelo comprar libros de cocina",
+      "^no tengo la paciencia necesaria para cocinar"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Neg_Severe": {
+    "strings": [
+      "^no sabr\u00eda qu\u00e9 hacer con un libro de cocina",
+      "^cocino tan bien que no necesito ning\u00fan libro",
+      "^la cocina me estresa tanto que ni siquiera quiero pensar en ello"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Pos": {
+    "strings": [
+      "^me gusta bastante la cocina",
+      "^un libro de cocina estar\u00eda bien",
+      "^me vendr\u00eda bien algo de inspiraci\u00f3n culinaria"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Pos_Severe": {
+    "strings": [
+      "^estoy buscando un nuevo libro de cocina",
+      "^busco inspiraci\u00f3n para la cocina",
+      "^estoy buscando nuevos truquillos culinarios"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Neg": {
+    "strings": [
+      "^no suelen gustarme las novelas de cr\u00edmenes",
+      "^no me gustan mucho las historias de cr\u00edmenes",
+      "^no soy muy de novelas de cr\u00edmenes",
+      "^las novelas de cr\u00edmenes no son lo m\u00edo"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Neg_Severe": {
+    "strings": [
+      "^odio las novelas de cr\u00edmenes. Son demasiado bestias",
+      "^no me gustan nada las novelas de cr\u00edmenes",
+      "^no soy fan de las novelas de cr\u00edmenes, para nada",
+      "^mi posici\u00f3n es de rechazo total al crimen"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Pos": {
+    "strings": [
+      "^disfruto bastante de las novelas de cr\u00edmenes",
+      "^me suelen gustar las buenas novelas de cr\u00edmenes",
+      "^adoro las novelas de cr\u00edmenes",
+      "^tengo una obsesi\u00f3n con las novelas de cr\u00edmenes",
+      "\u00a1^soy fan de los cr\u00edmenes! Sip, me encantan",
+      "^me encanta el crimen, o sea... las novelas de cr\u00edmenes."
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^deber\u00eda ser una novela de cr\u00edmenes",
+      "^estoy buscando una novela de cr\u00edmenes",
+      "^estoy buscando una novela de cr\u00edmenes, tengo una obsesi\u00f3n",
+      "\u00a1Espera! ^no puedo irme de aqu\u00ed sin una novela de cr\u00edmenes nueva",
+      "\u00a1^el crimen es mi pasi\u00f3n! O sea, quiero decir, me encantan las novelas de cr\u00edmenes"
+    ]
+  },
+  "Request_bookAttribute_Detective_Neg": {
+    "strings": [
+      "^las novelas de detectives no me apasionan",
+      "^normalmente prefiero una historia sin detectives",
+      "^los detectives no son algo que me encante"
+    ]
+  },
+  "Request_bookAttribute_Detective_Neg_Severe": {
+    "strings": [
+      "^no me gustan nada las novelas de detectives",
+      "^no soporto a esos petulantes detectives"
+    ]
+  },
+  "Request_bookAttribute_Detective_Pos": {
+    "strings": [
+      "^no me importar\u00eda leer algo acerca de un detective",
+      "^soy fan de los detectives famosos",
+      "^me suelen gustar las historias cuyo protagonista es un detective"
+    ]
+  },
+  "Request_bookAttribute_Detective_Pos_Severe": {
+    "strings": [
+      "^estoy buscando algo sobre un investigador exc\u00e9ntrico",
+      "^estoy buscando cualquier cosa que tenga un detective",
+      "^dame algo que tenga un caso emocionante y un detective apuesto"
+    ]
+  },
+  "Request_bookAttribute_Detective_Whodunnit_Pos": {
+    "strings": [
+      "^si hay un detective interesante buscando a un culpable, ya me lo has vendido",
+      "^me gustan las novelas de detectives en las que adivinas qui\u00e9n es el culpable",
+      "^no hay novela de detectives que no me guste"
+    ]
+  },
+  "Request_bookAttribute_Detective_Whodunnit_Pos_Severe": {
+    "strings": [
+      "^tengo ganas de una buena novela detectivesca",
+      "^necesito otra novela con un detective de los buenos"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Neg": {
+    "strings": [
+      "^no quiero ning\u00fan libro sobre dramas personales",
+      "^no soporto esos dramas sensibleros y exagerados"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Pos": {
+    "strings": [
+      "Me encantan los libros sobre dramas",
+      "Necesito algunos libros sobre dramas",
+      "Me encantan los dramas y las obras de teatro",
+      "^Necesito teatralidad, sentimentalidad, melodrama"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Pos_Severe": {
+    "strings": [
+      "^me encantan los libros dram\u00e1ticos",
+      "^me gusta que mis libros tengan algo de drama",
+      "^me encantan la dramaturgia y las obras",
+      "^dame algo de teatro, emociones, melodrama"
+    ]
+  },
+  "Request_bookAttribute_Dry_Neg": {
+    "strings": [
+      "^no me suelen gustar los libros aburridos",
+      "^los libros aburridos son un tost\u00f3n",
+      "^no me gustan los libros aburridos"
+    ]
+  },
+  "Request_bookAttribute_Dry_Neg_Severe": {
+    "strings": [
+      "^si es superaburrido, ni lo abro",
+      "^ahora mismo no tengo el cuerpo para libros aburridos",
+      "^nada de literatura aburrida, por favor"
+    ]
+  },
+  "Request_bookAttribute_Dry_Pos": {
+    "strings": [
+      "^no me importan los libros aburridos",
+      "^no le hago ascos a un libro aburrido",
+      "^los libros aburridos no est\u00e1n tan mal"
+    ]
+  },
+  "Request_bookAttribute_Dry_Pos_Severe": {
+    "strings": [
+      "^un libro, cuanto m\u00e1s aburrido, mejor",
+      "^estoy buscando un libro aburrido",
+      "^colecciono libros aburridos"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Neg": {
+    "strings": [
+      "^no me llaman mucho las novelas dist\u00f3picas",
+      "^las historias dist\u00f3picas no son lo m\u00edo",
+      "^la mayor\u00eda de las novelas dist\u00f3picas son demasiado oscuras para mi gusto"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Neg_Severe": {
+    "strings": [
+      "^odio las historias oscuras y dist\u00f3picas",
+      "^no puedo con las novelas dist\u00f3picas",
+      "^las novelas dist\u00f3picas me ponen de los nervios"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Pos": {
+    "strings": [
+      "^me gustan las novelas dist\u00f3picas",
+      "^me gustar\u00eda leer una novelas dist\u00f3pica",
+      "^si es dist\u00f3pico, mejor"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Pos_Severe": {
+    "strings": [
+      "^quiero leer algo dist\u00f3pico",
+      "^soy superfan de las novelas dist\u00f3picas",
+      "^dame algo que hable de un mundo dist\u00f3pico y oscuro"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Neg": {
+    "strings": [
+      "^no s\u00e9 yo si le sacar\u00eda partido a una enciclopedia",
+      "^no estoy buscando nada enciclop\u00e9dico",
+      "^no me interesan demasiado las enciclopedias"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Neg_Severe": {
+    "strings": [
+      "^ni por asomo me leo yo una enciclopedia en mi tiempo libre",
+      "^nada de enciclopedias. Adem\u00e1s, ya est\u00e1 todo en la red",
+      "^las enciclopedias me parecen aburrid\u00edsimas"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Pos": {
+    "strings": [
+      "^buscaba algo un poco m\u00e1s enciclop\u00e9dico",
+      "^a ver si tienes algo enciclop\u00e9dico por ah\u00ed",
+      "^me vendr\u00eda bien algo enciclop\u00e9dico",
+      "^las enciclopedias me resultan muy interesantes"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Pos_Severe": {
+    "strings": [
+      "^busco una obra de referencia lo m\u00e1s completa posible",
+      "^necesito una enciclopedia de referencia",
+      "^estoy buscando una buena enciclopedia"
+    ]
+  },
+  "Request_bookAttribute_Epic_Neg": {
+    "strings": [
+      "^no tiene que ser todo a lo grande y heroico",
+      "^prefiero las historias sencillas y realistas"
+    ]
+  },
+  "Request_bookAttribute_Epic_Neg_Severe": {
+    "strings": [
+      "^ya me he cansado de historias \u00e9picas de h\u00e9roes",
+      "^no entiendo a qui\u00e9n le pueden gustar las epopeyas, son desbordantes"
+    ]
+  },
+  "Request_bookAttribute_Epic_Pos": {
+    "strings": [
+      "^nada como las viejas historias de h\u00e9roes",
+      "^cuanto m\u00e1s \u00e9pica la historia, mejor",
+      "^me gusta leer aventuras \u00e9picas"
+    ]
+  },
+  "Request_bookAttribute_Epic_Pos_Severe": {
+    "strings": [
+      "^quiero algo <i>\u00e9pico</i>",
+      "^quiero una aventura \u00e9pica de verdad",
+      "^quiero vivir aut\u00e9nticas epopeyas a trav\u00e9s de los libros"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Neg": {
+    "strings": [
+      "\u00bf^no ficci\u00f3n? Paso del tema",
+      "^suelo evitar los libros de no ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Neg_Severe": {
+    "strings": [
+      "\u00bf^hechos? No me interesan",
+      "^los libros de no ficci\u00f3n me aburren",
+      "^no me interesa la no ficci\u00f3n, para nada"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Pos": {
+    "strings": [
+      "^estoy buscando libros de informaci\u00f3n",
+      "^suelo preferir libros de no ficci\u00f3n",
+      "^los libros de informaci\u00f3n son mis preferidos"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "^quiero hechos, nada de florituras",
+      "^necesito un libro de informaci\u00f3n, he de adquirir conocimientos",
+      "^dame un libro que no sea de ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Neg": {
+    "strings": [
+      "^la fantas\u00eda no suele ser mi g\u00e9nero favorito",
+      "^no soy muy fan de la fantas\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Neg_Severe": {
+    "strings": [
+      "^no soporto la fantas\u00eda",
+      "^no quiero nada de tonter\u00edas fant\u00e1sticas",
+      "^la fantas\u00eda no es para m\u00ed",
+      "^no me llaman mucho los libros de fantas\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Pos": {
+    "strings": [
+      "^me pirran los libros de fantas\u00eda",
+      "^la fantas\u00eda es mi g\u00e9nero favorito",
+      "^me chiiiflan las novelas de fantas\u00eda",
+      "^me encanta perderme en mundos de fantas\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Pos_Severe": {
+    "strings": [
+      "^soy superfan de la fantas\u00eda",
+      "^me gustar\u00eda leer algo que tenga un mundo de fantas\u00eda",
+      "^ahora mismo solo necesito otra novela de fantas\u00eda",
+      "^no puedo irme sin otra novela de fantas\u00eda",
+      "^me encaaanta la fantas\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Female-Author_Pos": {
+    "strings": [
+      "^quiero leer libros de autoras",
+      "^me atrae m\u00e1s si lo ha escrito una mujer",
+      "^me gustar\u00eda leer m\u00e1s libros escritos por mujeres"
+    ]
+  },
+  "Request_bookAttribute_Female-Author_Pos_Severe": {
+    "strings": [
+      "^busco libros escritos por mujeres",
+      "^busco un libro escrito por una mujer"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Neg": {
+    "strings": [
+      "^normalmente no me interesa la ficci\u00f3n",
+      "^no suelo leer libros de ficci\u00f3n",
+      "^un libro de ficci\u00f3n no ser\u00eda mi primera elecci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Neg_Severe": {
+    "strings": [
+      "^no me des nada de ficci\u00f3n",
+      "^la ficci\u00f3n no me interesa",
+      "^nunca leo libros de ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Pos": {
+    "strings": [
+      "^me apasiona todo lo que sea ficci\u00f3n",
+      "^me encantan las historias ficticias",
+      "^la ficci\u00f3n es lo que m\u00e1s me va"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Pos_Severe": {
+    "strings": [
+      "^solo puedo leer ficci\u00f3n",
+      "^solo la ficci\u00f3n puede llenar el vac\u00edo de mi coraz\u00f3n",
+      "^dame un libro de ficci\u00f3n, soy superfan",
+      "\u00bf^un dato sobre m\u00ed? Soy muy muy fan de la ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Neg": {
+    "strings": [
+      "^no suelen atraerme las leyendas antiguas",
+      "^el folclore no me va demasiado"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Neg_Severe": {
+    "strings": [
+      "^no me interesan las antiguas leyendas",
+      "^no me apetece leer las mismas viejas historias de siempre",
+      "^me he cansado del folclore",
+      "^los mitos y el folclore no me atraen lo m\u00e1s m\u00ednimo"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Pos": {
+    "strings": [
+      "^me gustan los libros sobre mitos y leyendas",
+      "^me atrae todo lo relacionado con el folclore",
+      "^siempre me han fascinado la mitolog\u00eda y el folclore"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Pos_Severe": {
+    "strings": [
+      "^busco un libro que incluya folclore",
+      "^me encantar\u00eda algo con elementos de folclore",
+      "^folclore, por favor. Me apasionan los mitos y las leyendas"
+    ]
+  },
+  "Request_bookAttribute_Gore_Neg": {
+    "strings": [
+      "^no me suele gustar la casquer\u00eda",
+      "^prefiero los libros sin derramamientos de sangre",
+      "^la violencia expl\u00edcita me pone mal cuerpo"
+    ]
+  },
+  "Request_bookAttribute_Gore_Neg_Severe": {
+    "strings": [
+      "^no soporto lo macabro",
+      "^por favor, no me ofrezcas algo demasiado macabro",
+      "^la sangre me levanta el est\u00f3mago",
+      "^la violencia expl\u00edcita me quita el sue\u00f1o",
+      "^no me ofrezcas algo demasiado sangriento, por favor"
+    ]
+  },
+  "Request_bookAttribute_Gore_Pos": {
+    "strings": [
+      "^no me importa un poco de sangre",
+      "^cuanto m\u00e1s macabro, mejor",
+      "^la violencia no es esencial, pero se agradece"
+    ]
+  },
+  "Request_bookAttribute_Gore_Pos_Severe": {
+    "strings": [
+      "^no me gusta la censura, quiero toda la chicha",
+      "^dame algo con sangre, violencia y casquer\u00eda",
+      "^quiero sangre a raudales"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Neg": {
+    "strings": [
+      "^no me apasionan los c\u00f3mics",
+      "^no suelo buscar c\u00f3mics",
+      "^las novelas gr\u00e1ficas no me suelen interesar"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Neg_Severe": {
+    "strings": [
+      "^no quiero c\u00f3mics, me gusta la palabra escrita",
+      "^no soy uno de esos frikis de los c\u00f3mics",
+      "^no soy fan de las novelas gr\u00e1ficas en absoluto"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Pos": {
+    "strings": [
+      "^a veces disfruto de una buena novela gr\u00e1fica",
+      "^de vez en cuando me compro una novela gr\u00e1fica o un c\u00f3mic",
+      "^un c\u00f3mic siempre entra bien",
+      "^podr\u00eda estar bien leer una novela gr\u00e1fica"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Pos_Severe": {
+    "strings": [
+      "^estoy buscando una novela gr\u00e1fica",
+      "^solo me interesan las novelas gr\u00e1ficas y los c\u00f3mics",
+      "^soy muy fan de los c\u00f3mics",
+      "\u00a1POW! Un c\u00f3mic, por favor"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Neg": {
+    "strings": [
+      "^mejor que no tenga un final feliz",
+      "^los finales felices me suelen parecer poco realistas",
+      "^no me entusiasman los libros con finales felices"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Neg_Severe": {
+    "strings": [
+      "^no me interesan los libros con finales felices",
+      "^los finales felices no tienen cabida en mi estanter\u00eda",
+      "^creo que los finales felices son una falsedad"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Pos": {
+    "strings": [
+      "^quiero que tenga un final feliz",
+      "^suelen gustarme los libros con final feliz",
+      "^me gustan los libros que acaban bien"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Pos_Severe": {
+    "strings": [
+      "^quiero un buen final feliz",
+      "^tiene que acabar bien",
+      "^si no viven felices y comen perdices, llorar\u00e9",
+      "^me encantan los finales felices"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fact-Genre_Pos": {
+    "strings": [
+      "^me gustar\u00eda aprender historia",
+      "^soy un poco friki de la historia",
+      "^siempre me han atra\u00eddo los hechos hist\u00f3ricos"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "^busco un libro sobre eventos hist\u00f3ricos",
+      "^recomi\u00e9ndame algo con hechos hist\u00f3ricos",
+      "^me gustar\u00eda aprender algo m\u00e1s de historia",
+      "^quiero investigar un poco sobre la historia"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fantasy-Genre_Pos": {
+    "strings": [
+      "^la fantas\u00eda hist\u00f3rica me parece genial",
+      "^la fantas\u00eda hist\u00f3rica mola bastante",
+      "^siempre me ha gustado la fantas\u00eda hist\u00f3rica"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fantasy-Genre_Pos_Severe": {
+    "strings": [
+      "^quiero un libro de fantas\u00eda con trasfondo hist\u00f3rico",
+      "^alteza, recomendadme un libro de fantas\u00eda hist\u00f3rica",
+      "^me apasiona la fantas\u00eda hist\u00f3rica, me encanta empaparme de ella"
+    ]
+  },
+  "Request_bookAttribute_Historic_Kids-Genre_Pos_Severe": {
+    "strings": [
+      "^busco algo con caballeros, dinosaurios o romanos, para ni\u00f1os",
+      "^necesito algo hist\u00f3rico para ni\u00f1os",
+      "^tiene que ser sobre el pasado, pero tambi\u00e9n adecuado para ni\u00f1os",
+      "^me gustar\u00eda algo de historia para ni\u00f1os"
+    ]
+  },
+  "Request_bookAttribute_Historic_Neg": {
+    "strings": [
+      "^la historia me parece un poco aburrida",
+      "^no me suele interesar demasiado la historia",
+      "^todav\u00eda no le he visto el atractivo a los contextos hist\u00f3ricos",
+      "^no me va demasiado la historia"
+    ]
+  },
+  "Request_bookAttribute_Historic_Neg_Severe": {
+    "strings": [
+      "^paso de todo lo relacionado con la historia",
+      "^no me interesan en absoluto los eventos hist\u00f3ricos",
+      "^toda la historia me aburre much\u00edsimo"
+    ]
+  },
+  "Request_bookAttribute_Historic_Pos": {
+    "strings": [
+      "^me gustan mucho los contextos hist\u00f3ricos",
+      "^me gustan los contextos hist\u00f3ricos",
+      "^me atraen los contextos hist\u00f3ricos"
+    ]
+  },
+  "Request_bookAttribute_Historic_Pos_Severe": {
+    "strings": [
+      "^quiero algo ambientado en la historia",
+      "^quiero empaparme del pasado, as\u00ed que quiero algo hist\u00f3rico",
+      "^caballeros, romanos, vikingos... Quiero algo de historia",
+      "^algo ambientado en un contexto hist\u00f3rico es fundamental"
+    ]
+  },
+  "Request_bookAttribute_Historic_Romance_Pos": {
+    "strings": [
+      "^me derrito con los romances hist\u00f3ricos",
+      "^damiselas en apuros, besos de caballeros, romanos rom\u00e1nticos... Eso es lo m\u00edo",
+      "^me encanta perderme en romances hist\u00f3ricos"
+    ]
+  },
+  "Request_bookAttribute_Historic_Romance_Pos_Severe": {
+    "strings": [
+      "^tengo ganas de una buena historia de amor del pasado",
+      "^busco un romance que transcurra en el pasado",
+      "^me entusiasma la historia y <i>amo</i> el amor, as\u00ed que necesito un romance hist\u00f3rico"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Neg": {
+    "strings": [
+      "^no me apetece meterme en otro hobby ahora mismo",
+      "^no soy muy de pasatiempos",
+      "^ahora mismo no tengo tiempo para otro hobby"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Neg_Severe": {
+    "strings": [
+      "^no me interesan los libros de pasatiempos",
+      "^ya tengo muchas aficiones, no necesito un libro del tema",
+      "^no tengo mucho tiempo para aficiones nuevas"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Pos": {
+    "strings": [
+      "^no me importar\u00eda aprender un nuevo hobby",
+      "^podr\u00eda aficionarme a algo",
+      "^podr\u00eda buscar un hobby nuevo"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Pos_Severe": {
+    "strings": [
+      "^estoy buscando un hobby nuevo",
+      "^busco un hobby nuevo y necesito ideas",
+      "^busco algo que hacer, ya sabes, como un hobby nuevo",
+      "^necesito una nueva obsesi\u00f3n, un nuevo hobby"
+    ]
+  },
+  "Request_bookAttribute_Horror_Neg": {
+    "strings": [
+      "^me asusto con facilidad",
+      "^no me gustan los libros de miedo",
+      "^el terror no me apasiona",
+      "^la historias de miedo pueden llegar a ser demasiado para mi"
+    ]
+  },
+  "Request_bookAttribute_Horror_Neg_Severe": {
+    "strings": [
+      "^no me gustan nada las historias de terror",
+      "^no soy fan del terror en absoluto",
+      "^tengo pesadillas con facilidad, as\u00ed que nada que d\u00e9 miedo, porfa"
+    ]
+  },
+  "Request_bookAttribute_Horror_Pos": {
+    "strings": [
+      "^me gustan los libros de miedo",
+      "^no te cortes en recomendarme algo de miedo",
+      "^me gustan bastante las cosas espeluznantes",
+      "^me encanta el terror",
+      "^me gusta leer algo de terror"
+    ]
+  },
+  "Request_bookAttribute_Horror_Pos_Severe": {
+    "strings": [
+      "^dame algo que sea terror\u00edfico de verdad",
+      "^un libro de terror, por favor",
+      "^quiero leer algo que me haga cagarme de miedo"
+    ]
+  },
+  "Request_bookAttribute_Horror_Romance_Pos": {
+    "strings": [
+      "^me gusta el romance, y si adem\u00e1s da miedo, mejor",
+      "^me estoy planteando descubrir el romance g\u00f3tico",
+      "^hace poco o\u00ed hablar del terror rom\u00e1ntico y me llam\u00f3 la atenci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Horror_Romance_Pos_Severe": {
+    "strings": [
+      "^supongo que habr\u00e1s o\u00eddo hablar de esas novelas g\u00f3ticas rom\u00e1nticas, \u00bfno? Pues eso es lo que busco",
+      "^jam\u00e1s me cansar\u00e9 de las novelas de romances g\u00f3ticos"
+    ]
+  },
+  "Request_bookAttribute_Horror_Science-Fiction_Pos": {
+    "strings": [
+      "^me gusta la ciencia ficci\u00f3n con toques de terror",
+      "^me apasiona el terror c\u00f3smico",
+      "^el terror de ciencia ficci\u00f3n mola mucho",
+      "^una combinaci\u00f3n de terror y ciencia ficci\u00f3n estar\u00eda genial"
+    ]
+  },
+  "Request_bookAttribute_Horror_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "^busco un libro de terror c\u00f3smico",
+      "^quiero leer acerca de los terrores del espacio exterior. Cuanto m\u00e1s inquietantes, mejor",
+      "^me encantan las historias sobre terrores indescriptibles. Y si tienen un mont\u00f3n de ojos, mejor"
+    ]
+  },
+  "Request_bookAttribute_Humour_Neg": {
+    "strings": [
+      "^busco algo sin nada de humor",
+      "^no me gustan los libros que intentan ser divertidos",
+      "^los libros humor\u00edsticos me dan un poco de grima",
+      "^a\u00fan no he encontrado ning\u00fan libro \u00abgracioso\u00bb que me haga re\u00edr de verdad"
+    ]
+  },
+  "Request_bookAttribute_Humour_Neg_Severe": {
+    "strings": [
+      "^odio la comedia",
+      "^busco un libro que al menos parezca serio",
+      "^los libros de comedia no me hacen til\u00edn",
+      "^los libros humor\u00edsticos no son lo m\u00edo"
+    ]
+  },
+  "Request_bookAttribute_Humour_Play_Pos": {
+    "strings": [
+      "^me gusta leer obras de teatro, a ser posible comedia",
+      "^si se trata de teatro, prefiero la comedia",
+      "^me gustan las obras de comedia",
+      "^me gustan las obras con algo de humor"
+    ]
+  },
+  "Request_bookAttribute_Humour_Play_Pos_Severe": {
+    "strings": [
+      "^necesito unas buenas risas, as\u00ed que nada mejor que una obra c\u00f3mica",
+      "^quiero una obra que no sea muy remilgada, con algo de comedia",
+      "^quiero una obra, a ser posible c\u00f3mica"
+    ]
+  },
+  "Request_bookAttribute_Humour_Pos": {
+    "strings": [
+      "^estoy buscando algo gracioso",
+      "^me gustan los libros que se r\u00eden de s\u00ed mismos"
+    ]
+  },
+  "Request_bookAttribute_Humour_Pos_Severe": {
+    "strings": [
+      "^quiero un libro con algo de humor",
+      "^busco algo divertido",
+      "^solo lo leer\u00e9 si me hace re\u00edr"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Fact-Genre_Pos": {
+    "strings": [
+      "^estoy buscando libros educativos para ni\u00f1os",
+      "^quisiera algo educativo, sobre todo pensado para ni\u00f1os"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "^espero que tengas algo educativo para ni\u00f1os. Es para el cole",
+      "^a ver si tienes alg\u00fan libro educativo para ni\u00f1os. Tengo que ponerme las pilas",
+      "^necesito algo educativo para ni\u00f1os"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Neg": {
+    "strings": [
+      "^no suelen interesarme los libros infantiles",
+      "^los libros infantiles no son lo m\u00edo",
+      "^no suelo leer libros para ni\u00f1os"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Neg_Severe": {
+    "strings": [
+      "^soy demasiado mayor para libros infantiles",
+      "^no quiero nada que sea demasiado infantil"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Pos": {
+    "strings": [
+      "^todav\u00eda me gustan los libros para ni\u00f1os",
+      "^a pesar de la edad que tengo, todav\u00eda me gustan los libros infantiles",
+      "^nunca se es demasiado mayor para un buen libro infantil",
+      "^creo que nunca voy a cansarme de la literatura infantil"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Pos_Severe": {
+    "strings": [
+      "^tiene que ser apto para un ni\u00f1o de 10 a\u00f1os",
+      "^tiene que poderlo leer un ni\u00f1o de 8 a\u00f1os",
+      "^busco un libro nuevo para ni\u00f1os",
+      "^un libro para ni\u00f1os, por favor"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Neg": {
+    "strings": [
+      "^quiero un libro que suponga un desaf\u00edo",
+      "^no me importa si es un poco complicado",
+      "^la lectura ligera me parece un poco aburrida"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Neg_Severe": {
+    "strings": [
+      "^quiero un libro que suponga un desaf\u00edo",
+      "^creo que la lectura ligera no tiene sentido",
+      "^no me interesa la literatura fr\u00edvola"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Pos": {
+    "strings": [
+      "\u00bf^podr\u00edas recomendarme algo que no sea muy complicado de leer?",
+      "^quiero algo sencillo y f\u00e1cil de leer",
+      "^no suelo leer demasiado"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Pos_Severe": {
+    "strings": [
+      "^dame algo que sea entretenido y no exija demasiado",
+      "^quiero algo sencillo, entretenido y f\u00e1cil de leer",
+      "^estoy retomando la lectura, as\u00ed que no quiero que sea muy enrevesado, por favor"
+    ]
+  },
+  "Request_bookAttribute_Long_Neg": {
+    "strings": [
+      "^no quiero nada de m\u00e1s de 450 p\u00e1ginas",
+      "^no quiero libros demasiado largos"
+    ]
+  },
+  "Request_bookAttribute_Long_Neg_Severe": {
+    "strings": [
+      "^no quiero nada demasiado largo",
+      "^no soporto los libros demasiado largos",
+      "^no tengo tiempo para montones de p\u00e1ginas",
+      "^no quiero tirarme una eternidad con lo mismo"
+    ]
+  },
+  "Request_bookAttribute_Long_Pos": {
+    "strings": [
+      "^me gustan los libros gordos",
+      "^quiero un libro con m\u00e1s de 450 p\u00e1ginas",
+      "^siempre me ha gustado un buen libraco",
+      "^me encanta que me absorba un buen libro largo"
+    ]
+  },
+  "Request_bookAttribute_Long_Pos_Severe": {
+    "strings": [
+      "^quiero algo con un buen mont\u00f3n de p\u00e1ginas",
+      "^busco un libro con un buen n\u00famero de p\u00e1ginas",
+      "^no pienso leer nada de menos de 450 p\u00e1ginas",
+      "^voy a necesitar como m\u00ednimo 450 p\u00e1ginas"
+    ]
+  },
+  "Request_bookAttribute_Magic_Neg": {
+    "strings": [
+      "^no suele gustarme que los autores recurran en todo momento a la magia",
+      "^prefiero los libros sin magia",
+      "^la magia no suele atraerme",
+      "^los libros de magia no son mi pasi\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Magic_Neg_Severe": {
+    "strings": [
+      "^mejor que el libro no sea de magia",
+      "^no me atrae la brujer\u00eda, la magia y dem\u00e1s",
+      "^no quiero saber nada de magia en mis libros",
+      "^no creo en la magia, as\u00ed que no pienso leer sobre ella"
+    ]
+  },
+  "Request_bookAttribute_Magic_Pos": {
+    "strings": [
+      "^me gustan las historias con magia",
+      "^la magia siempre me divierte",
+      "^con la magia nunca te equivocas"
+    ]
+  },
+  "Request_bookAttribute_Magic_Pos_Severe": {
+    "strings": [
+      "^necesito magia. \u00a1Fantas\u00eda! Misterios",
+      "^busco algo m\u00e1gico o sobrenatural",
+      "^quiero algo m\u00e1gico",
+      "^algo m\u00e1gico, por favor. Quiero sentir la magia"
+    ]
+  },
+  "Request_bookAttribute_Manga_Neg": {
+    "strings": [
+      "^no suelo leer mangas",
+      "^la mayor\u00eda de los mangas no me dicen mucho"
+    ]
+  },
+  "Request_bookAttribute_Manga_Neg_Severe": {
+    "strings": [
+      "^no leo mangas",
+      "^no quiero un manga de esos"
+    ]
+  },
+  "Request_bookAttribute_Manga_Pos": {
+    "strings": [
+      "^suelo disfrutar de un buen manga",
+      "^un manga estar\u00eda bien",
+      "^podr\u00eda leerme un manhwa o un manga",
+      "^me gustan bastante los manhwas y los mangas"
+    ]
+  },
+  "Request_bookAttribute_Manga_Pos_Severe": {
+    "strings": [
+      "^de aqu\u00ed no me voy sin un manga o un manhwa",
+      "^me <i>encantan</i> los mangas, es lo que m\u00e1s leo"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Neg": {
+    "strings": [
+      "^no quiero nada que tenga que ver con el misterio",
+      "^no me gusta tener que resolver misterios",
+      "^los relatos de misterio no son lo m\u00edo"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Neg_Severe": {
+    "strings": [
+      "^nada de misterio, por favor",
+      "^no quiero leer una historia de misterio",
+      "^odio las novelas de misterio"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Pos": {
+    "strings": [
+      "^suelo disfrutar con una buena historia de misterio",
+      "^me gustan los libros sobre misterios",
+      "^no le dir\u00eda que no a una buena novela de misterio"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Pos_Severe": {
+    "strings": [
+      "^me gustar\u00eda una nueva novela de misterio",
+      "^quiero un libro que tenga algo de misterio",
+      "^quiero leer una historia cargada de misterio"
+    ]
+  },
+  "Request_bookAttribute_Nature_Neg": {
+    "strings": [
+      "^las plantas y la naturaleza no me van demasiado",
+      "^no me apetece leer nada sobre naturaleza",
+      "^no me suele interesar mucho el mundo natural"
+    ]
+  },
+  "Request_bookAttribute_Nature_Neg_Severe": {
+    "strings": [
+      "^no me va mucho la naturaleza",
+      "^odio la naturaleza con toda mi alma",
+      "^no leer\u00eda un libro de naturaleza ni pag\u00e1ndome"
+    ]
+  },
+  "Request_bookAttribute_Nature_Pos": {
+    "strings": [
+      "^me apasiona la naturaleza",
+      "^me gustan los libros sobre plantas y naturaleza",
+      "^no me importar\u00eda leer m\u00e1s sobre naturaleza",
+      "^siempre me ha atra\u00eddo la naturaleza"
+    ]
+  },
+  "Request_bookAttribute_Nature_Pos_Severe": {
+    "strings": [
+      "^busco un libro sobre naturaleza",
+      "^dame cualquier libro sobre plantas, rocas o animales. Mientras sea de naturaleza, me vale",
+      "^quisiera leer m\u00e1s sobre la incre\u00edble naturaleza del planeta Tierra"
+    ]
+  },
+  "Request_bookAttribute_Niche_Neg": {
+    "strings": [
+      "^los libros de nicho no suelen gustarme",
+      "^b\u00fascame algo que no sea demasiado oscuro",
+      "^no suelo decantarme por libros de nicho"
+    ]
+  },
+  "Request_bookAttribute_Niche_Neg_Severe": {
+    "strings": [
+      "^nunca leo libros de nicho",
+      "^no quiero saber nada de libros oscuros",
+      "^no me interesa nada de nicho"
+    ]
+  },
+  "Request_bookAttribute_Niche_Pos": {
+    "strings": [
+      "^no me importar\u00eda algo de nicho",
+      "^me gustan casi todos los libros de nicho",
+      "^suelo decantarme por obras menos conocidas"
+    ]
+  },
+  "Request_bookAttribute_Niche_Pos_Severe": {
+    "strings": [
+      "^ens\u00e9\u00f1ame alguna de tus joyas de nicho",
+      "^me apetece lanzarme a por todo",
+      "^ens\u00e9\u00f1ame algo de nicho de verdad"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Neg": {
+    "strings": [
+      "^la no ficci\u00f3n me aburre",
+      "^no he encontrado un solo libro que no sea de ficci\u00f3n y merezca la pena",
+      "^no me ofrezcas nada que no sea de ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Neg_Severe": {
+    "strings": [
+      "^la no ficci\u00f3n no me interesa en absoluto",
+      "^nunca leo libros de no ficci\u00f3n",
+      "^la no ficci\u00f3n, cuanto m\u00e1s lejos, mejor"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Pos": {
+    "strings": [
+      "^me encantar\u00eda leer algo real",
+      "^he o\u00eddo que tienes buenos relatos de no ficci\u00f3n",
+      "^\u00faltimamente me estoy aficionando a la no ficci\u00f3n",
+      "^tiendo m\u00e1s a leer libros de no ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Pos_Severe": {
+    "strings": [
+      "^me encantar\u00eda leer algo que tenga que ver con la vida real",
+      "^busco un libro que no sea de ficci\u00f3n",
+      "^solo quiero algo que no sea de ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Novel_Classic-Genre_Pos": {
+    "strings": [
+      "^me suelo decantar por novelas cl\u00e1sicas",
+      "^normalmente elijo cl\u00e1sicos de la literatura"
+    ]
+  },
+  "Request_bookAttribute_Novel_Classic-Genre_Pos_Severe": {
+    "strings": [
+      "^busco una novela literaria cl\u00e1sica",
+      "^me gustar\u00eda leer una novela cl\u00e1sica, una obra destacada de la literatura",
+      "^solo me conformo con los mayores cl\u00e1sicos literarios"
+    ]
+  },
+  "Request_bookAttribute_Novel_Contemporary_Pos": {
+    "strings": [
+      "^no me importar\u00eda una novela contempor\u00e1nea",
+      "^he le\u00eddo muchas novelas contempor\u00e1neas",
+      "^me gustan mucho las novelas contempor\u00e1neas"
+    ]
+  },
+  "Request_bookAttribute_Novel_Contemporary_Pos_Severe": {
+    "strings": [
+      "^estoy buscando una gran novela de ficci\u00f3n contempor\u00e1nea",
+      "^ay\u00fadame a encontrar una novela de ficci\u00f3n contempor\u00e1nea",
+      "^no hay nada como una buena novela contempor\u00e1nea",
+      "^espero que tengas alguna buena novela contempor\u00e1nea para m\u00ed"
+    ]
+  },
+  "Request_bookAttribute_Novel_Neg": {
+    "strings": [
+      "^las novelas de ficci\u00f3n son un aut\u00e9ntico rollazo",
+      "^no me gustan la mayor\u00eda de libros de ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Novel_Neg_Severe": {
+    "strings": [
+      "^las novelas de ficci\u00f3n me parecen aburrid\u00edsimas",
+      "^no me hacen gracia las novelas de ficci\u00f3n",
+      "^las novelas de ficci\u00f3n no me llaman para nada"
+    ]
+  },
+  "Request_bookAttribute_Novel_Pos": {
+    "strings": [
+      "^me gusta la literatura de ficci\u00f3n",
+      "^me suelen gustar las novelas centradas en los personajes"
+    ]
+  },
+  "Request_bookAttribute_Novel_Pos_Severe": {
+    "strings": [
+      "^busco literatura de ficci\u00f3n",
+      "^me apetece leer novelas de ficci\u00f3n",
+      "^me gustar\u00eda leer una novela centrada en los personajes"
+    ]
+  },
+  "Request_bookAttribute_Novel_Romance_Pos": {
+    "strings": [
+      "^me apasionan las novelas con romances intrincados",
+      "^me gusta el romance, pero prefiero algo m\u00e1s serio y literario",
+      "^una novela literaria de amor estar\u00eda bien"
+    ]
+  },
+  "Request_bookAttribute_Novel_Romance_Pos_Severe": {
+    "strings": [
+      "^busco algo de literatura rom\u00e1ntica",
+      "^<i>necesito</i> literatura rom\u00e1ntica",
+      "^las novelas rom\u00e1nticas intrincadas son mis favoritas"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Neg": {
+    "strings": [
+      "^espero que no me ofrezcas nada anticuado",
+      "^nunca me han atra\u00eddo los libros desactualizados",
+      "^preferir\u00eda algo actual"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Neg_Severe": {
+    "strings": [
+      "^no me ofrezcas ning\u00fan libro anticuado",
+      "^no me interesan los viejos libros desactualizados",
+      "^necesito algo relevante, actual a ser posible"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Pos": {
+    "strings": [
+      "^me encantan los libros antiguos",
+      "^no me importa si est\u00e1 un poco desactualizado",
+      "^no les hago ascos a los libros anticuados"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Pos_Severe": {
+    "strings": [
+      "^colecciono libros anticuados",
+      "^solo me interesan tus libros anticuados",
+      "^necesito algo pasado de moda"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Neg": {
+    "strings": [
+      "^las obras filos\u00f3ficas no me apasionan demasiado",
+      "^no entiendo los libros de filosof\u00eda",
+      "^las historias filos\u00f3ficas siempre me han parecido una p\u00e9rdida de tiempo"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Neg_Severe": {
+    "strings": [
+      "^no soporto lo de estar siempre filosofando",
+      "^no s\u00e9 por qu\u00e9 la gente pierde el tiempo con la filosof\u00eda",
+      "^la filosof\u00eda es un muermo"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Pos": {
+    "strings": [
+      "^me encantan los libros filos\u00f3ficos",
+      "^la filosof\u00eda es lo m\u00edo",
+      "^me apetece algo filos\u00f3fico",
+      "^hoy tengo el d\u00eda filos\u00f3fico"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Pos_Severe": {
+    "strings": [
+      "^ahora mismo necesito una obra filos\u00f3fica",
+      "^ofr\u00e9ceme un libro que responda las cuestiones sobre la naturaleza humana",
+      "^necesito adentrarme m\u00e1s en la filosof\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Play_Neg": {
+    "strings": [
+      "^no me <i>va</i> mucho el teatro",
+      "^no necesito m\u00e1s teatro en mi vida",
+      "^a\u00fan no he le\u00eddo una obra que me guste"
+    ]
+  },
+  "Request_bookAttribute_Play_Neg_Severe": {
+    "strings": [
+      "^no me gustan las obras teatrales",
+      "^el teatro y yo no congeniamos demasiado",
+      "^no termino de pillarle el punto al teatro"
+    ]
+  },
+  "Request_bookAttribute_Play_Pos": {
+    "strings": [
+      "^con el teatro siempre aciertas",
+      "^me encantan las obras teatrales"
+    ]
+  },
+  "Request_bookAttribute_Play_Pos_Severe": {
+    "strings": [
+      "^recomi\u00e9ndame algo reci\u00e9n sacado del escenario",
+      "^el propio mundo es un escenario, as\u00ed que dame una buena obra",
+      "^me apetece leer una obra teatral",
+      "^adoro el drama, el estilo, \u00a1las <i>emociones</i>! Necesito una obra de teatro"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Neg": {
+    "strings": [
+      "^no quiero nada con giros de guion",
+      "^prefiero algo que no tenga giros de la trama",
+      "^los giros de la trama son demasiado para m\u00ed"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Neg_Severe": {
+    "strings": [
+      "^odio los giros de guion",
+      "\u00a1^por favor, que no tenga giros de guion! Est\u00e1n hasta en la sopa",
+      "^no quiero giros de guion"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Pos": {
+    "strings": [
+      "^me gustan los libros que tengan un giro inesperado",
+      "^espero que tengas algo que me deje con la boca abierta",
+      "^me flipan los giros de guion"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Pos_Severe": {
+    "strings": [
+      "^busco un libro que tenga un girito",
+      "^me gustar\u00eda algo con giros de guion inesperados",
+      "^me gustan los giros de la trama"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Neg": {
+    "strings": [
+      "^nunca he llegado a entender la poes\u00eda",
+      "^creo que no entiendo la poes\u00eda",
+      "^nunca me ha llegado a gustar la poes\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Neg_Severe": {
+    "strings": [
+      "^no pillo lo del lenguaje po\u00e9tico",
+      "^no me des nada de poes\u00eda",
+      "^no quiero nada de poes\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Pos": {
+    "strings": [
+      "^me encantan los libros de poes\u00eda",
+      "^estoy buscando un poemario",
+      "^me apetece empezar a leer poes\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Pos_Severe": {
+    "strings": [
+      "^me gustar\u00eda leer algo de poes\u00eda",
+      "^necesito algo de poes\u00eda en mi vida",
+      "^hazme sentir, hazme pensar, dame algo po\u00e9tico"
+    ]
+  },
+  "Request_bookAttribute_Political_Neg": {
+    "strings": [
+      "^no me apetece leer nada sobre pol\u00edtica",
+      "^la verdad es que no me apetece nada pol\u00edtico",
+      "^los libros sobre pol\u00edtica se me atragantan"
+    ]
+  },
+  "Request_bookAttribute_Political_Neg_Severe": {
+    "strings": [
+      "^no soporto los libros con mensaje pol\u00edtico",
+      "^los mensajes pol\u00edticos me resultan deprimentes"
+    ]
+  },
+  "Request_bookAttribute_Political_Pos": {
+    "strings": [
+      "^me gustan los libros con mensaje pol\u00edtico",
+      "^las obras pol\u00edticas no me asustan"
+    ]
+  },
+  "Request_bookAttribute_Political_Pos_Severe": {
+    "strings": [
+      "^me vendr\u00eda bien algo con mensaje pol\u00edtico",
+      "^busco algo con mensaje pol\u00edtico"
+    ]
+  },
+  "Request_bookAttribute_Political_Science-Fiction_Pos": {
+    "strings": [
+      "^me llaman la atenci\u00f3n las historias de ciencia ficci\u00f3n pol\u00edticas",
+      "^me apasiona la ciencia ficci\u00f3n, sobre todo de tipo pol\u00edtico",
+      "^hace poco ha empezado a interesarme la ciencia ficci\u00f3n pol\u00edtica",
+      "^no estar\u00eda mal descubrir algo de ciencia ficci\u00f3n pol\u00edtica"
+    ]
+  },
+  "Request_bookAttribute_Political_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "^estoy buscando libros de ficci\u00f3n especulativa, me apasionan",
+      "^me encanta pensar en el futuro de la humanidad, es muy emocionante",
+      "^me gusta abrir la mente, as\u00ed que recomi\u00e9ndame algo de ciencia ficci\u00f3n pol\u00edtica"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Neg": {
+    "strings": [
+      "^la ciencia me aburre bastante",
+      "^no suelo leer nada cient\u00edfico",
+      "^la ciencia no me apasiona"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Neg_Severe": {
+    "strings": [
+      "^no pienso leer nada de ciencia de andar por casa",
+      "^odio la ciencia de andar por casa",
+      "^le he cogido man\u00eda a la ciencia de andar por casa"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Pos": {
+    "strings": [
+      "^me encanta la ciencia de andar por casa",
+      "^me gusta estar al d\u00eda de los avances cient\u00edficos",
+      "^nunca renuncio a algo de ciencia"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Pos_Severe": {
+    "strings": [
+      "^quiero un libro de ciencia para novatos",
+      "^busco uno de tus famosos libros cient\u00edficos",
+      "^me apetece un buen atrac\u00f3n de ciencia"
+    ]
+  },
+  "Request_bookAttribute_Queer_Pos": {
+    "strings": [
+      "^siempre busco tem\u00e1tica queer en mis lecturas",
+      "^me encantar\u00eda leer algo de tem\u00e1tica queer"
+    ]
+  },
+  "Request_bookAttribute_Queer_Pos_Severe": {
+    "strings": [
+      "^busco algo con tem\u00e1tica queer",
+      "^la tem\u00e1tica queer me importa mucho",
+      "^tiene que salir algo queer en todo lo que leo"
+    ]
+  },
+  "Request_bookAttribute_Romance_Neg": {
+    "strings": [
+      "^no soy muy de romances",
+      "^nada muy rom\u00e1ntico, porfa",
+      "^el romance no va conmigo"
+    ]
+  },
+  "Request_bookAttribute_Romance_Neg_Severe": {
+    "strings": [
+      "^nada rom\u00e1ntico, por favor",
+      "^no me des nada rom\u00e1ntico, odio esos tri\u00e1ngulos amorosos tan cutres",
+      "^no soy muy dan de los romances",
+      "^nada que sea un tost\u00f3n rom\u00e1ntico, por favor"
+    ]
+  },
+  "Request_bookAttribute_Romance_Pos": {
+    "strings": [
+      "^necesito algo con una trama rom\u00e1ntica",
+      "^no me importar\u00eda que tuviera algo de romance",
+      "^una novela rom\u00e1ntica me gustar\u00eda"
+    ]
+  },
+  "Request_bookAttribute_Romance_Pos_Severe": {
+    "strings": [
+      "^necesito algo con una trama rom\u00e1ntica",
+      "^si no hay beso, me pondr\u00e9 como una furia",
+      "^dame algo <i>rom\u00e1ntico</i>, porfa",
+      "^quiero emocionarme y sonrojarme, por favor",
+      "^me pirran las novelas rom\u00e1nticas",
+      "^que la novela no tenga un romance no es una opci\u00f3n para m\u00ed"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Neg": {
+    "strings": [
+      "^me aburre un poco la ciencia ficci\u00f3n",
+      "No es que me <i>encante</i> la ciencia ficci\u00f3n, precisamente",
+      "^la ciencia ficci\u00f3n no es lo m\u00edo"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Neg_Severe": {
+    "strings": [
+      "^no quiero nada de ciencia ficci\u00f3n",
+      "^no ser\u00eda capaz de leerme un libro de ciencia ficci\u00f3n",
+      "^creo que la ficci\u00f3n especulativa es una p\u00e9rdida de tiempo"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Pos": {
+    "strings": [
+      "^la ciencia ficci\u00f3n suele gustarme bastante",
+      "^me gustan bastante las historias de ciencia ficci\u00f3n",
+      "^mi pasi\u00f3n es la ciencia ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "^busco cualquier cosa de ciencia ficci\u00f3n",
+      "^tiene que ser de ciencia ficci\u00f3n",
+      "^no puedo vivir sin la ciencia ficci\u00f3n",
+      "^soy muy friki de la ciencia ficci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Neg": {
+    "strings": [
+      "^los libros de autoayuda me dan un poco igual",
+      "^los libros de autoayuda no son lo m\u00edo",
+      "^no creo que me haga falta un libro de autoayuda ahora mismo"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Neg_Severe": {
+    "strings": [
+      "^odio esos libros condescendientes de autoayuda",
+      "^no necesito libros que me den consejos sobre c\u00f3mo vivir"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Pos": {
+    "strings": [
+      "^un libro de autoayuda estar\u00eda bien",
+      "^me encantar\u00eda leer un libro con consejos inspiradores",
+      "^no me importar\u00eda leerme un libro de autoayuda"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Pos_Severe": {
+    "strings": [
+      "^necesito consejos sobre c\u00f3mo vivir mi vida",
+      "^creo que necesito un libro de autoayuda",
+      "^quiero mejorar un poco como persona",
+      "^quiero algo de autoayuda con consejos \u00fatiles",
+      "^\u00faltimamente mi vida es un l\u00edo, me vendr\u00eda bien un libro de autoayuda"
+    ]
+  },
+  "Request_bookAttribute_Series_Neg": {
+    "strings": [
+      "^no me apetece empezar una nueva saga",
+      "^no tengo el cuerpo para una nueva saga",
+      "^no tengo tiempo para empezar una saga ahora mismo"
+    ]
+  },
+  "Request_bookAttribute_Series_Neg_Severe": {
+    "strings": [
+      "^no me interesan nuevas sagas ahora mismo",
+      "^ahora mismo no tengo tiempo para empezar una nueva saga",
+      "^no me apetecen sagas ahora mismo",
+      "^no me apetece ponerme con toda una saga de libros"
+    ]
+  },
+  "Request_bookAttribute_Series_Pos": {
+    "strings": [
+      "^me encantar\u00eda empezar una nueva saga",
+      "^suelo centrarme en sagas de libros",
+      "^algo de alguna saga estar\u00eda bien"
+    ]
+  },
+  "Request_bookAttribute_Series_Pos_Severe": {
+    "strings": [
+      "^me gustar\u00eda empezar una nueva saga",
+      "^estoy buscando el siguiente libro de una saga",
+      "^quiero algo que forme parte de una saga",
+      "\u00a1^no soporto que un libro no tenga continuaci\u00f3n! Las sagas son lo m\u00edo"
+    ]
+  },
+  "Request_bookAttribute_Short_Neg": {
+    "strings": [
+      "^tendr\u00eda que tener como m\u00ednimo 200 p\u00e1ginas",
+      "^no suelo inclinarme por libros cortos",
+      "^no suelo leer libros con menos de 200 p\u00e1ginas"
+    ]
+  },
+  "Request_bookAttribute_Short_Neg_Severe": {
+    "strings": [
+      "^no quiero nada demasiado corto",
+      "^solo leo libros con un m\u00ednimo de 200 p\u00e1ginas",
+      "^no quiero ver uno de esos libritos ni en pintura"
+    ]
+  },
+  "Request_bookAttribute_Short_Pos": {
+    "strings": [
+      "^suelo preferir libros cortos y agradables",
+      "^si tiene menos de 200 p\u00e1ginas, mejor que mejor"
+    ]
+  },
+  "Request_bookAttribute_Short_Pos_Severe": {
+    "strings": [
+      "^busco algo corto y agradable",
+      "^recomi\u00e9ndame algo con pocas p\u00e1ginas",
+      "^no puedo leer nada con m\u00e1s de 200 p\u00e1ginas"
+    ]
+  },
+  "Request_bookAttribute_Space_Neg": {
+    "strings": [
+      "^las historias del espacio ya me aburren un poco",
+      "^los viajes espaciales no son lo m\u00edo",
+      "^paso de viajecitos espaciales en mis libros"
+    ]
+  },
+  "Request_bookAttribute_Space_Neg_Severe": {
+    "strings": [
+      "^no me interesan los viajes espaciales",
+      "^paso... del... espacio",
+      "^el espacio me da v\u00e9rtigo",
+      "^prefiero mantener la distancia con el espacio exterior"
+    ]
+  },
+  "Request_bookAttribute_Space_Pos": {
+    "strings": [
+      "^me interesa el espacio exterior",
+      "^me encantan las galaxias, los agujeros de gusano y dem\u00e1s",
+      "^me fascina el espacio exterior"
+    ]
+  },
+  "Request_bookAttribute_Space_Pos_Severe": {
+    "strings": [
+      "^busco algo sobre el espacio exterior",
+      "^me <i>obsesiona</i> el espacio exterior",
+      "Houston, recomi\u00e9ndame algo que transcurra en el espacio exterior"
+    ]
+  },
+  "Request_bookAttribute_Space_Science-Fiction_Pos": {
+    "strings": [
+      "^me gusta la ciencia ficci\u00f3n por los planetas y los alien\u00edgenas",
+      "^mis historias de ciencia ficci\u00f3n favoritas son las de otros planetas",
+      "^me flipa la ciencia ficci\u00f3n, pero suelo preferir las historias espaciales"
+    ]
+  },
+  "Request_bookAttribute_Space_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "^me apetece algo con viajes espaciales y galaxias e imperios lejanos... Ya sabes, material del bueno",
+      "^no puede haber nada mejor que la ciencia ficci\u00f3n espacial y los alien\u00edgenas. No puede",
+      "^me obsesiona la ciencia ficci\u00f3n espacial"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Crime-Genre_Pos": {
+    "strings": [
+      "^mis novelas de cr\u00edmenes favoritas son las que te tienen en vilo. De las que no puedes despegarte",
+      "^siempre me han atra\u00eddo las historias de cr\u00edmenes con suspense",
+      "^las novelas de cr\u00edmenes me gustan con algo de suspense"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^b\u00fascame una novela de suspense con cr\u00edmenes. De las que te dejan sin u\u00f1as",
+      "^tengo la tensi\u00f3n baja, necesito otra novela de suspense",
+      "^necesito una historia de cr\u00edmenes que me tenga en vilo",
+      "^b\u00fascame una historia de cr\u00edmenes. De las que te tienen en vilo"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Neg": {
+    "strings": [
+      "^no soy muy fan de los thrillers",
+      "^los thrillers no me apasionan",
+      "^los thrillers no son lo m\u00edo"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Neg_Severe": {
+    "strings": [
+      "^no soy fan del suspense",
+      "^los thrillers me ponen de los nervios",
+      "^mi m\u00e9dico me ha dicho que tengo que dejar de leer thrillers"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Pos": {
+    "strings": [
+      "^quiero algo emocionante y lleno de suspense",
+      "^no estar\u00eda mal que tuviera una trama cargada de suspense",
+      "^busco algo que me mantenga en vilo"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Pos_Severe": {
+    "strings": [
+      "^dame una novela de suspense de esas que enganchan",
+      "^necesito un buen thriller",
+      "^me encantar\u00eda una novela de suspense",
+      "^quiero una novela de suspense emocionante",
+      "^me flipan los thrillers"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Neg": {
+    "strings": [
+      "^no soportar\u00eda nada tr\u00e1gico ahora mismo",
+      "^estar\u00eda bien si no fuera supertr\u00e1gico",
+      "^las tragedias son demasiado... tr\u00e1gicas para m\u00ed"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Neg_Severe": {
+    "strings": [
+      "^no puedo con nada tr\u00e1gico ahora mismo",
+      "^que no tenga tragedias, porfa",
+      "^no quiero tragedias No me apetece llorar ahora mismo"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Pos": {
+    "strings": [
+      "^me gustar\u00eda una historia tr\u00e1gica",
+      "^mis libros favoritos son los que dejan a cualquiera destrozado",
+      "^la tragedia no me disgusta"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Pos_Severe": {
+    "strings": [
+      "^necesito una tragedia totalmente desgarradora",
+      "^ens\u00e9\u00f1ame algo tr\u00e1gico de verdad",
+      "^quiero algo que me haga llorar"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Crime-Genre_Pos": {
+    "strings": [
+      "^creo que las novelas de cr\u00edmenes a veces son la mejor gu\u00eda de viaje",
+      "^me encantan las novelas de cr\u00edmenes, y si encima transcurren en lugares nuevos, mejor",
+      "^me gustan las novelas de cr\u00edmenes que me inspiran para viajar"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^estoy buscando una historia de cr\u00edmenes que me anime a viajar",
+      "^me encantan las historias de cr\u00edmenes, pero tambi\u00e9n que me inspiren para viajar, as\u00ed que ya sabes",
+      "^quiero descubrir lugares nuevos. Pero tambi\u00e9n tiene que ocurrir alg\u00fan crimen"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Neg": {
+    "strings": [
+      "^no soy muy fan de las gu\u00edas de viajes",
+      "^normalmente no leo mucho acerca de viajes",
+      "^no le veo el sentido a los libros de viajes"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Neg_Severe": {
+    "strings": [
+      "^no me gusta leer acerca de lugares reales",
+      "^no soy muy de leer gu\u00edas de viaje",
+      "^las gu\u00edas de viaje no me interesan demasiado"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Pos": {
+    "strings": [
+      "^me gusta viajar y leer sobre nuestro mundo",
+      "^me encantan los libros acerca de viajes"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Pos_Severe": {
+    "strings": [
+      "^tengo que salir de casa, dame una gu\u00eda de viajes",
+      "^me encanta leer acerca de lugares reales",
+      "^necesito leer sobre viajes",
+      "^necesito un buen libro para viajar"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Neg": {
+    "strings": [
+      "^no necesito m\u00e1s gu\u00edas de viaje",
+      "^no soy muy de viajar",
+      "^no tengo tiempo para vacaciones, as\u00ed que no me hace falta una gu\u00eda de viaje"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Neg_Severe": {
+    "strings": [
+      "^no quiero m\u00e1s gu\u00edas de viaje",
+      "^no le veo el sentido a las gu\u00edas de viaje",
+      "^por favor, no me des una gu\u00eda de viaje"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Pos": {
+    "strings": [
+      "^no me importar\u00eda leerme otra gu\u00eda de viaje",
+      "^podr\u00eda leerme una gu\u00eda de viaje",
+      "^una gu\u00eda de viaje estar\u00eda bien"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Pos_Severe": {
+    "strings": [
+      "^estoy pensando en posibles viajes para mis vacaciones",
+      "^busco una gu\u00eda de viaje",
+      "^necesito una nueva gu\u00eda de viaje",
+      "^quiero inspiraci\u00f3n para mis viajes"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Neg": {
+    "strings": [
+      "^no quiero partirme la espalda con un solo libro",
+      "^recomi\u00e9ndame algo de menos de 700 p\u00e1ginas",
+      "^no busco nada con, no s\u00e9, m\u00e1s de 700 p\u00e1ginas"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Neg_Severe": {
+    "strings": [
+      "^no me ofrezcas uno de esos libracos enormes",
+      "^la vida es demasiado corta como para desperdiciarla leyendo 700 p\u00e1ginas de lo mismo",
+      "^no tengo tiempo para meterme 700 p\u00e1ginas del tir\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Pos": {
+    "strings": [
+      "^los libros, cuanto m\u00e1s largos, mejor",
+      "^soy capaz de tragarme un tocho de 700 p\u00e1ginas",
+      "^tengo ganas de lanzarme a por un libro largo de veras"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Pos_Severe": {
+    "strings": [
+      "^quiero un libro enooorme. \u00a1Eso es! 700 p\u00e1ginas o m\u00e1s",
+      "^necesito un libro de verdad... 700 p\u00e1ginas como m\u00ednimo",
+      "^recomi\u00e9ndame un buen tocho como m\u00ednimo de 700 p\u00e1ginas"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Neg": {
+    "strings": [
+      "^creo que las novelas polic\u00edacas ya est\u00e1n muy vistas",
+      "^las novelas polic\u00edacas no me emocionan lo suficiente",
+      "^creo que las novelas polic\u00edacas est\u00e1n un poco sobrevaloradas",
+      "^no me llaman mucho las novelas polic\u00edacas",
+      "^creo que las novelas polic\u00edacas est\u00e1n un poco sobrevaloradas"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Neg_Severe": {
+    "strings": [
+      "^no me des otra de esas novelas polic\u00edacas",
+      "^no puedo con las novelas polic\u00edacas",
+      "^si tengo que adivinar qui\u00e9n lo ha hecho, me va a resultar muy molesto"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Pos": {
+    "strings": [
+      "^no me importa leer alguna novela polic\u00edaca de vez en cuando",
+      "^me encanta que est\u00e9n volviendo las novelas polic\u00edacas",
+      "^me agradan las novelas polic\u00edacas"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Pos_Severe": {
+    "strings": [
+      "^estoy buscando una novela polic\u00edaca nueva",
+      "^por favor, dame una nueva novela polic\u00edaca para mi colecci\u00f3n",
+      "^busco una novela de investigaci\u00f3n"
+    ]
+  },
+  "Request_bookAttribute_YA_Neg": {
+    "strings": [
+      "^no me va mucho la ficci\u00f3n juvenil",
+      "^las novelas juveniles no son lo m\u00edo",
+      "^me cuesta entender los gustos de los j\u00f3venes"
+    ]
+  },
+  "Request_bookAttribute_YA_Neg_Severe": {
+    "strings": [
+      "^las novelas juveniles no me van",
+      "^no s\u00e9 qu\u00e9 les ven a las novelas juveniles",
+      "^nada de novelas juveniles, por favor"
+    ]
+  },
+  "Request_bookAttribute_YA_Pos": {
+    "strings": [
+      "^me encanta perderme en los mundos de las novelas juveniles",
+      "^soy fan de la literatura juvenil",
+      "^es raro no pas\u00e1rselo bien con una novela de ficci\u00f3n juvenil",
+      "^nunca le digo que no a algo de literatura juvenil"
+    ]
+  },
+  "Request_bookAttribute_YA_Pos_Severe": {
+    "strings": [
+      "^busco una novela juvenil",
+      "^de aqu\u00ed no me voy sin un buen libro de literatura juvenil",
+      "\u00a1^algo de literatura juvenil, por favor! Tengo una obsesi\u00f3n..."
+    ]
+  },
   "Title_#Title_EN": {
     "strings": [
       "Title es_ES"
