@@ -1,4 +1,5 @@
 [
   { "label": "Nintendo Switch (1.0.3)", "prefix": "switch_1.0.3_" },
-  { "label": "Steam (Update 5)", "prefix": "steam_update5_" }
+  { "label": "Steam (Update 5)", "prefix": "steam_update5_" },
+  { "label": "Steam (Update 6)", "prefix": "steam_update6_" }
 ]
