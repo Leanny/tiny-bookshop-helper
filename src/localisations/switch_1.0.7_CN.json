@@ -1,0 +1,5809 @@
+{
+  "Author_#Title_EN": {
+    "strings": [
+      "Author zh_CN (Simplified)"
+    ]
+  },
+  "Author_#Title_zh_CN_(Simplified)": {
+    "strings": [
+      "Author zh_CN (Simplified)"
+    ]
+  },
+  "Author_#\u300a\u4e5d\u5dde\u00b7\u4e27\u4e71\u4e4b\u77b3\u300b": {
+    "strings": [
+      "\u5510\u7f3a"
+    ]
+  },
+  "Author_#\u300a\u4e5d\u5dde\u00b7\u7f25\u7f08\u5f55\u2160\u300b": {
+    "strings": [
+      "\u6c5f\u5357"
+    ]
+  },
+  "Author_#\u300a\u516b\u5e74\u9ad8\u8003\u4e94\u5e74\u6a21\u62df\u300b": {
+    "strings": [
+      "\u8001\u6559\u5e08"
+    ]
+  },
+  "Author_#\u300a\u5929\u542f\u9884\u62a5\u300b": {
+    "strings": [
+      "\u98ce\u6708"
+    ]
+  },
+  "Author_#\u300a\u6d77\u8482\u300b": {
+    "strings": [
+      "\u7ea6\u7ff0\u5a1c\u00b7\u65af\u6bd4\u4e3d"
+    ]
+  },
+  "Author_1st_to_Die": {
+    "strings": [
+      "\u8a79\u59c6\u65af\u00b7\u5e15\u7279\u68ee"
+    ]
+  },
+  "Author_5\u5206\u949f\u9a6c\u514b\u676f\u54b8\u86cb\u7cd5": {
+    "strings": [
+      "\u7433\u601d\u00b7\u514b\u52aa\u68ee&\u4e9a\u57fa\u53ef\u00b7\u4f0a\u8fbe"
+    ]
+  },
+  "Author_A_Clash_of_Kings": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7R\u00b7R\u00b7\u9a6c\u4e01"
+    ]
+  },
+  "Author_A_Collection_of_Poems": {
+    "strings": [
+      "\u5723\u00b7\u4e66\u7fc1"
+    ]
+  },
+  "Author_A_Court_of_Mist_and_Fury": {
+    "strings": [
+      "\u838e\u62c9\u00b7J\u00b7\u9a6c\u65af"
+    ]
+  },
+  "Author_A_Dance_With_Dragons": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7R\u00b7R\u00b7\u9a6c\u4e01"
+    ]
+  },
+  "Author_A_Feast_for_Crows": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7R\u00b7R\u00b7\u9a6c\u4e01"
+    ]
+  },
+  "Author_A_Fire_Upon_the_Deep": {
+    "strings": [
+      "\u5f17\u8bfa\u00b7\u6587\u5947"
+    ]
+  },
+  "Author_A_Game_of_Thrones": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7R\u00b7R\u00b7\u9a6c\u4e01"
+    ]
+  },
+  "Author_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_A_Senseless_Power": {
+    "strings": [
+      "\u5723\u00b7\u4e66\u7fc1"
+    ]
+  },
+  "Author_A_Short_History_of_Nearly_Everything": {
+    "strings": [
+      "\u6bd4\u5c14\u00b7\u5e03\u83b1\u68ee"
+    ]
+  },
+  "Author_A_Storm_of_Swords": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7R\u00b7R\u00b7\u9a6c\u4e01"
+    ]
+  },
+  "Author_A_Study_in_Scarlet": {
+    "strings": [
+      "\u963f\u745f\u00b7\u67ef\u5357\u00b7\u9053\u5c14"
+    ]
+  },
+  "Author_A_Time_to_Kill": {
+    "strings": [
+      "\u7ea6\u7ff0\u00b7\u683c\u91cc\u68ee\u59c6"
+    ]
+  },
+  "Author_A_Wrinkle_in_Time": {
+    "strings": [
+      "\u9a6c\u5fb7\u7433\u00b7\u82f1\u683c"
+    ]
+  },
+  "Author_Adventures_of_A_Wild_Child": {
+    "strings": [
+      "\u5409\u5a1c\u00b7\u683c\u96f7\u68ee\u00b7\u4ea8\u7279"
+    ]
+  },
+  "Author_After_the_Funeral": {
+    "strings": [
+      "\u963f\u52a0\u838e\u00b7\u514b\u91cc\u65af\u8482"
+    ]
+  },
+  "Author_Alias_Grace": {
+    "strings": [
+      "\u739b\u683c\u4e3d\u7279\u00b7\u963f\u7279\u4f0d\u5fb7"
+    ]
+  },
+  "Author_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "\u5218\u6613\u65af\u00b7\u5361\u7f57\u5c14"
+    ]
+  },
+  "Author_All's_Well_That_Ends_Well": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_American_Psycho": {
+    "strings": [
+      "\u5e03\u83b1\u7279\u00b7\u4f0a\u65af\u987f\u00b7\u57c3\u5229\u65af"
+    ]
+  },
+  "Author_An_Explorer's_Guide_to_Georgetown": {
+    "strings": [
+      "\u90d1\u00b7\u683c\u6797"
+    ]
+  },
+  "Author_Angels_&_Demons": {
+    "strings": [
+      "\u4e39\u00b7\u5e03\u6717"
+    ]
+  },
+  "Author_Animal_Farm": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7\u5965\u5a01\u5c14"
+    ]
+  },
+  "Author_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "\u5112\u52d2\u00b7\u51e1\u5c14\u7eb3"
+    ]
+  },
+  "Author_Artemis_Fowl": {
+    "strings": [
+      "\u6b27\u56e0\u00b7\u79d1\u5f17"
+    ]
+  },
+  "Author_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "\u8c0f\u5c71\u521b"
+    ]
+  },
+  "Author_Babel;or_the_Necessity_of_Violence": {
+    "strings": [
+      "\u5321\u7075\u79c0"
+    ]
+  },
+  "Author_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "\u5ddd\u53e3\u4fca\u548c"
+    ]
+  },
+  "Author_Beowulf": {
+    "strings": [
+      "\u4f5a\u540d\uff0cS\u00b7\u5e0c\u5c3c \u8bd1"
+    ]
+  },
+  "Author_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "\u5b89\u6770\u4f0a\u00b7\u8428\u666e\u79d1\u592b\u65af\u57fa"
+    ]
+  },
+  "Author_By_Train_Through_Spain": {
+    "strings": [
+      "\u4e9a\u7f8e\u5229\u54e5\u00b7\u9a6c\u5c14\u51ef\u897f"
+    ]
+  },
+  "Author_Call_Me_by_Your_Name": {
+    "strings": [
+      "\u5b89\u5fb7\u70c8\u00b7\u827e\u5e2d\u8499"
+    ]
+  },
+  "Author_Carrie": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_Catching_Carps": {
+    "strings": [
+      "\u5948\u6770\u5c14\u00b7\u5361\u5f6d"
+    ]
+  },
+  "Author_Catching_Fire": {
+    "strings": [
+      "\u82cf\u73ca\u00b7\u67ef\u6797\u65af"
+    ]
+  },
+  "Author_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "\u7f57\u5c14\u5fb7\u00b7\u8fbe\u5c14"
+    ]
+  },
+  "Author_Circe": {
+    "strings": [
+      "\u9a6c\u5fb7\u7433\u00b7\u7c73\u52d2"
+    ]
+  },
+  "Author_Coraline": {
+    "strings": [
+      "\u5c3c\u5c14\u00b7\u76d6\u66fc"
+    ]
+  },
+  "Author_Crime_and_Punishment": {
+    "strings": [
+      "\u8d39\u5965\u591a\u5c14\u00b7\u9640\u601d\u59a5\u8036\u592b\u65af\u57fa"
+    ]
+  },
+  "Author_Death_Note;Volume_1": {
+    "strings": [
+      "\u5927\u573a\u9e2b"
+    ]
+  },
+  "Author_Death_on_the_Nile": {
+    "strings": [
+      "\u963f\u52a0\u838e\u00b7\u514b\u91cc\u65af\u8482"
+    ]
+  },
+  "Author_Discovering_the_Greater_Bookston_Region": {
+    "strings": [
+      "\u5f7c\u5f97\u00b7\u65af\u5e73\u7eb3"
+    ]
+  },
+  "Author_Don_Quixote": {
+    "strings": [
+      "\u7c73\u683c\u5c14\u00b7\u5fb7\u00b7\u585e\u4e07\u63d0\u65af"
+    ]
+  },
+  "Author_Dracula": {
+    "strings": [
+      "\u5e03\u5170\u59c6\u00b7\u65af\u6258\u514b"
+    ]
+  },
+  "Author_Dune": {
+    "strings": [
+      "\u5f17\u5170\u514b\u00b7\u8d6b\u4f2f\u7279"
+    ]
+  },
+  "Author_Emma": {
+    "strings": [
+      "\u7b80\u00b7\u5965\u65af\u6c40"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "\u963f\u4ec0\u00b7\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._2": {
+    "strings": [
+      "\u963f\u4ec0\u00b7\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._3": {
+    "strings": [
+      "\u963f\u4ec0\u00b7\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._4": {
+    "strings": [
+      "\u963f\u4ec0\u00b7\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Encyclopaedia_Bookstonia_Vol._5": {
+    "strings": [
+      "\u963f\u4ec0\u00b7\u963f\u514b\u65af\u5e03\u91cc\u5947"
+    ]
+  },
+  "Author_Fern": {
+    "strings": [
+      "\u89c9\u6069\u00b7\u57c3\u65af\u7279\u62c9\u8fbe"
+    ]
+  },
+  "Author_Finding_Optimism;The_Future_Is_Good": {
+    "strings": [
+      "\u8389\u8389\u5b89\u00b7\u96f7\u8bfa"
+    ]
+  },
+  "Author_Fire_&_Blood": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7R\u00b7R\u00b7\u9a6c\u4e01"
+    ]
+  },
+  "Author_Flowers_for_Algernon": {
+    "strings": [
+      "\u4e39\u5c3c\u5c14\u00b7\u51ef\u65af"
+    ]
+  },
+  "Author_Frankenstein": {
+    "strings": [
+      "\u739b\u4e3d\u00b7\u96ea\u83b1"
+    ]
+  },
+  "Author_Full_Dark,_No_Stars": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_Gemology:_A_Study_in_Ruby": {
+    "strings": [
+      "\u827e\u8389\u00b7\u5965\u5e03\u897f\u8fea\u4e9a"
+    ]
+  },
+  "Author_Gone_Girl": {
+    "strings": [
+      "\u5409\u8389\u5b89\u00b7\u5f17\u7433"
+    ]
+  },
+  "Author_Good_Night,_Gorilla": {
+    "strings": [
+      "\u4f69\u5409\u00b7\u62c9\u7279\u66fc"
+    ]
+  },
+  "Author_Good_Omens": {
+    "strings": [
+      "\u5c3c\u5c14\u00b7\u76d6\u66fc&\u7279\u91cc\u00b7\u666e\u62c9\u5207\u7279"
+    ]
+  },
+  "Author_Great_Expectations": {
+    "strings": [
+      "\u67e5\u5c14\u65af\u00b7\u72c4\u66f4\u65af"
+    ]
+  },
+  "Author_Gulliver's_Travels": {
+    "strings": [
+      "\u4e54\u7eb3\u68ee\u00b7\u65af\u5a01\u592b\u7279"
+    ]
+  },
+  "Author_HTML_1998;An_Introduction": {
+    "strings": [
+      "\u4f60\u597d\uff0c\u4e16\u754c"
+    ]
+  },
+  "Author_Hamlet": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_Heidi": {
+    "strings": [
+      "\u7ea6\u7ff0\u5a1c\u00b7\u65af\u6bd4\u4e3d"
+    ]
+  },
+  "Author_Henry_V": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_Henry_VI,_Part_1": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_Henry_VI,_Part_3": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "\u74e6\u5c14\u00b7\u535a\u7c73\u5c14"
+    ]
+  },
+  "Author_Historical_Niche": {
+    "strings": [
+      "\u7279\u91cc\u00b7\u5207\u5c14\u5c3c\u514b"
+    ]
+  },
+  "Author_Homage_to_Catalonia": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7\u5965\u5a01\u5c14"
+    ]
+  },
+  "Author_Howl's_Moving_Castle": {
+    "strings": [
+      "\u6234\u5b89\u5a1c\u00b7\u97e6\u6069\u00b7\u743c\u65af"
+    ]
+  },
+  "Author_H\u00e9l\u00e8ne": {
+    "strings": [
+      "\u5723\u00b7\u4e66\u7fc1"
+    ]
+  },
+  "Author_I,_Robot": {
+    "strings": [
+      "\u827e\u8428\u514b\u00b7\u963f\u897f\u83ab\u592b"
+    ]
+  },
+  "Author_If_Tomorrow_Comes": {
+    "strings": [
+      "\u897f\u5fb7\u5c3c\u00b7\u8c22\u5c14\u987f"
+    ]
+  },
+  "Author_In_Search_Of:;The_Most_Beautiful_Islands_In_the_World": {
+    "strings": [
+      "\u5bb0\u8d24"
+    ]
+  },
+  "Author_Inferno": {
+    "strings": [
+      "\u4f46\u4e01\u00b7\u963f\u5229\u683c\u8036\u91cc\uff0cA\u00b7\u57c3\u7d22\u4f26 \u8bd1"
+    ]
+  },
+  "Author_Inkheart": {
+    "strings": [
+      "\u67ef\u5948\u8389\u4e9a\u00b7\u51af\u514b"
+    ]
+  },
+  "Author_Into_the_Sunset:_The_Magical_West": {
+    "strings": [
+      "\u585e\u9a6c\u5c14\u00b7M\u00b7\u6cd5\u7c73"
+    ]
+  },
+  "Author_It": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_Jane_Eyre": {
+    "strings": [
+      "\u590f\u6d1b\u8482\u00b7\u52c3\u6717\u7279"
+    ]
+  },
+  "Author_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "\u5112\u52d2\u00b7\u51e1\u5c14\u7eb3"
+    ]
+  },
+  "Author_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "\u5434\u627f\u6069"
+    ]
+  },
+  "Author_Julius_Caesar": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_Just_A_Story:_Why_We_Still_Tell_Fairytales": {
+    "strings": [
+      "\u4f0a\u838e\u8d1d\u5c14\u00b7\u52a0\u5c14\u74e6"
+    ]
+  },
+  "Author_Kiki's_Delivery_Service": {
+    "strings": [
+      "\u89d2\u91ce\u8363\u5b50"
+    ]
+  },
+  "Author_Kitchen_Rules_For_Your_Family_and_You": {
+    "strings": [
+      "\u59c6\u74e6\u7eb3\u00b7\u743c\u65af"
+    ]
+  },
+  "Author_Les_Miserables": {
+    "strings": [
+      "\u7ef4\u514b\u591a\u00b7\u96e8\u679c"
+    ]
+  },
+  "Author_Little_Women": {
+    "strings": [
+      "\u8def\u6613\u838e\u00b7\u6885\u00b7\u5965\u5c14\u79d1\u7279"
+    ]
+  },
+  "Author_Living_In_Alaska": {
+    "strings": [
+      "\u897f\u5965\u5185\u5fb7\u00b7\u743c\u65af"
+    ]
+  },
+  "Author_Looking_for_Alaska": {
+    "strings": [
+      "\u7ea6\u7ff0\u00b7\u683c\u6797"
+    ]
+  },
+  "Author_Lord_of_the_Flies": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u6208\u5c14\u4e01"
+    ]
+  },
+  "Author_Love": {
+    "strings": [
+      "\u6258\u59ae\u00b7\u83ab\u91cc\u68ee"
+    ]
+  },
+  "Author_Macbeth": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_Matilda": {
+    "strings": [
+      "\u7f57\u5c14\u5fb7\u00b7\u8fbe\u5c14"
+    ]
+  },
+  "Author_Medieval_Carpentry": {
+    "strings": [
+      "\u5965\u5e03\u00b7\u4ea8\u5fb7\u68ee"
+    ]
+  },
+  "Author_Mesopotamian_Buildings": {
+    "strings": [
+      "\u827e\u54c8\u8fc8\u5fb7\u00b7\u66fc\u82cf\u5c14"
+    ]
+  },
+  "Author_Middlemarch": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7\u827e\u7565\u7279"
+    ]
+  },
+  "Author_Misery": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_Miss_Peregrine's_Home_for_Peculiar_Children": {
+    "strings": [
+      "\u5170\u68ee\u00b7\u91cc\u683c\u65af"
+    ]
+  },
+  "Author_Moby-Dick": {
+    "strings": [
+      "\u8d6b\u5c14\u66fc\u00b7\u6885\u5c14\u7ef4\u5c14"
+    ]
+  },
+  "Author_Momo;or,_The_Grey_Gentlemen": {
+    "strings": [
+      "\u7c73\u5207\u5c14\u00b7\u6069\u5fb7"
+    ]
+  },
+  "Author_Mrs._Dalloway": {
+    "strings": [
+      "\u5f17\u5409\u5c3c\u4e9a\u00b7\u4f0d\u5c14\u592b"
+    ]
+  },
+  "Author_Much_Ado_About_Nothing": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_Murder_on_the_Orient_Express": {
+    "strings": [
+      "\u963f\u52a0\u838e\u00b7\u514b\u91cc\u65af\u8482"
+    ]
+  },
+  "Author_My_Lesbian_Experience_With_Loneliness": {
+    "strings": [
+      "\u6c38\u7530\u30ab\u30d3"
+    ]
+  },
+  "Author_My_Travels_In_East_Africa": {
+    "strings": [
+      "\u9676\u4eae\u592a"
+    ]
+  },
+  "Author_Night_Shift": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_Nimona": {
+    "strings": [
+      "N\u00b7D\u00b7\u53f2\u8482\u6587\u68ee"
+    ]
+  },
+  "Author_Nineteen_Eighty-Four": {
+    "strings": [
+      "\u4e54\u6cbb\u00b7\u5965\u5a01\u5c14"
+    ]
+  },
+  "Author_Normal_People": {
+    "strings": [
+      "\u8428\u8389\u00b7\u9c81\u5c3c"
+    ]
+  },
+  "Author_OH\uff0c\u53ef\u7231\u9020\u578b\u997c\u5e72": {
+    "strings": [
+      "\u8521\u9ad8\u664b&\u5c39\u5fd7\u5f3a"
+    ]
+  },
+  "Author_OUT": {
+    "strings": [
+      "\u6850\u91ce\u590f\u751f"
+    ]
+  },
+  "Author_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "\u5723\u00b7\u4e66\u7fc1"
+    ]
+  },
+  "Author_Orlando": {
+    "strings": [
+      "\u5f17\u5409\u5c3c\u4e9a\u00b7\u4f0d\u5c14\u592b"
+    ]
+  },
+  "Author_Othello": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_P.S._I_Still_Love_You": {
+    "strings": [
+      "\u73cd\u59ae\u00b7\u97e9"
+    ]
+  },
+  "Author_Persepolis;The_Story_of_a_Childhood": {
+    "strings": [
+      "\u739b\u5609\u00b7\u838e\u5854\u78a7"
+    ]
+  },
+  "Author_Persuasion": {
+    "strings": [
+      "\u7b80\u00b7\u5965\u65af\u6c40"
+    ]
+  },
+  "Author_Pet_Sematary": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_Physics_1908": {
+    "strings": [
+      "\u80af\u5fb7\u62c9\u00b7\u79d1\u5185\u5229"
+    ]
+  },
+  "Author_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "C\u00b7S\u00b7\u8def\u6613\u65af"
+    ]
+  },
+  "Author_Richard_II": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_Romeo_and_Juliet": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_Sailor_Moon;Volume_1": {
+    "strings": [
+      "\u6b66\u5185\u76f4\u5b50"
+    ]
+  },
+  "Author_Salom\u00e9": {
+    "strings": [
+      "\u5965\u65af\u5361\u00b7\u738b\u5c14\u5fb7"
+    ]
+  },
+  "Author_Second_Foundation": {
+    "strings": [
+      "\u827e\u8428\u514b\u00b7\u963f\u897f\u83ab\u592b"
+    ]
+  },
+  "Author_Sense_and_Sensibility": {
+    "strings": [
+      "\u7b80\u00b7\u5965\u65af\u6c40"
+    ]
+  },
+  "Author_Shirley": {
+    "strings": [
+      "\u590f\u6d1b\u8482\u00b7\u52c3\u6717\u7279"
+    ]
+  },
+  "Author_Six_of_Crows": {
+    "strings": [
+      "\u674e\u00b7\u5df4\u675c\u683c"
+    ]
+  },
+  "Author_St._Bookston:_The_Myth,_the_Legend,_the_Truth": {
+    "strings": [
+      "H\u00b7A\u00b7\u6f58\u5b81\u987f"
+    ]
+  },
+  "Author_Starstruck;(Deluxe_Edition)": {
+    "strings": [
+      "\u4f0a\u83b1\u6069\u00b7\u674e & \u8fc8\u514b\u5c14\u00b7\u5361\u9c81\u5854"
+    ]
+  },
+  "Author_Stories_of_Your_Life_and_Others": {
+    "strings": [
+      "\u7279\u5fb7\u00b7\u59dc"
+    ]
+  },
+  "Author_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "\u963f\u745f\u00b7\u67ef\u5357\u00b7\u9053\u5c14"
+    ]
+  },
+  "Author_The_Bell_Jar": {
+    "strings": [
+      "\u897f\u5c14\u7ef4\u5a05\u00b7\u666e\u62c9\u65af"
+    ]
+  },
+  "Author_The_Blind_Assassin": {
+    "strings": [
+      "\u739b\u683c\u4e3d\u7279\u00b7\u963f\u7279\u4f0d\u5fb7"
+    ]
+  },
+  "Author_The_Bluest_Eye": {
+    "strings": [
+      "\u6258\u59ae\u00b7\u83ab\u91cc\u68ee"
+    ]
+  },
+  "Author_The_Canterbury_Tales": {
+    "strings": [
+      "\u6770\u5f17\u96f7\u00b7\u4e54\u53df"
+    ]
+  },
+  "Author_The_Canterville_Ghost": {
+    "strings": [
+      "\u5965\u65af\u5361\u00b7\u738b\u5c14\u5fb7"
+    ]
+  },
+  "Author_The_Color_Purple": {
+    "strings": [
+      "\u827e\u4e3d\u65af\u00b7\u6c83\u514b"
+    ]
+  },
+  "Author_The_Complete_Robot": {
+    "strings": [
+      "\u827e\u8428\u514b\u00b7\u963f\u897f\u83ab\u592b"
+    ]
+  },
+  "Author_The_Count_of_Monte_Cristo": {
+    "strings": [
+      "\u5927\u4ef2\u9a6c"
+    ]
+  },
+  "Author_The_Curious_Incident_of_the_Dog_in_the_Night-Time": {
+    "strings": [
+      "\u9a6c\u514b\u00b7\u54c8\u767b"
+    ]
+  },
+  "Author_The_Debvoir_Family;A_Success_Story": {
+    "strings": [
+      "\u80af\u5c3c\u8fea\u00b7\u5948\u672c"
+    ]
+  },
+  "Author_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "\u57c3\u5fb7\u52a0\u00b7\u7231\u4f26\u00b7\u5761"
+    ]
+  },
+  "Author_The_Fault_in_Our_Stars": {
+    "strings": [
+      "\u7ea6\u7ff0\u00b7\u683c\u6797"
+    ]
+  },
+  "Author_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "J\u00b7R\u00b7R\u00b7\u6258\u5c14\u91d1"
+    ]
+  },
+  "Author_The_Glass_Castle": {
+    "strings": [
+      "\u73cd\u59ae\u7279\u00b7\u6c83\u5c14\u65af"
+    ]
+  },
+  "Author_The_God_of_Small_Things": {
+    "strings": [
+      "\u963f\u5170\u8fbe\u8482\u00b7\u6d1b\u4f0a"
+    ]
+  },
+  "Author_The_Great_Gatsby": {
+    "strings": [
+      "F\u00b7\u53f8\u5404\u7279\u00b7\u83f2\u8328\u6770\u62c9\u5fb7"
+    ]
+  },
+  "Author_The_Green_Mile": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_The_Gunslinger": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_The_Handmaid's_Tale": {
+    "strings": [
+      "\u739b\u683c\u4e3d\u7279\u00b7\u963f\u7279\u4f0d\u5fb7"
+    ]
+  },
+  "Author_The_Happy_Prince_and_Other_Tales": {
+    "strings": [
+      "\u5965\u65af\u5361\u00b7\u738b\u5c14\u5fb7"
+    ]
+  },
+  "Author_The_Hunger_Games": {
+    "strings": [
+      "\u82cf\u73ca\u00b7\u67ef\u6797\u65af"
+    ]
+  },
+  "Author_The_Invisible_Man": {
+    "strings": [
+      "H\u00b7G\u00b7\u5a01\u5c14\u65af"
+    ]
+  },
+  "Author_The_Last_Battle;(Chronicles_of_Narnia)": {
+    "strings": [
+      "C\u00b7S\u00b7\u8def\u6613\u65af"
+    ]
+  },
+  "Author_The_Lightning_Thief;(Percy_Jackson_#1)": {
+    "strings": [
+      "\u96f7\u514b\u00b7\u83b1\u5c14\u987f"
+    ]
+  },
+  "Author_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "C\u00b7S\u00b7\u8def\u6613\u65af"
+    ]
+  },
+  "Author_The_Little_Prince": {
+    "strings": [
+      "\u5b89\u6258\u4e07\u00b7\u5fb7\u00b7\u5723-\u57c3\u514b\u82cf\u4f69\u91cc"
+    ]
+  },
+  "Author_The_Lorax": {
+    "strings": [
+      "\u82cf\u65af\u535a\u58eb"
+    ]
+  },
+  "Author_The_Lost_Symbol": {
+    "strings": [
+      "\u4e39\u00b7\u5e03\u6717"
+    ]
+  },
+  "Author_The_Love_Hypothesis": {
+    "strings": [
+      "\u827e\u8389\u00b7\u9ed1\u6cfd\u5c14\u4f0d\u5fb7"
+    ]
+  },
+  "Author_The_Martian": {
+    "strings": [
+      "\u5b89\u8fea\u00b7\u5a01\u5c14"
+    ]
+  },
+  "Author_The_Martian_Chronicles": {
+    "strings": [
+      "\u96f7\u00b7\u5e03\u62c9\u5fb7\u4f2f\u91cc"
+    ]
+  },
+  "Author_The_Maze_Runner": {
+    "strings": [
+      "\u8a79\u59c6\u65af\u00b7\u8fbe\u4ec0\u7eb3"
+    ]
+  },
+  "Author_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "\u963f\u52a0\u838e\u00b7\u514b\u91cc\u65af\u8482"
+    ]
+  },
+  "Author_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "\u963f\u52a0\u838e\u00b7\u514b\u91cc\u65af\u8482"
+    ]
+  },
+  "Author_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "\u963f\u52a0\u838e\u00b7\u514b\u91cc\u65af\u8482"
+    ]
+  },
+  "Author_The_Odyssey": {
+    "strings": [
+      "\u8377\u9a6c\uff0c\u8bfa\u514b\u65af & \u8d39\u683c\u5c14\u65af \u8bd1"
+    ]
+  },
+  "Author_The_Perks_of_Being_a_Wallflower": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u5353\u535a\u65af\u57fa"
+    ]
+  },
+  "Author_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "\u5965\u65af\u5361\u00b7\u738b\u5c14\u5fb7"
+    ]
+  },
+  "Author_The_Ramayana": {
+    "strings": [
+      "\u8681\u57a4"
+    ]
+  },
+  "Author_The_Raven": {
+    "strings": [
+      "\u57c3\u5fb7\u52a0\u00b7\u7231\u4f26\u00b7\u5761"
+    ]
+  },
+  "Author_The_Return_of_the_King": {
+    "strings": [
+      "J\u00b7R\u00b7R\u00b7\u6258\u5c14\u91d1"
+    ]
+  },
+  "Author_The_Rose_of_Versailles": {
+    "strings": [
+      "\u6c60\u7530\u7406\u4ee3\u5b50"
+    ]
+  },
+  "Author_The_Sea_of_Monsters;(Percy_Jackson_#2)": {
+    "strings": [
+      "\u96f7\u514b\u00b7\u83b1\u5c14\u987f"
+    ]
+  },
+  "Author_The_Secret_Garden": {
+    "strings": [
+      "\u5f17\u6717\u897f\u4e1d\u00b7\u970d\u5947\u68ee\u00b7\u4f2f\u5185\u7279"
+    ]
+  },
+  "Author_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "H\u00b7A\u00b7\u6f58\u5b81\u987f"
+    ]
+  },
+  "Author_The_Seven_Husbands_of_Evelyn_Hugo": {
+    "strings": [
+      "\u6cf0\u52d2\u00b7\u8a79\u91d1\u65af\u00b7\u91cc\u5fb7"
+    ]
+  },
+  "Author_The_Shining": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_The_Silence_of_the_Lambs": {
+    "strings": [
+      "\u6258\u9a6c\u65af\u00b7\u54c8\u91cc\u65af"
+    ]
+  },
+  "Author_The_Silent_Patient": {
+    "strings": [
+      "\u4e9a\u5386\u514b\u65af\u00b7\u9ea6\u514b\u5229\u5179"
+    ]
+  },
+  "Author_The_Silmarillion": {
+    "strings": [
+      "J\u00b7R\u00b7R\u00b7\u6258\u5c14\u91d1"
+    ]
+  },
+  "Author_The_Stand": {
+    "strings": [
+      "\u65af\u8482\u82ac\u00b7\u91d1"
+    ]
+  },
+  "Author_The_Story_of_Doctor_Dolittle": {
+    "strings": [
+      "\u4f11\u00b7\u6d1b\u592b\u5ef7"
+    ]
+  },
+  "Author_The_Strange_Case_of_Dr._Jekyll_and_Mr._Hyde": {
+    "strings": [
+      "\u7f57\u4f2f\u7279\u00b7\u8def\u6613\u65af\u00b7\u53f2\u8482\u6587\u68ee"
+    ]
+  },
+  "Author_The_Tell-Tale_Heart": {
+    "strings": [
+      "\u57c3\u5fb7\u52a0\u00b7\u7231\u4f26\u00b7\u5761"
+    ]
+  },
+  "Author_The_Tempest": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a"
+    ]
+  },
+  "Author_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "\u9a6c\u53ef\u00b7\u6ce2\u7f57"
+    ]
+  },
+  "Author_The_Two_Towers": {
+    "strings": [
+      "J\u00b7R\u00b7R\u00b7\u6258\u5c14\u91d1"
+    ]
+  },
+  "Author_The_War_of_the_Worlds": {
+    "strings": [
+      "H\u00b7G\u00b7\u5a01\u5c14\u65af"
+    ]
+  },
+  "Author_The_Yellow_Fairy_Book": {
+    "strings": [
+      "L\u00b7B\u00b7\u963f\u83b1\u6069 & A\u00b7\u6717\u683c"
+    ]
+  },
+  "Author_To_Kill_a_Mockingbird": {
+    "strings": [
+      "\u54c8\u73c0\u00b7\u674e"
+    ]
+  },
+  "Author_To_the_Lighthouse": {
+    "strings": [
+      "\u5f17\u5409\u5c3c\u4e9a\u00b7\u4f0d\u5c14\u592b"
+    ]
+  },
+  "Author_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "\u5854\u7c73\u5c14\u00b7\u52a0\u65af\u8482"
+    ]
+  },
+  "Author_Traditional_Building_Techniques": {
+    "strings": [
+      "\u6d1b\u54c8\u5c14\u00b7\u6bd5\u4ec0\u9a6c\u5c14"
+    ]
+  },
+  "Author_Treasure_Island": {
+    "strings": [
+      "\u7f57\u4f2f\u7279\u00b7\u8def\u6613\u65af\u00b7\u53f2\u8482\u6587\u68ee"
+    ]
+  },
+  "Author_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "\u5112\u52d2\u00b7\u51e1\u5c14\u7eb3"
+    ]
+  },
+  "Author_Watchmen;(Issue_#12)": {
+    "strings": [
+      "\u963f\u5170\u00b7\u6469\u5c14"
+    ]
+  },
+  "Author_Where_the_Wild_Things_Are": {
+    "strings": [
+      "\u83ab\u91cc\u65af\u00b7\u6851\u8fbe\u514b"
+    ]
+  },
+  "Author_Wuthering_Heights": {
+    "strings": [
+      "\u827e\u7c73\u8389\u00b7\u52c3\u6717\u7279"
+    ]
+  },
+  "Author_\u300a\u4e00\u4e2a\u4eba\u7684\u6218\u4e89\u300b": {
+    "strings": [
+      "\u6797\u767d"
+    ]
+  },
+  "Author_\u300a\u4e00\u5207\u90fd\u5728\u5b64\u72ec\u91cc\u6210\u5168\u300b": {
+    "strings": [
+      "\u53d4\u672c\u534e"
+    ]
+  },
+  "Author_\u300a\u4e09\u56fd\u6f14\u4e49\u300b": {
+    "strings": [
+      "\u7f57\u8d2f\u4e2d"
+    ]
+  },
+  "Author_\u300a\u4e09\u5b57\u7ecf\u300b": {
+    "strings": [
+      "\u738b\u5e94\u9e9f"
+    ]
+  },
+  "Author_\u300a\u4e0a\u6d77\u5bfb\u5b9d\u8bb0\u300b": {
+    "strings": [
+      "\u5b59\u5bb6\u88d5"
+    ]
+  },
+  "Author_\u300a\u4e2d\u56fd\u7684\u594b\u6597\u300b": {
+    "strings": [
+      "\u5f90\u4e2d\u7ea6"
+    ]
+  },
+  "Author_\u300a\u5077\u4e66\u8d3c\u300b": {
+    "strings": [
+      "\u9a6c\u514b\u65af\u00b7\u82cf\u8428\u514b"
+    ]
+  },
+  "Author_\u300a\u5341\u4e8c\u5802\u7ecf\u5178\u79d1\u666e\u8bfe\u300b": {
+    "strings": [
+      "\u5434\u4eac\u5e73 & \u6c6a\u8bd8"
+    ]
+  },
+  "Author_\u300a\u5343\u5b57\u6587\u300b": {
+    "strings": [
+      "\u5468\u5174\u55e3"
+    ]
+  },
+  "Author_\u300a\u5361\u62c9\u9a6c\u4f50\u592b\u5144\u5f1f\u300b": {
+    "strings": [
+      "\u8d39\u5965\u591a\u5c14\u00b7\u9640\u601d\u59a5\u8036\u592b\u65af\u57fa"
+    ]
+  },
+  "Author_\u300a\u53ef\u80fd\u7684\u4e16\u754c\u300b": {
+    "strings": [
+      "\u6768\u6f47"
+    ]
+  },
+  "Author_\u300a\u5409\u6797\u5bfb\u5b9d\u8bb0\u300b": {
+    "strings": [
+      "\u5b59\u5bb6\u88d5"
+    ]
+  },
+  "Author_\u300a\u56db\u5ddd\u5bfb\u5b9d\u8bb0\u300b": {
+    "strings": [
+      "\u5b59\u5bb6\u88d5"
+    ]
+  },
+  "Author_\u300a\u5728\u7ec6\u96e8\u4e2d\u547c\u558a\u300b": {
+    "strings": [
+      "\u4f59\u534e"
+    ]
+  },
+  "Author_\u300a\u5728\u8def\u4e0a\u300b": {
+    "strings": [
+      "\u6770\u514b\u00b7\u51ef\u9c81\u4e9a\u514b"
+    ]
+  },
+  "Author_\u300a\u574f\u5c0f\u5b69\u300b": {
+    "strings": [
+      "\u7d2b\u91d1\u9648"
+    ]
+  },
+  "Author_\u300a\u590f\u6d1b\u7684\u7f51\u300b": {
+    "strings": [
+      "E.B.\u6000\u7279"
+    ]
+  },
+  "Author_\u300a\u591c\u8c2d\u5341\u8bb0\u300b": {
+    "strings": [
+      "\u9a6c\u8bc6\u9014"
+    ]
+  },
+  "Author_\u300a\u5927\u5510\u897f\u57df\u8bb0\u300b": {
+    "strings": [
+      "\u7384\u5958"
+    ]
+  },
+  "Author_\u300a\u5927\u660e\u738b\u671d1566\u300b": {
+    "strings": [
+      "\u5218\u548c\u5e73"
+    ]
+  },
+  "Author_\u300a\u5929\u5de5\u5f00\u7269\u300b": {
+    "strings": [
+      "\u5b8b\u5e94\u661f"
+    ]
+  },
+  "Author_\u300a\u5929\u84dd\u8272\u7684\u5f7c\u5cb8\u300b": {
+    "strings": [
+      "\u4e9a\u5386\u514b\u65af\u00b7\u5e0c\u52d2"
+    ]
+  },
+  "Author_\u300a\u5973\u513f\u7ea2\u300b": {
+    "strings": [
+      "\u7b80\u5a9c"
+    ]
+  },
+  "Author_\u300a\u5982\u679c\u6211\u4eec\u65e0\u6cd5\u4ee5\u5149\u901f\u524d\u884c\u300b": {
+    "strings": [
+      "\u91d1\u8349\u53f6"
+    ]
+  },
+  "Author_\u300a\u5b64\u7b4f\u91cd\u6d0b\u300b": {
+    "strings": [
+      "\u6258\u5c14\u00b7\u6d77\u5c14\u8fbe\u5c14"
+    ]
+  },
+  "Author_\u300a\u5c9b\u4e0a\u4e66\u5e97\u300b": {
+    "strings": [
+      "\u52a0\u5e03\u91cc\u57c3\u62c9\u00b7\u6cfd\u6587"
+    ]
+  },
+  "Author_\u300a\u5e73\u51e1\u7684\u4e16\u754c\u300b": {
+    "strings": [
+      "\u8def\u9065"
+    ]
+  },
+  "Author_\u300a\u5f90\u971e\u5ba2\u6e38\u8bb0\u300b": {
+    "strings": [
+      "\u5f90\u971e\u5ba2"
+    ]
+  },
+  "Author_\u300a\u5ffd\u7136\u4e03\u65e5\u300b": {
+    "strings": [
+      "\u52b3\u4f26\u00b7\u5965\u5229\u5f17"
+    ]
+  },
+  "Author_\u300a\u6076\u5973\u7684\u544a\u767d\u300b": {
+    "strings": [
+      "\u53f6\u771f\u4e2d\u663e"
+    ]
+  },
+  "Author_\u300a\u60b2\u5267\u7684\u8bde\u751f\u300b": {
+    "strings": [
+      "\u5f17\u91cc\u5fb7\u91cc\u5e0c\u00b7\u5c3c\u91c7"
+    ]
+  },
+  "Author_\u300a\u6211\u6240\u544a\u8bc9\u4f60\u5173\u4e8e\u90a3\u5ea7\u5c71\u7684\u4e00\u5207\u300b": {
+    "strings": [
+      "\u5218\u5bb8\u541b"
+    ]
+  },
+  "Author_\u300a\u65c5\u4f34\u300b": {
+    "strings": [
+      "\u7cb2\u7136"
+    ]
+  },
+  "Author_\u300a\u6709\u5440\u6709\u5440\u4e66\u5e97\u300b": {
+    "strings": [
+      "\u5409\u7af9\u4f38\u4ecb"
+    ]
+  },
+  "Author_\u300a\u6768\u7ea2\u6a31\u7b11\u732b\u65e5\u8bb0\u300b": {
+    "strings": [
+      "\u6768\u7ea2\u6a31"
+    ]
+  },
+  "Author_\u300a\u6781\u5317\u76f4\u9a71\u300b": {
+    "strings": [
+      "\u690d\u6751\u76f4\u5df1"
+    ]
+  },
+  "Author_\u300a\u67e0\u6aac\u8776\u300b": {
+    "strings": [
+      "\u66f9\u6587\u8f69 & \u7f57\u6770\u00b7\u7c73\u7f57"
+    ]
+  },
+  "Author_\u300a\u68ee\u6797\u3001\u51b0\u6cb3\u4e0e\u9cb8\u300b": {
+    "strings": [
+      "\u661f\u91ce\u9053\u592b"
+    ]
+  },
+  "Author_\u300a\u6c34\u7ecf\u6ce8\u300b": {
+    "strings": [
+      "\u90e6\u9053\u5143"
+    ]
+  },
+  "Author_\u300a\u6c38\u5dde\u516b\u8bb0\u300b": {
+    "strings": [
+      "\u67f3\u5b97\u5143"
+    ]
+  },
+  "Author_\u300a\u6ca1\u6709\u516c\u5f0f\u7684\u7269\u7406\u8bfe\u300b": {
+    "strings": [
+      "\u5468\u51e4\u7965"
+    ]
+  },
+  "Author_\u300a\u6ce2\u8389\u5b89\u5a1c\u300b": {
+    "strings": [
+      "\u57c3\u8389\u8bfa\u00b7\u970d\u5947\u66fc\u00b7\u6ce2\u7279"
+    ]
+  },
+  "Author_\u300a\u6d1b\u9633\u4f3d\u84dd\u8bb0\u300b": {
+    "strings": [
+      "\u6768\u8852\u4e4b"
+    ]
+  },
+  "Author_\u300a\u6d3b\u7740\u300b": {
+    "strings": [
+      "\u4f59\u534e"
+    ]
+  },
+  "Author_\u300a\u6d59\u6c5f\u5bfb\u5b9d\u8bb0\u300b": {
+    "strings": [
+      "\u5b59\u5bb6\u88d5"
+    ]
+  },
+  "Author_\u300a\u6ee1\u4e95\u6e38\u8bb0\u300b": {
+    "strings": [
+      "\u8881\u5b8f\u9053"
+    ]
+  },
+  "Author_\u300a\u7261\u4e39\u4ead\u300b": {
+    "strings": [
+      "\u6c64\u663e\u7956"
+    ]
+  },
+  "Author_\u300a\u7267\u7f8a\u5c11\u5e74\u7684\u5947\u5e7b\u4e4b\u65c5\u300b": {
+    "strings": [
+      "\u4fdd\u7f57\u00b7\u67ef\u827e\u7565"
+    ]
+  },
+  "Author_\u300a\u73b0\u4ee3\u9ebb\u5c06\u7684\u7edd\u5bf9\u624b\u987a\u300b": {
+    "strings": [
+      "\u5185\u5ddd\u5e78\u592a\u90ce"
+    ]
+  },
+  "Author_\u300a\u767d\u9e7f\u539f\u300b": {
+    "strings": [
+      "\u9648\u5fe0\u5b9e"
+    ]
+  },
+  "Author_\u300a\u767e\u5e74\u5b64\u72ec\u300b": {
+    "strings": [
+      "\u52a0\u592b\u5217\u5c14\u00b7\u52a0\u897f\u4e9a\u00b7\u9a6c\u5c14\u514b\u65af"
+    ]
+  },
+  "Author_\u300a\u771f\u597d!\u5927\u5bb6\u5ead\u300b": {
+    "strings": [
+      "\u591a\u7f57\u00b7\u6208\u8d1d\u5c14 & \u5f7c\u5f97\u00b7\u514b\u8bfa\u5c14"
+    ]
+  },
+  "Author_\u300a\u7a97\u8fb9\u7684\u5c0f\u8c46\u8c46\u300b": {
+    "strings": [
+      "\u9ed1\u67f3\u5f7b\u5b50"
+    ]
+  },
+  "Author_\u300a\u7ae5\u5e74\u300b": {
+    "strings": [
+      "\u9ad8\u5c14\u57fa"
+    ]
+  },
+  "Author_\u300a\u7ea2\u697c\u68a6\u300b": {
+    "strings": [
+      "\u66f9\u96ea\u82b9"
+    ]
+  },
+  "Author_\u300a\u7ed9\u5b69\u5b50\u768412\u5802\u8bd7\u6b4c\u8bfe\u300b": {
+    "strings": [
+      "\u6811\u624d"
+    ]
+  },
+  "Author_\u300a\u7f8e\u72c4\u4e9a\u300b": {
+    "strings": [
+      "\u6b27\u91cc\u5e87\u5f97\u65af"
+    ]
+  },
+  "Author_\u300a\u804a\u658b\u5fd7\u5f02\u300b": {
+    "strings": [
+      "\u84b2\u677e\u9f84"
+    ]
+  },
+  "Author_\u300a\u8111\u4e2d\u4e4b\u9b54\u300b": {
+    "strings": [
+      "\u7f57\u590f"
+    ]
+  },
+  "Author_\u300a\u8336\u9986\u300b": {
+    "strings": [
+      "\u8001\u820d"
+    ]
+  },
+  "Author_\u300a\u8349\u623f\u5b50\u300b": {
+    "strings": [
+      "\u66f9\u6587\u8f69"
+    ]
+  },
+  "Author_\u300a\u86e4\u87c6\u5148\u751f\u53bb\u770b\u5fc3\u7406\u533b\u751f\u300b": {
+    "strings": [
+      "\u7f57\u4f2f\u7279\u00b7\u6234\u535a\u5fb7"
+    ]
+  },
+  "Author_\u300a\u897f\u53a2\u8bb0\u300b": {
+    "strings": [
+      "\u738b\u5b9e\u752b"
+    ]
+  },
+  "Author_\u300a\u9065\u8fdc\u7684\u5411\u65e5\u8475\u5730\u300b": {
+    "strings": [
+      "\u674e\u5a1f"
+    ]
+  },
+  "Author_\u300a\u957f\u591c\u96be\u660e\u300b": {
+    "strings": [
+      "\u7d2b\u91d1\u9648"
+    ]
+  },
+  "Author_\u300a\u957f\u5b89\u5341\u4e8c\u65f6\u8fb0\u300b": {
+    "strings": [
+      "\u9a6c\u4f2f\u5eb8"
+    ]
+  },
+  "Author_\u300a\u9694\u58c1\u7684\u5973\u4eba\u300b": {
+    "strings": [
+      "\u5411\u7530\u90a6\u5b50"
+    ]
+  },
+  "Author_\u300a\u96f7\u96e8\u300b": {
+    "strings": [
+      "\u66f9\u79ba"
+    ]
+  },
+  "Author_\u300a\u9f50\u6c11\u8981\u672f\u300b": {
+    "strings": [
+      "\u8d3e\u601d\u52f0"
+    ]
+  },
+  "Author_\u4e0a\u5e1d\u63b7\u9ab0\u5b50\u5417": {
+    "strings": [
+      "\u66f9\u5929\u5143"
+    ]
+  },
+  "Author_\u4e1b\u6797\u5b88\u62a4\u795e": {
+    "strings": [
+      "\u7267\u94c3"
+    ]
+  },
+  "Author_\u4e1c\u5bab": {
+    "strings": [
+      "\u532a\u6211\u601d\u5b58"
+    ]
+  },
+  "Author_\u4e2d\u4e16\u7eaa\u53a8\u623f;\u4e00\u90e8\u98df\u8c31\u793e\u4f1a\u53f2": {
+    "strings": [
+      "\u6c49\u5185\u83b1\u00b7\u514b\u83b1\u6885\u8482\u5a1c"
+    ]
+  },
+  "Author_\u4e2d\u56fd\u5c11\u5e74\u513f\u7ae5\u767e\u79d1\u5168\u4e66;\u79d1\u5b66\u00b7\u6280\u672f": {
+    "strings": [
+      "\u6797\u5d07\u5fb7"
+    ]
+  },
+  "Author_\u4e2d\u56fd\u5c11\u5e74\u513f\u7ae5\u767e\u79d1\u5168\u4e66;\u81ea\u7136\u00b7\u73af\u5883": {
+    "strings": [
+      "\u6797\u5d07\u5fb7"
+    ]
+  },
+  "Author_\u4e30\u5b50\u607a\u6559\u4f60\u5b66\u753b\u753b": {
+    "strings": [
+      "\u4e30\u5b50\u607a"
+    ]
+  },
+  "Author_\u4e94\u5473;_\u6c6a\u66fe\u797a\u8c08\u5403\u6563\u658732\u7bc7": {
+    "strings": [
+      "\u6c6a\u66fe\u797a"
+    ]
+  },
+  "Author_\u4eac\u534e\u70df\u4e91": {
+    "strings": [
+      "\u6797\u8bed\u5802"
+    ]
+  },
+  "Author_\u503e\u57ce\u4e4b\u604b": {
+    "strings": [
+      "\u5f20\u7231\u73b2"
+    ]
+  },
+  "Author_\u505a\u83dc\u7684\u7a8d\u95e8;_\u540d\u53a8\u6559\u505a\u83dc_1": {
+    "strings": [
+      "\u66fe\u955c\u96c4"
+    ]
+  },
+  "Author_\u505a\u83dc\u7684\u7a8d\u95e8;_\u540d\u53a8\u6559\u505a\u83dc_2": {
+    "strings": [
+      "\u66fe\u955c\u96c4"
+    ]
+  },
+  "Author_\u5154\u8a00\u5154\u8bed": {
+    "strings": [
+      "\u68ee\u5c71\u6807\u5b50"
+    ]
+  },
+  "Author_\u52a8\u7269\u738b\u56fd;\u90bb\u5bb6\u5c0f\u5b69\u7cfb\u5217": {
+    "strings": [
+      "\u9ec4\u5e86\u8363"
+    ]
+  },
+  "Author_\u5317\u4eac\u6298\u53e0": {
+    "strings": [
+      "\u90dd\u666f\u82b3"
+    ]
+  },
+  "Author_\u534a\u751f\u7f18": {
+    "strings": [
+      "\u5f20\u7231\u73b2"
+    ]
+  },
+  "Author_\u53f2\u524d\u751f\u7269\u4f60\u53eb\u5565;_\u6050\u9f99\u548c\u5b83\u7684\u670b\u53cb\u4eec": {
+    "strings": [
+      "\u8521\u6c81"
+    ]
+  },
+  "Author_\u5403\u8336\uff1a\u54c1\u8336\u54c1\u5fc3\uff0c_\u6709\u6ecb\u6709\u5473": {
+    "strings": [
+      "\u5218\u57a3\u5747&\u5f20\u667a\u5f3a"
+    ]
+  },
+  "Author_\u540c\u6027\u604b\u4e9a\u6587\u5316": {
+    "strings": [
+      "\u674e\u94f6\u6cb3"
+    ]
+  },
+  "Author_\u56fe\u89e3\u300a\u8bf4\u6587\u89e3\u5b57\u300b\uff1a\u753b\u8bf4\u6c49\u5b57;1000\u4e2a\u6c49\u5b57\u7684\u6545\u4e8b": {
+    "strings": [
+      "\u8bb8\u614e"
+    ]
+  },
+  "Author_\u5728\u7edd\u671b\u4e4b\u5dc5": {
+    "strings": [
+      "E.M.\u9f50\u5965\u6717"
+    ]
+  },
+  "Author_\u5730\u56fe\u4e4b\u5916;47\u4e2a\u88ab\u5730\u56fe\u9057\u5fd8\u7684\u5730\u65b9,_\u771f\u5b9e\u4e16\u754c\u7684\u53e6\u4e00\u4e2a\u9762\u8c8c": {
+    "strings": [
+      "\u963f\u62c9\u53f2\u6cf0\u5c14\u00b7\u90a6\u5c3c\u7279"
+    ]
+  },
+  "Author_\u5730\u6d77\u4f20\u59472;_\u5730\u6d77\u53e4\u5893": {
+    "strings": [
+      "\u5384\u4f11\u62c9\u00b7\u52d2\u53e4\u6069"
+    ]
+  },
+  "Author_\u5927\u5510\u60ac\u7591\u5f55\uff1a\u5170\u4ead\u5e8f\u5bc6\u7801": {
+    "strings": [
+      "\u5510\u9690"
+    ]
+  },
+  "Author_\u5927\u5730\u4e09\u90e8\u66f2": {
+    "strings": [
+      "\u8d5b\u73cd\u73e0"
+    ]
+  },
+  "Author_\u5973\u4e2d\u5b66\u751f\u4e4b\u6b7b": {
+    "strings": [
+      "\u9648\u4e39\u71d5"
+    ]
+  },
+  "Author_\u5982\u679c\u4e16\u754c\u548c\u7231\u60c5\u90fd\u8fd8\u5f88\u5e74\u8f7b": {
+    "strings": [
+      "\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a\u3001\u6731\u751f\u8c6a\u8bd1"
+    ]
+  },
+  "Author_\u5b7d\u5b50": {
+    "strings": [
+      "\u767d\u5148\u52c7"
+    ]
+  },
+  "Author_\u5c0f\u5e03\u5934\u5947\u9047\u8bb0": {
+    "strings": [
+      "\u5b59\u5e7c\u519b"
+    ]
+  },
+  "Author_\u5c0f\u7075\u901a\u6f2b\u6e38\u672a\u6765": {
+    "strings": [
+      "\u53f6\u6c38\u70c8"
+    ]
+  },
+  "Author_\u5f00\u5f00\u5fc3\u5fc3\u505a\u70b9\u5fc3": {
+    "strings": [
+      "\u84dd\u8d5b\u73e0"
+    ]
+  },
+  "Author_\u602a\u8c08\u4fa6\u63a2\u793e;\u90bb\u5bb6\u5c0f\u5b69\u7cfb\u5217": {
+    "strings": [
+      "\u9ec4\u5e86\u8363"
+    ]
+  },
+  "Author_\u6089\u8fbe\u591a;\u4e00\u9996\u5370\u5ea6\u7684\u8bd7": {
+    "strings": [
+      "\u8d6b\u5c14\u66fc\u00b7\u9ed1\u585e"
+    ]
+  },
+  "Author_\u6211\u4e0e\u5730\u575b": {
+    "strings": [
+      "\u53f2\u94c1\u751f"
+    ]
+  },
+  "Author_\u65b0\u534e\u5b57\u5178;1998\u5e74\u4fee\u8ba2\u7248": {
+    "strings": [
+      "\u9b4f\u5efa\u529f"
+    ]
+  },
+  "Author_\u65c5\u884c\u7684\u827a\u672f": {
+    "strings": [
+      "\u963f\u5170\u00b7\u5fb7\u6ce2\u987f"
+    ]
+  },
+  "Author_\u6697\u604b\u6843\u82b1\u6e90": {
+    "strings": [
+      "\u8d56\u58f0\u5ddd"
+    ]
+  },
+  "Author_\u6843\u82b1\u6247": {
+    "strings": [
+      "\u5b54\u5c1a\u4efb"
+    ]
+  },
+  "Author_\u6b7b\u4ea1\u5982\u6b64\u591a\u60c5": {
+    "strings": [
+      "\u4e2d\u56fd\u533b\u5b66\u8bba\u575b\u62a5\u793e"
+    ]
+  },
+  "Author_\u6ca1\u6709\u98ce\u7684\u6247\u5b50": {
+    "strings": [
+      "\u5b59\u5e7c\u519b"
+    ]
+  },
+  "Author_\u6de1\u6c34\u89c2\u8d4f\u9c7c;\u5ba0\u7269100": {
+    "strings": [
+      "\u5f20\u8bcd\u7ec4,\u5f20\u658c"
+    ]
+  },
+  "Author_\u6f31\u7389\u8bcd": {
+    "strings": [
+      "\u674e\u6e05\u7167"
+    ]
+  },
+  "Author_\u7231\u4f60\u5c31\u50cf\u7231\u751f\u547d": {
+    "strings": [
+      "\u738b\u5c0f\u6ce2&\u674e\u94f6\u6cb3"
+    ]
+  },
+  "Author_\u7a7a\u6c14\u70b8\u9505\u61d2\u4eba\u98df\u8c31": {
+    "strings": [
+      "\u5218\u54f2\u83f2"
+    ]
+  },
+  "Author_\u7aa6\u5a25\u51a4": {
+    "strings": [
+      "\u5173\u6c49\u537f"
+    ]
+  },
+  "Author_\u7b11\u50b2\u6c5f\u6e56": {
+    "strings": [
+      "\u91d1\u5eb8"
+    ]
+  },
+  "Author_\u7c89\u9edb\u7f57\u7eee\uff1a\u4e2d\u56fd\u53e4\u4ee3\u5973\u5b50\u670d\u9970\u65f6\u5c1a": {
+    "strings": [
+      "\u9648\u82b3"
+    ]
+  },
+  "Author_\u7c97\u7cd9\u98df\u5802": {
+    "strings": [
+      "\u83b2\u5c0f\u5154"
+    ]
+  },
+  "Author_\u7ea2\u697c\u98e8\u5bb4": {
+    "strings": [
+      "\u95fb\u4f73"
+    ]
+  },
+  "Author_\u8001\u6d3e\u5c11\u5973\u8d2d\u7269\u8def\u7ebf": {
+    "strings": [
+      "\u6d2a\u7231\u73e0"
+    ]
+  },
+  "Author_\u8868\u59d0\u5230\uff01;\u90bb\u5bb6\u5c0f\u5b69\u7cfb\u5217": {
+    "strings": [
+      "\u9ec4\u5e86\u8363"
+    ]
+  },
+  "Author_\u897f\u53a2\u8bb0": {
+    "strings": [
+      "\u738b\u5b9e\u752b"
+    ]
+  },
+  "Author_\u8c1c\u5bab\u00b7\u5982\u610f\u7433\u7405\u56fe\u7c4d": {
+    "strings": [
+      "\u738b\u5fd7\u4f1f"
+    ]
+  },
+  "Author_\u8d75\u6c0f\u5b64\u513f": {
+    "strings": [
+      "\u7eaa\u541b\u7965"
+    ]
+  },
+  "Author_\u8ff7\u5bab\u996d;01": {
+    "strings": [
+      "\u4e5d\u4e95\u8c05\u5b50"
+    ]
+  },
+  "Author_\u94f6\u6cb3\u7cfb\u642d\u8f66\u5ba2\u6307\u5357": {
+    "strings": [
+      "\u9053\u683c\u62c9\u65af\u00b7\u4e9a\u5f53\u65af"
+    ]
+  },
+  "Author_\u968f\u56ed\u98df\u5355": {
+    "strings": [
+      "\u8881\u679a"
+    ]
+  },
+  "Author_\u970d\u6bd4\u7279\u4eba": {
+    "strings": [
+      "J.R.R. \u6258\u5c14\u91d1"
+    ]
+  },
+  "Author_\u9738\u738b\u522b\u59ec": {
+    "strings": [
+      "\u674e\u78a7\u534e"
+    ]
+  },
+  "Author_\u98ce\u4e91;\u7b2c\u4e00\u90e8": {
+    "strings": [
+      "\u9a6c\u8363\u6210"
+    ]
+  },
+  "Author_\u9c7c\u730e": {
+    "strings": [
+      "\u53f2\u8fc8"
+    ]
+  },
+  "Author_\u9cc4\u9c7c\u624b\u8bb0": {
+    "strings": [
+      "\u90b1\u5999\u6d25"
+    ]
+  },
+  "Author_\u9ec4\u91d1\u7f57\u76d8;\u9ed1\u6697\u7269\u8d28\u4e09\u90e8\u66f2\u4e4b\u4e00": {
+    "strings": [
+      "\u83f2\u5229\u666e\u00b7\u666e\u5c14\u66fc"
+    ]
+  },
+  "Book_Attribute_Academic": {
+    "strings": [
+      "^\u5b66\u672f"
+    ]
+  },
+  "Book_Attribute_Age-Rating-Mature": {
+    "strings": [
+      "^\u6210\u4eba\u8bfb\u7269"
+    ]
+  },
+  "Book_Attribute_Animals": {
+    "strings": [
+      "^\u52a8\u7269"
+    ]
+  },
+  "Book_Attribute_Biography": {
+    "strings": [
+      "^\u4f20\u8bb0"
+    ]
+  },
+  "Book_Attribute_Classic": {
+    "strings": [
+      "^\u7ecf\u5178"
+    ]
+  },
+  "Book_Attribute_Combiner": {
+    "strings": [
+      "\uff0c"
+    ]
+  },
+  "Book_Attribute_Coming-of-Age": {
+    "strings": [
+      "^\u6210\u957f"
+    ]
+  },
+  "Book_Attribute_Contemporary": {
+    "strings": [
+      "^\u5f53\u4ee3"
+    ]
+  },
+  "Book_Attribute_Cooking": {
+    "strings": [
+      "^\u70f9\u996a"
+    ]
+  },
+  "Book_Attribute_Crime": {
+    "strings": [
+      "^\u72af\u7f6a"
+    ]
+  },
+  "Book_Attribute_Detective": {
+    "strings": [
+      "^\u4fa6\u63a2"
+    ]
+  },
+  "Book_Attribute_Drama": {
+    "strings": [
+      "^\u620f\u5267"
+    ]
+  },
+  "Book_Attribute_Dry": {
+    "strings": [
+      "^\u6666\u6da9"
+    ]
+  },
+  "Book_Attribute_Dystopia": {
+    "strings": [
+      "^\u53cd\u4e4c\u6258\u90a6"
+    ]
+  },
+  "Book_Attribute_Encyclopedic": {
+    "strings": [
+      "^\u767e\u79d1\u5168\u4e66"
+    ]
+  },
+  "Book_Attribute_Epic": {
+    "strings": [
+      "^\u53f2\u8bd7"
+    ]
+  },
+  "Book_Attribute_Fact": {
+    "strings": [
+      "^\u8d44\u6599"
+    ]
+  },
+  "Book_Attribute_Fantasy": {
+    "strings": [
+      "^\u5947\u5e7b"
+    ]
+  },
+  "Book_Attribute_Female-Author": {
+    "strings": [
+      "^\u5973\u6027\u4f5c\u5bb6"
+    ]
+  },
+  "Book_Attribute_Fiction": {
+    "strings": [
+      "^\u865a\u6784"
+    ]
+  },
+  "Book_Attribute_Folklore": {
+    "strings": [
+      "^\u6c11\u95f4\u4f20\u8bf4"
+    ]
+  },
+  "Book_Attribute_Gore": {
+    "strings": [
+      "^\u8840\u8165"
+    ]
+  },
+  "Book_Attribute_Graphic-Novel": {
+    "strings": [
+      "^\u56fe\u50cf\u5c0f\u8bf4"
+    ]
+  },
+  "Book_Attribute_Happy-Ending": {
+    "strings": [
+      "^\u5706\u6ee1\u7ed3\u5c40"
+    ]
+  },
+  "Book_Attribute_Historic": {
+    "strings": [
+      "^\u5386\u53f2"
+    ]
+  },
+  "Book_Attribute_Horror": {
+    "strings": [
+      "^\u6050\u6016"
+    ]
+  },
+  "Book_Attribute_Humour": {
+    "strings": [
+      "^\u5e7d\u9ed8"
+    ]
+  },
+  "Book_Attribute_Kids": {
+    "strings": [
+      "^\u7ae5\u4e66"
+    ]
+  },
+  "Book_Attribute_Lifestyle": {
+    "strings": [
+      "^\u751f\u6d3b\u6307\u5357"
+    ]
+  },
+  "Book_Attribute_Light-Reading": {
+    "strings": [
+      "^\u8f7b\u677e\u8bfb\u7269"
+    ]
+  },
+  "Book_Attribute_Long": {
+    "strings": [
+      "^\u957f\u7bc7"
+    ]
+  },
+  "Book_Attribute_Magic": {
+    "strings": [
+      "^\u9b54\u6cd5"
+    ]
+  },
+  "Book_Attribute_Manga": {
+    "strings": [
+      "^\u6f2b\u753b"
+    ]
+  },
+  "Book_Attribute_Mystery": {
+    "strings": [
+      "^\u60ac\u7591"
+    ]
+  },
+  "Book_Attribute_Nature": {
+    "strings": [
+      "^\u81ea\u7136"
+    ]
+  },
+  "Book_Attribute_Niche": {
+    "strings": [
+      "^\u5c0f\u4f17"
+    ]
+  },
+  "Book_Attribute_Non-Fiction": {
+    "strings": [
+      "^\u975e\u865a\u6784"
+    ]
+  },
+  "Book_Attribute_Novel": {
+    "strings": [
+      "^\u5c0f\u8bf4"
+    ]
+  },
+  "Book_Attribute_Outdated": {
+    "strings": [
+      "^\u65e7\u4e66"
+    ]
+  },
+  "Book_Attribute_Philosophical": {
+    "strings": [
+      "^\u54f2\u5b66"
+    ]
+  },
+  "Book_Attribute_Play": {
+    "strings": [
+      "^\u5267\u672c"
+    ]
+  },
+  "Book_Attribute_Plot-Twist": {
+    "strings": [
+      "^\u5267\u60c5\u53cd\u8f6c"
+    ]
+  },
+  "Book_Attribute_Poetry": {
+    "strings": [
+      "^\u8bd7\u6b4c"
+    ]
+  },
+  "Book_Attribute_Political": {
+    "strings": [
+      "^\u653f\u6cbb"
+    ]
+  },
+  "Book_Attribute_Pop-Science": {
+    "strings": [
+      "^\u79d1\u666e"
+    ]
+  },
+  "Book_Attribute_Queer": {
+    "strings": [
+      "^\u591a\u5143\u6027\u522b"
+    ]
+  },
+  "Book_Attribute_Romance": {
+    "strings": [
+      "^\u8a00\u60c5"
+    ]
+  },
+  "Book_Attribute_Science-Fiction": {
+    "strings": [
+      "^\u79d1\u5e7b"
+    ]
+  },
+  "Book_Attribute_Self-Help": {
+    "strings": [
+      "^\u6210\u529f\u52b1\u5fd7"
+    ]
+  },
+  "Book_Attribute_Self-Printed": {
+    "strings": [
+      "\u4e2a\u4eba\u5370\u4e66"
+    ]
+  },
+  "Book_Attribute_Series": {
+    "strings": [
+      "^\u7cfb\u5217\u4e1b\u4e66"
+    ]
+  },
+  "Book_Attribute_Short": {
+    "strings": [
+      "^\u77ed\u7bc7"
+    ]
+  },
+  "Book_Attribute_Space": {
+    "strings": [
+      "^\u592a\u7a7a"
+    ]
+  },
+  "Book_Attribute_Thriller": {
+    "strings": [
+      "^\u60ca\u609a"
+    ]
+  },
+  "Book_Attribute_Tragic": {
+    "strings": [
+      "^\u60b2\u5267"
+    ]
+  },
+  "Book_Attribute_Travel": {
+    "strings": [
+      "^\u65c5\u884c"
+    ]
+  },
+  "Book_Attribute_Travel-Guide": {
+    "strings": [
+      "^\u65c5\u884c\u6307\u5357"
+    ]
+  },
+  "Book_Attribute_Very-Long": {
+    "strings": [
+      "^\u8d85\u957f\u7bc7"
+    ]
+  },
+  "Book_Attribute_Whodunnit": {
+    "strings": [
+      "^\u63a8\u7406"
+    ]
+  },
+  "Book_Attribute_YA": {
+    "strings": [
+      "\u9752\u6625\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_Academic_Neg": {
+    "strings": [
+      "\u6211\u4e00\u822c\u4f1a\u7ed5\u5f00\u88c5\u8154\u4f5c\u52bf\u7684\u4e66",
+      "\u6211\u4e0d\u592a\u559c\u6b22\u90a3\u79cd\u770b\u7740\u5c31\u7d2f\u7684\u9ad8\u6df1\u4e66\u7c4d",
+      "\u6211\u4e0d\u60f3\u8981\u592a\u96be\u61c2\u7684\u4e66\u7c4d"
+    ]
+  },
+  "Request_bookAttribute_Academic_Neg_Severe": {
+    "strings": [
+      "^\u522b\u7ed9\u6211\u6574\u90a3\u4e9b\u6545\u4f5c\u9ad8\u6df1\u7684",
+      "\u6211\u4e0d\u8981\u88c5\u8154\u4f5c\u52bf\u7684\u4e66",
+      "\u6211\u5bf9\u5b66\u672f\u516b\u80a1\u6587\u8fc7\u654f"
+    ]
+  },
+  "Request_bookAttribute_Academic_Pos": {
+    "strings": [
+      "\u6211\u5c31\u7231\u770b\u90a3\u79cd\u9ad8\u6df1\u83ab\u6d4b\u7684\u6587\u5b66\u4f5c\u54c1",
+      "^\u522b\u72b9\u8c6b\uff0c\u7ed9\u6211\u63a8\u8350\u6709\u5185\u6db5\u7684\u4f5c\u54c1",
+      "\u6211\u4e0d\u4ecb\u610f\u6311\u6218\u4e00\u4e0b\u8111\u7ec6\u80de"
+    ]
+  },
+  "Request_bookAttribute_Academic_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u627e\u771f\u6b63\u8003\u9a8c\u667a\u5546\u7684\u4e66",
+      "\u6211\u53ea\u770b\u4e25\u8083\u6709\u6df1\u5ea6\u7684\u6587\u5b66",
+      "^\u628a\u4f60\u8fd9\u91cc\u6700\u6709\u5206\u91cf\u7684\u4e66\u62ff\u51fa\u6765",
+      "\u6211\u5728\u505a\u8111\u529b\u8bad\u7ec3\uff0c\u6765\u70b9\u5b66\u672f\u6d3e\u7684\u4e66\u7c4d"
+    ]
+  },
+  "Request_bookAttribute_Animals_Neg": {
+    "strings": [
+      "\u6211\u66f4\u559c\u6b22\u6ca1\u6709\u52a8\u7269\u7684\u4e66",
+      "^\u6709\u52a8\u7269\u7684\u4e66\u4e00\u822c\u4e0d\u5408\u6211\u610f",
+      "\u6211\u4e0d\u592a\u559c\u6b22\u4e66\u91cc\u51fa\u73b0\u52a8\u7269"
+    ]
+  },
+  "Request_bookAttribute_Animals_Neg_Severe": {
+    "strings": [
+      "\u6211\u4e0d\u8981\u51fa\u73b0\u52a8\u7269\u7684\u4e66\u3002\u6211\u5bf9\u52a8\u7269\u8fc7\u654f",
+      "\u6211\u5f88\u5bb3\u6015\u5927\u90e8\u5206\u52a8\u7269",
+      "\u6211\u4e0d\u8981\u4e66\u91cc\u6709\u52a8\u7269",
+      "\u6211\u89c9\u5f97\u52a8\u7269\u9898\u6750\u7684\u4e66\u5f88\u5e7c\u7a1a"
+    ]
+  },
+  "Request_bookAttribute_Animals_Pos": {
+    "strings": [
+      "\u6211\u4e0d\u4ecb\u610f\u6709\u52a8\u7269\u51fa\u73b0\u7684\u4e66",
+      "^\u6709\u52a8\u7269\u7684\u8bdd\u6211\u4f1a\u66f4\u5f00\u5fc3",
+      "\u52a8\u7269\u9898\u6750\u7684\u4e66\u901a\u5e38\u90fd\u4e0d\u9519"
+    ]
+  },
+  "Request_bookAttribute_Animals_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u6ee1\u662f\u53ef\u7231\u5c0f\u52a8\u7269\u7684\u4e66",
+      "\u6211\u60f3\u8981\u6709\u5f88\u591a\u9177\u70ab\u52a8\u7269\u7684\u4e66",
+      "\u6211\u8d85\u7ea7\u8d85\u7ea7\u559c\u6b22\u52a8\u7269"
+    ]
+  },
+  "Request_bookAttribute_Biography_Neg": {
+    "strings": [
+      "\u6211\u5f80\u5f80\u4e0d\u592a\u559c\u6b22\u4f20\u8bb0\u7c7b\u4e66\u7c4d",
+      "\u6211\u901a\u5e38\u4e0d\u600e\u4e48\u4f1a\u4e3b\u52a8\u53bb\u8bfb\u4f20\u8bb0"
+    ]
+  },
+  "Request_bookAttribute_Biography_Neg_Severe": {
+    "strings": [
+      "\u6211\u5bf9\u4f20\u8bb0\u7c7b\u4e66\u7c4d\u6beb\u65e0\u5174\u8da3",
+      "\u6211\u4ece\u6765\u90fd\u4e0d\u4f1a\u8bfb\u4f20\u8bb0",
+      "^\u4f20\u8bb0\u5bf9\u6211\u6765\u8bf4\u5b9e\u5728\u662f\u592a\u8fc7\u67af\u71e5\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Biography_Pos": {
+    "strings": [
+      "\u6211\u559c\u6b22\u4e86\u89e3\u771f\u5b9e\u4eba\u7269\u7684\u6545\u4e8b",
+      "\u6211\u559c\u6b22\u5404\u79cd\u7c7b\u578b\u7684\u4e2a\u4eba\u56de\u5fc6\u5f55",
+      "\u6211\u662f\u4eba\u7269\u4f20\u8bb0\u7684\u5fe0\u5b9e\u7c89\u4e1d"
+    ]
+  },
+  "Request_bookAttribute_Biography_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u81ea\u4f20\u6216\u8005\u4e2a\u4eba\u56de\u5fc6\u5f55\u7c7b\u7684\u4e66\u7c4d",
+      "\u6211\u6b63\u5728\u4e13\u95e8\u5bfb\u627e\u4eba\u7269\u4f20\u8bb0"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Horror_Pos": {
+    "strings": [
+      "\u6211\u7ecf\u5e38\u5f88\u4eab\u53d7\u9605\u8bfb\u7ecf\u5178\u6050\u6016\u5c0f\u8bf4",
+      "\u6211\u662f\u90a3\u79cd\u7ecf\u5178\u6050\u6016\u6545\u4e8b\u7684\u5fe0\u5b9e\u7231\u597d\u8005",
+      "\u6211\u7279\u522b\u504f\u7231\u7ecf\u5178\u6050\u6016\u6587\u5b66\u4f5c\u54c1"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Horror_Pos_Severe": {
+    "strings": [
+      "\u6211\u771f\u7684\u5f88\u60f3\u8981\u4e00\u4e2a\u7ecf\u5178\u7684\u6050\u6016\u6545\u4e8b",
+      "\u6211\u771f\u5fc3\u70ed\u7231\u7ecf\u5178\u6050\u6016\u6587\u5b66\uff0c\u80fd\u8ba9\u6211\u7684\u540e\u810a\u80cc\u53d1\u51c9"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Neg": {
+    "strings": [
+      "\u6211\u5e73\u65f6\u4e0d\u600e\u4e48\u4f1a\u4e3b\u52a8\u53bb\u8bfb\u7ecf\u5178\u540d\u8457",
+      "^\u7ecf\u5178\u4f5c\u54c1\u901a\u5e38\u4f1a\u8ba9\u6211\u611f\u5230\u6709\u4e9b\u65e0\u804a",
+      "\u6211\u4e00\u822c\u4e0d\u4f1a\u4e3b\u52a8\u4f38\u624b\u53bb\u62ff\u7ecf\u5178\u6587\u5b66"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Neg_Severe": {
+    "strings": [
+      "^\u5343\u4e07\u522b\u7ed9\u6211\u63a8\u8350\u90a3\u4e9b\u8001\u6389\u7259\u7684\u65e0\u804a\u7ecf\u5178",
+      "\u5982\u679c\u518d\u8bfb\u4e00\u672c\u6240\u8c13\u7684\u7ecf\u5178\u4f5c\u54c1\uff0c\u6211\u771f\u7684\u8981\u6293\u72c2\u4e86",
+      "\u6211\u8bfb\u7ecf\u5178\u6587\u5b66\u4f1a\u8fc7\u654f\u7684\u2026\u2026\u771f\u7684",
+      "^\u62dc\u6258\u4e86\uff0c\u5343\u4e07\u522b\u63a8\u8350\u7ecf\u5178\uff01\u6211\u5c31\u662f\u6ca1\u529e\u6cd5\u8fdb\u5165\u90a3\u79cd\u72b6\u6001"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Pos": {
+    "strings": [
+      "\u6211\u5076\u5c14\u8fd8\u662f\u5f88\u4eab\u53d7\u9605\u8bfb\u4e00\u4e9b\u7ecf\u5178\u540d\u8457\u7684",
+      "\u6211\u60f3\u8bfb\u4e00\u4e9b\u771f\u6b63\u79f0\u5f97\u4e0a\u7ecf\u5178\u7684\u6587\u5b66\u4f5c\u54c1",
+      "\u6211\u901a\u5e38\u90fd\u5f88\u6b23\u8d4f\u90a3\u4e9b\u7ecf\u5178\u7684\u6587\u5b66\u4f73\u4f5c",
+      "\u6211\u4e2a\u4eba\u6bd4\u8f83\u503e\u5411\u4e8e\u559c\u6b22\u7ecf\u5178\u6587\u5b66"
+    ]
+  },
+  "Request_bookAttribute_Classic-Genre_Pos_Severe": {
+    "strings": [
+      "^\u7ecf\u5178\u6587\u5b66\u7edd\u5bf9\u662f\u6211\u7684\u81f3\u7231\u9996\u9009\u3002\u6211\u5fc5\u987b\u5f97\u518d\u6765\u4e00\u672c",
+      "^\u7ed9\u6211\u6765\u4e00\u672c\u90a3\u79cd\u4f20\u7edf\u7684\u597d\u7ecf\u5178",
+      "\u6211\u60f3\u8981\u4e00\u672c\u4eba\u4eba\u90fd\u5e94\u8be5\u8bfb\u7684\u7ecf\u5178\u6587\u5b66\u4f5c\u54c1",
+      "\u6211\u6b63\u5728\u5bfb\u627e\u4e00\u90e8\u771f\u6b63\u7684\u7ecf\u5178\u6587\u5b66\u4f5c\u54c1"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Neg": {
+    "strings": [
+      "\u6211\u5bf9\u90a3\u79cd\u6210\u957f\u7c7b\u7684\u6545\u4e8b\u771f\u7684\u63d0\u4e0d\u8d77\u4ec0\u4e48\u5174\u8da3",
+      "\u5e73\u65f6\u6211\u4e0d\u600e\u4e48\u4f1a\u53bb\u770b\u6210\u957f\u9898\u6750\u7684\u5185\u5bb9",
+      "^\u6210\u957f\u6545\u4e8b\u786e\u5b9e\u4e0d\u592a\u5408\u6211\u7684\u80c3\u53e3"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Neg_Severe": {
+    "strings": [
+      "\u6211\u5df2\u7ecf\u53d7\u591f\u4e86\u90a3\u4e9b\u5343\u7bc7\u4e00\u5f8b\u7684\u201c\u6210\u957f\u201d\u60c5\u8282",
+      "\u8bf4\u5b9e\u8bdd\u6211\u5bf9\u6210\u957f\u8fd9\u4e2a\u9898\u6750\u7c7b\u578b\u5df2\u7ecf\u611f\u5230\u538c\u70e6\u4e86",
+      "^\u6210\u957f\u7c7b\u4e66\u7c4d\u6211\u662f\u575a\u51b3\u4e0d\u78b0\u7684"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Pos": {
+    "strings": [
+      "\u6211\u633a\u559c\u6b22\u9752\u6625\u6210\u957f\u7c7b\u7684\u6545\u4e8b",
+      "\u6211\u5bf9\u6210\u957f\u9898\u6750\u7684\u5c0f\u8bf4\u5f88\u611f\u5174\u8da3",
+      "\u6211\u7b97\u662f\u6210\u957f\u6545\u4e8b\u7684\u5fe0\u5b9e\u8bfb\u8005"
+    ]
+  },
+  "Request_bookAttribute_Coming-of-Age_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u4e00\u672c\u80fd\u591f\u63cf\u8ff0\u6210\u957f\u5386\u7a0b\u7684\u4e66",
+      "\u6211\u6b63\u5728\u4e13\u95e8\u5bfb\u627e\u6210\u957f\u4e3b\u9898\u7684\u5c0f\u8bf4",
+      "\u6211\u7279\u522b\u6e34\u671b\u8bfb\u5230\u4e00\u4e2a\u5168\u65b0\u7684\u6210\u957f\u6545\u4e8b"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Neg": {
+    "strings": [
+      "\u8fd9\u4e2a\u4e16\u7eaa\u7684\u4e66\u6211\u8fd8\u6ca1\u9047\u5230\u4e2d\u610f\u7684",
+      "\u5343\u79a7\u5e74\u540e\u7684\u4e66\u6211\u90fd\u4e0d\u592a\u4e70\u8d26",
+      "\u6211\u5bf921\u4e16\u7eaa\u7684\u4e66\u5174\u8da3\u4e0d\u5927"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Neg_Severe": {
+    "strings": [
+      "\u8fd9\u4e2a\u4e16\u7eaa\u7684\u4e66\u6211\u4e00\u672c\u90fd\u4e0d\u60f3\u770b",
+      "^\u4f60\u53ef\u5343\u4e07\u522b\u7ed9\u6211\u65b0\u4e16\u7eaa\u7684",
+      "^\u771f\u6b63\u7684\u597d\u4e1c\u897f\u90fd\u5728\u5343\u79a7\u5e74\u524d\u5199\u5b8c\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Pos": {
+    "strings": [
+      "^\u8981\u662f\u65b0\u4e16\u7eaa\u51fa\u7684\u5c31\u66f4\u68d2\u4e86",
+      "\u6211\u4e00\u822c\u90fd\u631121\u4e16\u7eaa\u7684\u65b0\u4e66",
+      "\u6211\u5c31\u7231\u770b\u8fd9\u4e2a\u65f6\u4ee3\u7684\u4f5c\u54c1"
+    ]
+  },
+  "Request_bookAttribute_Contemporary_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u8fd9\u4e2a\u4e16\u7eaa\u51fa\u7248\u7684",
+      "\u6211\u898121\u4e16\u7eaa\u7684\u65b0\u8d27",
+      "\u6211\u5728\u627e\u5f53\u4ee3\u4f5c\u54c1\u2014\u2014\u65b0\u4e16\u7eaa\u7684\u2014\u2014",
+      "\u6211\u53ea\u770b\u73b0\u4ee3\u4eba\u5199\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Neg": {
+    "strings": [
+      "\u6211\u7684\u98df\u8c31\u4e66\u90fd\u5806\u6210\u5c71\u4e86",
+      "\u6211\u4e00\u822c\u4e0d\u4e70\u98df\u8c31",
+      "\u6211\u5f88\u5c11\u6709\u8010\u5fc3\u7167\u7740\u98df\u8c31\u4e00\u6b65\u6b65\u6765"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Neg_Severe": {
+    "strings": [
+      "\u6211\u7528\u4e0d\u7740\u98df\u8c31\u4e66",
+      "\u6211\u7684\u53a8\u827a\u65e9\u5c31\u7089\u706b\u7eaf\u9752\u4e86\uff0c\u6240\u4ee5\u522b\u7ed9\u6211\u98df\u8c31\u4e86",
+      "^\u4e00\u60f3\u5230\u505a\u996d\u6211\u5c31\u7126\u8651\uff0c\u8fde\u60f3\u90fd\u4e0d\u6562\u60f3"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Pos": {
+    "strings": [
+      "\u6211\u633a\u559c\u6b22\u70f9\u996a\u7684",
+      "^\u6765\u672c\u98df\u8c31\u633a\u4e0d\u9519",
+      "\u6211\u60f3\u627e\u70b9\u70f9\u996a\u7075\u611f"
+    ]
+  },
+  "Request_bookAttribute_Cooking_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u672c\u65b0\u98df\u8c31",
+      "\u6211\u60f3\u7ed9\u53a8\u623f\u6ce8\u5165\u70b9\u65b0\u521b\u610f",
+      "\u6211\u60f3\u5b66\u51e0\u4e2a\u65b0\u7684\u62ff\u624b\u83dc\u3002"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Neg": {
+    "strings": [
+      "\u72af\u7f6a\u6545\u4e8b\u6211\u5e73\u65f6\u4e0d\u600e\u4e48\u770b",
+      "\u6211\u4e0d\u7b97\u72af\u7f6a\u5c0f\u8bf4\u7684\u6b7b\u5fe0\u7c89",
+      "\u72af\u7f6a\u5c0f\u8bf4\u4e00\u822c\u4e0d\u5728\u6211\u8003\u8651\u8303\u56f4\u5185",
+      "\u72af\u7f6a\u7c7b\u7684\u6211\u4e0d\u662f\u7279\u522b\u611f\u5192"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Neg_Severe": {
+    "strings": [
+      "\u72af\u7f6a\u5c0f\u8bf4\u6211\u5b9e\u5728\u770b\u4e0d\u4e0b\u53bb\uff0c\u592a\u8840\u8165\u4e86",
+      "\u72af\u7f6a\u6545\u4e8b\u6211\u662f\u771f\u4e0d\u7231\u770b",
+      "\u72af\u7f6a\u5c0f\u8bf4\u7edd\u5bf9\u4e0d\u662f\u6211\u7684\u83dc",
+      "\u6211\u575a\u51b3\u4e0d\u78b0\u72af\u7f6a\u9898\u6750\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Pos": {
+    "strings": [
+      "\u6211\u7279\u522b\u7231\u770b\u72af\u7f6a\u5c0f\u8bf4",
+      "\u597d\u7684\u72af\u7f6a\u5c0f\u8bf4\u6211\u4ece\u4e0d\u9519\u8fc7",
+      "\u72af\u7f6a\u5c0f\u8bf4\u6211\u7b80\u76f4\u770b\u4e0a\u763e\u4e86",
+      "\u6211\u5bf9\u72af\u7f6a\u9898\u6750\u6709\u70b9\u75f4\u8ff7",
+      "\u6211\u662f\u72af\u7f6a\u8ff7\uff01\u5bf9\uff0c\u5c31\u662f\u597d\u8fd9\u53e3",
+      "\u6211\u662f\u8d85\u7ea7\u7f6a\u72af\u2014\u2014\u989d\uff0c\u6211\u662f\u8bf4\u72af\u7f6a\u6545\u4e8b\u8ff7"
+    ]
+  },
+  "Request_bookAttribute_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^\u90a3\u4e00\u5b9a\u5f97\u662f\u72af\u7f6a\u5c0f\u8bf4\u624d\u884c",
+      "\u6211\u6b63\u5728\u4e13\u95e8\u627e\u72af\u7f6a\u5c0f\u8bf4",
+      "\u6211\u5728\u627e\u72af\u7f6a\u5c0f\u8bf4\uff0c\u56e0\u4e3a\u6211\u5df2\u7ecf\u5b8c\u5168\u8ff7\u4e0a\u4e86",
+      "^\u7ad9\u4f4f\uff01\u8981\u662f\u6ca1\u6709\u4e00\u672c\u5168\u65b0\u7684\u72af\u7f6a\u5c0f\u8bf4\uff0c\u6211\u4eca\u5929\u7edd\u4e0d\u4f1a\u7a7a\u624b\u800c\u5f52",
+      "^\u72af\u7f6a\u9898\u6750\u5c31\u662f\u6211\u7684\u4eba\u751f\u70ed\u60c5\u6240\u5728\uff01\u55ef\uff0c\u6211\u7684\u610f\u601d\u662f\uff0c\u6211\u60f3\u8981\u4e00\u672c\u72af\u7f6a\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_Detective_Neg": {
+    "strings": [
+      "\u6211\u901a\u5e38\u7b97\u4e0d\u4e0a\u662f\u4fa6\u63a2\u5c0f\u8bf4\u7684\u5fe0\u5b9e\u7c89\u4e1d",
+      "\u6211\u4e00\u822c\u66f4\u504f\u7231\u90a3\u4e9b\u6ca1\u6709\u4fa6\u63a2\u89d2\u8272\u7684\u6545\u4e8b",
+      "^\u4fa6\u63a2\u5143\u7d20\u5bf9\u6211\u6765\u8bf4\u771f\u7684\u4e0d\u7b97\u662f\u4ec0\u4e48\u5356\u70b9"
+    ]
+  },
+  "Request_bookAttribute_Detective_Neg_Severe": {
+    "strings": [
+      "\u6211\u575a\u51b3\u53cd\u5bf9\u4fa6\u63a2\u5c0f\u8bf4\u8fd9\u4e2a\u7c7b\u578b",
+      "\u6211\u5c31\u662f\u53d7\u4e0d\u4e86\u90a3\u4e9b\u52c7\u6562\u65e0\u754f\u7684\u8c03\u67e5\u5458\u89d2\u8272"
+    ]
+  },
+  "Request_bookAttribute_Detective_Pos": {
+    "strings": [
+      "\u6211\u4e0d\u4ecb\u610f\u8bfb\u4e00\u4e9b\u6709\u4fa6\u63a2\u89d2\u8272\u7684\u6545\u4e8b",
+      "\u6211\u662f\u90a3\u4e9b\u4e16\u754c\u77e5\u540d\u5927\u4fa6\u63a2\u7684\u7c89\u4e1d",
+      "\u6211\u5f80\u5f80\u4f1a\u559c\u6b22\u5927\u591a\u6570\u5e26\u6709\u4fa6\u63a2\u5143\u7d20\u7684\u6545\u4e8b"
+    ]
+  },
+  "Request_bookAttribute_Detective_Pos_Severe": {
+    "strings": [
+      "\u6211\u6b63\u5728\u5bfb\u627e\u4e00\u4e9b\u6709\u7740\u53e4\u602a\u8c03\u67e5\u5458\u7684\u6545\u4e8b",
+      "\u6211\u5728\u4e13\u95e8\u627e\u5e26\u6709\u4fa6\u63a2\u89d2\u8272\u7684\u6545\u4e8b",
+      "^\u7ed9\u6211\u6765\u4e00\u4e9b\u6709\u60ca\u9669\u6848\u4ef6\u548c\u82f1\u4fca\u4fa6\u63a2\u7684\u7cbe\u5f69\u6545\u4e8b"
+    ]
+  },
+  "Request_bookAttribute_Detective_Whodunnit_Pos": {
+    "strings": [
+      "^\u5982\u679c\u6709\u4e00\u672c\u60ac\u7591\u63a8\u7406\u914d\u4e0a\u4e00\u4e2a\u6709\u8da3\u7684\u4fa6\u63a2\uff0c\u6211\u5c31\u4f1a\u7acb\u523b\u4e70\u4e0b\u6765",
+      "\u6211\u559c\u6b22\u90a3\u79cd\u8ba9\u4f60\u731c\u6d4b\u51f6\u624b\u7684\u4fa6\u63a2\u5c0f\u8bf4",
+      "\u6211\u8fd8\u6ca1\u9047\u5230\u8fc7\u6211\u4e0d\u559c\u6b22\u7684\u63a8\u7406\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_Detective_Whodunnit_Pos_Severe": {
+    "strings": [
+      "\u6211\u7279\u522b\u60f3\u8981\u4e00\u672c\u6709\u8ff7\u4eba\u4fa6\u63a2\u89d2\u8272\u7684\u63a8\u7406\u5c0f\u8bf4",
+      "^\u62dc\u6258\uff0c\u8bf7\u518d\u7ed9\u6211\u63a8\u8350\u4e00\u672c\u6709\u4f18\u79c0\u4fa6\u63a2\u89d2\u8272\u7684\u63a8\u7406\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Neg": {
+    "strings": [
+      "\u6211\u4e0d\u9700\u8981\u4e66\u91cc\u6709\u90a3\u4e9b\u60c5\u611f\u7ea0\u845b",
+      "\u6211\u53d7\u4e0d\u4e86\u90a3\u4e9b\u8fc7\u5ea6\u717d\u60c5\u7684\u77eb\u60c5\u6545\u4e8b"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Pos": {
+    "strings": [
+      "\u6211\u949f\u7231\u5177\u6709\u620f\u5267\u6027\u7684\u6545\u4e8b",
+      "\u6211\u60f3\u627e\u4e9b\u5145\u6ee1\u620f\u5267\u51b2\u7a81\u7684\u4f5c\u54c1",
+      "\u6211\u662f\u620f\u5267\u548c\u5267\u672c\u7684\u6b7b\u5fe0\u7c89",
+      "^\u7ed9\u6211\u6765\u70b9\u620f\u5267\u5f20\u529b\u3001\u60c5\u611f\u7206\u53d1\u3001\u8dcc\u5b95\u5267\u60c5\u5427"
+    ]
+  },
+  "Request_bookAttribute_Drama-Genre_Pos_Severe": {
+    "strings": [
+      "\u6211\u949f\u7231\u5177\u6709\u620f\u5267\u6027\u7684\u6545\u4e8b",
+      "\u6211\u60f3\u627e\u4e9b\u5145\u6ee1\u620f\u5267\u51b2\u7a81\u7684\u4f5c\u54c1",
+      "\u6211\u662f\u620f\u5267\u548c\u5267\u672c\u7684\u6b7b\u5fe0\u7c89",
+      "^\u7ed9\u6211\u6765\u70b9\u620f\u5267\u5f20\u529b\u3001\u60c5\u611f\u7206\u53d1\u3001\u8dcc\u5b95\u5267\u60c5\u5427"
+    ]
+  },
+  "Request_bookAttribute_Dry_Neg": {
+    "strings": [
+      "\u6211\u4e00\u822c\u53d7\u4e0d\u4e86\u592a\u67af\u71e5\u7684\u4e66",
+      "\u65e0\u804a\u7684\u4e66\u53ef\u80fd\u4f1a\u8ba9\u6211\u8111\u888b\u53d1\u6728",
+      "\u6211\u4e0d\u592a\u559c\u6b22\u67af\u71e5\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Dry_Neg_Severe": {
+    "strings": [
+      "\u8981\u662f\u67af\u71e5\u5f97\u8981\u547d\u6211\u5c31\u76f4\u63a5\u653e\u5f03",
+      "\u6211\u73b0\u5728\u6ca1\u5fc3\u60c5\u5543\u65e0\u804a\u7684\u4e66",
+      "^\u62dc\u6258\u522b\u7ed9\u6211\u90a3\u79cd\u50ac\u7720\u7ea7\u522b\u7684\u8bfb\u7269\u3002"
+    ]
+  },
+  "Request_bookAttribute_Dry_Pos": {
+    "strings": [
+      "\u6211\u4e0d\u6015\u770b\u90a3\u79cd\u6bd4\u8f83\u6666\u6da9\u7684\u4e66",
+      "\u65e0\u804a\u900f\u9876\u7684\u4e66\u6211\u4e5f\u80fd\u5543\u4e0b\u53bb",
+      "\u6666\u6da9\u4e4f\u5473\u5bf9\u6211\u6765\u8bf4\u4e0d\u662f\u95ee\u9898\u3002"
+    ]
+  },
+  "Request_bookAttribute_Dry_Pos_Severe": {
+    "strings": [
+      "^\u6211\u5c31\u504f\u7231\u90a3\u79cd\u5e72\u5df4\u5df4\u7684\u5b66\u672f\u8bfb\u7269",
+      "\u6211\u4e13\u95e8\u627e\u6666\u6da9\u7684\u4e66\u770b",
+      "\u6211\u7684\u4e66\u67b6\u4e0a\u90fd\u662f\u8ba9\u4eba\u72af\u56f0\u7684\u4e66\u3002"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Neg": {
+    "strings": [
+      "\u53cd\u4e4c\u6258\u90a6\u6545\u4e8b\u6211\u4e0d\u592a\u559c\u6b22",
+      "\u6211\u8fd8\u6ca1\u770b\u8fc7\u559c\u6b22\u7684\u53cd\u4e4c\u6258\u90a6\u6545\u4e8b",
+      "\u5927\u591a\u6570\u53cd\u4e4c\u6258\u90a6\u6545\u4e8b\u5bf9\u6211\u6765\u8bf4\u592a\u538b\u6291\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Neg_Severe": {
+    "strings": [
+      "\u6211\u8ba8\u538c\u592a\u9ed1\u6697\u7684\u53cd\u4e4c\u6258\u90a6\u6545\u4e8b",
+      "\u6211\u53d7\u4e0d\u4e86\u53cd\u4e4c\u6258\u90a6\u6545\u4e8b",
+      "^\u53cd\u4e4c\u6258\u90a6\u6545\u4e8b\u8ba9\u6211\u592a\u7126\u8651\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Pos": {
+    "strings": [
+      "\u6211\u5f88\u559c\u6b22\u53cd\u4e4c\u6258\u90a6\u9898\u6750\u7684\u5c0f\u8bf4",
+      "\u6211\u53ef\u4ee5\u6765\u672c\u53cd\u4e4c\u6258\u90a6\u98ce\u683c\u7684\u4e66",
+      "\u6211\u4e0d\u4ecb\u610f\u6545\u4e8b\u80cc\u666f\u662f\u53cd\u4e4c\u6258\u90a6\u7684"
+    ]
+  },
+  "Request_bookAttribute_Dystopia_Pos_Severe": {
+    "strings": [
+      "\u6211\u5c31\u60f3\u770b\u53cd\u4e4c\u6258\u90a6\u7684",
+      "\u6211\u8d85\u7231\u53cd\u4e4c\u6258\u90a6\u5c0f\u8bf4",
+      "^\u7ed9\u6211\u6765\u672c\u9ed1\u6697\u6b8b\u9177\u7684\u53cd\u4e4c\u6258\u90a6"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Neg": {
+    "strings": [
+      "\u767e\u79d1\u5168\u4e66\u6211\u4f30\u8ba1\u7528\u4e0d\u4e0a",
+      "\u767e\u79d1\u5168\u4e66\u90a3\u73a9\u610f\u513f\u6211\u4e0d\u592a\u9700\u8981",
+      "^\u767e\u79d1\u5168\u4e66\u5bf9\u6211\u6765\u8bf4\u6ca1\u5565\u7528"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Neg_Severe": {
+    "strings": [
+      "^\u8c01\u6ca1\u4e8b\u513f\u7ffb\u767e\u79d1\u5168\u4e66\u554a",
+      "^\u90fd\u4ec0\u4e48\u5e74\u4ee3\u4e86\u8fd8\u770b\u767e\u79d1\u5168\u4e66\uff0c\u624b\u673a\u4e0d\u9999\u5417",
+      "^\u767e\u79d1\u5168\u4e66\uff1f\u542c\u7740\u5c31\u56f0"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Pos": {
+    "strings": [
+      "^\u6700\u597d\u6765\u672c\u5927\u90e8\u5934\u767e\u79d1\u5168\u4e66",
+      "^\u4f60\u8fd9\u6709\u6ca1\u6709\u90a3\u79cd\u8d85\u539a\u7684\u767e\u79d1\u5168\u4e66",
+      "\u6765\u672c\u767e\u79d1\u5168\u4e66\u5457\uff0c\u6211\u5c31\u597d\u8fd9\u53e3",
+      "^\u767e\u79d1\u5168\u4e66\u591a\u6709\u610f\u601d\u554a\uff0c\u4ec0\u4e48\u90fd\u6709"
+    ]
+  },
+  "Request_bookAttribute_Encyclopedic_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u90a3\u79cd\u5565\u90fd\u6709\u7684\u5927\u5de5\u5177\u4e66",
+      "\u6211\u60f3\u672c\u767e\u79d1\u5168\u4e66\u62ff\u6765\u53c2\u8003",
+      "\u6211\u6b63\u7f3a\u672c\u9760\u8c31\u7684\u767e\u79d1\u5168\u4e66\u5462"
+    ]
+  },
+  "Request_bookAttribute_Epic_Neg": {
+    "strings": [
+      "^\u522b\u641e\u5f97\u90a3\u4e48\u5b8f\u5927\u548c\u82f1\u96c4\u4e3b\u4e49",
+      "\u6211\u8fd8\u662f\u559c\u6b22\u63a5\u5730\u6c14\u4e00\u70b9\u7684\u6545\u4e8b"
+    ]
+  },
+  "Request_bookAttribute_Epic_Neg_Severe": {
+    "strings": [
+      "\u6211\u771f\u662f\u770b\u591f\u4e86\u90a3\u4e9b\u53f2\u8bd7\u82f1\u96c4\u6545\u4e8b",
+      "\u6211\u5b9e\u5728\u641e\u4e0d\u61c2\u4e3a\u5565\u5927\u5bb6\u90fd\u7231\u53f2\u8bd7\uff0c\u592a\u5938\u5f20\u4e86\u5427"
+    ]
+  },
+  "Request_bookAttribute_Epic_Pos": {
+    "strings": [
+      "\u6211\u5c31\u7231\u90a3\u79cd\u8361\u6c14\u56de\u80a0\u7684\u82f1\u96c4\u53f2\u8bd7",
+      "^\u5982\u679c\u662f\u53f2\u8bd7\u5c31\u5b8c\u7f8e\u4e86",
+      "\u6211\u559c\u6b22\u5728\u4e66\u91cc\u8ddf\u7740\u4e3b\u89d2\u95ef\u5929\u4e0b"
+    ]
+  },
+  "Request_bookAttribute_Epic_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u90a3\u79cd\u53f2\u8bd7\u6587\u5b66\uff01",
+      "\u6211\u8981\u771f\u6b63\u53f2\u8bd7\u5927\u5192\u9669",
+      "\u6211\u5f97\u9760\u8fd9\u79cd\u53f2\u8bd7\u7ea7\u5192\u9669\u6765\u8fc7\u628a\u763e"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Neg": {
+    "strings": [
+      "\u6211\u5bf9\u8d44\u6599\u7c7b\u4e66\u7c4d\u4e0d\u611f\u5174\u8da3",
+      "\u6211\u901a\u5e38\u90fd\u4f1a\u907f\u5f00\u770b\u8d44\u6599\u7c7b\u4e66\u7c4d"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Neg_Severe": {
+    "strings": [
+      "^\u4e8b\u5b9e\uff1f\u6211\u624d\u4e0d\u60f3\u542c\u5462",
+      "^\u8d44\u6599\u7c7b\u4e66\u7c4d\u5bf9\u6211\u6765\u8bf4\u592a\u65e0\u804a\u4e86",
+      "\u6211\u5bf9\u8d44\u6599\u7c7b\u4e66\u7c4d\u4e00\u70b9\u5174\u8da3\u90fd\u6ca1\u6709"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Pos": {
+    "strings": [
+      "\u8d44\u6599\u7c7b\u7684\u4e66\u6211\u633a\u611f\u5174\u8da3",
+      "\u6211\u6700\u8fd1\u8d8a\u6765\u8d8a\u7231\u770b\u8d44\u6599\u7c7b\u4e86",
+      "^\u8d44\u6599\u7c7b\u7684\u6211\u6bd4\u8f83\u504f\u7231"
+    ]
+  },
+  "Request_bookAttribute_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u4e86\u89e3\u4e00\u4e9b\u786e\u51ff\u7684\u4e8b\u5b9e",
+      "\u6211\u9700\u8981\u4e00\u672c\u8d44\u6599\u7c7b\u4e66\u7c4d\uff0c\u56e0\u4e3a\u6211\u60f3\u83b7\u53d6\u77e5\u8bc6",
+      "^\u7ed9\u6211\u4e00\u672c\u8d44\u6599\u7c7b\u4e66\u7c4d"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Neg": {
+    "strings": [
+      "\u5947\u5e7b\u7c7b\u901a\u5e38\u4e0d\u662f\u6211\u7684\u9996\u9009",
+      "\u5947\u5e7b\u6211\u4e00\u822c\u4e0d\u600e\u4e48\u770b"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Neg_Severe": {
+    "strings": [
+      "\u5947\u5e7b\u6211\u5b9e\u5728\u770b\u4e0d\u8fdb\u53bb",
+      "\u6211\u4e0d\u8981\u90a3\u4e9b\u5929\u9a6c\u884c\u7a7a\u7684\u3001\u4e0d\u5207\u5b9e\u9645\u7684\u4e1c\u897f",
+      "^\u5947\u5e7b\u7c7b\u5c31\u4e0d\u5bf9\u6211\u80c3\u53e3",
+      "^\u5947\u5e7b\u4e66\u771f\u4e0d\u662f\u6211\u80fd\u63a5\u53d7\u7684"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Pos": {
+    "strings": [
+      "\u6211\u5f88\u504f\u7231\u7cbe\u5f69\u7684\u5947\u5e7b\u5c0f\u8bf4\u7684",
+      "^\u5947\u5e7b\u9898\u6750\u7edd\u5bf9\u662f\u6211\u7684\u5fc3\u5934\u597d",
+      "\u6211\u603b\u662f\u613f\u610f\u5c1d\u8bd5\u5404\u79cd\u5947\u5e7b\u5c0f\u8bf4",
+      "\u6211\u7279\u522b\u559c\u6b22\u6c89\u6d78\u5728\u90a3\u4e9b\u5947\u5e7b\u4e16\u754c\u91cc"
+    ]
+  },
+  "Request_bookAttribute_Fantasy-Genre_Pos_Severe": {
+    "strings": [
+      "\u6211\u662f\u5947\u5e7b\u5c0f\u8bf4\u7684\u94c1\u6746\u7c89\u4e1d",
+      "\u6211\u60f3\u8981\u90a3\u79cd\u6709\u5947\u5e7b\u4e16\u754c\u7684\u4e66",
+      "\u6211\u73b0\u5728\u5c31\u7f3a\u4e00\u672c\u5947\u5e7b\u5c0f\u8bf4",
+      "\u6ca1\u6709\u5947\u5e7b\u5c0f\u8bf4\u6211\u4eca\u5929\u5c31\u4e0d\u8d70\u4e86",
+      "\u6211\u662f\u771f\u5fc3\u70ed\u7231\u5947\u5e7b\u4e66\u7c4d"
+    ]
+  },
+  "Request_bookAttribute_Female-Author_Pos": {
+    "strings": [
+      "\u6211\u5728\u6709\u610f\u8bc6\u5730\u591a\u770b\u5973\u6027\u4f5c\u5bb6\u7684\u4e66",
+      "^\u5973\u4f5c\u5bb6\u5199\u7684\u6211\u4f1a\u4f18\u5148\u8003\u8651",
+      "\u6211\u60f3\u591a\u63a5\u89e6\u70b9\u5973\u6027\u89c6\u89d2\u7684\u6587\u5b66\u4f5c\u54c1"
+    ]
+  },
+  "Request_bookAttribute_Female-Author_Pos_Severe": {
+    "strings": [
+      "\u6211\u4e13\u95e8\u5728\u627e\u5973\u4f5c\u5bb6\u7684\u4f5c\u54c1",
+      "\u6211\u8981\u5973\u6027\u521b\u4f5c\u8005\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Neg": {
+    "strings": [
+      "\u6211\u5bf9\u5c0f\u8bf4\u7c7b\u4f5c\u54c1\u4e00\u822c\u90fd\u4e0d\u592a\u4e0a\u5fc3",
+      "\u6211\u4e0d\u600e\u4e48\u4f1a\u53bb\u8bfb\u865a\u6784\u7c7b\u7684\u4e66\u7c4d",
+      "^\u5c0f\u8bf4\u7c7b\u4e66\u7c4d\u4e0d\u4f1a\u662f\u6211\u7684\u7b2c\u4e00\u9009\u62e9"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Neg_Severe": {
+    "strings": [
+      "^\u5343\u4e07\u522b\u7ed9\u6211\u63a8\u8350\u5c0f\u8bf4",
+      "\u6211\u5bf9\u865a\u6784\u7684\u6545\u4e8b\u5b8c\u5168\u4e0d\u611f\u5174\u8da3",
+      "\u6211\u4e0d\u8bfb\u5c0f\u8bf4\u7c7b\u7684\u4e66\u7c4d"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Pos": {
+    "strings": [
+      "\u6211\u633a\u559c\u6b22\u865a\u6784\u6027\u8d28\u7684\u6587\u5b66\u4f5c\u54c1",
+      "\u6211\u949f\u7231\u865a\u6784\u6545\u4e8b",
+      "\u6211\u4e3b\u8981\u9605\u8bfb\u7684\u90fd\u662f\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_Fiction_Pos_Severe": {
+    "strings": [
+      "\u6211\u53ea\u80fd\u591f\u9605\u8bfb\u5c0f\u8bf4\u7c7b\u7684\u4f5c\u54c1",
+      "^\u53ea\u6709\u865a\u6784\u7684\u5c0f\u8bf4\u624d\u80fd\u591f\u586b\u8865\u6211\u5185\u5fc3\u7684\u7a7a\u865a",
+      "^\u7ed9\u6211\u4e00\u672c\u5c0f\u8bf4\u5427\uff0c\u6211\u662f\u5c0f\u8bf4\u7684\u5927\u7c89\u4e1d",
+      "^\u6211\uff1f\u6211\u5c31\u662f\u5c0f\u8bf4\u7684\u6b7b\u5fe0\u7c89\u4e1d"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Neg": {
+    "strings": [
+      "^\u90a3\u4e9b\u8001\u6389\u7259\u7684\u4f20\u8bf4\u6211\u4e0d\u611f\u5192",
+      "^\u6c11\u95f4\u6545\u4e8b\u4ec0\u4e48\u7684\u4e0d\u662f\u6211\u7684\u83dc"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Neg_Severe": {
+    "strings": [
+      "\u6211\u5bf9\u90a3\u4e9b\u8001\u6389\u7259\u7684\u4f20\u8bf4\u771f\u6ca1\u5174\u8da3",
+      "\u6211\u4e0d\u60f3\u518d\u770b\u90a3\u4e9b\u8001\u5957\u7684\u795e\u8bdd\u4e86",
+      "\u6211\u65e9\u5c31\u4e0d\u5403\u795e\u8bdd\u4f20\u8bf4\u8fd9\u5957\u4e86",
+      "^\u6c11\u95f4\u6545\u4e8b\u548c\u795e\u8bdd\uff1f\u7b97\u4e86\u5427\uff0c\u6ca1\u610f\u601d"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Pos": {
+    "strings": [
+      "\u6211\u5bf9\u795e\u8bdd\u4f20\u8bf4\u90a3\u5957\u633a\u6765\u7535\u7684",
+      "\u6211\u4e00\u76f4\u5bf9\u6c11\u95f4\u6545\u4e8b\u5f88\u611f\u5174\u8da3",
+      "^\u795e\u8bdd\u4f20\u8bf4\u8fd9\u7c7b\u4e66\u6211\u4ece\u5c0f\u5c31\u7740\u8ff7"
+    ]
+  },
+  "Request_bookAttribute_Folklore_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u90a3\u79cd\u975e\u5e38\u6709\u8da3\u7684\u6c11\u95f4\u6545\u4e8b",
+      "\u6211\u7279\u60f3\u770b\u5145\u6ee1\u795e\u79d8\u8272\u5f69\u7684\u6c11\u95f4\u4f20\u8bf4",
+      "^\u6c11\u95f4\u6545\u4e8b\uff01\u6211\u5bf9\u8fd9\u4e9b\u53e4\u8001\u4f20\u8bf4\u4e0a\u763e\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Gore_Neg": {
+    "strings": [
+      "\u6211\u4e00\u822c\u4e0d\u592a\u80fd\u63a5\u53d7\u8840\u8165\u573a\u9762",
+      "\u6211\u6bd4\u8f83\u559c\u6b22\u6e29\u548c\u4e00\u70b9\u7684\u5185\u5bb9",
+      "\u8840\u8165\u753b\u9762\u4f1a\u8ba9\u6211\u53cd\u80c3"
+    ]
+  },
+  "Request_bookAttribute_Gore_Neg_Severe": {
+    "strings": [
+      "\u6211\u53d7\u4e0d\u4e86\u8840\u8165",
+      "^\u5343\u4e07\u522b\u7ed9\u6211\u90a3\u79cd\u91cd\u53e3\u5473\u7684",
+      "^\u8840\u8165\u573a\u9762\u8ba9\u6211\u60f3\u5410",
+      "\u66b4\u529b\u753b\u9762\u4f1a\u8ba9\u6211\u505a\u5669\u68a6",
+      "\u522b\u7ed9\u6211\u90a3\u79cd\u8ba9\u4eba\u4e0d\u5b89\u7684\u4e66\u7c4d\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Gore_Pos": {
+    "strings": [
+      "\u6211\u4e0d\u6392\u65a5\u6709\u70b9\u91cd\u53e3\u5473\u7684",
+      "^\u8d8a\u523a\u6fc0\u8d8a\u8fc7\u763e",
+      "^\u6709\u70b9\u66b4\u529b\u5143\u7d20\u6211\u53cd\u800c\u66f4\u5174\u594b"
+    ]
+  },
+  "Request_bookAttribute_Gore_Pos_Severe": {
+    "strings": [
+      "^\u7ed9\u6211\u6765\u70b9\u771f\u6b63\u8ba9\u4eba\u5fc3\u8df3\u52a0\u901f\u7684\u4e66\uff0c\u4f60\u61c2\u7684",
+      "^\u6211\u8981\u8840\u6d46\u56db\u6e85\u3001\u62f3\u62f3\u5230\u8089\u7684\u90a3\u79cd",
+      "^\u6211\u5c31\u8981\u91cd\u53e3\u5473\u76db\u5bb4"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Neg": {
+    "strings": [
+      "\u6f2b\u753b\u5bf9\u6211\u6765\u8bf4\u5438\u5f15\u529b\u4e0d\u5927",
+      "\u6211\u5f88\u5c11\u4e3b\u52a8\u53bb\u627e\u6f2b\u753b\u770b",
+      "\u56fe\u50cf\u5c0f\u8bf4\u4e0d\u592a\u5408\u6211\u80c3\u53e3"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Neg_Severe": {
+    "strings": [
+      "^\u6211\u8981\u7684\u662f\u6b63\u7ecf\u6587\u5b57\uff0c\u4e0d\u8981\u6f2b\u753b",
+      "\u6211\u53c8\u4e0d\u662f\u90a3\u79cd\u6f2b\u753b\u5b85",
+      "\u56fe\u50cf\u5c0f\u8bf4\u4ec0\u4e48\u7684\u6211\u5b8c\u5168\u4e0d\u611f\u5192"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Pos": {
+    "strings": [
+      "^\u6709\u65f6\u5019\u770b\u770b\u56fe\u50cf\u5c0f\u8bf4\u633a\u4e0d\u9519\u7684",
+      "\u6211\u5076\u5c14\u4f1a\u4e70\u70b9\u6f2b\u753b\u6536\u85cf",
+      "\u6765\u672c\u6f2b\u753b\u4e5f\u884c",
+      "^\u56fe\u50cf\u5c0f\u8bf4\u5e94\u8be5\u633a\u6709\u610f\u601d"
+    ]
+  },
+  "Request_bookAttribute_Graphic-Novel_Pos_Severe": {
+    "strings": [
+      "\u6211\u5c31\u662f\u51b2\u7740\u56fe\u50cf\u5c0f\u8bf4\u6765\u7684",
+      "\u6f2b\u753b\u624d\u662f\u6211\u7684\u771f\u7231",
+      "\u6211\u662f\u6f2b\u753b\u53d1\u70e7\u53cb",
+      "\u7830\uff01\u5fc5\u987b\u662f\u6f2b\u753b\uff01"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Neg": {
+    "strings": [
+      "\u6211\u901a\u5e38\u66f4\u504f\u7231\u90a3\u79cd\u6ca1\u6709\u5706\u6ee1\u7ed3\u5c40\u7684\u6545\u4e8b",
+      "\u6211\u603b\u89c9\u5f97\u5927\u56e2\u5706\u7ed3\u5c40\u542c\u8d77\u6765\u4e0d\u592a\u73b0\u5b9e",
+      "\u6211\u5bf9\u8fc7\u4e8e\u5b8c\u7f8e\u7684\u7ed3\u5c40\u4e0d\u662f\u7279\u522b\u611f\u5174\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Neg_Severe": {
+    "strings": [
+      "\u6211\u771f\u7684\u4e00\u70b9\u4e5f\u4e0d\u5728\u4e4e\u4ec0\u4e48\u5706\u6ee1\u7ed3\u5c40",
+      "^\u5927\u56e2\u5706\u7ed3\u5c40\u5728\u6211\u7684\u9605\u8bfb\u4e16\u754c\u91cc\u6ca1\u6709\u4efb\u4f55\u7acb\u8db3\u4e4b\u5730",
+      "\u6211\u89c9\u5f97\u5927\u56e2\u5706\u7ed3\u5c40\u5b8c\u5168\u5c31\u662f\u5728\u81ea\u6b3a\u6b3a\u4eba"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Pos": {
+    "strings": [
+      "\u6211\u4e0d\u4ecb\u610f\u6765\u4e2a\u7686\u5927\u6b22\u559c\u7684\u7f8e\u6ee1\u7ed3\u5c40",
+      "\u6211\u901a\u5e38\u4f1a\u9009\u62e9\u90a3\u79cd\u6709\u7f8e\u597d\u7ed3\u5c40\u7684\u4e66",
+      "\u6211\u633a\u559c\u6b22\u80fd\u591f\u5706\u6ee1\u6536\u573a\u7684\u6545\u4e8b"
+    ]
+  },
+  "Request_bookAttribute_Happy-Ending_Pos_Severe": {
+    "strings": [
+      "\u6211\u5c31\u662f\u8981\u5927\u56e2\u5706\u7684\u5706\u6ee1\u7ed3\u5c40",
+      "^\u4e00\u5b9a\u5f97\u6709\u4e2a\u8ba9\u4eba\u5fc3\u6ee1\u610f\u8db3\u7684\u5b8c\u7f8e\u6536\u573a",
+      "^\u8981\u662f\u6ca1\u6709\u5e78\u798f\u5feb\u4e50\u7684\u7f8e\u6ee1\u7ed3\u5c40\uff0c\u6211\u4f1a\u54ed\u51fa\u6765\u7684",
+      "\u6211\u975e\u5e38\u5e0c\u671b\u770b\u5230\u7f8e\u597d\u7684\u7ed3\u5c40"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fact-Genre_Pos": {
+    "strings": [
+      "\u6211\u5bf9\u5386\u53f2\u5f88\u611f\u5174\u8da3",
+      "\u7b97\u662f\u4e2a\u5386\u53f2\u53d1\u70e7\u53cb",
+      "\u5386\u53f2\u771f\u76f8\u603b\u8ba9\u6211\u7740\u8ff7"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "\u60f3\u627e\u672c\u4e0e\u5386\u53f2\u4e8b\u4ef6\u76f8\u5173\u7684\u4e66",
+      "^\u6765\u70b9\u5386\u53f2\u5e72\u8d27",
+      "\u6211\u60f3\u591a\u4e86\u89e3\u54b1\u4eec\u7684\u5386\u53f2",
+      "\u6253\u7b97\u505a\u70b9\u5386\u53f2\u65b9\u9762\u7684\u7814\u7a76"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fantasy-Genre_Pos": {
+    "strings": [
+      "\u5386\u53f2\u5947\u5e7b\u633a\u6709\u610f\u601d",
+      "^\u5386\u53f2\u5947\u5e7b\u786e\u5b9e\u4e0d\u9519",
+      "\u6211\u5411\u6765\u504f\u7231\u5386\u53f2\u5947\u5e7b"
+    ]
+  },
+  "Request_bookAttribute_Historic_Fantasy-Genre_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u672c\u5386\u53f2\u80cc\u666f\u7684\u5947\u5e7b\u5c0f\u8bf4",
+      "^\u965b\u4e0b\uff0c\u81e3\u9700\u8981\u4e00\u672c\u5386\u53f2\u5947\u5e7b",
+      "\u6211\u662f\u5386\u53f2\u5947\u5e7b\u7684\u72c2\u70ed\u7c89\uff0c\u5c31\u7231\u90a3\u79cd\u611f\u89c9"
+    ]
+  },
+  "Request_bookAttribute_Historic_Kids-Genre_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u627e\u4e9b\u5173\u4e8e\u9a91\u58eb\u3001\u6050\u9f99\u6216\u53e4\u7f57\u9a6c\u7684\u4e66\uff0c\u7ed9\u5b69\u5b50\u770b",
+      "^\u6211\u9700\u8981\u5386\u53f2\u9898\u6750\u4f46\u9002\u5408\u513f\u7ae5\u7684\u4e66",
+      "^\u6211\u8981\u627e\u7684\u4e66\u9700\u8981\u8bb2\u8ff0\u5386\u53f2\uff0c\u540c\u65f6\u8981\u9002\u5408\u5c0f\u670b\u53cb",
+      "\u8bf7\u7ed9\u6211\u63a8\u8350\u51e0\u672c\u513f\u7ae5\u5386\u53f2\u8bfb\u7269"
+    ]
+  },
+  "Request_bookAttribute_Historic_Neg": {
+    "strings": [
+      "\u5386\u53f2\u4e66\u7c4d\u592a\u65e0\u804a\u4e86",
+      "\u6211\u4e00\u822c\u5bf9\u5386\u53f2\u4e66\u7c4d\u63d0\u4e0d\u8d77\u52b2",
+      "\u5386\u53f2\u9898\u6750\u6211\u8fd8\u6ca1\u78b0\u5230\u559c\u6b22\u7684",
+      "\u5386\u53f2\u80cc\u666f\u7684\u6545\u4e8b\u6211\u4e0d\u592a\u6765\u7535"
+    ]
+  },
+  "Request_bookAttribute_Historic_Neg_Severe": {
+    "strings": [
+      "\u6211\u5bf9\u90a3\u4e9b\u9648\u829d\u9ebb\u70c2\u8c37\u5b50\u7684\u5386\u53f2\u6ca1\u5174\u8da3",
+      "\u5386\u53f2\u4ec0\u4e48\u7684\u6211\u5b8c\u5168\u4e0d\u611f\u5192",
+      "^\u5386\u53f2\u9898\u6750\uff1f\u542c\u7740\u5c31\u60f3\u6253\u54c8\u6b20"
+    ]
+  },
+  "Request_bookAttribute_Historic_Pos": {
+    "strings": [
+      "\u6211\u633a\u5403\u5386\u53f2\u8fd9\u5957\u7684",
+      "\u6211\u5bf9\u53e4\u4ee3\u90a3\u4e9b\u4e8b\u513f\u5f88\u611f\u5174\u8da3",
+      "^\u5386\u53f2\u9898\u6750\u6211\u5411\u6765\u4e0d\u62d2\u7edd"
+    ]
+  },
+  "Request_bookAttribute_Historic_Pos_Severe": {
+    "strings": [
+      "\u6211\u5c31\u8981\u7a7f\u8d8a\u53e4\u4ee3\u7684\u611f\u89c9",
+      "\u6211\u60f3\u56de\u5230\u8fc7\u53bb\u770b\u770b\u2014\u2014\u6765\u672c\u5386\u53f2\u4e66\u7c4d",
+      "^\u5200\u5149\u5251\u5f71\u3001\u91d1\u6208\u94c1\u9a6c\u2014\u2014\u6211\u8981\u770b\u5386\u53f2\u98ce\u4e91\u2014\u2014",
+      "^\u5fc5\u987b\u5f97\u6709\u5386\u53f2\u539a\u91cd\u611f"
+    ]
+  },
+  "Request_bookAttribute_Historic_Romance_Pos": {
+    "strings": [
+      "\u6211\u5bf9\u5386\u53f2\u8a00\u60c5\u6709\u4e9b\u504f\u7231",
+      "^\u7ea6\u4f1a\u8d35\u65cf\u592b\u4eba\uff0c\u70ed\u543b\u9a91\u58eb\uff0c\u6d6a\u6f2b\u7f57\u9a6c\u2026\u2026\u5c31\u7231\u8fd9\u4e9b",
+      "\u6211\u559c\u6b22\u6c89\u6d78\u5728\u5386\u53f2\u8a00\u60c5\u91cc"
+    ]
+  },
+  "Request_bookAttribute_Historic_Romance_Pos_Severe": {
+    "strings": [
+      "\u60f3\u8981\u4e00\u90e8\u53d1\u751f\u5728\u8fc7\u53bb\u7684\u7231\u60c5\u6545\u4e8b",
+      "\u6211\u5728\u67b6\u8bbe\u5728\u53e4\u4ee3\u80cc\u666f\u4e0b\u7684\u8a00\u60c5\u5c0f\u8bf4",
+      "\u6211\u7231\u5386\u53f2\u6545\u4e8b\uff0c\u4e5f\u559c\u6b22\u7231\u60c5\u6545\u4e8b\uff0c\u6765\u672c\u5386\u53f2\u8a00\u60c5\u5427"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Neg": {
+    "strings": [
+      "\u6211\u73b0\u5728\u4e0d\u592a\u60f3\u627e\u5173\u4e8e\u5174\u8da3\u7231\u597d\u7684\u4e66\u7c4d",
+      "\u6211\u4e00\u822c\u4e0d\u559c\u6b22\u5b66\u4e60\u65b0\u7684\u5174\u8da3\u7231\u597d",
+      "\u6211\u7684\u65f6\u95f4\u771f\u7684\u4e0d\u592a\u591f\u7528\u6765\u641e\u4ec0\u4e48\u5174\u8da3\u7231\u597d"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Neg_Severe": {
+    "strings": [
+      "\u6211\u7edd\u5bf9\u4e0d\u8981\u4efb\u4f55\u5173\u4e8e\u5174\u8da3\u7231\u597d\u7684\u4e66",
+      "\u6211\u73b0\u5728\u7684\u5174\u8da3\u7231\u597d\u5df2\u7ecf\u591a\u5f97\u591f\u6211\u5fd9\u7684\u4e86\uff0c\u6240\u4ee5\u522b\u7ed9\u6211\u63a8\u8350\u8fd9\u7c7b\u4e66",
+      "\u6211\u6700\u8fd1\u633a\u5fd9\u7684\uff0c\u6240\u4ee5\u8bf7\u52a1\u5fc5\u4e0d\u8981\u7ed9\u6211\u63a8\u8350\u5174\u8da3\u7231\u597d\u7c7b\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Pos": {
+    "strings": [
+      "\u6211\u4e0d\u4ecb\u610f\u4e86\u89e3\u4e00\u4e2a\u65b0\u7684\u5174\u8da3\u7231\u597d",
+      "\u6211\u53ef\u4ee5\u8bd5\u7740\u518d\u57f9\u517b\u4e00\u79cd\u6d88\u9063\u65b9\u5f0f",
+      "\u6211\u89c9\u5f97\u53ef\u4ee5\u8003\u8651\u518d\u57f9\u517b\u4e00\u4e2a\u5174\u8da3\u7231\u597d"
+    ]
+  },
+  "Request_bookAttribute_Hobby_Pos_Severe": {
+    "strings": [
+      "\u6211\u6b63\u5728\u79ef\u6781\u5bfb\u627e\u4e00\u4e9b\u65b0\u7684\u5174\u8da3\u7231\u597d",
+      "\u6211\u60f3\u627e\u4e00\u4e9b\u65b0\u7684\u6d88\u9063\u6d3b\u52a8\uff0c\u9700\u8981\u4e00\u4e9b\u7075\u611f\u548c\u60f3\u6cd5",
+      "\u6211\u5728\u5bfb\u627e\u4e00\u4e9b\u53ef\u4ee5\u6253\u53d1\u65f6\u95f4\u7684\u4e8b\u60c5\uff0c\u6bd4\u5982\u8bf4\u65b0\u7684\u5174\u8da3\u7231\u597d",
+      "\u6211\u9700\u8981\u627e\u5230\u8ba9\u6211\u6c89\u8ff7\u7684\u7231\u597d\uff0c\u4f60\u4eec\u8fd9\u513f\u6709\u5173\u4e8e\u5174\u8da3\u65b9\u9762\u7684\u4e66\u5417"
+    ]
+  },
+  "Request_bookAttribute_Horror_Neg": {
+    "strings": [
+      "\u6211\u80c6\u5b50\u6bd4\u8f83\u5c0f",
+      "\u6050\u6016\u7684\u4e1c\u897f\u6211\u771f\u7684\u4e0d\u884c",
+      "\u6211\u5bf9\u6050\u6016\u9898\u6750\u6709\u70b9\u6035",
+      "^\u592a\u5413\u4eba\u7684\u6211\u4f1a\u505a\u5669\u68a6\u7684"
+    ]
+  },
+  "Request_bookAttribute_Horror_Neg_Severe": {
+    "strings": [
+      "\u6050\u6016\u5c0f\u8bf4\u6211\u7edd\u5bf9\u4e0d\u78b0",
+      "\u6211\u6700\u6015\u770b\u6050\u6016\u7684\u4e1c\u897f\u4e86",
+      "\u5343\u4e07\u522b\u7ed9\u6211\u6050\u6016\u5c0f\u8bf4\uff0c\u6211\u5fc3\u810f\u53d7\u4e0d\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Horror_Pos": {
+    "strings": [
+      "\u6765\u70b9\u60ca\u609a\u6211\u8fd8\u662f\u80fd\u63a5\u53d7\u7684",
+      "^\u5c3d\u7ba1\u63a8\u8350\u6050\u6016\u7684\u4e66\u7ed9\u6211",
+      "\u6211\u633a\u559c\u6b22\u8fd9\u79cd\u60ca\u9669\u611f\u89c9\u7684",
+      "\u6050\u6016\u5c0f\u8bf4\u6211\u8fd8\u633a\u6709\u5174\u8da3",
+      "\u9002\u5ea6\u7684\u6050\u6016\u6211\u5b8c\u5168\u53ef\u4ee5\u63a5\u53d7"
+    ]
+  },
+  "Request_bookAttribute_Horror_Pos_Severe": {
+    "strings": [
+      "^\u6211\u8981\u6700\u6050\u6016\u6700\u5413\u4eba\u7684\u90a3\u79cd",
+      "^\u6765\u672c\u80fd\u8ba9\u6211\u7761\u4e0d\u7740\u89c9\u7684\u6050\u6016\u5c0f\u8bf4",
+      "\u6211\u5c31\u7231\u90a3\u79cd\u6bdb\u9aa8\u609a\u7136\u7684\u611f\u89c9"
+    ]
+  },
+  "Request_bookAttribute_Horror_Romance_Pos": {
+    "strings": [
+      "\u8a00\u60c5\u6545\u4e8b\u6211\u5f88\u559c\u6b22\uff0c\u5e26\u70b9\u8be1\u5f02\u611f\u5c31\u66f4\u5438\u5f15\u6211\u4e86",
+      "\u6211\u5728\u8003\u8651\u5c1d\u8bd5\u54e5\u7279\u8a00\u60c5",
+      "\u6211\u6700\u8fd1\u542c\u8bf4\u4e86\u201c\u6050\u6016\u8a00\u60c5\u201d\u8fd9\u79cd\u6982\u5ff5\uff0c\u633a\u597d\u5947\u7684"
+    ]
+  },
+  "Request_bookAttribute_Horror_Romance_Pos_Severe": {
+    "strings": [
+      "^\u90a3\u79cd\u6c1b\u56f4\u611f\u5341\u8db3\u7684\u54e5\u7279\u98ce\u8a00\u60c5\u5c0f\u8bf4\uff0c\u8bf7\u7ed9\u6211\u6765\u4e00\u672c",
+      "\u54e5\u7279\u8a00\u60c5\u6211\u767e\u8bfb\u4e0d\u538c"
+    ]
+  },
+  "Request_bookAttribute_Horror_Science-Fiction_Pos": {
+    "strings": [
+      "\u6211\u5f88\u559c\u6b22\u79d1\u5e7b\u91cc\u5e26\u70b9\u6050\u6016\u5143\u7d20",
+      "\u5b87\u5b99\u6050\u6016\u8fd9\u79cd\u7ec4\u5408\u6211\u975e\u5e38\u4e2d\u610f",
+      "^\u79d1\u5e7b\u6050\u6016\u975e\u5e38\u5e26\u611f",
+      "\u79d1\u5e7b\u914d\u6050\u6016\u7684\u7ec4\u5408\u6700\u68d2"
+    ]
+  },
+  "Request_bookAttribute_Horror_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u627e\u672c\u5b87\u5b99\u6050\u6016\u7c7b\u4e66\u7c4d",
+      "\u6211\u60f3\u8bfb\u70b9\u5916\u661f\u6050\u6016\uff0c\u8d8a\u8ba9\u4eba\u53d1\u72c2\u8d8a\u597d",
+      "\u90a3\u79cd\u65e0\u6cd5\u540d\u72b6\u7684\u6050\u6016\u6700\u7231\u4e86\u2014\u2014\u8981\u662f\u89e6\u624b\u904d\u5730\u5c31\u66f4\u5b8c\u7f8e\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Humour_Neg": {
+    "strings": [
+      "\u6211\u60f3\u627e\u6b63\u7ecf\u70b9\u7684\u4e66",
+      "\u6211\u4e0d\u592a\u559c\u6b22\u523b\u610f\u641e\u7b11\u7684\u4e66",
+      "\u6211\u603b\u89c9\u5f97\u5e7d\u9ed8\u4e66\u7c4d\u5f88\u5c34\u5c2c",
+      "\u6211\u8fd8\u6ca1\u78b0\u5230\u771f\u6b63\u597d\u7b11\u7684\u201c\u641e\u7b11\u7c7b\u201d\u4e66\u7c4d"
+    ]
+  },
+  "Request_bookAttribute_Humour_Neg_Severe": {
+    "strings": [
+      "\u6211\u53d7\u4e0d\u4e86\u65e0\u5398\u5934\u7684\u5e7d\u9ed8",
+      "\u6211\u8981\u7684\u662f\u5185\u5bb9\u624e\u5b9e\u7684\u4e66",
+      "^\u5e7d\u9ed8\u4e66\u7c4d\u6839\u672c\u4e0d\u597d\u7b11",
+      "\u5e7d\u9ed8\u4e66\u7c4d\u4e0d\u662f\u6211\u7684\u83dc"
+    ]
+  },
+  "Request_bookAttribute_Humour_Play_Pos": {
+    "strings": [
+      "\u6211\u559c\u6b22\u5267\u672c\uff0c\u5c24\u5176\u662f\u559c\u5267",
+      "\u770b\u5267\u672c\u7684\u8bdd\u6211\u504f\u7231\u559c\u5267",
+      "\u559c\u5267\u5f88\u5408\u6211\u610f",
+      "\u53ea\u8981\u5e26\u6709\u70b9\u5e7d\u9ed8\u611f\u7684\u5267\u672c\u6211\u90fd\u7231"
+    ]
+  },
+  "Request_bookAttribute_Humour_Play_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u627e\u90e8\u80fd\u8ba9\u6211\u5f00\u6000\u5927\u7b11\u7684\u559c\u5267",
+      "\u60f3\u8981\u90e8\u8f7b\u677e\u5e7d\u9ed8\u7684\u5267\u672c\uff0c\u4e0d\u8981\u90a3\u79cd\u6c89\u95f7\u7684\u60b2\u5267",
+      "\u6765\u4e2a\u5267\u672c\uff0c\u8981\u80fd\u8ba9\u4eba\u53d1\u7b11\u7684\u90a3\u79cd"
+    ]
+  },
+  "Request_bookAttribute_Humour_Pos": {
+    "strings": [
+      "\u6211\u60f3\u8981\u70b9\u8f7b\u677e\u8bd9\u8c10\u7684\u4e66",
+      "\u6211\u559c\u6b22\u4e0d\u88c5\u8154\u4f5c\u52bf\u3001\u8fc7\u4e8e\u4e25\u8083\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Humour_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u627e\u8f7b\u677e\u5e7d\u9ed8\u7684\u4e66",
+      "\u6211\u60f3\u8981\u6709\u8da3\u597d\u73a9\u7684\u5185\u5bb9",
+      "\u6709\u7b11\u70b9\u7684\u4e66\u6211\u624d\u770b"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Fact-Genre_Pos": {
+    "strings": [
+      "\u6211\u4e00\u76f4\u60f3\u7ed9\u5b69\u5b50\u4eec\u4e70\u4e9b\u79d1\u666e\u8bfb\u7269",
+      "\u6211\u5bf9\u6559\u80b2\u7c7b\u7684\u4e66\u633a\u611f\u5174\u8da3\uff0c\u5c24\u5176\u662f\u9002\u5408\u5b69\u5b50\u770b\u7684\u90a3\u79cd"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Fact-Genre_Pos_Severe": {
+    "strings": [
+      "^\u4f60\u4eec\u6709\u9002\u5408\u5b69\u5b50\u7684\u6559\u80b2\u7c7b\u4e66\u7c4d\u5417\uff1f\u662f\u7ed9\u5b66\u6821\u7528\u7684",
+      "^\u4f60\u4eec\u6709\u513f\u7ae5\u6559\u80b2\u8bfb\u7269\u5417\uff1f\u6211\u9700\u8981\u4e00\u4e9b\u8f85\u5bfc\u6750\u6599",
+      "\u6211\u9700\u8981\u4e00\u672c\u65e2\u9002\u5408\u5b69\u5b50\u53c8\u6709\u6559\u80b2\u610f\u4e49\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Neg": {
+    "strings": [
+      "\u6211\u901a\u5e38\u4e0d\u4f1a\u4e13\u95e8\u53bb\u5bfb\u627e\u513f\u7ae5\u4e66\u7c4d",
+      "^\u513f\u7ae5\u8bfb\u7269\u4e00\u822c\u4e0d\u592a\u9002\u5408\u6211\u8fd9\u4e2a\u5e74\u9f84\u6bb5",
+      "\u6211\u5e73\u65f6\u4e0d\u592a\u4f1a\u53bb\u8bfb\u513f\u7ae5\u6587\u5b66"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Neg_Severe": {
+    "strings": [
+      "\u6211\u8bfb\u513f\u7ae5\u4e66\u7c4d\u7684\u5e74\u7eaa\u65e9\u5c31\u8fc7\u4e86",
+      "\u6211\u4e0d\u60f3\u770b\u4efb\u4f55\u8fc7\u5206\u5e7c\u7a1a\u7684\u5185\u5bb9"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Pos": {
+    "strings": [
+      "\u6211\u5230\u73b0\u5728\u4ecd\u7136\u5f88\u559c\u6b22\u5c11\u513f\u4e66\u7c4d",
+      "^\u5373\u4f7f\u5230\u4e86\u6211\u73b0\u5728\u8fd9\u4e2a\u5e74\u7eaa\uff0c\u6211\u4ecd\u7136\u5f88\u4eab\u53d7\u4f18\u79c0\u7684\u513f\u7ae5\u6587\u5b66",
+      "\u6211\u89c9\u5f97\u81ea\u5df1\u6c38\u8fdc\u4e0d\u4f1a\u56e0\u4e3a\u5e74\u9f84\u592a\u5927\u800c\u4e0d\u9002\u5408\u8bfb\u513f\u7ae5\u4e66\u7c4d",
+      "\u6211\u60f3\u6211\u8fd9\u8f88\u5b50\u90fd\u4e0d\u4f1a\u5bf9\u513f\u7ae5\u6587\u5b66\u5931\u53bb\u5174\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Kids-Genre_Pos_Severe": {
+    "strings": [
+      "^\u8fd9\u672c\u4e66\u9700\u8981\u9002\u5408\u5341\u5c81\u5de6\u53f3\u7684\u5b69\u5b50\u9605\u8bfb",
+      "^\u8fd9\u672c\u4e66\u9700\u8981\u9002\u5408\u516b\u5c81\u5de6\u53f3\u7684\u5c0f\u670b\u53cb",
+      "\u6211\u6b63\u5728\u5bfb\u627e\u4e00\u672c\u5d2d\u65b0\u7684\u4f18\u8d28\u513f\u7ae5\u4e66\u7c4d",
+      "^\u9ebb\u70e6\u6765\u4e00\u672c\u513f\u7ae5\u8bfb\u7269"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Neg": {
+    "strings": [
+      "\u6211\u901a\u5e38\u4e0d\u7b97\u662f\u90a3\u79cd\u7eaf\u7cb9\u7684\u4f11\u95f2\u8bfb\u8005",
+      "\u6211\u4e0d\u4ecb\u610f\u5185\u5bb9\u7a0d\u5fae\u590d\u6742\u4e00\u70b9\u7684",
+      "\u6211\u6709\u65f6\u5019\u89c9\u5f97\u592a\u8fc7\u8f7b\u677e\u7684\u8bfb\u7269\u4f1a\u8ba9\u4eba\u65e0\u804a"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Neg_Severe": {
+    "strings": [
+      "\u6211\u53ea\u60f3\u8981\u771f\u6b63\u6709\u6311\u6218\u6027\u7684\u4e66",
+      "\u6211\u89c9\u5f97\u4f11\u95f2\u9605\u8bfb\u5b8c\u5168\u5c31\u662f\u5728\u6d6a\u8d39\u65f6\u95f4",
+      "\u6211\u4e0d\u4f1a\u53bb\u770b\u90a3\u4e9b\u8f7b\u6d6e\u80a4\u6d45\u7684\u6587\u5b66\u4f5c\u54c1"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Pos": {
+    "strings": [
+      "^\u6211\u66f4\u559c\u6b22\u8bfb\u4e00\u4e9b\u4e0d\u592a\u590d\u6742\u70e7\u8111\u7684\u4e66",
+      "\u6211\u559c\u6b22\u90a3\u79cd\u8f7b\u677e\u6109\u5feb\u6709\u5a31\u4e50\u6027\u7684\u4e66",
+      "\u6211\u6bd4\u8f83\u503e\u5411\u4e8e\u8f7b\u677e\u7684\u4f11\u95f2\u9605\u8bfb"
+    ]
+  },
+  "Request_bookAttribute_Light-Reading_Pos_Severe": {
+    "strings": [
+      "^\u7ed9\u6211\u6765\u4e00\u4e9b\u6709\u8da3\u597d\u73a9\u4f46\u4e0d\u592a\u8d39\u8111\u7b4b\u7684\u4e66\u5427",
+      "\u6211\u60f3\u8981\u4e00\u4e9b\u7b80\u5355\u6613\u61c2\u3001\u6709\u8da3\u597d\u73a9\u53c8\u4e0d\u590d\u6742\u7684\u4e1c\u897f",
+      "\u6211\u521a\u521a\u91cd\u65b0\u5f00\u59cb\u57f9\u517b\u9605\u8bfb\u4e60\u60ef\uff0c\u6240\u4ee5\u5e0c\u671b\u80fd\u6709\u4e9b\u8f7b\u677e\u6709\u8da3\u7684\u4f5c\u54c1"
+    ]
+  },
+  "Request_bookAttribute_Long_Neg": {
+    "strings": [
+      "^\u5c3d\u91cf\u522b\u8d85\u8fc7450\u9875",
+      "\u6211\u6bd4\u8f83\u504f\u7231\u8584\u4e00\u70b9\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Long_Neg_Severe": {
+    "strings": [
+      "^\u522b\u592a\u539a\u4e86",
+      "\u6211\u771f\u6ca1\u7cbe\u529b\u5543\u5927\u90e8\u5934",
+      "\u6211\u786e\u5b9e\u6ca1\u65f6\u95f4\u6d88\u5316\u8fd9\u4e48\u539a\u7684\u4e66",
+      "\u6211\u4e0d\u60f3\u8981\u90a3\u79cd\u4f3c\u4e4e\u6c38\u8fdc\u770b\u4e0d\u5b8c\u7684\u5de8\u8457"
+    ]
+  },
+  "Request_bookAttribute_Long_Pos": {
+    "strings": [
+      "^\u4e00\u822c\u6765\u8bf4\uff0c\u6211\u5c31\u7231\u770b\u539a\u7816\u5934",
+      "\u6211\u4e0d\u4ecb\u610f\u62b1\u7740450\u9875\u4ee5\u4e0a\u7684\u5927\u90e8\u5934\u5543",
+      "\u6211\u7279\u522b\u4eab\u53d7\u90a3\u79cd\u539a\u91cd\u4e66\u7c4d\u7684\u4efd\u91cf\u611f",
+      "\u6211\u559c\u6b22\u5b8c\u5168\u6c89\u6d78\u5728\u957f\u7bc7\u5de8\u5236\u91cc"
+    ]
+  },
+  "Request_bookAttribute_Long_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u90a3\u79cd\u539a\u5f97\u5413\u4eba\u7684\u4e66",
+      "\u6211\u9700\u8981\u771f\u6b63\u7684\u5927\u90e8\u5934",
+      "\u5c11\u4e8e450\u9875\u7684\u4e66\u6211\u6839\u672c\u770b\u4e0d\u4e0a",
+      "\u81f3\u5c11\u5f97450\u9875\u8d77\u6b65"
+    ]
+  },
+  "Request_bookAttribute_Magic_Neg": {
+    "strings": [
+      "\u6211\u5f88\u70e6\u4f5c\u8005\u52a8\u4e0d\u52a8\u5c31\u5f80\u4e66\u91cc\u52a0\u9b54\u6cd5",
+      "\u6ca1\u9b54\u6cd5\u4e5f\u633a\u597d\u7684",
+      "^\u9b54\u6cd5\u5bf9\u6211\u6765\u8bf4\u6ca1\u5565\u610f\u601d",
+      "\u9b54\u5e7b\u7c7b\u4e66\u7c4d\u6211\u771f\u4e0d\u611f\u5192"
+    ]
+  },
+  "Request_bookAttribute_Magic_Neg_Severe": {
+    "strings": [
+      "^\u6700\u597d\u522b\u641e\u4ec0\u4e48\u9b54\u5e7b",
+      "\u5deb\u672f\u9b54\u5e7b\u8fd9\u4e9b\u6211\u90fd\u4e0d\u4fe1",
+      "\u9b54\u5e7b\u4e66\u6211\u78b0\u90fd\u4e0d\u60f3\u78b0",
+      "\u6211\u53c8\u4e0d\u4fe1\u8fd9\u4e9b\uff0c\u770b\u5b83\u5e72\u561b"
+    ]
+  },
+  "Request_bookAttribute_Magic_Pos": {
+    "strings": [
+      "\u9b54\u5e7b\u6545\u4e8b\u6211\u8d85\u7231\uff01",
+      "^\u6709\u9b54\u6cd5\u7684\u4e66\u5c31\u662f\u9999",
+      "^\u641e\u70b9\u9b54\u6cd5\u7edd\u5bf9\u6ca1\u9519"
+    ]
+  },
+  "Request_bookAttribute_Magic_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u9b54\u6cd5\uff01\u6211\u8981\u5947\u5e7b\uff01\u8d8a\u795e\u79d8\u8d8a\u597d",
+      "\u60f3\u627e\u70b9\u9b54\u5e7b\u6216\u8d85\u81ea\u7136\u7684\u4e66\u770b\u770b",
+      "\u9b54\u5e7b\u9898\u6750\u6765\u4e00\u4e2a",
+      "^\u9b54\u6cd5\u4e66\uff01\u8ba9\u6211\u6c89\u8ff7\u5176\u4e2d\u5427"
+    ]
+  },
+  "Request_bookAttribute_Manga_Neg": {
+    "strings": [
+      "\u6f2b\u753b\u6211\u770b\u5f97\u4e0d\u591a",
+      "^\u65e5\u6f2b\u97e9\u6f2b\u4e0d\u592a\u5bf9\u6211\u80c3\u53e3"
+    ]
+  },
+  "Request_bookAttribute_Manga_Neg_Severe": {
+    "strings": [
+      "\u6211\u4e0d\u770b\u65e5\u672c\u6f2b\u753b",
+      "\u6211\u4e0d\u8981\u90a3\u4e9b\u65e5\u672c\u6f2b\u753b"
+    ]
+  },
+  "Request_bookAttribute_Manga_Pos": {
+    "strings": [
+      "\u6211\u8fd8\u633a\u559c\u6b22\u65e5\u6f2b\u7684",
+      "\u6765\u672c\u6f2b\u753b\u4e5f\u884c",
+      "\u97e9\u6f2b\u65e5\u6f2b\u90fd\u53ef\u4ee5",
+      "\u6211\u5bf9\u6f2b\u753b\u6709\u597d\u611f"
+    ]
+  },
+  "Request_bookAttribute_Manga_Pos_Severe": {
+    "strings": [
+      "\u6ca1\u6709\u97e9\u6f2b\u65e5\u6f2b\u4eca\u5929\u6211\u5c31\u4e0d\u8d70\u4e86",
+      "\u6211\u8d85\u7231\u65e5\u672c\u6f2b\u753b\u7684"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Neg": {
+    "strings": [
+      "\u6211\u4e0d\u592a\u7231\u52a8\u8111\u5b50\u731c\u8c1c",
+      "\u89e3\u60ac\u7591\u4ec0\u4e48\u7684\u6211\u4e0d\u5728\u884c",
+      "\u60ac\u7591\u5143\u7d20\u6211\u63d0\u4e0d\u8d77\u5174\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Neg_Severe": {
+    "strings": [
+      "^\u6211\u6700\u8ba8\u538c\u731c\u6765\u731c\u53bb\u7684",
+      "\u60ac\u7591\u5c0f\u8bf4\u6211\u4e00\u6982\u4e0d\u8981",
+      "\u6211\u5c31\u662f\u4e0d\u7231\u90a3\u79cd\u795e\u795e\u79d8\u79d8\u7684"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Pos": {
+    "strings": [
+      "\u60ac\u7591\u60c5\u8282\u6211\u5f88\u5403\u8fd9\u4e00\u5957",
+      "\u6211\u5bf9\u7834\u6848\u89e3\u8c1c\u633a\u611f\u5174\u8da3",
+      "\u597d\u7684\u60ac\u7591\u5c0f\u8bf4\u6211\u4ece\u4e0d\u62d2\u7edd"
+    ]
+  },
+  "Request_bookAttribute_Mystery_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u90a3\u79cd\u8ba9\u4eba\u731c\u4e0d\u900f\u7684\u6545\u4e8b",
+      "\u7ed9\u6211\u6765\u672c\u60ac\u7591\u70e7\u8111\u7684",
+      "\u6211\u8981\u60ac\u5ff5\u91cd\u91cd\u7684\u60c5\u8282"
+    ]
+  },
+  "Request_bookAttribute_Nature_Neg": {
+    "strings": [
+      "^\u690d\u7269\u548c\u81ea\u7136\u4e00\u822c\u4e0d\u662f\u6211\u7684\u5174\u8da3\u70b9",
+      "\u6211\u5bf9\u81ea\u7136\u7c7b\u4e66\u7c4d\u4e0d\u592a\u611f\u5192",
+      "\u6211\u5e73\u65f6\u5bf9\u81ea\u7136\u4e16\u754c\u4e0d\u592a\u611f\u5174\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Nature_Neg_Severe": {
+    "strings": [
+      "^\u81ea\u7136\u7c7b\u4e66\u7c4d\u4e0d\u9002\u5408\u6211",
+      "\u6211\u89c9\u5f97\u81ea\u7136\u9898\u6750\u5b8c\u5168\u6ca1\u610f\u601d",
+      "\u6211\u4e0d\u4f1a\u770b\u5173\u4e8e\u81ea\u7136\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Nature_Pos": {
+    "strings": [
+      "\u6211\u633a\u4eb2\u8fd1\u5927\u81ea\u7136\u7684",
+      "\u6211\u5bf9\u52a8\u690d\u7269\u548c\u81ea\u7136\u7c7b\u7684\u4e66\u5f88\u611f\u5174\u8da3",
+      "\u6211\u4e0d\u4ecb\u610f\u591a\u4e86\u89e3\u81ea\u7136",
+      "\u6211\u4e00\u76f4\u5bf9\u5927\u81ea\u7136\u5f88\u611f\u5174\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Nature_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u627e\u672c\u81ea\u7136\u79d1\u666e\u7c7b\u7684\u4e66",
+      "^\u7ed9\u6211\u672c\u5173\u4e8e\u690d\u7269\u3001\u77f3\u5934\u6216\u8005\u52a8\u7269\u7684\u4e66\u2014\u2014\u53ea\u8981\u662f\u81ea\u7136\u9898\u6750\u7684\u5c31\u884c\u2014\u2014",
+      "\u6211\u60f3\u591a\u8bfb\u4e9b\u5173\u4e8e\u54b1\u4eec\u7f8e\u4e3d\u5730\u7403\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Niche_Neg": {
+    "strings": [
+      "^\u5c0f\u4f17\u4e66\u6211\u4e00\u822c\u4e0d\u78b0",
+      "^\u8bf7\u4e0d\u8981\u7ed9\u6211\u63a8\u8350\u6574\u592a\u504f\u95e8\u7684",
+      "\u592a\u51b7\u95e8\u7684\u6211\u63d0\u4e0d\u4e0a\u5174\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Niche_Neg_Severe": {
+    "strings": [
+      "\u5c0f\u4f17\u4e66\u6211\u4ece\u4e0d\u770b",
+      "^\u522b\u62ff\u90a3\u4e9b\u9b3c\u77e5\u9053\u7684\u4e66\u7cca\u5f04\u6211",
+      "\u51b7\u95e8\u7684\u6211\u6ca1\u5174\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Niche_Pos": {
+    "strings": [
+      "\u5c0f\u4f17\u7684\u6211\u4e0d\u5acc\u5f03",
+      "\u6211\u5411\u6765\u5f88\u7231 \u51b7\u95e8\u4e66",
+      "\u6211\u4e13\u95e8\u7231\u770b\u90a3\u4e9b\u6ca1\u4eba\u77e5\u9053\u7684"
+    ]
+  },
+  "Request_bookAttribute_Niche_Pos_Severe": {
+    "strings": [
+      "^\u7ed9\u6211\u63a8\u8350\u4e2a\u51b7\u95e8\u5b9d\u85cf",
+      "\u6211\u8981\u975e\u5e38\u975e\u5e38\u5c0f\u4f17\u7684\u6545\u4e8b",
+      "^\u8d8a\u51b7\u95e8\u8d8a\u5e26\u52b2"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Neg": {
+    "strings": [
+      "^\u8d44\u6599\u6211\u89c9\u5f97\u633a\u67af\u71e5\u7684",
+      "\u5230\u73b0\u5728\u8fd8\u6ca1\u9047\u5230\u8fc7\u597d\u770b\u7684\u8d44\u6599\u4e66",
+      "\u975e\u865a\u6784\u6211\u5174\u8da3\u4e0d\u5927"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Neg_Severe": {
+    "strings": [
+      "\u7eaa\u5b9e\u7c7b\u6211\u5b8c\u5168\u4e0d\u611f\u5192",
+      "\u6211\u4ece\u6765\u4e0d\u78b0\u975e\u865a\u6784\u7684",
+      "\u6211\u7ecf\u5e38\u6709\u610f\u907f\u5f00\u7eaa\u5b9e\u9898\u6750"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Pos": {
+    "strings": [
+      "\u6211\u6bd4\u8f83\u504f\u7231\u771f\u5b9e\u7684\u6545\u4e8b",
+      "\u4f60\u4eec\u8fd9\u91cc\u7684\u8d44\u6599\u4e66\u6211\u6709\u8033\u95fb",
+      "\u6211\u6700\u8fd1\u8ff7\u4e0a\u4e86\u73b0\u5b9e\u9898\u6750",
+      "\u6211\u8fd8\u662f\u559c\u6b22\u6709\u6839\u6709\u636e\u7684\u5185\u5bb9"
+    ]
+  },
+  "Request_bookAttribute_Non-Fiction_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u770b\u771f\u5b9e\u53d1\u751f\u7684\u4e8b\u60c5",
+      "\u627e\u672c\u8d44\u6599\u7c7b\u7684\u7ed9\u6211",
+      "\u6211\u4eca\u5929\u53ea\u770b\u975e\u865a\u6784\u7684"
+    ]
+  },
+  "Request_bookAttribute_Novel_Classic-Genre_Pos": {
+    "strings": [
+      "\u7ecf\u5178\u5c0f\u8bf4\u6bd4\u8f83\u5bf9\u80c3\u53e3",
+      "\u6211\u4e00\u822c\u90fd\u9009\u6587\u5b66\u7ecf\u5178"
+    ]
+  },
+  "Request_bookAttribute_Novel_Classic-Genre_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u672c\u7ecf\u5178\u6587\u5b66\u4f5c\u54c1",
+      "\u6211\u60f3\u627e\u90e8\u53e4\u5178\u5c0f\u8bf4\uff0c\u6587\u5b66\u6027\u5f3a\u7684\u90a3\u79cd",
+      "\u6211\u53ea\u8981\u6700\u4f1f\u5927\u7684\u6587\u5b66\u7ecf\u5178"
+    ]
+  },
+  "Request_bookAttribute_Novel_Contemporary_Pos": {
+    "strings": [
+      "^\u5f53\u4ee3\u5c0f\u8bf4\u6211\u633a\u611f\u5174\u8da3",
+      "\u5f53\u4ee3\u5c0f\u8bf4\u6211\u8bfb\u5f97\u4e0d\u5c11",
+      "^\u5f53\u4ee3\u5c0f\u8bf4\u7b97\u6211\u7684\u5f3a\u9879"
+    ]
+  },
+  "Request_bookAttribute_Novel_Contemporary_Pos_Severe": {
+    "strings": [
+      "\u60f3\u627e\u672c\u7cbe\u5f69\u7684\u5f53\u4ee3\u5c0f\u8bf4",
+      "\u9ebb\u70e6\u5e2e\u6211\u6311\u672c\u5f53\u4ee3\u4f5c\u54c1",
+      "^\u5f53\u4ee3\u5c0f\u8bf4\u662f\u5929\u4e0b\u7b2c\u4e00\u597d\u770b\u7684\u4e66",
+      "\u5e0c\u671b\u4f60\u8fd9\u513f\u6709\u5f53\u4ee3\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_Novel_Neg": {
+    "strings": [
+      "\u6211\u89c9\u5f97\u4e00\u822c\u7684\u5c0f\u8bf4\u90fd\u592a\u80a4\u6d45",
+      "\u5927\u90e8\u5206\u6587\u5b66\u5c0f\u8bf4\u6211\u90fd\u4e0d\u611f\u5192"
+    ]
+  },
+  "Request_bookAttribute_Novel_Neg_Severe": {
+    "strings": [
+      "\u6587\u5b66\u5c0f\u8bf4\u5728\u6211\u773c\u91cc\u5c31\u662f\u88c5\u8154\u4f5c\u52bf",
+      "\u6211\u5c31\u662f\u4e0d\u5403\u6587\u5b66\u5c0f\u8bf4\u8fd9\u4e00\u5957",
+      "^\u6587\u5b66\u5c0f\u8bf4\u5b8c\u5168\u52fe\u4e0d\u8d77\u6211\u7684\u5174\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Novel_Pos": {
+    "strings": [
+      "\u6211\u5bf9\u6587\u5b66\u5c0f\u8bf4\u60c5\u6709\u72ec\u949f",
+      "\u6211\u901a\u5e38\u504f\u7231\u90a3\u79cd\u4eba\u7269\u523b\u753b\u7ec6\u817b\u7684\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_Novel_Pos_Severe": {
+    "strings": [
+      "\u6211\u5c31\u60f3\u8981\u672c\u6b63\u513f\u516b\u7ecf\u7684\u6587\u5b66\u5c0f\u8bf4",
+      "\u6211\u60f3\u770b\u6709\u6df1\u5ea6\u7684\u6587\u5b66\u4f5c\u54c1",
+      "\u6211\u60f3\u770b\u90a3\u79cd\u4ee5\u4eba\u7269\u5185\u5fc3\u620f\u4e3a\u4e3b\u7684\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_Novel_Romance_Pos": {
+    "strings": [
+      "\u504f\u7231\u90a3\u4e9b\u60c5\u8282\u590d\u6742\u7684\u8a00\u60c5\u4f5c\u54c1",
+      "\u6211\u559c\u6b22\u8a00\u60c5\u5c0f\u8bf4\uff0c\u4e0d\u8fc7\u66f4\u6587\u5b66\u5316\u4e00\u70b9\u7684\u66f4\u5408\u6211\u610f",
+      "^\u5e26\u70b9\u8a00\u60c5\u8272\u5f69\u7684\u6587\u5b66\u4f5c\u54c1\u5e94\u8be5\u4e0d\u9519"
+    ]
+  },
+  "Request_bookAttribute_Novel_Romance_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u627e\u90e8\u8a00\u60c5\u6587\u5b66",
+      "\u6211\u5c31\u60f3\u8981\u8a00\u60c5\u6587\u5b66",
+      "^\u60c5\u8282\u590d\u6742\u7684\u8a00\u60c5\u5c0f\u8bf4\u6211\u6700\u559c\u6b22\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Neg": {
+    "strings": [
+      "\u522b\u7ed9\u6211\u8001\u6389\u7259\u7684",
+      "\u8fc7\u65f6\u7684\u4e66\u6211\u4ece\u6765\u4e0d\u78b0",
+      "\u592a\u8001\u7684\u6211\u770b\u4e0d\u4e0b\u53bb"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Neg_Severe": {
+    "strings": [
+      "^\u5343\u4e07\u522b\u7ed9\u6211\u63a8\u8350\u8001\u53e4\u8463",
+      "\u8001\u4e66\u6709\u5565\u7528\u5462\uff1f",
+      "\u8981\u65b0\u51fa\u7248\u7684\u2014\u2014\u522b\u62ff\u8001\u8d27\u6253\u53d1\u6211\u2014\u2014"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Pos": {
+    "strings": [
+      "\u6211\u89c9\u5f97\u6709\u5e74\u5934\u7684\u4f5c\u54c1\u633a\u6709\u5473\u9053",
+      "\u6211\u4e0d\u5acc\u5f03\u8001\u4e66",
+      "\u8fc7\u65f6\u7684\u4e66\u4e5f\u6709\u5b83\u7684\u9b45\u529b"
+    ]
+  },
+  "Request_bookAttribute_Outdated_Pos_Severe": {
+    "strings": [
+      "\u6211\u4e13\u95e8\u6536\u85cf\u8001\u53e4\u8463",
+      "\u5c31\u7231\u90a3\u4e9b\u6709\u5e74\u5934\u7684",
+      "\u6765\u672c\u4e0a\u4e86\u5e74\u7eaa\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Neg": {
+    "strings": [
+      "\u54f2\u5b66\u4e66\u7c4d\u4e0d\u592a\u5408\u6211\u80c3\u53e3",
+      "\u54f2\u5b66\u4e66\u5bf9\u6211\u6765\u8bf4\u592a\u6df1\u5965\u4e86",
+      "^\u54f2\u5b66\u6545\u4e8b\u5728\u6211\u770b\u6765\u603b\u662f\u6709\u4e9b\u7f3a\u4e4f\u6cdb\u6cdb\u5176\u8c08\uff0c\u7f3a\u4e4f\u91cd\u70b9"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Neg_Severe": {
+    "strings": [
+      "\u6211\u771f\u7684\u53d7\u591f\u4e86\u5197\u957f\u7684\u54f2\u5b66\u8fa9\u8bba",
+      "\u4e0d\u660e\u767d\u4e3a\u4ec0\u4e48\u6709\u4eba\u8981\u5728\u54f2\u5b66\u4e0a\u6d6a\u8d39\u65f6\u95f4",
+      "^\u54f2\u5b66\u5b9e\u5728\u592a\u67af\u71e5\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Pos": {
+    "strings": [
+      "\u6211\u504f\u7231\u54f2\u5b66\u4e66\u7c4d",
+      "^\u54f2\u5b66\u662f\u6211\u7684\u5fc3\u5934\u597d",
+      "\u6211\u60f3\u6765\u70b9\u54f2\u5b66\u601d\u8fa8\u7684",
+      "\u73b0\u5728\u6b63\u662f\u6211\u7684\u54f2\u601d\u65f6\u523b"
+    ]
+  },
+  "Request_bookAttribute_Philosophical_Pos_Severe": {
+    "strings": [
+      "\u6211\u73b0\u5728\u6025\u9700\u4e00\u672c\u54f2\u5b66\u4e66",
+      "^\u7ed9\u6211\u6765\u672c\u63a2\u8ba8\u4eba\u6027\u5965\u79d8\u7684\u6df1\u5ea6\u8bfb\u7269",
+      "\u6211\u5f97\u597d\u597d\u8865\u8865\u54f2\u5b66"
+    ]
+  },
+  "Request_bookAttribute_Play_Neg": {
+    "strings": [
+      "\u6211\u4e0d\u592a\u660e\u767d\u620f\u5267\u5230\u5e95\u54ea\u91cc\u597d\u770b",
+      "\u6211\u89c9\u5f97\u751f\u6d3b\u4e2d\u4e0d\u9700\u8981\u620f\u5267",
+      "\u6211\u81f3\u4eca\u6ca1\u4eab\u53d7\u8fc7\u8bfb\u5267\u672c\u7684\u4e50\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Play_Neg_Severe": {
+    "strings": [
+      "\u6211\u771f\u5fc3\u4e0d\u559c\u6b22\u620f\u5267",
+      "^\u620f\u5267\u548c\u6211\u5c31\u662f\u4e0d\u6765\u7535",
+      "\u6211\u603b\u662f\u627e\u4e0d\u5230\u8bfb\u5267\u672c\u7684\u611f\u89c9"
+    ]
+  },
+  "Request_bookAttribute_Play_Pos": {
+    "strings": [
+      "^\u5267\u672c\u4ece\u4e0d\u4f1a\u8ba9\u4eba\u5931\u671b",
+      "\u6211\u5bf9\u620f\u5267\u672c\u6709\u72ec\u949f"
+    ]
+  },
+  "Request_bookAttribute_Play_Pos_Severe": {
+    "strings": [
+      "^\u6765\u70b9\u821e\u53f0\u4e0a\u7684\u539f\u6c41\u539f\u5473",
+      "\u65e2\u7136\u4eba\u751f\u5982\u620f\uff0c\u90a3\u5c31\u7ed9\u6211\u4e00\u90e8\u597d\u5267",
+      "\u6211\u5c31\u662f\u559c\u6b22\u8bfb\u5267\u672c",
+      "\u90a3\u79cd\u620f\u5267\u5f20\u529b\uff0c\u6587\u4f53\u98ce\u683c\uff0c\u90a3\u4efd\u60c5\u611f\uff01\u5fc5\u987b\u662f\u620f\u5267\u624d\u884c"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Neg": {
+    "strings": [
+      "\u6211\u5b81\u613f\u60c5\u8282\u7b80\u5355\u76f4\u63a5\u4e00\u70b9",
+      "\u6211\u66f4\u559c\u6b22\u5e73\u5e73\u6de1\u6de1\u7684\u6545\u4e8b",
+      "\u60c5\u8282\u8f6c\u6298\u5bf9\u6211\u6765\u8bf4\u901a\u5e38\u663e\u5f97\u6709\u4e9b\u8fc7\u4e8e\u523a\u6fc0\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Neg_Severe": {
+    "strings": [
+      "\u6211\u771f\u7684\u5f88\u8ba8\u538c\u5404\u79cd\u5267\u60c5\u8f6c\u6298",
+      "^\u62dc\u6258\u4e86\uff0c\u5343\u4e07\u4e0d\u8981\u4ec0\u4e48\u60c5\u8282\u8f6c\u6298\uff01\u8fd9\u79cd\u5957\u8def\u5b9e\u5728\u662f\u592a\u8001\u571f\u4e86",
+      "\u6211\u4e00\u70b9\u4e5f\u4e0d\u60f3\u770b\u4e00\u6ce2\u4e09\u6298\u7684\u6545\u4e8b"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Pos": {
+    "strings": [
+      "\u6211\u559c\u6b22\u60c5\u8282\u5927\u53cd\u8f6c\u7684\u4e66",
+      "\u6211\u7279\u522b\u504f\u7231\u60c5\u8282\u53cd\u8f6c",
+      "\u6211\u6c89\u8ff7\u4e8e\u4e00\u6ce2\u4e09\u6298\u7684\u6545\u4e8b"
+    ]
+  },
+  "Request_bookAttribute_Plot-Twist_Pos_Severe": {
+    "strings": [
+      "\u6211\u5728\u5bfb\u627e\u4e00\u6ce2\u4e09\u6298\u7684\u4e66",
+      "\u6211\u60f3\u8981\u90a3\u79cd\u5cf0\u56de\u8def\u8f6c\u7684\u4e66",
+      "^\u7cbe\u5f69\u7684\u60c5\u8282\u8f6c\u6298\u5bf9\u6211\u6765\u8bf4\u662f\u5fc5\u4e0d\u53ef\u5c11\u7684"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Neg": {
+    "strings": [
+      "\u6211\u4ece\u6765\u6ca1\u771f\u6b63\u7406\u89e3\u8fc7\u8bd7\u6b4c",
+      "\u6211\u89c9\u5f97\u6211\u4e0d\u592a\u61c2\u8bd7",
+      "\u8bd7\u6b4c\u5bf9\u6211\u6765\u8bf4\u603b\u662f\u4e91\u91cc\u96fe\u91cc\u7684"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Neg_Severe": {
+    "strings": [
+      "\u6211\u5c31\u662f\u4e0d\u61c2\u90a3\u4e9b\u8bd7\u610f\u7684\u8868\u8fbe",
+      "\u522b\u7ed9\u6211\u8bd7\u6b4c\u7c7b\u7684",
+      "\u6211\u7edd\u5bf9\u4e0d\u4f1a\u78b0\u8bd7\u6b4c\u7c7b\u4f5c\u54c1"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Pos": {
+    "strings": [
+      "\u6211\u559c\u6b22\u6587\u5b57\u4f18\u7f8e\u7684\u4e66",
+      "\u6765\u70b9\u6709\u8bd7\u610f\u7684\u633a\u4e0d\u9519",
+      "\u6211\u633a\u6b23\u8d4f\u8bd7\u610f\u7684\u8868\u8fbe"
+    ]
+  },
+  "Request_bookAttribute_Poetry_Pos_Severe": {
+    "strings": [
+      "\u6211\u73b0\u5728\u60f3\u770b\u70b9\u6709\u8bd7\u610f\u7684",
+      "\u6211\u7684\u751f\u6d3b\u9700\u8981\u4e9b\u8bd7\u60c5\u753b\u610f",
+      "\u8ba9\u6211\u611f\u52a8\uff0c\u8ba9\u6211\u601d\u8003\uff0c\u7ed9\u6211\u4e9b\u8bd7\u610f\u7684\u6587\u5b57"
+    ]
+  },
+  "Request_bookAttribute_Political_Neg": {
+    "strings": [
+      "\u6211\u53ef\u4e0d\u60f3\u8bfb\u4ec0\u4e48\u653f\u6cbb\u4e66\u7c4d",
+      "^\u8bf4\u5b9e\u8bdd\uff0c\u6211\u5b81\u613f\u907f\u5f00\u653f\u6cbb\u8bdd\u9898",
+      "^\u653f\u6cbb\u4e66\u7c4d\u5bf9\u6211\u800c\u8a00\u8fc7\u4e8e\u6c89\u91cd"
+    ]
+  },
+  "Request_bookAttribute_Political_Neg_Severe": {
+    "strings": [
+      "\u6211\u6700\u8ba8\u538c\u5e26\u653f\u6cbb\u503e\u5411\u7684\u4e66\u4e86",
+      "^\u653f\u6cbb\u89c2\u70b9\u8ba9\u6211\u5fc3\u60c5\u90c1\u95f7"
+    ]
+  },
+  "Request_bookAttribute_Political_Pos": {
+    "strings": [
+      "\u6211\u949f\u7231\u5e26\u6709\u653f\u6cbb\u8272\u5f69\u7684\u4e66\u7c4d",
+      "^\u6211\u4e0d\u4ecb\u610f\u4f60\u63a8\u8350\u653f\u6cbb\u8bfb\u7269"
+    ]
+  },
+  "Request_bookAttribute_Political_Pos_Severe": {
+    "strings": [
+      "\u6211\u6b63\u9700\u8981\u4e9b\u6709\u653f\u6cbb\u89c2\u70b9\u7684\u5185\u5bb9",
+      "\u6211\u8981\u627e\u5e26\u653f\u6cbb\u7acb\u573a\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Political_Science-Fiction_Pos": {
+    "strings": [
+      "\u90a3\u4e9b\u653f\u6cbb\u79d1\u5e7b\u9898\u6750\u7684\u4f5c\u54c1\u633a\u5438\u5f15\u6211",
+      "\u6211\u662f\u79d1\u5e7b\u8ff7\u4e00\u679a\uff0c\u653f\u6cbb\u9898\u6750\u7684\u5c24\u5176\u559c\u6b22",
+      "\u6700\u8fd1\u5bf9\u653f\u6cbb\u79d1\u5e7b\u5f88\u611f\u5174\u8da3",
+      "\u6211\u613f\u610f\u5c1d\u8bd5\u8bfb\u4e00\u8bfb\u653f\u6cbb\u79d1\u5e7b"
+    ]
+  },
+  "Request_bookAttribute_Political_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "\u6211\u5728\u627e\u601d\u8fa8\u6027\u79d1\u5e7b\u5c0f\u8bf4\uff0c\u6211\u662f\u8fd9\u7c7b\u4e66\u7684\u5fe0\u5b9e\u7c89\u4e1d",
+      "\u6211\u559c\u6b22\u601d\u8003\u4eba\u7c7b\u7684\u672a\u6765\uff0c\u8fd9\u8ba9\u6211\u975e\u5e38\u5174\u594b",
+      "\u6211\u60f3\u8981\u5f00\u62d3\u601d\u7ef4\uff0c\u8bf7\u7ed9\u6211\u63a8\u8350\u4e00\u672c\u653f\u6cbb\u79d1\u5e7b\u5c0f\u8bf4\u5427"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Neg": {
+    "strings": [
+      "\u4e00\u76f4\u89c9\u5f97\u79d1\u666e\u8bfb\u7269\u975e\u5e38\u4e4f\u5473",
+      "\u6211\u4e0d\u600e\u4e48\u7231\u8bfb\u79d1\u666e\u4e66\u7c4d",
+      "^\u79d1\u666e\u771f\u4e0d\u662f\u6211\u7684\u83dc"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Neg_Severe": {
+    "strings": [
+      "\u6211\u624d\u4e0d\u8bfb\u4ec0\u4e48\u201c\u901a\u4fd7\u201d\u79d1\u5b66\u5462",
+      "\u6211\u6700\u53cd\u611f\u79d1\u666e\u4e66\u4e86",
+      "^\u79d1\u666e\u662f\u6211\u7684\u96f7\u533a"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Pos": {
+    "strings": [
+      "^\u79d1\u666e\u8bfb\u7269\u662f\u6211\u7684\u6700\u7231",
+      "^\u79d1\u666e\u8ba9\u6211\u89c9\u5f97\u81ea\u5df1\u535a\u5b66\u591a\u95fb",
+      "\u79d1\u666e\u7c7b\u4e66\u7c4d\u6211\u4ece\u6765\u4e0d\u62d2\u7edd"
+    ]
+  },
+  "Request_bookAttribute_Pop-Science_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u672c\u9002\u5408\u65b0\u624b\u7684\u79d1\u5b66\u4e66",
+      "\u6211\u8981\u4f60\u4eec\u8fd9\u91cc\u7684\u79d1\u666e\u4e66",
+      "\u6211\u6b63\u5728\u5bfb\u89c5\u65b0\u51fa\u7089\u7684\u79d1\u666e\u597d\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Queer_Pos": {
+    "strings": [
+      "\u6211\u7ecf\u5e38\u627e\u6709\u591a\u5143\u6027\u53d6\u5411\u89d2\u8272\u7684\u4e66",
+      "^\u8981\u662f\u6709\u9177\u513f\u89d2\u8272\u5c31\u66f4\u68d2\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Queer_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u6709\u9177\u513f\u5143\u7d20\u7684\u4e66",
+      "^\u9177\u513f\u4ee3\u8868\u5bf9\u6211\u6765\u8bf4\u8d85\u7ea7\u91cd\u8981",
+      "^\u6211\u770b\u7684\u4e66\u5fc5\u987b\u8981\u6709\u9177\u513f\u4ee3\u8868"
+    ]
+  },
+  "Request_bookAttribute_Romance_Neg": {
+    "strings": [
+      "\u6211\u5bf9\u7231\u60c5\u9898\u6750\u5174\u8da3\u4e0d\u5927",
+      "^\u522b\u592a\u6d6a\u6f2b\uff0c\u6211\u53d7\u4e0d\u4e86",
+      "\u6211\u5bf9\u7231\u60c5\u620f\u4e0d\u662f\u5f88\u611f\u5192"
+    ]
+  },
+  "Request_bookAttribute_Romance_Neg_Severe": {
+    "strings": [
+      "^\u5343\u4e07\u522b\u7ed9\u6211\u8a00\u60c5\u7684",
+      "^\u6211\u6700\u8ba8\u538c\u90a3\u79cd\u4e09\u89d2\u604b\u72d7\u8840\u60c5\u8282\u4e86",
+      "\u7231\u60c5\u5c0f\u8bf4\u6211\u771f\u7684\u4e0d\u884c",
+      "^\u6d6a\u6f2b\u4ec0\u4e48\u7684\u514d\u4e86\u5427"
+    ]
+  },
+  "Request_bookAttribute_Romance_Pos": {
+    "strings": [
+      "\u5076\u5c14\u770b\u70b9\u7231\u60c5\u6545\u4e8b\u4e5f\u633a\u597d",
+      "\u6709\u70b9\u6d6a\u6f2b\u60c5\u8282\u6211\u4e0d\u4ecb\u610f",
+      "\u8a00\u60c5\u5c0f\u8bf4\u6211\u80fd\u63a5\u53d7"
+    ]
+  },
+  "Request_bookAttribute_Romance_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u770b\u751c\u751c\u7684\u604b\u7231\u6545\u4e8b",
+      "\u4e0d\u8c08\u604b\u7231\u7684\u5c0f\u8bf4\u6709\u4ec0\u4e48\u610f\u601d",
+      "^\u7ed9\u6211\u6765\u70b9\u6d6a\u6f2b\u6545\u4e8b\u7684",
+      "\u6211\u8981\u770b\u8138\u7ea2\u5fc3\u8df3\u7684\u60c5\u8282",
+      "\u6211\u5df2\u7ecf\u5bf9\u8a00\u60c5\u5c0f\u8bf4\u4e0a\u763e\u4e86",
+      "^\u6ca1\u6709\u7231\u60c5\u5c31\u6ca1\u6709\u7075\u9b42"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Neg": {
+    "strings": [
+      "\u6211\u5bf9\u79d1\u5e7b\u5c0f\u8bf4\u786e\u5b9e\u6709\u70b9\u611f\u5230\u538c\u5026\u4e86",
+      "\u6211\u4e0d\u4e00\u5b9a\u4f1a\u559c\u6b22\u79d1\u5e7b\u7c7b\u7684\u5185\u5bb9",
+      "^\u79d1\u5e7b\u9898\u6750\u771f\u7684\u4e0d\u592a\u7b26\u5408\u6211\u7684\u9605\u8bfb\u53e3\u5473"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Neg_Severe": {
+    "strings": [
+      "^\u6211\u7edd\u5bf9\u4e0d\u8981\u79d1\u5e7b\u7c7b\u7684",
+      "\u6211\u8fd9\u8f88\u5b50\u90fd\u4e0d\u53ef\u80fd\u4f1a\u8bfb\u79d1\u5e7b\u4e66\u7c4d",
+      "\u6211\u8ba4\u4e3a\u63a8\u6d4b\u6027\u79d1\u5e7b\u5c0f\u8bf4\u5b8c\u5168\u5c31\u662f\u5728\u6d6a\u8d39\u65f6\u95f4"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Pos": {
+    "strings": [
+      "\u6211\u901a\u5e38\u90fd\u5f88\u559c\u6b22\u4f18\u79c0\u7684\u79d1\u5e7b\u6545\u4e8b",
+      "\u6211\u5bf9\u7cbe\u5f69\u7684\u79d1\u5e7b\u6545\u4e8b\u8fd8\u662f\u76f8\u5f53\u6709\u597d\u611f\u7684",
+      "\u6211\u5bf9\u79d1\u5e7b\u5c0f\u8bf4\u6709\u7740\u7279\u6b8a\u7684\u597d\u611f"
+    ]
+  },
+  "Request_bookAttribute_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "\u6211\u6b63\u5728\u5bfb\u627e\u4efb\u4f55\u79d1\u5e7b\u9898\u6750\u7684\u4f5c\u54c1",
+      "^\u5fc5\u987b\u5f97\u662f\u79d1\u5e7b\u5c0f\u8bf4\u624d\u7b26\u5408\u6211\u7684\u8981\u6c42",
+      "\u6211\u7684\u751f\u6d3b\u4e2d\u7edd\u5bf9\u79bb\u4e0d\u5f00\u79d1\u5e7b\u6587\u5b66",
+      "\u6211\u662f\u79d1\u5e7b\u5c0f\u8bf4\u7684\u72c2\u70ed\u7c89\u4e1d"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Neg": {
+    "strings": [
+      "^\u5e73\u65f6\u6211\u89c9\u5f97\u8fd9\u7c7b\u6210\u529f\u5b66\u4e66\u7c4d\u633a\u67af\u71e5\u7684",
+      "\u52b1\u5fd7\u4e66\u4e00\u822c\u4e0d\u592a\u5408\u6211\u80c3\u53e3",
+      "\u6211\u73b0\u5728\u5012\u4e0d\u89c9\u5f97\u9700\u8981\u4ec0\u4e48\u52b1\u5fd7\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Neg_Severe": {
+    "strings": [
+      "\u6211\u6700\u8ba8\u538c\u90a3\u4e9b\u6307\u624b\u753b\u811a\u7684\u52b1\u5fd7\u7c7b",
+      "\u6211\u5b8c\u5168\u4e0d\u9700\u8981\u522b\u4eba\u6559\u6211\u600e\u4e48\u6d3b"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Pos": {
+    "strings": [
+      "\u6211\u6700\u8fd1\u60f3\u770b\u70b9\u80fd\u5efa\u8bae\u4e66\u7c4d",
+      "^\u52b1\u5fd7\u4e66\u7c4d\u4e0d\u9519",
+      "\u6211\u4e0d\u4ecb\u610f\u8bfb\u4e00\u672c\u52b1\u5fd7\u4e66\u7c4d"
+    ]
+  },
+  "Request_bookAttribute_Self-Help_Pos_Severe": {
+    "strings": [
+      "\u6211\u73b0\u5728\u7279\u522b\u9700\u8981\u6709\u4eba\u7ed9\u6211\u70b9\u4eba\u751f\u5efa\u8bae",
+      "\u6211\u89c9\u5f97\u8be5\u770b\u70b9\u52b1\u5fd7\u4e66\u4e86",
+      "\u6211\u60f3\u63d0\u5347\u63d0\u5347\u81ea\u5df1",
+      "\u6211\u60f3\u8981\u672c\u6210\u529f\u5b66\u6216\u8005\u52b1\u5fd7\u7c7b\u7684\u4e66",
+      "^\u6700\u8fd1\u611f\u89c9\u6709\u70b9\u8ff7\u832b\uff0c\u771f\u7684\u5f88\u9700\u8981\u770b\u70b9\u52b1\u5fd7\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Series_Neg": {
+    "strings": [
+      "\u6211\u4e0d\u592a\u60f3\u7ed9\u81ea\u5df1\u6316\u65b0\u5751",
+      "\u6211\u8fd8\u6ca1\u505a\u597d\u5f00\u59cb\u8ffd\u65b0\u7cfb\u5217\u7684\u5fc3\u7406\u51c6\u5907",
+      "\u6211\u4e0d\u786e\u5b9a\u6709\u6ca1\u6709\u65f6\u95f4\u5165\u65b0\u5751"
+    ]
+  },
+  "Request_bookAttribute_Series_Neg_Severe": {
+    "strings": [
+      "^\u522b\u8ba9\u6211\u9677\u8fdb\u65b0\u7684\u9605\u8bfb\u9ed1\u6d1e\u91cc",
+      "\u6211\u73b0\u5728\u771f\u6ca1\u5de5\u592b\u5f00\u65b0\u5751",
+      "^\u8bf7\u522b\u7ed9\u6211\u63a8\u8350\u7cfb\u5217\u6545\u4e8b",
+      "\u6211\u53ef\u4e0d\u60f3\u88ab\u4e00\u6574\u5957\u4e66\u7ed1\u67b6"
+    ]
+  },
+  "Request_bookAttribute_Series_Pos": {
+    "strings": [
+      "\u6211\u4e0d\u4ecb\u610f\u8ffd\u65b0\u7684\u7cfb\u5217",
+      "\u6211\u901a\u5e38\u4f1a\u9009\u62e9\u7cfb\u5217\u5c0f\u8bf4",
+      "^\u7cfb\u5217\u4f5c\u54c1\u4e2d\u7684\u67d0\u4e00\u672c\u5e94\u8be5\u4e0d\u9519"
+    ]
+  },
+  "Request_bookAttribute_Series_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u5165\u5751\u65b0\u7684\u7cfb\u5217",
+      "\u6211\u5728\u627e\u4e1b\u4e66\u7684\u7eed\u4f5c",
+      "\u6211\u8981\u7cfb\u5217\u5c0f\u8bf4",
+      "\u6211\u6700\u8ba8\u538c\u4e66\u5c31\u8fd9\u4e48\u621b\u7136\u800c\u6b62\u4e86\uff01\u5feb\u7ed9\u6211\u63a8\u8350\u4e00\u90e8\u4e1b\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Short_Neg": {
+    "strings": [
+      "^\u6700\u597d\u5f97\u6709200\u9875\u4ee5\u4e0a",
+      "\u7279\u522b\u8584\u7684\u6211\u4e0d\u592a\u559c\u6b22\u770b",
+      "200\u9875\u4ee5\u4e0b\u7684\u6211\u4e5f\u4e0d\u4f1a\u9009"
+    ]
+  },
+  "Request_bookAttribute_Short_Neg_Severe": {
+    "strings": [
+      "^\u522b\u592a\u8584\u4e86",
+      "^\u6211\u53ea\u770b\u81f3\u5c11200\u9875\u7684",
+      "^\u522b\u7ed9\u6211\u90a3\u79cd\u5c0f\u518c\u5b50"
+    ]
+  },
+  "Request_bookAttribute_Short_Pos": {
+    "strings": [
+      "\u6211\u901a\u5e38\u5c31\u7231\u5c0f\u5f00\u672c",
+      "\u5c11\u4e8e200\u9875\u7684\u6700\u597d"
+    ]
+  },
+  "Request_bookAttribute_Short_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u90a3\u79cd\u5c0f\u5de7\u7684",
+      "^\u7ed9\u6211\u6765\u672c\u8584\u8584\u7684\u5c0f\u4e66",
+      "\u6211\u53ea\u80fd\u770b200\u9875\u4ee5\u5185\u7684"
+    ]
+  },
+  "Request_bookAttribute_Space_Neg": {
+    "strings": [
+      "\u592a\u7a7a\u6545\u4e8b\u6211\u6709\u70b9\u770b\u817b\u4e86",
+      "^\u661f\u9645\u65c5\u884c\u4e0d\u662f\u6211\u7684\u83dc",
+      "\u6211\u7684\u4e66\u91cc\u7528\u4e0d\u7740\u51fa\u73b0\u592a\u7a7a\u60c5\u8282"
+    ]
+  },
+  "Request_bookAttribute_Space_Neg_Severe": {
+    "strings": [
+      "^\u661f\u9645\u65c5\u884c\u5c31\u4e0d\u5408\u6211\u610f",
+      "\u6211\u5bf9\u592a\u7a7a\u4e00\u70b9\u5174\u8da3\u90fd\u6ca1\u6709",
+      "^\u592a\u7a7a\u4f1a\u8ba9\u6211\u6655\u5934\u8f6c\u5411",
+      "\u6211\u9700\u8981\u8fdc\u79bb\u5916\u592a\u7a7a\u8fd9\u4e2a\u8bdd\u9898"
+    ]
+  },
+  "Request_bookAttribute_Space_Pos": {
+    "strings": [
+      "\u6211\u5bf9\u6d69\u701a\u5b87\u5b99\u5f88\u7740\u8ff7",
+      "\u6211\u70ed\u7231\u661f\u7cfb\u3001\u866b\u6d1e\u8fd9\u7c7b\u9898\u6750",
+      "\u5916\u592a\u7a7a\u8ba9\u6211\u5fc3\u9a70\u795e\u5f80"
+    ]
+  },
+  "Request_bookAttribute_Space_Pos_Severe": {
+    "strings": [
+      "\u6211\u5728\u627e\u592a\u7a7a\u9898\u6750\u7684\u4e66\u7c4d",
+      "\u6211\u5bf9\u5916\u592a\u7a7a\u7740\u4e86\u8ff7",
+      "\u4f11\u65af\u987f\u706b\u7bad\u53d1\u5c04\u4e2d\u5fc3\uff0c\u7ed9\u6211\u6765\u70b9\u6709\u5173\u592a\u7a7a\u5192\u9669\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Space_Science-Fiction_Pos": {
+    "strings": [
+      "\u6211\u559c\u6b22\u79d1\u5e7b\u4e3b\u8981\u662f\u56e0\u4e3a\u91cc\u9762\u6709\u661f\u7403\u548c\u5916\u661f\u4eba",
+      "^\u6211\u6700\u559c\u6b22\u7684\u79d1\u5e7b\u6545\u4e8b\u662f\u53d1\u751f\u5728\u5176\u4ed6\u661f\u7403\u4e0a\u7684",
+      "\u6211\u81ea\u79f0\u662f\u79d1\u5e7b\u8ff7\uff0c\u4f46\u6211\u4e3b\u8981\u559c\u6b22\u592a\u7a7a\u9898\u6750\u7684\u4f5c\u54c1"
+    ]
+  },
+  "Request_bookAttribute_Space_Science-Fiction_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u770b\u6709\u5173\u592a\u7a7a\u65c5\u884c\u3001\u9065\u8fdc\u661f\u7cfb\u3001\u661f\u9645\u5e1d\u56fd\u7684\u4e66\u2026\u2026\u4f60\u77e5\u9053\u7684\uff0c\u5c31\u662f\u90a3\u4e9b\u7cbe\u5f69\u5185\u5bb9",
+      "^\u6709\u4ec0\u4e48\u6bd4\u592a\u7a7a\u79d1\u5e7b\u548c\u5916\u661f\u4eba\u66f4\u9177\u7684\u5417\uff1f\u6211\u89c9\u5f97\u6ca1\u6709",
+      "\u6211\u5bf9\u5916\u592a\u7a7a\u79d1\u5e7b\u9898\u6750\u76f8\u5f53\u7740\u8ff7"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Crime-Genre_Pos": {
+    "strings": [
+      "^\u6211\u6700\u559c\u6b22\u90a3\u79cd\u7279\u522b\u60ac\u7591\u7684\u72af\u7f6a\u5c0f\u8bf4\uff0c\u5c31\u662f\u90a3\u79cd\u8ba9\u4eba\u6839\u672c\u653e\u4e0d\u4e0b\u6765\u7684",
+      "\u6211\u4e00\u76f4\u8d85\u7ea7\u559c\u6b22\u60ca\u9669\u7684\u72af\u7f6a\u6545\u4e8b",
+      "\u6211\u559c\u6b22\u7684\u72af\u7f6a\u5c0f\u8bf4\u504f\u5411\u60ca\u609a\u8def\u7ebf"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "^\u7ed9\u6211\u63a8\u8350\u4e00\u672c\u72af\u7f6a\u60ca\u609a\u5c0f\u8bf4\uff01\u8981\u90a3\u79cd\u771f\u6b63\u6263\u4eba\u5fc3\u5f26\u7684",
+      "\u6211\u8840\u538b\u504f\u4f4e\uff0c\u8bf7\u518d\u7ed9\u6211\u5f00\u4e00\u672c\u72af\u7f6a\u60ca\u609a\u5c0f\u8bf4\u5427",
+      "\u6211\u9700\u8981\u4e00\u90e8\u80fd\u8ba9\u6211\u80be\u4e0a\u817a\u7d20\u98d9\u5347\u7684\u72af\u7f6a\u6545\u4e8b",
+      "\u7ed9\u6211\u63a8\u8350\u4e00\u90e8\u72af\u7f6a\u6545\u4e8b\uff01\u8981\u591f\u523a\u6fc0\u7684\u90a3\u79cd"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Neg": {
+    "strings": [
+      "\u60ca\u609a\u5c0f\u8bf4\u6211\u4e0d\u592a\u611f\u5192",
+      "\u6211\u4e00\u822c\u4e0d\u9009\u8fd9\u79cd\u523a\u6fc0\u7684",
+      "^\u60ca\u609a\u4e0d\u662f\u6211\u7684\u83dc"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Neg_Severe": {
+    "strings": [
+      "\u60ca\u609a\u5c0f\u8bf4\u6211\u771f\u7684\u4e0d\u559c\u6b22",
+      "^\u592a\u60ca\u609a\u7684\u8bdd\u6211\u5fc3\u810f\u53d7\u4e0d\u4e86",
+      "^\u533b\u5631\u8bf4\u6211\u4e0d\u80fd\u770b\u60ca\u609a\u7684"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Pos": {
+    "strings": [
+      "\u7a0d\u5fae\u6765\u70b9\u60ca\u609a\u7684\u4e5f\u4e0d\u9519\u554a",
+      "\u6545\u4e8b\u8981\u662f\u80fd\u8ba9\u4eba\u810a\u80cc\u53d1\u51c9\u5c31\u66f4\u68d2\u4e86",
+      "\u6211\u633a\u559c\u6b22\u90a3\u79cd\u8ba9\u4eba\u7d27\u5f20\u7684\u60c5\u8282"
+    ]
+  },
+  "Request_bookAttribute_Thriller_Pos_Severe": {
+    "strings": [
+      "^\u7ed9\u6211\u6765\u672c\u8ba9\u4eba\u7761\u4e0d\u7740\u7684",
+      "\u6211\u73b0\u5728\u5c31\u8981\u60ca\u609a\u5c0f\u8bf4",
+      "\u6211\u6e34\u671b\u90a3\u79cd\u5fc3\u8df3\u52a0\u901f\u7684\u611f\u89c9",
+      "\u6211\u8981\u90a3\u79cd\u8ba9\u4eba\u7d27\u5f20\u523a\u6fc0\u7684\u4e66",
+      "\u6211\u5c31\u662f\u60ca\u609a\u5c0f\u8bf4\u7684\u6b7b\u5fe0\u7c89"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Neg": {
+    "strings": [
+      "\u6211\u5e0c\u671b\u522b\u592a\u60b2\u4f24",
+      "^\u4e0d\u8981\u592a\u60b2\u5267\u5c31\u597d\u4e86",
+      "^\u60b2\u5267\u5bf9\u6211\u6765\u8bf4\u592a\u2026\u2026\u6c89\u91cd\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Neg_Severe": {
+    "strings": [
+      "\u6211\u73b0\u5728\u771f\u627f\u53d7\u4e0d\u4e86\u60b2\u5267",
+      "^\u62dc\u6258\u522b\u7ed9\u6211\u63a8\u8350\u60b2\u5267",
+      "^\u4e0d\u8981\u60b2\u5267\uff01\u6211\u73b0\u5728\u4e0d\u60f3\u54ed"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Pos": {
+    "strings": [
+      "\u6211\u633a\u559c\u6b22\u60b2\u5267\u6545\u4e8b\u7684",
+      "\u6211\u559c\u6b22\u90a3\u79cd\u770b\u4e86\u8ba9\u4eba\u5fc3\u75bc\u7684\u4e66",
+      "\u6211\u4e0d\u6015\u6709\u70b9\u60b2\u4f24\u7684\u60c5\u8282"
+    ]
+  },
+  "Request_bookAttribute_Tragic_Pos_Severe": {
+    "strings": [
+      "\u6211\u5c31\u8981\u90a3\u79cd\u770b\u4e86\u72c2\u98d9\u773c\u6cea\u7684",
+      "^\u6765\u70b9\u8650\u5fc3\u7684\u5427",
+      "^\u6211\u8981\u90a3\u79cd\u4e00\u770b\u5c31\u54ed\u6210\u72d7\u7684"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Crime-Genre_Pos": {
+    "strings": [
+      "\u6211\u8ba4\u4e3a\u72af\u7f6a\u5c0f\u8bf4\u6709\u65f6\u5019\u5c31\u662f\u6700\u68d2\u7684\u65c5\u884c\u6307\u5357",
+      "\u6211\u559c\u6b22\u72af\u7f6a\u5c0f\u8bf4\uff0c\u5982\u679c\u5b83\u4eec\u80fd\u5e26\u6211\u9886\u7565\u65b0\u5730\u65b9\u5c31\u66f4\u597d\u4e86",
+      "\u6211\u559c\u6b22\u90a3\u79cd\u80fd\u7ed9\u6211\u5e26\u6765\u65c5\u884c\u7075\u611f\u7684\u72af\u7f6a\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Crime-Genre_Pos_Severe": {
+    "strings": [
+      "\u6211\u5728\u5bfb\u627e\u4e00\u672c\u80fd\u6ee1\u8db3\u6211\u65c5\u884c\u6e34\u671b\u7684\u72af\u7f6a\u6545\u4e8b",
+      "\u6211\u65e2\u7231\u72af\u7f6a\u6545\u4e8b\u53c8\u9700\u8981\u5ea6\u5047\u7075\u611f\uff0c\u8bf7\u4f60\u628a\u8fd9\u4e24\u6837\u90fd\u7ed9\u6211",
+      "^\u5e26\u6211\u53bb\u4e00\u4e2a\u65b0\u5730\u65b9\u5427\uff01\u4f46\u90a3\u91cc\u5fc5\u987b\u6709\u4e9b\u72af\u7f6a\u60c5\u8282"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Neg": {
+    "strings": [
+      "\u6211\u7b97\u4e0d\u4e0a\u662f\u65c5\u884c\u4e66\u7c4d\u7684\u6700\u5fe0\u5b9e\u7c89\u4e1d",
+      "\u6211\u901a\u5e38\u4f1a\u6709\u610f\u8bc6\u5730\u907f\u5f00\u65c5\u884c\u6587\u5b66",
+      "^\u65c5\u884c\u7c7b\u4e66\u7c4d\u771f\u7684\u4e0d\u592a\u9002\u5408\u6211"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Neg_Severe": {
+    "strings": [
+      "\u6211\u5c31\u662f\u4e0d\u559c\u6b22\u9605\u8bfb\u5173\u4e8e\u5176\u4ed6\u5730\u65b9\u7684\u4e66\u7c4d",
+      "\u6211\u5bf9\u65c5\u884c\u4e66\u7c4d\u5b8c\u5168\u6ca1\u6709\u5174\u8da3",
+      "^\u65c5\u884c\u7c7b\u4e66\u7c4d\u5bf9\u6211\u6765\u8bf4\u6beb\u65e0\u5438\u5f15\u529b"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Pos": {
+    "strings": [
+      "\u6211\u662f\u4e2a\u70ed\u8877\u65c5\u884c\u7684\u4eba\uff0c\u6211\u7279\u522b\u559c\u6b22\u9605\u8bfb\u5173\u4e8e\u771f\u5b9e\u5730\u65b9\u7684\u4e66\u7c4d",
+      "\u6211\u5bf9\u5404\u79cd\u5404\u6837\u4e0d\u540c\u7c7b\u578b\u7684\u65c5\u884c\u4e66\u7c4d\u90fd\u5f88\u6709\u5174\u8da3"
+    ]
+  },
+  "Request_bookAttribute_Travel-Genre_Pos_Severe": {
+    "strings": [
+      "\u6211\u5f97\u51fa\u53bb\u8d70\u8d70\u5f00\u5f00\u773c\u754c\uff0c\u7ed9\u6211\u63a8\u8350\u672c\u65c5\u884c\u4e66\u5427",
+      "\u6211\u7279\u522b\u559c\u6b22\u770b\u90a3\u4e9b\u5199\u771f\u5b9e\u5730\u65b9\u7684\u4e66",
+      "\u6211\u73b0\u5728\u6b63\u597d\u9700\u8981\u672c\u65c5\u884c\u7c7b\u7684\u4e66",
+      "\u6211\u60f3\u8981\u672c\u597d\u7684\u65c5\u884c\u4e66\uff0c\u8ba9\u6211\u5728\u5bb6\u4e5f\u80fd\u73af\u6e38\u4e16\u754c"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Neg": {
+    "strings": [
+      "\u6211\u771f\u7684\u4e0d\u9700\u8981\u518d\u4e70\u65c5\u884c\u6307\u5357\u4e86",
+      "\u6211\u672c\u8eab\u4e0d\u662f\u4e2a\u7ecf\u5e38\u5916\u51fa\u65c5\u884c\u7684\u4eba",
+      "\u6211\u6ca1\u6709\u591a\u4f59\u7684\u65f6\u95f4\u548c\u7cbe\u529b\u53bb\u5ea6\u5047\uff0c\u6240\u4ee5\u6211\u771f\u7684\u4e0d\u592a\u9700\u8981\u65c5\u884c\u6307\u5357"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Neg_Severe": {
+    "strings": [
+      "\u6211\u4e0d\u60f3\u8981\u65c5\u884c\u6307\u5357\u4e86",
+      "\u6211\u770b\u4e0d\u51fa\u65c5\u884c\u6307\u5357\u5230\u5e95\u6709\u4ec0\u4e48\u4f5c\u7528",
+      "^\u8bf7\u5343\u4e07\u522b\u7ed9\u6211\u63a8\u8350\u65c5\u884c\u6307\u5357"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Pos": {
+    "strings": [
+      "\u6211\u4e0d\u4ecb\u610f\u518d\u591a\u8bfb\u4e00\u672c\u5b9e\u7528\u7684\u65c5\u884c\u6307\u5357",
+      "\u6211\u89c9\u5f97\u6765\u672c\u65c5\u884c\u6307\u5357\u5e94\u8be5\u4e0d\u9519",
+      "^\u4e00\u672c\u65c5\u884c\u6307\u5357\u53ef\u80fd\u4f1a\u5f88\u6709\u7528"
+    ]
+  },
+  "Request_bookAttribute_Travel-Guide_Pos_Severe": {
+    "strings": [
+      "\u6211\u6b63\u5728\u5bfb\u627e\u4e00\u4e9b\u672a\u6765\u5ea6\u5047\u76ee\u7684\u5730\u7684\u76f8\u5173\u4fe1\u606f",
+      "\u6211\u4e13\u95e8\u5728\u627e\u65c5\u884c\u6307\u5357\u7c7b\u7684\u4e66\u7c4d",
+      "\u6211\u9700\u8981\u4e00\u672c\u5168\u65b0\u7684\u65c5\u884c\u6307\u5357",
+      "\u6211\u60f3\u8981\u83b7\u5f97\u4e00\u4e9b\u65c5\u884c\u7684\u7075\u611f"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Neg": {
+    "strings": [
+      "\u6211\u5e0c\u671b\u4e0d\u8981\u592a\u6c89",
+      "^\u5c3d\u91cf\u63a7\u5236\u5728700\u9875\u4ee5\u5185",
+      "^\u6211\u4e0d\u592a\u60f3\u6311\u6218700\u9875\u4ee5\u4e0a\u7684\u4e66"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Neg_Severe": {
+    "strings": [
+      "^\u522b\u7ed9\u6211\u90a3\u79cd\u80fd\u7838\u6b7b\u4eba\u7684\u8d85\u539a\u4e66",
+      "^\u4eba\u751f\u82e6\u77ed\uff0c\u6211\u53ef\u4e0d\u60f3\u5728700\u9875\u4ee5\u4e0a\u7684\u4e66\u91cc\u8017\u8d39\u9752\u6625",
+      "\u6211\u771f\u6ca1\u90a3\u4e2a\u6bc5\u529b\u5543\u5b8c700\u9875\u4ee5\u4e0a\u7684\u5de8\u8457"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Pos": {
+    "strings": [
+      "^\u4e66\u8d8a\u539a\u8d8a\u6709\u6311\u6218\u6027",
+      "\u6211\u51c6\u5907\u597d\u8fce\u63a5700\u9875\u7684\u9605\u8bfb\u9a6c\u62c9\u677e\u4e86",
+      "\u6211\u4e0d\u4ecb\u610f\u6311\u6218\u4e00\u4e0b\u81ea\u5df1\u7684\u9605\u8bfb\u6781\u9650"
+    ]
+  },
+  "Request_bookAttribute_Very-Long_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u672c\u8d85\u7ea7\u539a\u7684\u5de8\u65e0\u9738\uff01\u6ca1\u9519\uff01700\u9875\u5f80\u4e0a\u8d70",
+      "\u6211\u9700\u8981\u4e00\u672c\u771f\u6b63\u7684\u9e3f\u7bc7\u5de8\u8457\uff0c700\u9875\u6253\u5e95",
+      "^\u7ed9\u6211\u90a3\u79cd\u539a\u5230\u80fd\u7838\u6b7b\u4eba\u7684\u5927\u90e8\u5934\uff0c\u4f60\u61c2\u7684\uff0c700\u9875\u4ee5\u4e0a\u7684"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Neg": {
+    "strings": [
+      "^\u4e2a\u4eba\u89c9\u5f97\uff0c\u73b0\u5728\u63a8\u7406\u5c0f\u8bf4\u90fd\u5feb\u70c2\u5927\u8857\u4e86",
+      "\u6211\u4e0d\u662f\u7279\u522b\u75f4\u8ff7\u63a8\u7406\u5c0f\u8bf4",
+      "\u6211\u89c9\u5f97\u63a8\u7406\u5c0f\u8bf4\u88ab\u5439\u8fc7\u5934\u4e86",
+      "\u6211\u4e0d\u662f\u7279\u522b\u75f4\u8ff7\u63a8\u7406\u5c0f\u8bf4",
+      "\u6211\u89c9\u5f97\u63a8\u7406\u5c0f\u8bf4\u88ab\u5439\u8fc7\u5934\u4e86"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Neg_Severe": {
+    "strings": [
+      "^\u522b\u518d\u7ed9\u6211\u63a8\u7406\u5c0f\u8bf4\u4e86",
+      "\u63a8\u7406\u5c0f\u8bf4\u6211\u770b\u7740\u5934\u5927",
+      "^\u8ba9\u6211\u731c\u51f6\u624b\u6211\u4f1a\u6293\u72c2\u7684"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Pos": {
+    "strings": [
+      "\u6211\u4e00\u76f4\u5f88\u559c\u6b22\u63a8\u7406\u5c0f\u8bf4",
+      "\u5f88\u9ad8\u5174\u63a8\u7406\u5c0f\u8bf4\u53c8\u6d41\u884c\u8d77\u6765\u4e86",
+      "\u6765\u672c\u63a8\u7406\u5c0f\u8bf4\u4e5f\u4e0d\u9519"
+    ]
+  },
+  "Request_bookAttribute_Whodunnit_Pos_Severe": {
+    "strings": [
+      "\u6211\u8981\u627e\u672c\u65b0\u9c9c\u51fa\u7089\u7684\u63a8\u7406\u5c0f\u8bf4",
+      "^\u8bf7\u7ed9\u6211\u7684\u63a8\u7406\u5c0f\u8bf4\u6536\u85cf\u5e93\u518d\u6dfb\u4e00\u5458\u5927\u5c06",
+      "\u6211\u5fc5\u987b\u627e\u4e00\u672c\u63a8\u7406\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_YA_Neg": {
+    "strings": [
+      "\u9752\u6625\u5c0f\u8bf4\u4e0d\u592a\u5408\u6211\u80c3\u53e3",
+      "\u9752\u6625\u6587\u5b66\u8ddf\u6211\u4e0d\u5728\u4e00\u4e2a\u9891\u9053\u4e0a",
+      "\u5927\u90e8\u5206\u9752\u6625\u5c0f\u8bf4\u6211\u90fd\u770b\u4e0d\u8fdb\u53bb"
+    ]
+  },
+  "Request_bookAttribute_YA_Neg_Severe": {
+    "strings": [
+      "^\u9752\u6625\u5c0f\u8bf4\u7edd\u5bf9\u4e0d\u9002\u5408\u6211",
+      "\u6211\u641e\u4e0d\u61c2\u9752\u6625\u6587\u5b66\u4e3a\u4ec0\u4e48\u8fd9\u4e48\u706b",
+      "^\u62dc\u6258\u522b\u7ed9\u6211\u9752\u6625\u5c0f\u8bf4"
+    ]
+  },
+  "Request_bookAttribute_YA_Pos": {
+    "strings": [
+      "\u6211\u5076\u5c14\u4f1a\u770b\u9752\u6625\u5c0f\u8bf4\u6362\u6362\u8111\u5b50",
+      "\u6211\u8fd8\u633a\u5403\u9752\u6625\u6587\u5b66\u8fd9\u4e00\u5957",
+      "^\u597d\u7684\u9752\u6625\u5c0f\u8bf4\u4e00\u822c\u4e0d\u4f1a\u8ba9\u4eba\u5931\u671b",
+      "\u770b\u70b9\u9752\u6625\u6587\u5b66\u4e5f\u65e0\u59a8\u3002"
+    ]
+  },
+  "Request_bookAttribute_YA_Pos_Severe": {
+    "strings": [
+      "\u6211\u60f3\u8981\u672c\u9752\u6625\u5c0f\u8bf4",
+      "\u6ca1\u62ff\u5230\u65b0\u7684\u9752\u6625\u5c0f\u8bf4\u6211\u7edd\u4e0d\u8d70",
+      "\u9752\u6625\u5c0f\u8bf4\uff01\u6211\u8d85\u7231\u770b\u2026\u2026"
+    ]
+  },
+  "Title_#Title_EN": {
+    "strings": [
+      "Title zh_CN (Simplified)"
+    ]
+  },
+  "Title_1st_to_Die": {
+    "strings": [
+      "\u300a1\u53f7\u6b7b\u4ea1\u300b"
+    ]
+  },
+  "Title_5\u5206\u949f\u9a6c\u514b\u676f\u54b8\u86cb\u7cd5": {
+    "strings": [
+      "5\u5206\u949f\u9a6c\u514b\u676f\u54b8\u86cb\u7cd5"
+    ]
+  },
+  "Title_A_Clash_of_Kings": {
+    "strings": [
+      "\u300a\u5217\u738b\u7684\u7eb7\u4e89\u300b"
+    ]
+  },
+  "Title_A_Clash_of_Kings_Edit": {
+    "strings": [
+      "\u300a\u5217\u738b\u7684\u7eb7\u4e89\u300b",
+      "\uff08\u300a\u51b0\u4e0e\u706b\u4e4b\u6b4c\u300b\uff09"
+    ]
+  },
+  "Title_A_Collection_of_Poems": {
+    "strings": [
+      "\u300a\u5723\u00b7\u4e66\u7fc1\u8bd7\u6b4c\u96c6\u300b"
+    ]
+  },
+  "Title_A_Court_of_Mist_and_Fury": {
+    "strings": [
+      "\u300a\u8ff7\u96fe\u4e0e\u6124\u6012\u7684\u6cd5\u5ead\u300b"
+    ]
+  },
+  "Title_A_Court_of_Mist_and_Fury_Edit": {
+    "strings": [
+      "\u300a\u8ff7\u96fe\u4e0e\u6012\u706b\u300b",
+      "\uff08\u300a\u8346\u68d8\u4e0e\u73ab\u7470\u300b\u7b2c 2 \u90e8\uff09"
+    ]
+  },
+  "Title_A_Dance_With_Dragons": {
+    "strings": [
+      "\u300a\u9b54\u9f99\u7684\u72c2\u821e\u300b"
+    ]
+  },
+  "Title_A_Dance_With_Dragons_Edit": {
+    "strings": [
+      "\u300a\u9b54\u9f99\u7684\u72c2\u821e\u300b",
+      "\uff08\u300a\u51b0\u4e0e\u706b\u4e4b\u6b4c\u300b\uff09"
+    ]
+  },
+  "Title_A_Feast_for_Crows": {
+    "strings": [
+      "\u300a\u7fa4\u9e26\u7684\u76db\u5bb4\u300b"
+    ]
+  },
+  "Title_A_Feast_for_Crows_Edit": {
+    "strings": [
+      "\u300a\u7fa4\u9e26\u7684\u76db\u5bb4\u300b",
+      "\uff08\u300a\u51b0\u4e0e\u706b\u4e4b\u6b4c\u300b\uff09"
+    ]
+  },
+  "Title_A_Fire_Upon_the_Deep": {
+    "strings": [
+      "\u300a\u6df1\u6e0a\u4e0a\u7684\u706b\u300b"
+    ]
+  },
+  "Title_A_Game_of_Thrones": {
+    "strings": [
+      "\u300a\u6743\u529b\u7684\u6e38\u620f\u300b"
+    ]
+  },
+  "Title_A_Game_of_Thrones_Edit": {
+    "strings": [
+      "\u300a\u6743\u529b\u7684\u6e38\u620f\u300b",
+      "\uff08\u300a\u51b0\u4e0e\u706b\u4e4b\u6b4c\u300b\uff09"
+    ]
+  },
+  "Title_A_Good_Girl's_Guide_to_Murder_Edit": {
+    "strings": [
+      "\u300a\u597d\u5973\u5b69\u7684\u8c0b\u6740\u8c03\u67e5\u6307\u5357\u300b",
+      "\uff08\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_A_Midsummer_Night's_Dream": {
+    "strings": [
+      "\u300a\u4ef2\u590f\u591c\u4e4b\u68a6\u300b"
+    ]
+  },
+  "Title_A_Senseless_Power": {
+    "strings": [
+      "\u300a\u65e0\u8c13\u7684\u6743\u529b\u300b"
+    ]
+  },
+  "Title_A_Short_History_of_Nearly_Everything": {
+    "strings": [
+      "\u300a\u4e07\u7269\u7b80\u53f2\u300b"
+    ]
+  },
+  "Title_A_Storm_of_Swords": {
+    "strings": [
+      "\u300a\u51b0\u96e8\u7684\u98ce\u66b4\u300b"
+    ]
+  },
+  "Title_A_Storm_of_Swords_Edit": {
+    "strings": [
+      "\u300a\u51b0\u96e8\u7684\u98ce\u66b4\u300b",
+      "\uff08\u300a\u51b0\u4e0e\u706b\u4e4b\u6b4c\u300b\uff09"
+    ]
+  },
+  "Title_A_Study_in_Scarlet": {
+    "strings": [
+      "\u300a\u8840\u5b57\u7684\u7814\u7a76\u300b"
+    ]
+  },
+  "Title_A_Time_to_Kill": {
+    "strings": [
+      "\u300a\u6740\u622e\u65f6\u523b\u300b"
+    ]
+  },
+  "Title_A_Wrinkle_in_Time": {
+    "strings": [
+      "\u300a\u65f6\u95f4\u7684\u76b1\u6298\u300b"
+    ]
+  },
+  "Title_A_Wrinkle_in_Time_Edit": {
+    "strings": [
+      "\u300a\u65f6\u95f4\u7684\u76b1\u6298\u300b",
+      "\uff08\u65f6\u5149\u4e94\u90e8\u66f2\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_Adventures_of_A_Wild_Child": {
+    "strings": [
+      "\u300a\u91ce\u5b69\u5b50\u7684\u5192\u9669\u65e5\u8bb0\u300b"
+    ]
+  },
+  "Title_After_the_Funeral": {
+    "strings": [
+      "\u300a\u846c\u793c\u4e4b\u540e\u300b"
+    ]
+  },
+  "Title_Alias_Grace": {
+    "strings": [
+      "\u300a\u522b\u540d\u683c\u96f7\u65af\u300b"
+    ]
+  },
+  "Title_Alice's_Adventures_in_Wonderland": {
+    "strings": [
+      "\u300a\u7231\u4e3d\u4e1d\u68a6\u6e38\u4ed9\u5883\u300b"
+    ]
+  },
+  "Title_All's_Well_That_Ends_Well": {
+    "strings": [
+      "\u300a\u7ec8\u6210\u7737\u5c5e\u300b"
+    ]
+  },
+  "Title_American_Psycho": {
+    "strings": [
+      "\u300a\u7f8e\u56fd\u7cbe\u795e\u75c5\u4eba\u300b"
+    ]
+  },
+  "Title_An_Explorer's_Guide_to_Georgetown": {
+    "strings": [
+      "\u300a\u4e54\u6cbb\u57ce\u63a2\u9669\u6307\u5357\u300b"
+    ]
+  },
+  "Title_Angels_&_Demons": {
+    "strings": [
+      "\u300a\u5929\u4f7f\u4e0e\u9b54\u9b3c\u300b"
+    ]
+  },
+  "Title_Animal_Farm": {
+    "strings": [
+      "\u300a\u52a8\u7269\u519c\u573a\u300b"
+    ]
+  },
+  "Title_Around_the_World_in_Eighty_Days": {
+    "strings": [
+      "\u300a\u73af\u6e38\u4e16\u754c\u516b\u5341\u5929\u300b"
+    ]
+  },
+  "Title_Artemis_Fowl": {
+    "strings": [
+      "\u300a\u963f\u7279\u7c73\u65af\u300b"
+    ]
+  },
+  "Title_As_Good_As_Dead_Edit": {
+    "strings": [
+      "\u300a\u540d\u4e3a\u6b7b\u4ea1\u7684\u7ec8\u70b9\u300b",
+      "\uff08\u300a\u597d\u5973\u5b69\u7684\u8c0b\u6740\u8c03\u67e5\u6307\u5357\u7cfb\u5217\u300b\u7b2c 3 \u90e8\uff09"
+    ]
+  },
+  "Title_Attack_On_Titan;Volume_1": {
+    "strings": [
+      "\u300a\u8fdb\u51fb\u7684\u5de8\u4eba\u300b",
+      "\u7b2c 1 \u5377"
+    ]
+  },
+  "Title_Babel;or_the_Necessity_of_Violence": {
+    "strings": [
+      "\u300a\u5df4\u522b\u5854\uff1a\u66b4\u529b\u7684\u5fc5\u8981\u6027\u300b"
+    ]
+  },
+  "Title_Before_the_Coffee_Gets_Cold": {
+    "strings": [
+      "\u300a\u5728\u5496\u5561\u51b7\u6389\u4e4b\u524d\u300b"
+    ]
+  },
+  "Title_Beowulf": {
+    "strings": [
+      "\u300a\u8d1d\u5965\u6b66\u592b\u300b"
+    ]
+  },
+  "Title_Blood_of_Elves;(The_Witcher)": {
+    "strings": [
+      "\u300a\u7cbe\u7075\u4e4b\u8840\u300b",
+      "\uff08\u300a\u730e\u9b54\u4eba\u300b\uff09"
+    ]
+  },
+  "Title_By_Train_Through_Spain": {
+    "strings": [
+      "\u300a\u897f\u73ed\u7259\u5217\u8f66\u4e4b\u65c5\u300b"
+    ]
+  },
+  "Title_Call_Me_by_Your_Name": {
+    "strings": [
+      "\u300a\u8bf7\u4ee5\u4f60\u7684\u540d\u5b57\u547c\u5524\u6211\u300b"
+    ]
+  },
+  "Title_Carrie": {
+    "strings": [
+      "\u300a\u9b54\u5973\u5609\u8389\u300b"
+    ]
+  },
+  "Title_Catching_Carps": {
+    "strings": [
+      "\u300a\u9493\u9ca4\u8bb0\u300b"
+    ]
+  },
+  "Title_Catching_Fire": {
+    "strings": [
+      "\u300a\u9965\u997f\u6e38\u620f 2\uff1a\u661f\u706b\u71ce\u539f\u300b"
+    ]
+  },
+  "Title_Catching_Fire_Edit": {
+    "strings": [
+      "\u300a\u661f\u706b\u71ce\u539f\u300b",
+      "\uff08\u300a\u9965\u997f\u6e38\u620f\u300b\u7b2c 2 \u90e8\uff09"
+    ]
+  },
+  "Title_Charlie_and_the_Chocolate_Factory": {
+    "strings": [
+      "\u300a\u67e5\u7406\u548c\u5de7\u514b\u529b\u5de5\u5382\u300b"
+    ]
+  },
+  "Title_Circe": {
+    "strings": [
+      "\u300a\u5580\u8033\u523b\u300b"
+    ]
+  },
+  "Title_Coraline": {
+    "strings": [
+      "\u300a\u9b3c\u5988\u5988\u300b"
+    ]
+  },
+  "Title_Crime_and_Punishment": {
+    "strings": [
+      "\u300a\u7f6a\u4e0e\u7f5a\u300b"
+    ]
+  },
+  "Title_Death_Note;Volume_1": {
+    "strings": [
+      "\u300a\u6b7b\u4ea1\u7b14\u8bb0\u300b",
+      "\u7b2c 1 \u5377"
+    ]
+  },
+  "Title_Death_on_the_Nile": {
+    "strings": [
+      "\u300a\u5c3c\u7f57\u6cb3\u4e0a\u7684\u60e8\u6848\u300b"
+    ]
+  },
+  "Title_Death_on_the_Nile_Edit": {
+    "strings": [
+      "\u300a\u5c3c\u7f57\u6cb3\u4e0a\u7684\u60e8\u6848\u300b",
+      "\uff08\u8d6b\u5c14\u514b\u91cc\u00b7\u6ce2\u6d1b\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_Discovering_the_Greater_Bookston_Region": {
+    "strings": [
+      "\u300a\u63a2\u7d22\u5927\u4e66\u5c71\u90e1\u5730\u533a\u300b"
+    ]
+  },
+  "Title_Don_Quixote": {
+    "strings": [
+      "\u300a\u5802\u5409\u8bc3\u5fb7\u300b"
+    ]
+  },
+  "Title_Dracula": {
+    "strings": [
+      "\u300a\u5fb7\u53e4\u62c9\u300b"
+    ]
+  },
+  "Title_Dragonsong_Edit": {
+    "strings": [
+      "\u300a\u9f99\u4e4b\u6b4c\u300b",
+      "\uff08\u300a\u9f99\u9a91\u58eb\uff1a\u6ce2\u6069\u7f16\u5e74\u53f2\u300b\uff0c\u54c8\u73c0\u970d\u5c14\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_Dune": {
+    "strings": [
+      "\u300a\u6c99\u4e18\u300b"
+    ]
+  },
+  "Title_Emma": {
+    "strings": [
+      "\u300a\u7231\u739b\u300b"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._1": {
+    "strings": [
+      "\u300a\u4e66\u6d77\u901a\u5178\u300b\u7b2c 1 \u5377"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._2": {
+    "strings": [
+      "\u300a\u4e66\u6d77\u901a\u5178\u300b\u7b2c 2 \u5377"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._3": {
+    "strings": [
+      "\u300a\u4e66\u6d77\u901a\u5178\u300b\u7b2c 3 \u5377"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._4": {
+    "strings": [
+      "\u300a\u4e66\u6d77\u901a\u5178\u300b\u7b2c 4 \u5377"
+    ]
+  },
+  "Title_Encyclopaedia_Bookstonia_Vol._5": {
+    "strings": [
+      "\u300a\u4e66\u6d77\u901a\u5178\u300b\u7b2c 5 \u5377"
+    ]
+  },
+  "Title_Finding_Optimism;The_Future_Is_Good": {
+    "strings": [
+      "\u300a\u5bfb\u627e\u4e50\u89c2\u300b",
+      "\u300a\u672a\u6765\u53ef\u671f\u300b"
+    ]
+  },
+  "Title_Fire_&_Blood": {
+    "strings": [
+      "\u300a\u8840\u4e0e\u706b\u300b"
+    ]
+  },
+  "Title_Fire_&_Blood_Edit": {
+    "strings": [
+      "\u300a\u8840\u4e0e\u706b\u300b",
+      "\uff08\u300a\u51b0\u4e0e\u706b\u4e4b\u6b4c\u300b\uff09"
+    ]
+  },
+  "Title_Flowers_for_Algernon": {
+    "strings": [
+      "\u300a\u732e\u7ed9\u963f\u5c14\u5409\u4fac\u7684\u82b1\u675f\u300b"
+    ]
+  },
+  "Title_Frankenstein": {
+    "strings": [
+      "\u300a\u79d1\u5b66\u602a\u4eba\u300b"
+    ]
+  },
+  "Title_Full_Dark,_No_Stars": {
+    "strings": [
+      "\u300a\u6697\u591c\u65e0\u661f\u300b"
+    ]
+  },
+  "Title_Gemology:_A_Study_in_Ruby": {
+    "strings": [
+      "\u300a\u5b9d\u77f3\u5b66\uff1a\u7ea2\u5b9d\u77f3\u7814\u7a76\u300b"
+    ]
+  },
+  "Title_Gone_Girl": {
+    "strings": [
+      "\u300a\u6d88\u5931\u7684\u7231\u4eba\u300b"
+    ]
+  },
+  "Title_Good_Girl,_Bad_Blood_Edit": {
+    "strings": [
+      "\u300a\u597d\u5973\u5b69\uff0c\u574f\u8840\u7edf\u300b",
+      "\uff08\u300a\u597d\u5973\u5b69\u7684\u8c0b\u6740\u8c03\u67e5\u6307\u5357\u7cfb\u5217\u300b\u7b2c 2 \u90e8\uff09"
+    ]
+  },
+  "Title_Good_Night,_Gorilla": {
+    "strings": [
+      "\u300a\u665a\u5b89\uff0c\u5927\u7329\u7329\u300b"
+    ]
+  },
+  "Title_Good_Omens": {
+    "strings": [
+      "\u300a\u597d\u5146\u5934\u300b"
+    ]
+  },
+  "Title_Great_Expectations": {
+    "strings": [
+      "\u300a\u8fdc\u5927\u524d\u7a0b\u300b"
+    ]
+  },
+  "Title_Gregor_the_Overlander_Edit": {
+    "strings": [
+      "\u300a\u5730\u5e95\u5386\u9669\u8bb0\u300b",
+      "\uff08\u5730\u5e95\u738b\u56fd\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_Gulliver's_Travels": {
+    "strings": [
+      "\u300a\u683c\u5217\u4f5b\u6e38\u8bb0\u300b"
+    ]
+  },
+  "Title_HTML_1998;An_Introduction": {
+    "strings": [
+      "\u300aHTML 1998\uff1a\u5165\u95e8\u6307\u5357\u300b"
+    ]
+  },
+  "Title_Hamlet": {
+    "strings": [
+      "\u300a\u54c8\u59c6\u96f7\u7279\u300b"
+    ]
+  },
+  "Title_Heidi": {
+    "strings": [
+      "\u300a\u6d77\u8482\u300b"
+    ]
+  },
+  "Title_Henry_V": {
+    "strings": [
+      "\u300a\u4ea8\u5229\u4e94\u4e16\u300b"
+    ]
+  },
+  "Title_Henry_VI,_Part_1": {
+    "strings": [
+      "\u300a\u4ea8\u5229\u516d\u4e16\u300b\u7b2c\u4e00\u90e8"
+    ]
+  },
+  "Title_Henry_VI,_Part_3": {
+    "strings": [
+      "\u300a\u4ea8\u5229\u516d\u4e16\u300b\u7b2c\u4e09\u90e8"
+    ]
+  },
+  "Title_Hiking_Trails_in_Bookston_Bay": {
+    "strings": [
+      "\u300a\u4e66\u5c71\u6e7e\u5f92\u6b65\u6307\u5357\u300b"
+    ]
+  },
+  "Title_Historical_Niche": {
+    "strings": [
+      "\u300a\u5386\u53f2\u89d2\u843d\u300b"
+    ]
+  },
+  "Title_Homage_to_Catalonia": {
+    "strings": [
+      "\u300a\u5411\u52a0\u6cf0\u7f57\u5c3c\u4e9a\u81f4\u656c\u300b"
+    ]
+  },
+  "Title_Howl's_Moving_Castle": {
+    "strings": [
+      "\u300a\u54c8\u5c14\u7684\u79fb\u52a8\u57ce\u5821\u300b"
+    ]
+  },
+  "Title_Howl's_Moving_Castle_Edit": {
+    "strings": [
+      "\u300a\u54c8\u5c14\u7684\u79fb\u52a8\u57ce\u5821\u300b",
+      "\uff08\u300a\u79fb\u52a8\u57ce\u5821\u7cfb\u5217\u300b\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_H\u00e9l\u00e8ne": {
+    "strings": [
+      "\u300a\u6d77\u4f26\u5a1c\u300b"
+    ]
+  },
+  "Title_I,_Robot": {
+    "strings": [
+      "\u300a\u6211\uff0c\u673a\u5668\u4eba\u300b"
+    ]
+  },
+  "Title_If_Tomorrow_Comes": {
+    "strings": [
+      "\u300a\u5047\u5982\u660e\u5929\u6765\u4e34\u300b"
+    ]
+  },
+  "Title_In_Search_Of:;The_Most_Beautiful_Islands_In_the_World": {
+    "strings": [
+      "\u300a\u5bfb\u8bbf\u4e4b\u65c5\uff1a\u4e16\u754c\u6700\u7f8e\u5c9b\u5c7f\u300b"
+    ]
+  },
+  "Title_Inferno": {
+    "strings": [
+      "\u300a\u795e\u66f2\u00b7\u5730\u72f1\u7bc7\u300b"
+    ]
+  },
+  "Title_Inferno_Edit": {
+    "strings": [
+      "\u300a\u5730\u72f1\u7bc7\u300b",
+      "\uff08\u300a\u795e\u66f2\u300b\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_Inkheart": {
+    "strings": [
+      "\u300a\u58a8\u6c34\u5fc3\u300b"
+    ]
+  },
+  "Title_Inkheart_Edit": {
+    "strings": [
+      "\u300a\u58a8\u6c34\u5fc3\u300b",
+      "\uff08\u300a\u58a8\u6c34\u4e16\u754c\u300b\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_Into_the_Sunset:_The_Magical_West": {
+    "strings": [
+      "\u300a\u9a76\u5411\u843d\u65e5\uff1a\u9b54\u5e7b\u7684\u897f\u65b9\u300b"
+    ]
+  },
+  "Title_It": {
+    "strings": [
+      "\u300a\u5c0f\u4e11\u56de\u9b42\u300b"
+    ]
+  },
+  "Title_Jane_Eyre": {
+    "strings": [
+      "\u300a\u7b80\u00b7\u7231\u300b"
+    ]
+  },
+  "Title_Journey_to_the_Centre_of_the_Earth": {
+    "strings": [
+      "\u300a\u5730\u5fc3\u6e38\u8bb0\u300b"
+    ]
+  },
+  "Title_Journey_to_the_West;or,_Monkey_King": {
+    "strings": [
+      "\u300a\u897f\u6e38\u8bb0\u300b",
+      "\u53c8\u540d\u300a\u897f\u6e38\u91ca\u5384\u4f20\u300b"
+    ]
+  },
+  "Title_Julius_Caesar": {
+    "strings": [
+      "\u300a\u51ef\u6492\u5927\u5e1d\u300b"
+    ]
+  },
+  "Title_Just_A_Story:_Why_We_Still_Tell_Fairytales": {
+    "strings": [
+      "\u300a\u53ea\u662f\u4e00\u4e2a\u6545\u4e8b\uff1a\u7ae5\u8bdd\u4e3a\u4f55\u957f\u5b58\u300b"
+    ]
+  },
+  "Title_Kiki's_Delivery_Service": {
+    "strings": [
+      "\u300a\u9b54\u5973\u5b85\u6025\u4fbf\u300b"
+    ]
+  },
+  "Title_Kitchen_Rules_For_Your_Family_and_You": {
+    "strings": [
+      "\u300a\u5bb6\u5ead\u53a8\u623f\u5b88\u5219\u300b"
+    ]
+  },
+  "Title_Les_Miserables": {
+    "strings": [
+      "\u300a\u60b2\u60e8\u4e16\u754c\u300b"
+    ]
+  },
+  "Title_Little_Women": {
+    "strings": [
+      "\u300a\u5c0f\u5987\u4eba\u300b"
+    ]
+  },
+  "Title_Living_In_Alaska": {
+    "strings": [
+      "\u300a\u963f\u62c9\u65af\u52a0\u751f\u5b58\u5b9e\u5f55\u300b"
+    ]
+  },
+  "Title_Looking_for_Alaska": {
+    "strings": [
+      "\u300a\u5bfb\u627e\u963f\u62c9\u65af\u52a0\u300b"
+    ]
+  },
+  "Title_Lord_of_the_Flies": {
+    "strings": [
+      "\u300a\u8747\u738b\u300b"
+    ]
+  },
+  "Title_Love": {
+    "strings": [
+      "\u300a\u7231\u300b"
+    ]
+  },
+  "Title_Macbeth": {
+    "strings": [
+      "\u300a\u9ea6\u514b\u767d\u300b"
+    ]
+  },
+  "Title_Matilda": {
+    "strings": [
+      "\u300a\u739b\u8482\u5c14\u8fbe\u300b"
+    ]
+  },
+  "Title_Medieval_Carpentry": {
+    "strings": [
+      "\u300a\u4e2d\u4e16\u7eaa\u6728\u5de5\u6280\u827a\u300b"
+    ]
+  },
+  "Title_Mesopotamian_Buildings": {
+    "strings": [
+      "\u300a\u7f8e\u7d22\u4e0d\u8fbe\u7c73\u4e9a\u5efa\u7b51\u53f2\u300b"
+    ]
+  },
+  "Title_Middlemarch": {
+    "strings": [
+      "\u300a\u7c73\u5fb7\u5c14\u9a6c\u5951\u300b"
+    ]
+  },
+  "Title_Misery": {
+    "strings": [
+      "\u300a\u5934\u53f7\u4e66\u8ff7\u300b"
+    ]
+  },
+  "Title_Miss_Peregrine's_Home_for_Peculiar_Children": {
+    "strings": [
+      "\u300a\u4f69\u5c0f\u59d0\u7684\u5947\u5e7b\u57ce\u5821\u300b"
+    ]
+  },
+  "Title_Moby-Dick": {
+    "strings": [
+      "\u300a\u767d\u9cb8\u8bb0\u300b"
+    ]
+  },
+  "Title_Momo;or,_The_Grey_Gentlemen": {
+    "strings": [
+      "\u300a\u6bdb\u6bdb\u300b",
+      "\u53c8\u540d\u300a\u7070\u8863\u4eba\u300b"
+    ]
+  },
+  "Title_Mrs._Dalloway": {
+    "strings": [
+      "\u300a\u8fbe\u6d1b\u7ef4\u592b\u4eba\u300b"
+    ]
+  },
+  "Title_Much_Ado_About_Nothing": {
+    "strings": [
+      "\u300a\u65e0\u4e8b\u751f\u975e\u300b"
+    ]
+  },
+  "Title_Murder_on_the_Orient_Express": {
+    "strings": [
+      "\u300a\u4e1c\u65b9\u5feb\u8f66\u8c0b\u6740\u6848\u300b"
+    ]
+  },
+  "Title_Murder_on_the_Orient_Express_Edit": {
+    "strings": [
+      "\u300a\u4e1c\u65b9\u5feb\u8f66\u8c0b\u6740\u6848\u300b",
+      "\uff08\u8d6b\u5c14\u514b\u91cc\u00b7\u6ce2\u6d1b\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_My_Lesbian_Experience_With_Loneliness": {
+    "strings": [
+      "\u300a\u6211\u53ef\u4ee5\u88ab\u62e5\u62b1\u5417\uff1f\u56e0\u4e3a\u592a\u8fc7\u5bc2\u5bde\u800c\u53eb\u4e86\u857e\u4e1d\u8fb9\u5e94\u53ec\u300b"
+    ]
+  },
+  "Title_My_Travels_In_East_Africa": {
+    "strings": [
+      "\u300a\u4e1c\u975e\u7eaa\u884c\u300b"
+    ]
+  },
+  "Title_Night_Shift": {
+    "strings": [
+      "\u300a\u5b88\u591c\u300b"
+    ]
+  },
+  "Title_Nimona": {
+    "strings": [
+      "\u300a\u602a\u7269\u5c11\u5973\u59ae\u83ab\u5a1c\u300b"
+    ]
+  },
+  "Title_Nineteen_Eighty-Four": {
+    "strings": [
+      "\u300a\u4e00\u4e5d\u516b\u56db\u300b"
+    ]
+  },
+  "Title_Normal_People": {
+    "strings": [
+      "\u300a\u6b63\u5e38\u4eba\u300b"
+    ]
+  },
+  "Title_OH\uff0c\u53ef\u7231\u9020\u578b\u997c\u5e72": {
+    "strings": [
+      "OH\uff0c\u53ef\u7231\u9020\u578b\u997c\u5e72"
+    ]
+  },
+  "Title_OUT": {
+    "strings": [
+      "OUT"
+    ]
+  },
+  "Title_On_the_Naturale_Flora_of_Bookstonborough": {
+    "strings": [
+      "\u300a\u4e66\u5c71\u9547\u81ea\u7136\u690d\u7269\u5fd7\u300b"
+    ]
+  },
+  "Title_Orlando": {
+    "strings": [
+      "\u300a\u5965\u5170\u591a\u300b"
+    ]
+  },
+  "Title_Othello": {
+    "strings": [
+      "\u300a\u5965\u8d5b\u7f57\u300b"
+    ]
+  },
+  "Title_P.S._I_Still_Love_You": {
+    "strings": [
+      "\u300aP.S.\u6211\u4ecd\u7231\u4f60\u300b"
+    ]
+  },
+  "Title_Persepolis;The_Story_of_a_Childhood": {
+    "strings": [
+      "\u300a\u6211\u5728\u4f0a\u6717\u957f\u5927\u300b"
+    ]
+  },
+  "Title_Persuasion": {
+    "strings": [
+      "\u300a\u529d\u5bfc\u300b"
+    ]
+  },
+  "Title_Pet_Sematary": {
+    "strings": [
+      "\u300a\u5ba0\u7269\u575f\u573a\u300b"
+    ]
+  },
+  "Title_Physics_1908": {
+    "strings": [
+      "\u300a1908 \u5e74\u7269\u7406\u5b66\u300b"
+    ]
+  },
+  "Title_Prince_Caspian;The_Return_to_Narnia": {
+    "strings": [
+      "\u300a\u51ef\u65af\u5bbe\u738b\u5b50\uff1a\u91cd\u8fd4\u7eb3\u5c3c\u4e9a\u300b"
+    ]
+  },
+  "Title_Prince_Caspian;The_Return_to_Narnia_Edit": {
+    "strings": [
+      "\u300a\u51ef\u65af\u5bbe\u738b\u5b50\uff1a\u91cd\u8fd4\u7eb3\u5c3c\u4e9a\u300b",
+      "\uff08\u300a\u7eb3\u5c3c\u4e9a\u4f20\u5947\u300b\uff09"
+    ]
+  },
+  "Title_Red_Dragon_Edit": {
+    "strings": [
+      "\u300a\u7ea2\u9f99\u300b",
+      "\uff08\u6c49\u5c3c\u62d4\u00b7\u83b1\u514b\u7279\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_Richard_II": {
+    "strings": [
+      "\u300a\u7406\u67e5\u4e8c\u4e16\u300b"
+    ]
+  },
+  "Title_Romeo_and_Juliet": {
+    "strings": [
+      "\u300a\u7f57\u5bc6\u6b27\u4e0e\u6731\u4e3d\u53f6\u300b"
+    ]
+  },
+  "Title_Sailor_Moon;Volume_1": {
+    "strings": [
+      "\u300a\u7f8e\u5c11\u5973\u6218\u58eb\u300b\u7b2c1\u5377"
+    ]
+  },
+  "Title_Salom\u00e9": {
+    "strings": [
+      "\u300a\u838e\u4e50\u7f8e\u300b"
+    ]
+  },
+  "Title_Second_Foundation": {
+    "strings": [
+      "\u300a\u7b2c\u4e8c\u57fa\u5730\u300b"
+    ]
+  },
+  "Title_Second_Foundation_Edit": {
+    "strings": [
+      "\u300a\u7b2c\u4e8c\u57fa\u5730\u300b",
+      "\uff08\u300a\u57fa\u5730\u300b\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_Sense_and_Sensibility": {
+    "strings": [
+      "\u300a\u7406\u667a\u4e0e\u60c5\u611f\u300b"
+    ]
+  },
+  "Title_Shirley": {
+    "strings": [
+      "\u300a\u8c22\u5229\u300b"
+    ]
+  },
+  "Title_Six_of_Crows": {
+    "strings": [
+      "\u300a\u4e4c\u9e26\u516d\u4eba\u7ec4\u300b"
+    ]
+  },
+  "Title_Sky_Island_Edit": {
+    "strings": [
+      "\u300a\u5929\u7a7a\u5c9b\u300b",
+      "\uff08\u300a\u7279\u6d1b\u7279\u4e0e\u6bd4\u5c14\u8239\u957f\u300b\uff0c\u7b2c 2 \u90e8\uff09"
+    ]
+  },
+  "Title_St._Bookston:_The_Myth,_the_Legend,_the_Truth": {
+    "strings": [
+      "\u300a\u5723\u4e66\u7fc1\uff1a\u795e\u8bdd\u3001\u4f20\u8bf4\u4e0e\u771f\u76f8\u300b"
+    ]
+  },
+  "Title_Starstruck;(Deluxe_Edition)": {
+    "strings": [
+      "\u300a\u661f\u9645\u8ff7\u822a\u300b\uff08\u73cd\u85cf\u7248\uff09"
+    ]
+  },
+  "Title_Stories_of_Your_Life_and_Others": {
+    "strings": [
+      "\u300a\u4f60\u4e00\u751f\u7684\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_Stormbreaker_Edit": {
+    "strings": [
+      "\u300a\u98ce\u66b4\u7a81\u51fb\u8005\u300b",
+      "\uff08\u4e9a\u5386\u514b\u65af\u00b7\u83b1\u5fb7\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_The_Adventures_of_Sherlock_Holmes": {
+    "strings": [
+      "\u300a\u798f\u5c14\u6469\u65af\u5192\u9669\u53f2\u300b"
+    ]
+  },
+  "Title_The_Battle_of_the_Labyrinth_Edit": {
+    "strings": [
+      "\u300a\u6ce2\u897f\u00b7\u6770\u514b\u900a\u4e0e\u8ff7\u5bab\u4e4b\u6218\u300b",
+      "\uff08\u300a\u6ce2\u897f\u00b7\u6770\u514b\u900a\u7cfb\u5217\u300b\u7b2c 4 \u90e8\uff09"
+    ]
+  },
+  "Title_The_Bell_Jar": {
+    "strings": [
+      "\u300a\u949f\u5f62\u7f69\u300b"
+    ]
+  },
+  "Title_The_Big_Sleep_Edit": {
+    "strings": [
+      "\u300a\u957f\u7720\u4e0d\u9192\u300b",
+      "\uff08\u83f2\u5229\u666e\u00b7\u9a6c\u6d1b\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_The_Blind_Assassin": {
+    "strings": [
+      "\u300a\u76f2\u523a\u5ba2\u300b"
+    ]
+  },
+  "Title_The_Bluest_Eye": {
+    "strings": [
+      "\u300a\u6700\u84dd\u7684\u773c\u775b\u300b"
+    ]
+  },
+  "Title_The_Canterbury_Tales": {
+    "strings": [
+      "\u300a\u574e\u7279\u4f2f\u96f7\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_The_Canterville_Ghost": {
+    "strings": [
+      "\u300a\u574e\u7279\u7ef4\u5c14\u7684\u5e7d\u7075\u300b"
+    ]
+  },
+  "Title_The_Color_Purple": {
+    "strings": [
+      "\u300a\u7d2b\u8272\u300b"
+    ]
+  },
+  "Title_The_Complete_Robot": {
+    "strings": [
+      "\u300a\u673a\u5668\u4eba\u77ed\u7bc7\u5168\u96c6\u300b"
+    ]
+  },
+  "Title_The_Count_of_Monte_Cristo": {
+    "strings": [
+      "\u300a\u57fa\u7763\u5c71\u4f2f\u7235\u300b"
+    ]
+  },
+  "Title_The_Cruel_Prince_Edit": {
+    "strings": [
+      "\u300a\u6b8b\u9177\u7684\u738b\u5b50\u300b",
+      "\uff08\u7a7a\u4e4b\u5b50\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_The_Curious_Incident_of_the_Dog_in_the_Night-Time": {
+    "strings": [
+      "\u300a\u6df1\u591c\u5c0f\u72d7\u795e\u79d8\u4e8b\u4ef6\u300b"
+    ]
+  },
+  "Title_The_Debvoir_Family;A_Success_Story": {
+    "strings": [
+      "\u300a\u5fb7\u5e03\u74e6\u5c14\u5bb6\u65cf\uff1a\u4e00\u90e8\u6210\u529f\u4f20\u5947\u300b"
+    ]
+  },
+  "Title_The_Duke_and_I_Edit": {
+    "strings": [
+      "\u300a\u516c\u7235\u4e0e\u6211\u300b",
+      "\uff08\u300a\u5e03\u91cc\u5947\u987f\u300b\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_The_Fall_of_the_House_of_Usher": {
+    "strings": [
+      "\u300a\u5384\u820d\u5e9c\u7684\u5012\u584c\u300b"
+    ]
+  },
+  "Title_The_Fault_in_Our_Stars": {
+    "strings": [
+      "\u300a\u661f\u8fd0\u91cc\u7684\u9519\u300b"
+    ]
+  },
+  "Title_The_Fellowship_of_the_Ring": {
+    "strings": [
+      "\u300a\u9b54\u6212\u7b2c\u4e00\u90e8\uff1a\u9b54\u6212\u73b0\u8eab\u300b"
+    ]
+  },
+  "Title_The_Fellowship_of_the_Ring_Edit": {
+    "strings": [
+      "\u300a\u9b54\u6212\u73b0\u8eab\u300b",
+      "\uff08\u300a\u9b54\u6212\u300b\uff09"
+    ]
+  },
+  "Title_The_Girl_Who_Played_with_Fire_Edit": {
+    "strings": [
+      "\u300a\u73a9\u706b\u7684\u5973\u5b69\u300b",
+      "\uff08\u300a\u5343\u79a7\u5e74\u300b\u4e09\u90e8\u66f2\u7b2c 2 \u90e8\uff09"
+    ]
+  },
+  "Title_The_Glass_Castle": {
+    "strings": [
+      "\u300a\u73bb\u7483\u57ce\u5821\u300b"
+    ]
+  },
+  "Title_The_God_of_Small_Things": {
+    "strings": [
+      "\u300a\u5fae\u7269\u4e4b\u795e\u300b"
+    ]
+  },
+  "Title_The_Great_Gatsby": {
+    "strings": [
+      "\u300a\u4e86\u4e0d\u8d77\u7684\u76d6\u8328\u6bd4\u300b"
+    ]
+  },
+  "Title_The_Green_Mile": {
+    "strings": [
+      "\u300a\u7eff\u91cc\u5947\u8ff9\u300b"
+    ]
+  },
+  "Title_The_Gunslinger": {
+    "strings": [
+      "\u300a\u67aa\u4fa0\u300b"
+    ]
+  },
+  "Title_The_Gunslinger_Edit": {
+    "strings": [
+      "\u300a\u67aa\u4fa0\u300b",
+      "\uff08\u300a\u9ed1\u6697\u5854\u300b\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_The_Handmaid's_Tale": {
+    "strings": [
+      "\u300a\u4f7f\u5973\u7684\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_The_Happy_Prince_and_Other_Tales": {
+    "strings": [
+      "\u300a\u5feb\u4e50\u738b\u5b50\u53ca\u5176\u4ed6\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_The_Hunger_Games": {
+    "strings": [
+      "\u300a\u9965\u997f\u6e38\u620f\u300b"
+    ]
+  },
+  "Title_The_Hunger_Games_Edit": {
+    "strings": [
+      "\u300a\u9965\u997f\u6e38\u620f\u300b",
+      "\uff08\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_The_Invisible_Man": {
+    "strings": [
+      "\u300a\u9690\u5f62\u4eba\u300b"
+    ]
+  },
+  "Title_The_Last_Battle;(Chronicles_of_Narnia)": {
+    "strings": [
+      "\u300a\u6700\u540e\u4e00\u6218\u300b",
+      "\uff08\u300a\u7eb3\u5c3c\u4e9a\u4f20\u5947\u300b\uff09"
+    ]
+  },
+  "Title_The_Lightning_Thief;(Percy_Jackson_#1)": {
+    "strings": [
+      "\u300a\u6ce2\u897f\u00b7\u6770\u514b\u900a\u4e0e\u795e\u706b\u4e4b\u76d7\u300b",
+      "\uff08\u300a\u6ce2\u897f\u00b7\u6770\u514b\u900a\u7cfb\u5217\u300b\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_The_Lion,_the_Witch_and_the_Wardrobe": {
+    "strings": [
+      "\u300a\u72ee\u5b50\u3001\u5973\u5deb\u4e0e\u9b54\u8863\u6a71\u300b"
+    ]
+  },
+  "Title_The_Lion,_the_Witch_and_the_Wardrobe_Edit": {
+    "strings": [
+      "\u300a\u72ee\u5b50\u3001\u5973\u5deb\u548c\u9b54\u8863\u6a71\u300b",
+      "\uff08\u300a\u7eb3\u5c3c\u4e9a\u4f20\u5947\u300b\uff09"
+    ]
+  },
+  "Title_The_Little_Prince": {
+    "strings": [
+      "\u300a\u5c0f\u738b\u5b50\u300b"
+    ]
+  },
+  "Title_The_Lorax": {
+    "strings": [
+      "\u300a\u8001\u96f7\u65af\u7684\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_The_Lost_Symbol": {
+    "strings": [
+      "\u300a\u5931\u843d\u7684\u79d8\u7b26\u300b"
+    ]
+  },
+  "Title_The_Love_Hypothesis": {
+    "strings": [
+      "\u300a\u771f\u7231\u5047\u8bf4\u300b"
+    ]
+  },
+  "Title_The_Martian": {
+    "strings": [
+      "\u300a\u706b\u661f\u6551\u63f4\u300b"
+    ]
+  },
+  "Title_The_Martian_Chronicles": {
+    "strings": [
+      "\u300a\u706b\u661f\u7f16\u5e74\u53f2\u300b"
+    ]
+  },
+  "Title_The_Maze_Runner": {
+    "strings": [
+      "\u300a\u79fb\u52a8\u8ff7\u5bab\u300b"
+    ]
+  },
+  "Title_The_Maze_Runner_Edit": {
+    "strings": [
+      "\u300a\u79fb\u52a8\u8ff7\u5bab\u300b",
+      "\uff08\u7b2c 1 \u90e8\uff09"
+    ]
+  },
+  "Title_The_Murder_at_the_Vicarage": {
+    "strings": [
+      "\u300a\u5bd3\u6240\u8c1c\u6848\u300b"
+    ]
+  },
+  "Title_The_Murder_of_Roger_Ackroyd": {
+    "strings": [
+      "\u300a\u7f57\u6770\u7591\u6848\u300b"
+    ]
+  },
+  "Title_The_Murder_of_Roger_Ackroyd_Edit": {
+    "strings": [
+      "\u300a\u7f57\u6770\u00b7\u827e\u514b\u7f57\u4f0a\u5fb7\u8c0b\u6740\u6848\u300b",
+      "\uff08\u8d6b\u5c14\u514b\u91cc\u00b7\u6ce2\u6d1b\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_The_Mysterious_Affair_at_Styles": {
+    "strings": [
+      "\u300a\u65af\u6cf0\u5c14\u65af\u5e84\u56ed\u5947\u6848\u300b"
+    ]
+  },
+  "Title_The_Mysterious_Affair_at_Styles_Edit": {
+    "strings": [
+      "\u300a\u65af\u6cf0\u5c14\u65af\u5e84\u56ed\u5947\u6848\u300b",
+      "\uff08\u8d6b\u5c14\u514b\u91cc\u00b7\u6ce2\u6d1b\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_The_Odyssey": {
+    "strings": [
+      "\u300a\u5965\u5fb7\u8d5b\u300b"
+    ]
+  },
+  "Title_The_Perks_of_Being_a_Wallflower": {
+    "strings": [
+      "\u300a\u58c1\u82b1\u5c11\u5e74\u300b"
+    ]
+  },
+  "Title_The_Picture_of_Dorian_Gray": {
+    "strings": [
+      "\u300a\u9053\u6797\u00b7\u683c\u96f7\u7684\u753b\u50cf\u300b"
+    ]
+  },
+  "Title_The_Ramayana": {
+    "strings": [
+      "\u300a\u7f57\u6469\u884d\u90a3\u300b"
+    ]
+  },
+  "Title_The_Raven": {
+    "strings": [
+      "\u300a\u4e4c\u9e26\u300b"
+    ]
+  },
+  "Title_The_Return_of_the_King": {
+    "strings": [
+      "\u300a\u9b54\u6212\u7b2c\u4e09\u90e8\uff1a\u738b\u8005\u518d\u4e34\u300b"
+    ]
+  },
+  "Title_The_Return_of_the_King_Edit": {
+    "strings": [
+      "\u300a\u738b\u8005\u518d\u4e34\u300b",
+      "\uff08\u300a\u9b54\u6212\u300b\uff09"
+    ]
+  },
+  "Title_The_Rose_of_Versailles": {
+    "strings": [
+      "\u300a\u51e1\u5c14\u8d5b\u73ab\u7470\u300b"
+    ]
+  },
+  "Title_The_Sea_of_Monsters;(Percy_Jackson_#2)": {
+    "strings": [
+      "\u300a\u6ce2\u897f\u00b7\u6770\u514b\u900a\u4e0e\u9b54\u517d\u4e4b\u6d77\u300b",
+      "\uff08\u300a\u6ce2\u897f\u00b7\u6770\u514b\u900a\u7cfb\u5217\u300b\u7b2c 2 \u90e8\uff09"
+    ]
+  },
+  "Title_The_Secret_Garden": {
+    "strings": [
+      "\u300a\u79d8\u5bc6\u82b1\u56ed\u300b"
+    ]
+  },
+  "Title_The_Secret_History_of_Bookstonbury": {
+    "strings": [
+      "\u300a\u4e66\u5c71\u9547\u79d8\u53f2\u300b"
+    ]
+  },
+  "Title_The_Seven_Husbands_of_Evelyn_Hugo": {
+    "strings": [
+      "\u300a\u4f0a\u8299\u7433\u00b7\u96e8\u679c\u7684\u4e03\u4efb\u4e08\u592b\u300b"
+    ]
+  },
+  "Title_The_Shining": {
+    "strings": [
+      "\u300a\u95ea\u7075\u300b"
+    ]
+  },
+  "Title_The_Silence_of_the_Lambs": {
+    "strings": [
+      "\u300a\u6c89\u9ed8\u7684\u7f94\u7f8a\u300b"
+    ]
+  },
+  "Title_The_Silence_of_the_Lambs_Edit": {
+    "strings": [
+      "\u300a\u6c89\u9ed8\u7684\u7f94\u7f8a\u300b",
+      "\uff08\u6c49\u5c3c\u62d4\u00b7\u83b1\u514b\u7279\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_The_Silent_Patient": {
+    "strings": [
+      "\u300a\u6c89\u9ed8\u7684\u75c5\u4eba\u300b"
+    ]
+  },
+  "Title_The_Silmarillion": {
+    "strings": [
+      "\u300a\u7cbe\u7075\u5b9d\u94bb\u300b"
+    ]
+  },
+  "Title_The_Stand": {
+    "strings": [
+      "\u300a\u672b\u65e5\u903c\u8fd1\u300b"
+    ]
+  },
+  "Title_The_Story_of_Doctor_Dolittle": {
+    "strings": [
+      "\u300a\u675c\u5229\u7279\u533b\u751f\u7684\u6545\u4e8b\u300b"
+    ]
+  },
+  "Title_The_Strange_Case_of_Dr._Jekyll_and_Mr._Hyde": {
+    "strings": [
+      "\u300a\u5316\u8eab\u535a\u58eb\u300b"
+    ]
+  },
+  "Title_The_Tell-Tale_Heart": {
+    "strings": [
+      "\u300a\u6cc4\u5bc6\u7684\u5fc3\u300b"
+    ]
+  },
+  "Title_The_Tempest": {
+    "strings": [
+      "\u300a\u66b4\u98ce\u96e8\u300b"
+    ]
+  },
+  "Title_The_Travels_of_Marco_Polo": {
+    "strings": [
+      "\u300a\u9a6c\u53ef\u00b7\u6ce2\u7f57\u6e38\u8bb0\u300b"
+    ]
+  },
+  "Title_The_Two_Towers": {
+    "strings": [
+      "\u300a\u9b54\u6212\u7b2c\u4e00\u90e8\uff1a\u53cc\u57ce\u5947\u8c0b\u300b"
+    ]
+  },
+  "Title_The_Two_Towers_Edit": {
+    "strings": [
+      "\u300a\u53cc\u5854\u5947\u8c0b\u300b",
+      "\uff08\u300a\u9b54\u6212\u300b\uff09"
+    ]
+  },
+  "Title_The_War_of_the_Worlds": {
+    "strings": [
+      "\u300a\u4e16\u754c\u5927\u6218\u300b"
+    ]
+  },
+  "Title_The_Yellow_Fairy_Book": {
+    "strings": [
+      "\u300a\u9ec4\u8272\u7ae5\u8bdd\u300b"
+    ]
+  },
+  "Title_To_Kill_a_Mockingbird": {
+    "strings": [
+      "\u300a\u6740\u6b7b\u4e00\u53ea\u77e5\u66f4\u9e1f\u300b"
+    ]
+  },
+  "Title_To_the_Lighthouse": {
+    "strings": [
+      "\u300a\u5230\u706f\u5854\u53bb\u300b"
+    ]
+  },
+  "Title_Top_50_Camper_Van_Destinations": {
+    "strings": [
+      "\u300a\u623f\u8f66\u65c5\u884c\u5723\u5730 TOP 50\u300b"
+    ]
+  },
+  "Title_Traditional_Building_Techniques": {
+    "strings": [
+      "\u300a\u4f20\u7edf\u5efa\u7b51\u5de5\u827a\u300b"
+    ]
+  },
+  "Title_Treasure_Island": {
+    "strings": [
+      "\u300a\u91d1\u94f6\u5c9b\u300b"
+    ]
+  },
+  "Title_Twenty_Thousand_Leagues_Under_the_Sea": {
+    "strings": [
+      "\u300a\u6d77\u5e95\u4e24\u4e07\u91cc\u300b"
+    ]
+  },
+  "Title_Violets_Are_Blue_Edit": {
+    "strings": [
+      "\u300a\u7d2b\u7f57\u5170\u662f\u84dd\u8272\u7684\u300b",
+      "\uff08\u4e9a\u5386\u514b\u65af\u00b7\u514b\u6d1b\u65af\u7cfb\u5217\uff09"
+    ]
+  },
+  "Title_Watchmen;(Issue_#12)": {
+    "strings": [
+      "\u300a\u5b88\u671b\u8005\u300b",
+      "\uff08\u7b2c 12 \u671f\uff09"
+    ]
+  },
+  "Title_Where_the_Wild_Things_Are": {
+    "strings": [
+      "\u300a\u91ce\u517d\u56fd\u300b"
+    ]
+  },
+  "Title_Wuthering_Heights": {
+    "strings": [
+      "\u300a\u547c\u5578\u5c71\u5e84\u300b"
+    ]
+  },
+  "Title_\u300a\u4e00\u4e2a\u4eba\u7684\u6218\u4e89\u300b": {
+    "strings": [
+      "\u300a\u4e00\u4e2a\u4eba\u7684\u6218\u4e89\u300b"
+    ]
+  },
+  "Title_\u300a\u4e00\u5207\u90fd\u5728\u5b64\u72ec\u91cc\u6210\u5168\u300b": {
+    "strings": [
+      "\u300a\u4e00\u5207\u90fd\u5728\u5b64\u72ec\u91cc\u6210\u5168\u300b"
+    ]
+  },
+  "Title_\u300a\u4e09\u56fd\u6f14\u4e49\u300b": {
+    "strings": [
+      "\u300a\u4e09\u56fd\u6f14\u4e49\u300b"
+    ]
+  },
+  "Title_\u300a\u4e09\u5b57\u7ecf\u300b": {
+    "strings": [
+      "\u300a\u4e09\u5b57\u7ecf\u300b"
+    ]
+  },
+  "Title_\u300a\u4e0a\u6d77\u5bfb\u5b9d\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u4e0a\u6d77\u5bfb\u5b9d\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u4e2d\u56fd\u7684\u594b\u6597\u300b": {
+    "strings": [
+      "\u300a\u4e2d\u56fd\u7684\u594b\u6597\u300b"
+    ]
+  },
+  "Title_\u300a\u5077\u4e66\u8d3c\u300b": {
+    "strings": [
+      "\u300a\u5077\u4e66\u8d3c\u300b"
+    ]
+  },
+  "Title_\u300a\u5341\u4e8c\u5802\u7ecf\u5178\u79d1\u666e\u8bfe\u300b": {
+    "strings": [
+      "\u300a\u5341\u4e8c\u5802\u7ecf\u5178\u79d1\u666e\u8bfe\u300b"
+    ]
+  },
+  "Title_\u300a\u5343\u5b57\u6587\u300b": {
+    "strings": [
+      "\u300a\u5343\u5b57\u6587\u300b"
+    ]
+  },
+  "Title_\u300a\u5361\u62c9\u9a6c\u4f50\u592b\u5144\u5f1f\u300b": {
+    "strings": [
+      "\u300a\u5361\u62c9\u9a6c\u4f50\u592b\u5144\u5f1f\u300b"
+    ]
+  },
+  "Title_\u300a\u53ef\u80fd\u7684\u4e16\u754c\u300b": {
+    "strings": [
+      "\u300a\u53ef\u80fd\u7684\u4e16\u754c\u300b"
+    ]
+  },
+  "Title_\u300a\u5409\u6797\u5bfb\u5b9d\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u5409\u6797\u5bfb\u5b9d\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u56db\u5ddd\u5bfb\u5b9d\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u56db\u5ddd\u5bfb\u5b9d\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u5728\u7ec6\u96e8\u4e2d\u547c\u558a\u300b": {
+    "strings": [
+      "\u300a\u5728\u7ec6\u96e8\u4e2d\u547c\u558a\u300b"
+    ]
+  },
+  "Title_\u300a\u5728\u8def\u4e0a\u300b": {
+    "strings": [
+      "\u300a\u5728\u8def\u4e0a\u300b"
+    ]
+  },
+  "Title_\u300a\u574f\u5c0f\u5b69\u300b": {
+    "strings": [
+      "\u300a\u574f\u5c0f\u5b69\u300b"
+    ]
+  },
+  "Title_\u300a\u590f\u6d1b\u7684\u7f51\u300b": {
+    "strings": [
+      "\u300a\u590f\u6d1b\u7684\u7f51\u300b"
+    ]
+  },
+  "Title_\u300a\u591c\u8c2d\u5341\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u591c\u8c2d\u5341\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u5927\u5510\u897f\u57df\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u5927\u5510\u897f\u57df\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u5927\u660e\u738b\u671d1566\u300b": {
+    "strings": [
+      "\u300a\u5927\u660e\u738b\u671d1566\u300b"
+    ]
+  },
+  "Title_\u300a\u5929\u5de5\u5f00\u7269\u300b": {
+    "strings": [
+      "\u300a\u5929\u5de5\u5f00\u7269\u300b"
+    ]
+  },
+  "Title_\u300a\u5929\u84dd\u8272\u7684\u5f7c\u5cb8\u300b": {
+    "strings": [
+      "\u300a\u5929\u84dd\u8272\u7684\u5f7c\u5cb8\u300b"
+    ]
+  },
+  "Title_\u300a\u5973\u513f\u7ea2\u300b": {
+    "strings": [
+      "\u300a\u5973\u513f\u7ea2\u300b"
+    ]
+  },
+  "Title_\u300a\u5982\u679c\u6211\u4eec\u65e0\u6cd5\u4ee5\u5149\u901f\u524d\u884c\u300b": {
+    "strings": [
+      "\u300a\u5982\u679c\u6211\u4eec\u65e0\u6cd5\u4ee5\u5149\u901f\u524d\u884c\u300b"
+    ]
+  },
+  "Title_\u300a\u5b64\u7b4f\u91cd\u6d0b\u300b": {
+    "strings": [
+      "\u300a\u5b64\u7b4f\u91cd\u6d0b\u300b"
+    ]
+  },
+  "Title_\u300a\u5c9b\u4e0a\u4e66\u5e97\u300b": {
+    "strings": [
+      "\u300a\u5c9b\u4e0a\u4e66\u5e97\u300b"
+    ]
+  },
+  "Title_\u300a\u5e73\u51e1\u7684\u4e16\u754c\u300b": {
+    "strings": [
+      "\u300a\u5e73\u51e1\u7684\u4e16\u754c\u300b"
+    ]
+  },
+  "Title_\u300a\u5f90\u971e\u5ba2\u6e38\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u5f90\u971e\u5ba2\u6e38\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u5ffd\u7136\u4e03\u65e5\u300b": {
+    "strings": [
+      "\u300a\u5ffd\u7136\u4e03\u65e5\u300b"
+    ]
+  },
+  "Title_\u300a\u6076\u5973\u7684\u544a\u767d\u300b": {
+    "strings": [
+      "\u300a\u6076\u5973\u7684\u544a\u767d\u300b"
+    ]
+  },
+  "Title_\u300a\u60b2\u5267\u7684\u8bde\u751f\u300b": {
+    "strings": [
+      "\u300a\u60b2\u5267\u7684\u8bde\u751f\u300b"
+    ]
+  },
+  "Title_\u300a\u6211\u6240\u544a\u8bc9\u4f60\u5173\u4e8e\u90a3\u5ea7\u5c71\u7684\u4e00\u5207\u300b": {
+    "strings": [
+      "\u300a\u6211\u6240\u544a\u8bc9\u4f60\u5173\u4e8e\u90a3\u5ea7\u5c71\u7684\u4e00\u5207\u300b"
+    ]
+  },
+  "Title_\u300a\u65c5\u4f34\u300b": {
+    "strings": [
+      "\u300a\u65c5\u4f34\u300b"
+    ]
+  },
+  "Title_\u300a\u6709\u5440\u6709\u5440\u4e66\u5e97\u300b": {
+    "strings": [
+      "\u300a\u6709\u5440\u6709\u5440\u4e66\u5e97\u300b"
+    ]
+  },
+  "Title_\u300a\u6768\u7ea2\u6a31\u7b11\u732b\u65e5\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u6768\u7ea2\u6a31\u7b11\u732b\u65e5\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u6781\u5317\u76f4\u9a71\u300b": {
+    "strings": [
+      "\u300a\u6781\u5317\u76f4\u9a71\u300b"
+    ]
+  },
+  "Title_\u300a\u67e0\u6aac\u8776\u300b": {
+    "strings": [
+      "\u300a\u67e0\u6aac\u8776\u300b"
+    ]
+  },
+  "Title_\u300a\u68ee\u6797\u3001\u51b0\u6cb3\u4e0e\u9cb8\u300b": {
+    "strings": [
+      "\u300a\u68ee\u6797\u3001\u51b0\u6cb3\u4e0e\u9cb8\u300b"
+    ]
+  },
+  "Title_\u300a\u6c34\u7ecf\u6ce8\u300b": {
+    "strings": [
+      "\u300a\u6c34\u7ecf\u6ce8\u300b"
+    ]
+  },
+  "Title_\u300a\u6c38\u5dde\u516b\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u6c38\u5dde\u516b\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u6ca1\u6709\u516c\u5f0f\u7684\u7269\u7406\u8bfe\u300b": {
+    "strings": [
+      "\u300a\u6ca1\u6709\u516c\u5f0f\u7684\u7269\u7406\u8bfe\u300b"
+    ]
+  },
+  "Title_\u300a\u6ce2\u8389\u5b89\u5a1c\u300b": {
+    "strings": [
+      "\u300a\u6ce2\u8389\u5b89\u5a1c\u300b"
+    ]
+  },
+  "Title_\u300a\u6d1b\u9633\u4f3d\u84dd\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u6d1b\u9633\u4f3d\u84dd\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u6d3b\u7740\u300b": {
+    "strings": [
+      "\u300a\u6d3b\u7740\u300b"
+    ]
+  },
+  "Title_\u300a\u6d59\u6c5f\u5bfb\u5b9d\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u6d59\u6c5f\u5bfb\u5b9d\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u6ee1\u4e95\u6e38\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u6ee1\u4e95\u6e38\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u7261\u4e39\u4ead\u300b": {
+    "strings": [
+      "\u300a\u7261\u4e39\u4ead\u300b"
+    ]
+  },
+  "Title_\u300a\u7267\u7f8a\u5c11\u5e74\u7684\u5947\u5e7b\u4e4b\u65c5\u300b": {
+    "strings": [
+      "\u300a\u7267\u7f8a\u5c11\u5e74\u7684\u5947\u5e7b\u4e4b\u65c5\u300b"
+    ]
+  },
+  "Title_\u300a\u73b0\u4ee3\u9ebb\u5c06\u7684\u7edd\u5bf9\u624b\u987a\u300b": {
+    "strings": [
+      "\u300a\u73b0\u4ee3\u9ebb\u5c06\u7684\u7edd\u5bf9\u624b\u987a\u300b"
+    ]
+  },
+  "Title_\u300a\u767d\u9e7f\u539f\u300b": {
+    "strings": [
+      "\u300a\u767d\u9e7f\u539f\u300b"
+    ]
+  },
+  "Title_\u300a\u767e\u5e74\u5b64\u72ec\u300b": {
+    "strings": [
+      "\u300a\u767e\u5e74\u5b64\u72ec\u300b"
+    ]
+  },
+  "Title_\u300a\u771f\u597d!\u5927\u5bb6\u5ead\u300b": {
+    "strings": [
+      "\u300a\u771f\u597d!\u5927\u5bb6\u5ead\u300b"
+    ]
+  },
+  "Title_\u300a\u7a97\u8fb9\u7684\u5c0f\u8c46\u8c46\u300b": {
+    "strings": [
+      "\u300a\u7a97\u8fb9\u7684\u5c0f\u8c46\u8c46\u300b"
+    ]
+  },
+  "Title_\u300a\u7ae5\u5e74\u300b": {
+    "strings": [
+      "\u300a\u7ae5\u5e74\u300b"
+    ]
+  },
+  "Title_\u300a\u7ea2\u697c\u68a6\u300b": {
+    "strings": [
+      "\u300a\u7ea2\u697c\u68a6\u300b"
+    ]
+  },
+  "Title_\u300a\u7ed9\u5b69\u5b50\u768412\u5802\u8bd7\u6b4c\u8bfe\u300b": {
+    "strings": [
+      "\u300a\u7ed9\u5b69\u5b50\u768412\u5802\u8bd7\u6b4c\u8bfe\u300b"
+    ]
+  },
+  "Title_\u300a\u7f8e\u72c4\u4e9a\u300b": {
+    "strings": [
+      "\u300a\u7f8e\u72c4\u4e9a\u300b"
+    ]
+  },
+  "Title_\u300a\u804a\u658b\u5fd7\u5f02\u300b": {
+    "strings": [
+      "\u300a\u804a\u658b\u5fd7\u5f02\u300b"
+    ]
+  },
+  "Title_\u300a\u8111\u4e2d\u4e4b\u9b54\u300b": {
+    "strings": [
+      "\u300a\u8111\u4e2d\u4e4b\u9b54\u300b"
+    ]
+  },
+  "Title_\u300a\u8336\u9986\u300b": {
+    "strings": [
+      "\u300a\u8336\u9986\u300b"
+    ]
+  },
+  "Title_\u300a\u8349\u623f\u5b50\u300b": {
+    "strings": [
+      "\u300a\u8349\u623f\u5b50\u300b"
+    ]
+  },
+  "Title_\u300a\u86e4\u87c6\u5148\u751f\u53bb\u770b\u5fc3\u7406\u533b\u751f\u300b": {
+    "strings": [
+      "\u300a\u86e4\u87c6\u5148\u751f\u53bb\u770b\u5fc3\u7406\u533b\u751f\u300b"
+    ]
+  },
+  "Title_\u300a\u897f\u53a2\u8bb0\u300b": {
+    "strings": [
+      "\u300a\u897f\u53a2\u8bb0\u300b"
+    ]
+  },
+  "Title_\u300a\u9065\u8fdc\u7684\u5411\u65e5\u8475\u5730\u300b": {
+    "strings": [
+      "\u300a\u9065\u8fdc\u7684\u5411\u65e5\u8475\u5730\u300b"
+    ]
+  },
+  "Title_\u300a\u957f\u591c\u96be\u660e\u300b": {
+    "strings": [
+      "\u300a\u957f\u591c\u96be\u660e\u300b"
+    ]
+  },
+  "Title_\u300a\u957f\u5b89\u5341\u4e8c\u65f6\u8fb0\u300b": {
+    "strings": [
+      "\u300a\u957f\u5b89\u5341\u4e8c\u65f6\u8fb0\u300b"
+    ]
+  },
+  "Title_\u300a\u9694\u58c1\u7684\u5973\u4eba\u300b": {
+    "strings": [
+      "\u300a\u9694\u58c1\u7684\u5973\u4eba\u300b"
+    ]
+  },
+  "Title_\u300a\u96f7\u96e8\u300b": {
+    "strings": [
+      "\u300a\u96f7\u96e8\u300b"
+    ]
+  },
+  "Title_\u300a\u9f50\u6c11\u8981\u672f\u300b": {
+    "strings": [
+      "\u300a\u9f50\u6c11\u8981\u672f\u300b"
+    ]
+  },
+  "Title_\u4e0a\u5e1d\u63b7\u9ab0\u5b50\u5417": {
+    "strings": [
+      "\u4e0a\u5e1d\u63b7\u9ab0\u5b50\u5417"
+    ]
+  },
+  "Title_\u4e1b\u6797\u5b88\u62a4\u795e": {
+    "strings": [
+      "\u4e1b\u6797\u5b88\u62a4\u795e"
+    ]
+  },
+  "Title_\u4e1c\u5bab": {
+    "strings": [
+      "\u4e1c\u5bab"
+    ]
+  },
+  "Title_\u4e2d\u4e16\u7eaa\u53a8\u623f;\u4e00\u90e8\u98df\u8c31\u793e\u4f1a\u53f2": {
+    "strings": [
+      "\u4e2d\u4e16\u7eaa\u53a8\u623f",
+      "\u4e00\u90e8\u98df\u8c31\u793e\u4f1a\u53f2"
+    ]
+  },
+  "Title_\u4e2d\u56fd\u5c11\u5e74\u513f\u7ae5\u767e\u79d1\u5168\u4e66;\u79d1\u5b66\u00b7\u6280\u672f": {
+    "strings": [
+      "\u4e2d\u56fd\u5c11\u5e74\u513f\u7ae5\u767e\u79d1\u5168\u4e66",
+      "\u79d1\u5b66\u00b7\u6280\u672f"
+    ]
+  },
+  "Title_\u4e2d\u56fd\u5c11\u5e74\u513f\u7ae5\u767e\u79d1\u5168\u4e66;\u81ea\u7136\u00b7\u73af\u5883": {
+    "strings": [
+      "\u4e2d\u56fd\u5c11\u5e74\u513f\u7ae5\u767e\u79d1\u5168\u4e66",
+      "\u81ea\u7136\u00b7\u73af\u5883"
+    ]
+  },
+  "Title_\u4e30\u5b50\u607a\u6559\u4f60\u5b66\u753b\u753b": {
+    "strings": [
+      "\u4e30\u5b50\u607a\u6559\u4f60\u5b66\u753b\u753b"
+    ]
+  },
+  "Title_\u4e94\u5473;_\u6c6a\u66fe\u797a\u8c08\u5403\u6563\u658732\u7bc7": {
+    "strings": [
+      "\u4e94\u5473",
+      "\u6c6a\u66fe\u797a\u8c08\u5403\u6563\u658732\u7bc7"
+    ]
+  },
+  "Title_\u4eac\u534e\u70df\u4e91": {
+    "strings": [
+      "\u4eac\u534e\u70df\u4e91"
+    ]
+  },
+  "Title_\u503e\u57ce\u4e4b\u604b": {
+    "strings": [
+      "\u503e\u57ce\u4e4b\u604b"
+    ]
+  },
+  "Title_\u505a\u83dc\u7684\u7a8d\u95e8;_\u540d\u53a8\u6559\u505a\u83dc_1": {
+    "strings": [
+      "\u505a\u83dc\u7684\u7a8d\u95e8",
+      "\u540d\u53a8\u6559\u505a\u83dc 1"
+    ]
+  },
+  "Title_\u505a\u83dc\u7684\u7a8d\u95e8;_\u540d\u53a8\u6559\u505a\u83dc_2": {
+    "strings": [
+      "\u505a\u83dc\u7684\u7a8d\u95e8",
+      "\u540d\u53a8\u6559\u505a\u83dc 2"
+    ]
+  },
+  "Title_\u5154\u8a00\u5154\u8bed": {
+    "strings": [
+      "\u5154\u8a00\u5154\u8bed"
+    ]
+  },
+  "Title_\u52a8\u7269\u738b\u56fd;\u90bb\u5bb6\u5c0f\u5b69\u7cfb\u5217": {
+    "strings": [
+      "\u52a8\u7269\u738b\u56fd",
+      "\u90bb\u5bb6\u5c0f\u5b69\u7cfb\u5217"
+    ]
+  },
+  "Title_\u5317\u4eac\u6298\u53e0": {
+    "strings": [
+      "\u5317\u4eac\u6298\u53e0"
+    ]
+  },
+  "Title_\u534a\u751f\u7f18": {
+    "strings": [
+      "\u534a\u751f\u7f18"
+    ]
+  },
+  "Title_\u53f2\u524d\u751f\u7269\u4f60\u53eb\u5565;_\u6050\u9f99\u548c\u5b83\u7684\u670b\u53cb\u4eec": {
+    "strings": [
+      "\u53f2\u524d\u751f\u7269\u4f60\u53eb\u5565",
+      "\u6050\u9f99\u548c\u5b83\u7684\u670b\u53cb\u4eec"
+    ]
+  },
+  "Title_\u5403\u8336\uff1a\u54c1\u8336\u54c1\u5fc3\uff0c_\u6709\u6ecb\u6709\u5473": {
+    "strings": [
+      "\u5403\u8336\uff1a\u54c1\u8336\u54c1\u5fc3\uff0c \u6709\u6ecb\u6709\u5473"
+    ]
+  },
+  "Title_\u540c\u6027\u604b\u4e9a\u6587\u5316": {
+    "strings": [
+      "\u540c\u6027\u604b\u4e9a\u6587\u5316"
+    ]
+  },
+  "Title_\u56fe\u89e3\u300a\u8bf4\u6587\u89e3\u5b57\u300b\uff1a\u753b\u8bf4\u6c49\u5b57;1000\u4e2a\u6c49\u5b57\u7684\u6545\u4e8b": {
+    "strings": [
+      "\u56fe\u89e3\u300a\u8bf4\u6587\u89e3\u5b57\u300b\uff1a\u753b\u8bf4\u6c49\u5b57",
+      "1000\u4e2a\u6c49\u5b57\u7684\u6545\u4e8b"
+    ]
+  },
+  "Title_\u5728\u7edd\u671b\u4e4b\u5dc5": {
+    "strings": [
+      "\u5728\u7edd\u671b\u4e4b\u5dc5"
+    ]
+  },
+  "Title_\u5730\u56fe\u4e4b\u5916;47\u4e2a\u88ab\u5730\u56fe\u9057\u5fd8\u7684\u5730\u65b9,_\u771f\u5b9e\u4e16\u754c\u7684\u53e6\u4e00\u4e2a\u9762\u8c8c": {
+    "strings": [
+      "\u5730\u56fe\u4e4b\u5916",
+      "47\u4e2a\u88ab\u5730\u56fe\u9057\u5fd8\u7684\u5730\u65b9, \u771f\u5b9e\u4e16\u754c\u7684\u53e6\u4e00\u4e2a\u9762\u8c8c"
+    ]
+  },
+  "Title_\u5730\u6d77\u4f20\u59472;_\u5730\u6d77\u53e4\u5893": {
+    "strings": [
+      "\u5730\u6d77\u4f20\u59472",
+      "\u5730\u6d77\u53e4\u5893"
+    ]
+  },
+  "Title_\u5927\u5510\u60ac\u7591\u5f55\uff1a\u5170\u4ead\u5e8f\u5bc6\u7801": {
+    "strings": [
+      "\u5927\u5510\u60ac\u7591\u5f55\uff1a\u5170\u4ead\u5e8f\u5bc6\u7801"
+    ]
+  },
+  "Title_\u5927\u5730\u4e09\u90e8\u66f2": {
+    "strings": [
+      "\u5927\u5730\u4e09\u90e8\u66f2"
+    ]
+  },
+  "Title_\u5973\u4e2d\u5b66\u751f\u4e4b\u6b7b": {
+    "strings": [
+      "\u5973\u4e2d\u5b66\u751f\u4e4b\u6b7b"
+    ]
+  },
+  "Title_\u5982\u679c\u4e16\u754c\u548c\u7231\u60c5\u90fd\u8fd8\u5f88\u5e74\u8f7b": {
+    "strings": [
+      "\u5982\u679c\u4e16\u754c\u548c\u7231\u60c5\u90fd\u8fd8\u5f88\u5e74\u8f7b"
+    ]
+  },
+  "Title_\u5b7d\u5b50": {
+    "strings": [
+      "\u5b7d\u5b50"
+    ]
+  },
+  "Title_\u5c0f\u5e03\u5934\u5947\u9047\u8bb0": {
+    "strings": [
+      "\u5c0f\u5e03\u5934\u5947\u9047\u8bb0"
+    ]
+  },
+  "Title_\u5c0f\u7075\u901a\u6f2b\u6e38\u672a\u6765": {
+    "strings": [
+      "\u5c0f\u7075\u901a\u6f2b\u6e38\u672a\u6765"
+    ]
+  },
+  "Title_\u5f00\u5f00\u5fc3\u5fc3\u505a\u70b9\u5fc3": {
+    "strings": [
+      "\u5f00\u5f00\u5fc3\u5fc3\u505a\u70b9\u5fc3"
+    ]
+  },
+  "Title_\u602a\u8c08\u4fa6\u63a2\u793e;\u90bb\u5bb6\u5c0f\u5b69\u7cfb\u5217": {
+    "strings": [
+      "\u602a\u8c08\u4fa6\u63a2\u793e",
+      "\u90bb\u5bb6\u5c0f\u5b69\u7cfb\u5217"
+    ]
+  },
+  "Title_\u6089\u8fbe\u591a;\u4e00\u9996\u5370\u5ea6\u7684\u8bd7": {
+    "strings": [
+      "\u6089\u8fbe\u591a",
+      "\u4e00\u9996\u5370\u5ea6\u7684\u8bd7"
+    ]
+  },
+  "Title_\u6211\u4e0e\u5730\u575b": {
+    "strings": [
+      "\u6211\u4e0e\u5730\u575b"
+    ]
+  },
+  "Title_\u65b0\u534e\u5b57\u5178;1998\u5e74\u4fee\u8ba2\u7248": {
+    "strings": [
+      "\u65b0\u534e\u5b57\u5178",
+      "1998\u5e74\u4fee\u8ba2\u7248"
+    ]
+  },
+  "Title_\u65c5\u884c\u7684\u827a\u672f": {
+    "strings": [
+      "\u65c5\u884c\u7684\u827a\u672f"
+    ]
+  },
+  "Title_\u6697\u604b\u6843\u82b1\u6e90": {
+    "strings": [
+      "\u6697\u604b\u6843\u82b1\u6e90"
+    ]
+  },
+  "Title_\u6843\u82b1\u6247": {
+    "strings": [
+      "\u6843\u82b1\u6247"
+    ]
+  },
+  "Title_\u6b7b\u4ea1\u5982\u6b64\u591a\u60c5": {
+    "strings": [
+      "\u6b7b\u4ea1\u5982\u6b64\u591a\u60c5"
+    ]
+  },
+  "Title_\u6ca1\u6709\u98ce\u7684\u6247\u5b50": {
+    "strings": [
+      "\u6ca1\u6709\u98ce\u7684\u6247\u5b50"
+    ]
+  },
+  "Title_\u6de1\u6c34\u89c2\u8d4f\u9c7c;\u5ba0\u7269100": {
+    "strings": [
+      "\u6de1\u6c34\u89c2\u8d4f\u9c7c",
+      "\u5ba0\u7269100"
+    ]
+  },
+  "Title_\u6f31\u7389\u8bcd": {
+    "strings": [
+      "\u6f31\u7389\u8bcd"
+    ]
+  },
+  "Title_\u7231\u4f60\u5c31\u50cf\u7231\u751f\u547d": {
+    "strings": [
+      "\u7231\u4f60\u5c31\u50cf\u7231\u751f\u547d"
+    ]
+  },
+  "Title_\u7a7a\u6c14\u70b8\u9505\u61d2\u4eba\u98df\u8c31": {
+    "strings": [
+      "\u7a7a\u6c14\u70b8\u9505\u61d2\u4eba\u98df\u8c31"
+    ]
+  },
+  "Title_\u7aa6\u5a25\u51a4": {
+    "strings": [
+      "\u7aa6\u5a25\u51a4"
+    ]
+  },
+  "Title_\u7b11\u50b2\u6c5f\u6e56": {
+    "strings": [
+      "\u7b11\u50b2\u6c5f\u6e56"
+    ]
+  },
+  "Title_\u7c89\u9edb\u7f57\u7eee\uff1a\u4e2d\u56fd\u53e4\u4ee3\u5973\u5b50\u670d\u9970\u65f6\u5c1a": {
+    "strings": [
+      "\u7c89\u9edb\u7f57\u7eee\uff1a\u4e2d\u56fd\u53e4\u4ee3\u5973\u5b50\u670d\u9970\u65f6\u5c1a"
+    ]
+  },
+  "Title_\u7c97\u7cd9\u98df\u5802": {
+    "strings": [
+      "\u7c97\u7cd9\u98df\u5802"
+    ]
+  },
+  "Title_\u7ea2\u697c\u98e8\u5bb4": {
+    "strings": [
+      "\u7ea2\u697c\u98e8\u5bb4"
+    ]
+  },
+  "Title_\u8001\u6d3e\u5c11\u5973\u8d2d\u7269\u8def\u7ebf": {
+    "strings": [
+      "\u8001\u6d3e\u5c11\u5973\u8d2d\u7269\u8def\u7ebf"
+    ]
+  },
+  "Title_\u8868\u59d0\u5230\uff01;\u90bb\u5bb6\u5c0f\u5b69\u7cfb\u5217": {
+    "strings": [
+      "\u8868\u59d0\u5230\uff01",
+      "\u90bb\u5bb6\u5c0f\u5b69\u7cfb\u5217"
+    ]
+  },
+  "Title_\u897f\u53a2\u8bb0": {
+    "strings": [
+      "\u897f\u53a2\u8bb0"
+    ]
+  },
+  "Title_\u8c1c\u5bab\u00b7\u5982\u610f\u7433\u7405\u56fe\u7c4d": {
+    "strings": [
+      "\u8c1c\u5bab\u00b7\u5982\u610f\u7433\u7405\u56fe\u7c4d"
+    ]
+  },
+  "Title_\u8d75\u6c0f\u5b64\u513f": {
+    "strings": [
+      "\u8d75\u6c0f\u5b64\u513f"
+    ]
+  },
+  "Title_\u8ff7\u5bab\u996d;01": {
+    "strings": [
+      "\u8ff7\u5bab\u996d",
+      "01"
+    ]
+  },
+  "Title_\u94f6\u6cb3\u7cfb\u642d\u8f66\u5ba2\u6307\u5357": {
+    "strings": [
+      "\u94f6\u6cb3\u7cfb\u642d\u8f66\u5ba2\u6307\u5357"
+    ]
+  },
+  "Title_\u968f\u56ed\u98df\u5355": {
+    "strings": [
+      "\u968f\u56ed\u98df\u5355"
+    ]
+  },
+  "Title_\u970d\u6bd4\u7279\u4eba": {
+    "strings": [
+      "\u970d\u6bd4\u7279\u4eba"
+    ]
+  },
+  "Title_\u9738\u738b\u522b\u59ec": {
+    "strings": [
+      "\u9738\u738b\u522b\u59ec"
+    ]
+  },
+  "Title_\u98ce\u4e91;\u7b2c\u4e00\u90e8": {
+    "strings": [
+      "\u98ce\u4e91",
+      "\u7b2c\u4e00\u90e8"
+    ]
+  },
+  "Title_\u9c7c\u730e": {
+    "strings": [
+      "\u9c7c\u730e"
+    ]
+  },
+  "Title_\u9cc4\u9c7c\u624b\u8bb0": {
+    "strings": [
+      "\u9cc4\u9c7c\u624b\u8bb0"
+    ]
+  },
+  "Title_\u9ec4\u91d1\u7f57\u76d8;\u9ed1\u6697\u7269\u8d28\u4e09\u90e8\u66f2\u4e4b\u4e00": {
+    "strings": [
+      "\u9ec4\u91d1\u7f57\u76d8",
+      "\u9ed1\u6697\u7269\u8d28\u4e09\u90e8\u66f2\u4e4b\u4e00"
+    ]
+  }
+}
